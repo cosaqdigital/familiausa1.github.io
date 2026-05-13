@@ -1,4 +1,4 @@
-﻿{
+{
     "articles":  [
                      {
                          "title":  "Cruzeiro ainda é seguro em 2026?",
@@ -217,9 +217,9 @@
                          "readTime":  "10 min de leitura"
                      },
                      {
-                         "title":  "O que pode mudar na imigra\u0026ccedil;\u0026atilde;o dos EUA em 2026?",
-                         "description":  "Entenda o que pode mudar na imigra\u0026ccedil;\u0026atilde;o dos EUA em 2026, com asilo, deporta\u0026ccedil;\u0026atilde;o, fiscaliza\u0026ccedil;\u0026atilde;o e poss\u0026iacute;veis impactos para brasileiros.",
-                         "category":  "Imigra\u0026ccedil;\u0026atilde;o EUA",
+                         "title":  "O que pode mudar na imigração dos EUA em 2026?",
+                         "description":  "Entenda o que pode mudar na imigração dos EUA em 2026, com asilo, deportação, fiscalização e possíveis impactos para brasileiros.",
+                         "category":  "Imigração EUA",
                          "url":  "articles/o-que-pode-mudar-na-imigracao-dos-eua-em-2026.html",
                          "date":  "2026-04-27",
                          "modified":  "2026-04-27",
@@ -370,5 +370,5 @@
                          "readTime":  "8 min de leitura"
                      }
                  ],
-    "generatedAt":  "2026-05-07"
+    "generatedAt":  "2026-05-12"
 }

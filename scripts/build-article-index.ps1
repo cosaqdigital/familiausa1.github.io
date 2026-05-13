@@ -12,7 +12,8 @@ function Get-FirstMatch {
 
   $match = [regex]::Match($Text, $Pattern, "IgnoreCase")
   if ($match.Success) {
-    return (($match.Groups[1].Value -replace '<[^>]+>', '') -replace '\s+', ' ').Trim()
+    $value = (($match.Groups[1].Value -replace '<[^>]+>', '') -replace '\s+', ' ').Trim()
+    return [System.Net.WebUtility]::HtmlDecode($value)
   }
 
   return ""
@@ -53,5 +54,6 @@ if (-not (Test-Path -LiteralPath $directory)) {
   New-Item -ItemType Directory -Path $directory | Out-Null
 }
 
-Set-Content -Encoding UTF8 -LiteralPath $OutputPath -Value $json
+$utf8NoBom = New-Object System.Text.UTF8Encoding $false
+[System.IO.File]::WriteAllText((Resolve-Path -LiteralPath $OutputPath), "$json`n", $utf8NoBom)
 Write-Host "Article index generated at $OutputPath with $($articles.Count) articles."

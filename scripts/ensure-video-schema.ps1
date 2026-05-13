@@ -3,7 +3,7 @@ param(
 )
 
 $ErrorActionPreference = "Stop"
-$youtubePattern = '(?:youtube\.com/embed/|youtube\.com/watch\?v=|youtu\.be/)([A-Za-z0-9_-]{11})'
+$youtubePattern = '(?:youtube(?:-nocookie)?\.com/embed/|youtube\.com/watch\?v=|youtu\.be/)([A-Za-z0-9_-]{11})'
 
 function Get-UniqueYoutubeIds {
   param([string]$Html)
@@ -36,7 +36,7 @@ function ConvertTo-JsonString {
   param([string]$Value)
 
   if ([string]::IsNullOrWhiteSpace($Value)) {
-    return ""
+    return '""'
   }
 
   return ($Value.Trim() | ConvertTo-Json -Compress)
@@ -47,12 +47,12 @@ function Get-PageTitle {
 
   $h1 = [regex]::Match($Html, '<h1[^>]*>([\s\S]*?)</h1>', 'IgnoreCase')
   if ($h1.Success) {
-    return (($h1.Groups[1].Value -replace '<[^>]+>', '') -replace '\s+', ' ').Trim()
+    return [System.Net.WebUtility]::HtmlDecode((($h1.Groups[1].Value -replace '<[^>]+>', '') -replace '\s+', ' ').Trim())
   }
 
   $title = [regex]::Match($Html, '<title>([\s\S]*?)</title>', 'IgnoreCase')
   if ($title.Success) {
-    return (($title.Groups[1].Value -replace '\s+', ' ') -replace '\s*\|\s*FamiliaUSA1\s*$', '').Trim()
+    return [System.Net.WebUtility]::HtmlDecode(((($title.Groups[1].Value -replace '\s+', ' ') -replace '\s*\|\s*FamiliaUSA1\s*$', '')).Trim())
   }
 
   return "Vídeo do FamiliaUSA1"
@@ -68,7 +68,7 @@ function Get-PageDescription {
   )
 
   if ($description.Success) {
-    return $description.Groups[1].Value.Trim()
+    return [System.Net.WebUtility]::HtmlDecode($description.Groups[1].Value.Trim())
   }
 
   return "Vídeo incorporado em artigo do FamiliaUSA1 sobre vida de brasileiros nos Estados Unidos."
@@ -109,6 +109,19 @@ function Get-YoutubeUploadDate {
   return $FallbackDate
 }
 
+function Get-EmbedUrl {
+  param(
+    [string]$Html,
+    [string]$VideoId
+  )
+
+  if ($Html -match "youtube-nocookie\.com/embed/$([regex]::Escape($VideoId))") {
+    return "https://www.youtube-nocookie.com/embed/$VideoId"
+  }
+
+  return "https://www.youtube.com/embed/$VideoId"
+}
+
 function Add-MissingVideoFields {
   param(
     [string]$Html,
@@ -117,28 +130,33 @@ function Add-MissingVideoFields {
   )
 
   $thumbnail = "https://img.youtube.com/vi/$VideoId/maxresdefault.jpg"
-  $embedUrl = "https://www.youtube.com/embed/$VideoId"
+  $embedUrl = Get-EmbedUrl -Html $Html -VideoId $VideoId
+  $canonicalEmbedUrl = "https://www.youtube.com/embed/$VideoId"
   $contentUrl = "https://www.youtube.com/watch?v=$VideoId"
   $next = $Html
-
-  if ($next -notlike "*`"thumbnailUrl`": `"$thumbnail`"*") {
-    $next = $next.Replace(
-      "`"embedUrl`": `"$embedUrl`"",
-      "`"thumbnailUrl`": `"$thumbnail`",`n    `"embedUrl`": `"$embedUrl`""
-    )
-  }
-
-  if ($next -notlike "*`"contentUrl`": `"$contentUrl`"*") {
-    $next = $next.Replace(
-      "`"embedUrl`": `"$embedUrl`"",
-      "`"embedUrl`": `"$embedUrl`",`n    `"contentUrl`": `"$contentUrl`""
-    )
-  }
 
   $datePattern = '"uploadDate"\s*:\s*"\d{4}-\d{2}-\d{2}(?:T[^"]*)?"'
   if ($next -match $datePattern) {
     $next = [regex]::Replace($next, $datePattern, "`"uploadDate`": `"$UploadDate`"", 1)
-  } elseif ($next -like "*`"thumbnailUrl`": `"$thumbnail`"*") {
+  }
+
+  foreach ($candidateEmbedUrl in @($embedUrl, $canonicalEmbedUrl)) {
+    if ($next -notlike "*`"thumbnailUrl`": `"$thumbnail`"*") {
+      $next = $next.Replace(
+        "`"embedUrl`": `"$candidateEmbedUrl`"",
+        "`"thumbnailUrl`": `"$thumbnail`",`n    `"uploadDate`": `"$UploadDate`",`n    `"embedUrl`": `"$candidateEmbedUrl`""
+      )
+    }
+
+    if ($next -notlike "*`"contentUrl`": `"$contentUrl`"*") {
+      $next = $next.Replace(
+        "`"embedUrl`": `"$candidateEmbedUrl`"",
+        "`"embedUrl`": `"$candidateEmbedUrl`",`n    `"contentUrl`": `"$contentUrl`""
+      )
+    }
+  }
+
+  if ($next -like "*`"thumbnailUrl`": `"$thumbnail`"*" -and $next -notmatch $datePattern) {
     $next = $next.Replace(
       "`"thumbnailUrl`": `"$thumbnail`",",
       "`"thumbnailUrl`": `"$thumbnail`",`n    `"uploadDate`": `"$UploadDate`","
@@ -158,7 +176,7 @@ function New-VideoObjectJsonLd {
   $name = ConvertTo-JsonString -Value (Get-PageTitle -Html $Html)
   $description = ConvertTo-JsonString -Value (Get-PageDescription -Html $Html)
   $thumbnail = "https://img.youtube.com/vi/$VideoId/maxresdefault.jpg"
-  $embedUrl = "https://www.youtube.com/embed/$VideoId"
+  $embedUrl = Get-EmbedUrl -Html $Html -VideoId $VideoId
   $contentUrl = "https://www.youtube.com/watch?v=$VideoId"
 
   return @"
@@ -210,7 +228,7 @@ foreach ($file in ($files | Sort-Object FullName)) {
 
     $required = @(
       "`"thumbnailUrl`": `"https://img.youtube.com/vi/$id/maxresdefault.jpg`"",
-      "`"embedUrl`": `"https://www.youtube.com/embed/$id`"",
+      "`"embedUrl`": `"$(Get-EmbedUrl -Html $next -VideoId $id)`"",
       "`"contentUrl`": `"https://www.youtube.com/watch?v=$id`"",
       "`"uploadDate`": `"$uploadDate`""
     )
@@ -224,7 +242,8 @@ foreach ($file in ($files | Sort-Object FullName)) {
   }
 
   if ($Write -and $next -ne $html) {
-    Set-Content -Encoding UTF8 -NoNewline -LiteralPath $file.FullName -Value $next
+    $utf8NoBom = New-Object System.Text.UTF8Encoding $false
+    [System.IO.File]::WriteAllText($file.FullName, $next, $utf8NoBom)
     Write-Host "$($file.FullName): updated VideoObject schema"
   }
 }
