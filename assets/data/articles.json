@@ -1,6 +1,15 @@
 {
     "articles":  [
                      {
+                         "title":  "Coisas comuns no Brasil que dão problema nos EUA",
+                         "description":  "Veja hábitos, brincadeiras e costumes comuns no Brasil que podem gerar problemas legais nos EUA para brasileiros e imigrantes.",
+                         "category":  "Adaptação cultural",
+                         "url":  "articles/coisas-comuns-no-brasil-que-dao-problema-nos-eua.html",
+                         "date":  "2026-05-13",
+                         "modified":  "2026-05-13",
+                         "readTime":  "10 min de leitura"
+                     },
+                     {
                          "title":  "Como abrir conta em banco nos EUA sendo brasileiro",
                          "description":  "Veja como abrir conta em banco nos EUA, documentos comuns, conta checking, savings, cartão de débito, taxas e cuidados.",
                          "category":  "Banco nos EUA",
