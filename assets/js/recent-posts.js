@@ -15,6 +15,27 @@
       .replace(/'/g, "&#039;");
 
   const editorial = {
+    "articles/quanto-dinheiro-levar-para-os-eua-2026-experiencia-real.html": {
+      title: "Dá para começar a vida nos EUA com pouco dinheiro?",
+      image: "assets/images/articles/custo-de-vida-eua.webp",
+      alt: "Família brasileira planejando dinheiro para começar a vida nos Estados Unidos",
+      badge: "🔥 NOVO",
+      badgeClass: "badge-hot",
+    },
+    "articles/7-erros-trabalho-brasileiros-eua.html": {
+      title: "7 erros no trabalho que podem fazer brasileiro perder dinheiro nos EUA",
+      image: "assets/images/articles/erros-financeiros-imigrantes-eua.webp",
+      alt: "Brasileiro conferindo pagamento e horas de trabalho nos Estados Unidos",
+      badge: "🚨 ALERTA",
+      badgeClass: "badge-alert",
+    },
+    "articles/solidao-de-morar-nos-eua.html": {
+      title: "A parte mais difícil de morar nos EUA não é o dinheiro",
+      image: "assets/images/articles/vida-real-nos-eua.webp",
+      alt: "Brasileiro refletindo sobre saudade e solidão morando nos Estados Unidos",
+      badge: "🆕 NOVO",
+      badgeClass: "badge-new",
+    },
     "articles/erros-financeiros-culturais-imigrantes-eua.html": {
       title: "Por que muitos brasileiros quebram nos EUA mesmo ganhando em dólar",
       image: "assets/images/articles/erros-financeiros-imigrantes-eua.webp",
