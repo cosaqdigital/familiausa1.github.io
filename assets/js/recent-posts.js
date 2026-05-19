@@ -11,10 +11,16 @@
       .replace(/&/g, "&amp;")
       .replace(/</g, "&lt;")
       .replace(/>/g, "&gt;")
-      .replace(/"/g, "&quot;")
+      .replace(/\"/g, "&quot;")
       .replace(/'/g, "&#039;");
 
   const editorial = {
+    "articles/guia-completo-visto-americano-2026.html": {
+      image: "assets/images/articles/visto-americano-2026-guia-completo.png",
+      alt: "Brasileiro analisando DS-160 e documentos para visto americano 2026",
+      badge: "📘 GUIA",
+      badgeClass: "badge-hot",
+    },
     "articles/quanto-dinheiro-levar-para-os-eua-2026-experiencia-real.html": {
       title: "Dá para começar a vida nos EUA com pouco dinheiro?",
       image: "assets/images/articles/custo-de-vida-eua.webp",
