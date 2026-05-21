@@ -15,11 +15,101 @@
       .replace(/'/g, "&#039;");
 
   const editorial = {
+    "articles/como-renovar-visto-americano-2026.html": {
+      image: "assets/images/articles/renovar-visto-americano-2026.png",
+      alt: "Brasileiro renovando visto americano em 2026 com passaporte e documentos",
+      badge: "🔄 RENOVAR",
+      badgeClass: "badge-new",
+    },
+    "articles/visto-americano-crianca-familia-2026.html": {
+      image: "assets/images/articles/visto-americano-crianca-familia-2026.png",
+      alt: "Família brasileira preparando visto americano para criança em 2026",
+      badge: "👨‍👩‍👧 FAMÍLIA",
+      badgeClass: "badge-new",
+    },
+    "articles/melhores-outlets-orlando-2026.html": {
+      image: "assets/images/articles/melhores-outlets-orlando-2026.png",
+      alt: "Brasileiros fazendo compras nos melhores outlets de Orlando em 2026",
+      badge: "🛍️ COMPRAS",
+      badgeClass: "badge-hot",
+    },
+    "articles/aluguel-carro-orlando-2026.html": {
+      image: "assets/images/articles/aluguel-carro-orlando-2026.png",
+      alt: "Família brasileira avaliando aluguel de carro em Orlando em 2026",
+      badge: "🚗 ORLANDO",
+      badgeClass: "badge-new",
+    },
+    "articles/quanto-tempo-demora-visto-americano-2026.html": {
+      image: "assets/images/articles/quanto-tempo-visto-americano-2026.png",
+      alt: "Brasileiro olhando calendário e prazo do visto americano em 2026",
+      badge: "⏱️ PRAZO",
+      badgeClass: "badge-alert",
+    },
+    "articles/agendamento-visto-americano-2026.html": {
+      image: "assets/images/articles/agendamento-visto-americano-2026.png",
+      alt: "Brasileiro agendando visto americano em 2026 pelo computador",
+      badge: "📅 AGENDAR",
+      badgeClass: "badge-new",
+    },
+    "articles/o-que-reprova-no-visto-americano.html": {
+      image: "assets/images/articles/o-que-reprova-visto-americano.png",
+      alt: "Brasileiro preocupado com erros que reprovam no visto americano",
+      badge: "🚨 ALERTA",
+      badgeClass: "badge-alert",
+    },
+    "articles/guia-completo-orlando-2026-brasileiros.html": {
+      image: "assets/images/articles/guia-orlando-2026-brasileiros.png",
+      alt: "Família brasileira planejando viagem para Orlando em 2026",
+      badge: "📘 GUIA",
+      badgeClass: "badge-hot",
+    },
+    "articles/quanto-custa-viajar-orlando-2026.html": {
+      image: "assets/images/articles/quanto-custa-orlando-2026.png",
+      alt: "Família brasileira calculando quanto custa viajar para Orlando em 2026",
+      badge: "💵 CUSTOS",
+      badgeClass: "badge-hot",
+    },
+    "articles/disney-orlando-2026-guia-brasileiros.html": {
+      image: "assets/images/articles/disney-orlando-2026-brasileiros.png",
+      alt: "Família brasileira planejando primeira viagem para Disney Orlando em 2026",
+      badge: "🏰 DISNEY",
+      badgeClass: "badge-hot",
+    },
     "articles/guia-completo-visto-americano-2026.html": {
       image: "assets/images/articles/visto-americano-2026-guia-completo.png",
       alt: "Brasileiro analisando DS-160 e documentos para visto americano 2026",
       badge: "📘 GUIA",
       badgeClass: "badge-hot",
+    },
+    "articles/como-preencher-ds-160-passo-a-passo-2026.html": {
+      image: "assets/images/articles/ds-160-passo-a-passo-2026.png",
+      alt: "Brasileiro preenchendo o formulário DS-160 sem errar em 2026",
+      badge: "📝 DS-160",
+      badgeClass: "badge-new",
+    },
+    "articles/entrevista-visto-americano-perguntas-erros-comuns-2026.html": {
+      image: "assets/images/articles/entrevista-visto-americano-2026.png",
+      alt: "Brasileiro se preparando para entrevista do visto americano em 2026",
+      badge: "🎙️ ENTREVISTA",
+      badgeClass: "badge-new",
+    },
+    "articles/documentos-entrevista-visto-americano-2026.html": {
+      image: "assets/images/articles/documentos-visto-americano-2026.png",
+      alt: "Documentos e checklist para entrevista do visto americano em 2026",
+      badge: "✅ CHECKLIST",
+      badgeClass: "badge-new",
+    },
+    "articles/quanto-custa-tirar-visto-americano-2026.html": {
+      image: "assets/images/articles/quanto-custa-visto-americano-2026.png",
+      alt: "Brasileiro calculando quanto custa tirar o visto americano em 2026",
+      badge: "💵 CUSTOS",
+      badgeClass: "badge-hot",
+    },
+    "articles/visto-americano-negado-motivos-o-que-fazer-2026.html": {
+      image: "assets/images/articles/visto-americano-negado-2026.png",
+      alt: "Brasileiro preocupado com visto americano negado em 2026",
+      badge: "🚨 ALERTA",
+      badgeClass: "badge-alert",
     },
     "articles/quanto-dinheiro-levar-para-os-eua-2026-experiencia-real.html": {
       title: "Dá para começar a vida nos EUA com pouco dinheiro?",
@@ -127,7 +217,7 @@
       if (!posts.length) return;
 
       if (featuredGrid) {
-        featuredGrid.innerHTML = posts.slice(0, 6).map(renderCard).join("");
+        featuredGrid.innerHTML = posts.slice(0, 9).map(renderCard).join("");
       }
 
       if (latestList) {
