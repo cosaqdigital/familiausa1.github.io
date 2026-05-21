@@ -16,6 +16,7 @@
       .replace(/'/g, "&#039;");
 
   const editorial = {
+    "articles/trump-bancos-imigrantes-conta-eua-2026.html": { image: "assets/images/articles/trump-bancos-imigrantes-eua-2026.png", alt: "Brasileiro preocupado com nova ordem de Trump envolvendo bancos, imigração e conta nos EUA", badge: "🚨 ALERTA", badgeClass: "badge-alert" },
     "articles/como-renovar-visto-americano-2026.html": { image: "assets/images/articles/renovar-visto-americano-2026.png", alt: "Brasileiro renovando visto americano em 2026 com passaporte e documentos", badge: "🔄 RENOVAR", badgeClass: "badge-new" },
     "articles/visto-americano-crianca-familia-2026.html": { image: "assets/images/articles/visto-americano-crianca-familia-2026.png", alt: "Família brasileira preparando visto americano para criança em 2026", badge: "👨‍👩‍👧 FAMÍLIA", badgeClass: "badge-new" },
     "articles/melhores-outlets-orlando-2026.html": { image: "assets/images/articles/melhores-outlets-orlando-2026.png", alt: "Brasileiros fazendo compras nos melhores outlets de Orlando em 2026", badge: "🛍️ COMPRAS", badgeClass: "badge-hot" },
@@ -47,7 +48,7 @@
     visto: { match: (post) => post.category === "Visto americano" || post.title.toLowerCase().includes("visto"), limit: 6 },
     orlando: { match: (post) => post.category.toLowerCase().includes("orlando") || post.title.toLowerCase().includes("orlando") || post.title.toLowerCase().includes("disney"), limit: 6 },
     vida: { match: (post) => ["Vida real nos EUA", "Planejamento financeiro", "Custo de vida", "Trabalho nos EUA", "Trabalho e renda", "Moradia nos EUA", "Crédito nos EUA", "Família e filhos"].includes(post.category), limit: 6 },
-    alertas: { match: (post) => post.category.toLowerCase().includes("imigração") || post.category.toLowerCase().includes("fraude") || post.category.toLowerCase().includes("segurança") || post.title.toLowerCase().includes("deportação") || post.title.toLowerCase().includes("golpe") || post.title.toLowerCase().includes("problema"), limit: 6 }
+    alertas: { match: (post) => post.category.toLowerCase().includes("imigração") || post.category.toLowerCase().includes("bancos") || post.category.toLowerCase().includes("fraude") || post.category.toLowerCase().includes("segurança") || post.title.toLowerCase().includes("trump") || post.title.toLowerCase().includes("deportação") || post.title.toLowerCase().includes("golpe") || post.title.toLowerCase().includes("problema"), limit: 6 }
   };
 
   const renderCard = (post) => {
