@@ -1,6 +1,168 @@
 {
   "articles": [
     {
+      "title": "Emergência médica nos EUA: ER, urgent care e seguro",
+      "description": "Entenda ER, urgent care, seguro saúde, custos e cuidados para brasileiros evitarem sustos médicos nos EUA.",
+      "category": "Saúde nos EUA",
+      "url": "articles/emergencia-medica-nos-eua-er-urgent-care.html",
+      "date": "2026-05-21",
+      "modified": "2026-05-21",
+      "readTime": "12 min de leitura"
+    },
+    {
+      "title": "Ano escolar nos EUA: guia para pais brasileiros",
+      "description": "Entenda ano escolar nos EUA, série, calendário, adaptação, inglês e documentos para filhos de brasileiros.",
+      "category": "Família e filhos",
+      "url": "articles/ano-escolar-nos-eua-guia-pais-brasileiros.html",
+      "date": "2026-05-21",
+      "modified": "2026-05-21",
+      "readTime": "11 min de leitura"
+    },
+    {
+      "title": "ITIN, SSN e conta bancária nos EUA: entenda",
+      "description": "Entenda ITIN, SSN, conta bancária, crédito e cuidados para brasileiros organizarem a vida financeira nos EUA.",
+      "category": "Banco e crédito",
+      "url": "articles/itin-ssn-conta-bancaria-nos-eua.html",
+      "date": "2026-05-21",
+      "modified": "2026-05-21",
+      "readTime": "12 min de leitura"
+    },
+    {
+      "title": "Walmart e Target em Orlando: guia de compras",
+      "description": "Veja como comprar melhor no Walmart e Target em Orlando, o que vale a pena, tax, bagagem e cuidados para brasileiros.",
+      "category": "Orlando e Disney",
+      "url": "articles/walmart-target-orlando-compras-brasileiros.html",
+      "date": "2026-05-21",
+      "modified": "2026-05-21",
+      "readTime": "11 min de leitura"
+    },
+    {
+      "title": "Green Card: formas legais de conseguir morar nos EUA",
+      "description": "Conheça formas legais de conseguir green card nos EUA: família, casamento, trabalho, investimento, habilidades, asilo e outros caminhos possíveis em 2026.",
+      "category": "Imigração e legalização",
+      "url": "articles/formas-legais-conseguir-green-card-eua-2026.html",
+      "date": "2026-05-21",
+      "modified": "2026-05-21",
+      "readTime": "13 min de leitura"
+    },
+    {
+      "title": "iPhone nos EUA ainda vale a pena para brasileiros em 2026?",
+      "description": "iPhone nos EUA ainda vale a pena em 2026? Veja preço, imposto, dólar, garantia, eSIM, alfândega e comparação para brasileiros.",
+      "category": "Compras nos EUA",
+      "url": "articles/iphone-nos-eua-vale-a-pena-2026.html",
+      "date": "2026-05-21",
+      "modified": "2026-05-21",
+      "readTime": "12 min de leitura"
+    },
+    {
+      "title": "Leis estranhas dos Estados Unidos que brasileiros precisam conhecer",
+      "description": "Conheça leis e regras dos Estados Unidos que surpreendem brasileiros: trânsito, álcool, crianças, gorjeta, compras, escola, aluguel e costumes em 2026.",
+      "category": "Choque cultural",
+      "url": "articles/leis-estranhas-dos-estados-unidos-brasileiros-2026.html",
+      "date": "2026-05-21",
+      "modified": "2026-05-21",
+      "readTime": "12 min de leitura"
+    },
+    {
+      "title": "Morar legalmente nos EUA: principais caminhos possíveis",
+      "description": "Entenda os principais caminhos para morar legalmente nos EUA em 2026: visto de estudante, trabalho, família, green card, investimento e cuidados.",
+      "category": "Imigração e legalização",
+      "url": "articles/morar-legalmente-nos-eua-caminhos-possiveis-2026.html",
+      "date": "2026-05-21",
+      "modified": "2026-05-21",
+      "readTime": "14 min de leitura"
+    },
+    {
+      "title": "O que fazer se passar mal nos EUA durante uma viagem?",
+      "description": "Passou mal nos EUA durante a viagem? Veja quando ir à farmácia, urgent care ou emergência, custos aproximados, seguro viagem e cuidados para brasileiros.",
+      "category": "Saúde e viagem",
+      "url": "articles/o-que-fazer-se-passar-mal-nos-eua-viagem-2026.html",
+      "date": "2026-05-21",
+      "modified": "2026-05-21",
+      "readTime": "12 min de leitura"
+    },
+    {
+      "title": "Orlando além da Disney: lugares que valem muito a pena conhecer",
+      "description": "Orlando além da Disney em 2026: veja lugares que valem a pena conhecer, preços aproximados, passeios grátis, compras, natureza e atrações para família.",
+      "category": "Orlando e viagem",
+      "url": "articles/orlando-alem-da-disney-lugares-2026.html",
+      "date": "2026-05-21",
+      "modified": "2026-05-21",
+      "readTime": "13 min de leitura"
+    },
+    {
+      "title": "Por que tantos brasileiros querem morar nos EUA?",
+      "description": "Por que tantos brasileiros querem morar nos EUA? Entenda sonho, segurança, trabalho, dólar, família, desafios, custo de vida e realidade em 2026.",
+      "category": "Vida real nos EUA",
+      "url": "articles/por-que-brasileiros-querem-morar-nos-eua-2026.html",
+      "date": "2026-05-21",
+      "modified": "2026-05-21",
+      "readTime": "12 min de leitura"
+    },
+    {
+      "title": "Preços nos EUA em 2026: mercado, aluguel, gasolina e contas",
+      "description": "Veja preços reais nos EUA em 2026: aluguel, mercado, gasolina, luz, internet, carro e contas mensais para solteiro, casal e família na Flórida.",
+      "category": "Custo de vida nos EUA",
+      "url": "articles/precos-eua-2026-mercado-aluguel-gasolina-contas.html",
+      "date": "2026-05-21",
+      "modified": "2026-05-21",
+      "readTime": "14 min de leitura"
+    },
+    {
+      "title": "Quanto custa ter carro nos Estados Unidos em 2026?",
+      "description": "Quanto custa ter carro nos EUA em 2026? Veja seguro, gasolina, financiamento, manutenção, placa, pedágio e exemplos de conta mensal para brasileiros.",
+      "category": "Custo de vida nos EUA",
+      "url": "articles/quanto-custa-ter-carro-nos-eua-2026.html",
+      "date": "2026-05-21",
+      "modified": "2026-05-21",
+      "readTime": "13 min de leitura"
+    },
+    {
+      "title": "É possível se legalizar nos EUA com visto de turista?",
+      "description": "É possível se legalizar nos EUA com visto de turista? Entenda troca de status, visto de estudante, green card, custos, prazos e riscos em 2026.",
+      "category": "Imigração e legalização",
+      "url": "articles/se-legalizar-nos-eua-com-visto-de-turista-2026.html",
+      "date": "2026-05-21",
+      "modified": "2026-05-21",
+      "readTime": "12 min de leitura"
+    },
+    {
+      "title": "Seguro saúde nos EUA: como funciona e por que assusta brasileiros",
+      "description": "Entenda como funciona o seguro saúde nos EUA em 2026: plano, copay, deductible, emergência, consulta, custos reais e por que assusta brasileiros.",
+      "category": "Custo de vida nos EUA",
+      "url": "articles/seguro-saude-nos-eua-como-funciona-2026.html",
+      "date": "2026-05-21",
+      "modified": "2026-05-21",
+      "readTime": "14 min de leitura"
+    },
+    {
+      "title": "Trabalhar sem autorização nos EUA: riscos para brasileiros",
+      "description": "Entenda os riscos de trabalhar sem autorização nos EUA: impacto no visto, green card, mudança de status, exploração, golpes e caminhos legais em 2026.",
+      "category": "Trabalho nos EUA",
+      "url": "articles/trabalhar-sem-autorizacao-nos-eua-riscos-2026.html",
+      "date": "2026-05-21",
+      "modified": "2026-05-21",
+      "readTime": "12 min de leitura"
+    },
+    {
+      "title": "Vale a pena fazer compras nos EUA em 2026?",
+      "description": "Vale a pena fazer compras nos EUA em 2026? Veja preços, impostos, dólar, outlets, iPhone, roupas, eletrônicos, alfândega e cuidados para brasileiros.",
+      "category": "Compras nos EUA",
+      "url": "articles/vale-a-pena-fazer-compras-nos-eua-2026.html",
+      "date": "2026-05-21",
+      "modified": "2026-05-21",
+      "readTime": "14 min de leitura"
+    },
+    {
+      "title": "Visto F1: como funciona o visto de estudante americano",
+      "description": "Entenda como funciona o visto F1 de estudante nos EUA em 2026: escola, I-20, mudança de status, trabalho permitido, custos, riscos e cuidados.",
+      "category": "Visto americano",
+      "url": "articles/visto-f1-estudante-americano-como-funciona-2026.html",
+      "date": "2026-05-21",
+      "modified": "2026-05-21",
+      "readTime": "13 min de leitura"
+    },
+    {
       "title": "Trump mira bancos: imigrantes podem ter mais dificuldade para abrir conta nos EUA?",
       "description": "Entenda a nova ordem executiva de Trump sobre bancos, cidadania, status migratório, ITIN e o que pode mudar para imigrantes nos Estados Unidos.",
       "category": "Imigração e bancos",
@@ -612,6 +774,5 @@
       "modified": "2026-04-23",
       "readTime": "8 min de leitura"
     }
-  ],
-  "generatedAt": "2026-05-19"
+  ]
 }

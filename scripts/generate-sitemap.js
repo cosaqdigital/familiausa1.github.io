@@ -4,6 +4,7 @@ const path = require("node:path");
 const SITE_URL = "https://familiausa1.com";
 const ARTICLE_INDEX = path.join(__dirname, "..", "assets", "data", "articles.json");
 const OUTPUT = path.join(__dirname, "..", "sitemap.xml");
+const CATEGORY_DIR = path.join(__dirname, "..", "categorias");
 
 function formatDate(value) {
   const match = String(value || "").match(/^\d{4}-\d{2}-\d{2}/);
@@ -55,6 +56,12 @@ for (const article of articles) {
 
   const articleDate = formatDate(article.modified) || formatDate(article.date) || latestArticleDate;
   addUrl(entries, seen, `${SITE_URL}/${article.url}`, articleDate);
+}
+
+if (fs.existsSync(CATEGORY_DIR)) {
+  for (const fileName of fs.readdirSync(CATEGORY_DIR).filter((file) => file.endsWith(".html")).sort()) {
+    addUrl(entries, seen, `${SITE_URL}/categorias/${fileName}`, latestArticleDate);
+  }
 }
 
 const xml = [
