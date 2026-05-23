@@ -2,12 +2,93 @@
   "articles": [
     {
       "title": "Quanto custa morar em Tampa em 2026?",
-      "description": "Quanto custa morar em Tampa em 2026? Veja contas de família perto do centro, ao redor e até 30 milhas: aluguel, carro, mercado, saúde e contas.",
-      "category": "Custo de vida nos EUA",
+      "description": "Veja custo de vida em Tampa para brasileiros: aluguel, trabalho, escolas, carro, seguranca, bairros e comparacao em dolar e reais.",
+      "category": "Cidades da Florida",
       "url": "articles/quanto-custa-morar-em-tampa-2026.html",
-      "date": "2026-05-22",
-      "modified": "2026-05-22",
-      "readTime": "10 min de leitura"
+      "date": "2026-05-23",
+      "modified": "2026-05-23",
+      "readTime": "13 min de leitura"
+    },
+    {
+      "title": "Quanto custa morar em Orlando em 2026?",
+      "description": "Orlando em 2026 para brasileiros: custo mensal, aluguel, trabalho, escolas, carro, turismo, comunidade brasileira e pontos negativos.",
+      "category": "Cidades da Florida",
+      "url": "articles/quanto-custa-morar-em-orlando-2026.html",
+      "date": "2026-05-23",
+      "modified": "2026-05-23",
+      "readTime": "13 min de leitura"
+    },
+    {
+      "title": "Quanto custa morar em Kissimmee em 2026?",
+      "description": "Kissimmee para brasileiros em 2026: aluguel, custo de vida, trabalho perto de Orlando, escolas, carro e vida com filhos.",
+      "category": "Cidades da Florida",
+      "url": "articles/quanto-custa-morar-em-kissimmee-2026.html",
+      "date": "2026-05-23",
+      "modified": "2026-05-23",
+      "readTime": "13 min de leitura"
+    },
+    {
+      "title": "Quanto custa morar em Lakeland em 2026?",
+      "description": "Lakeland em 2026 para brasileiros: custo mais baixo, aluguel, trabalho, escolas, distancia de Tampa e Orlando, carro e qualidade de vida.",
+      "category": "Cidades da Florida",
+      "url": "articles/quanto-custa-morar-em-lakeland-2026.html",
+      "date": "2026-05-23",
+      "modified": "2026-05-23",
+      "readTime": "13 min de leitura"
+    },
+    {
+      "title": "Quanto custa morar em Jacksonville em 2026?",
+      "description": "Jacksonville em 2026 para brasileiros: aluguel, custo de vida, trabalho, bairros, praias, escolas, carro e comparacao com outras cidades.",
+      "category": "Cidades da Florida",
+      "url": "articles/quanto-custa-morar-em-jacksonville-2026.html",
+      "date": "2026-05-23",
+      "modified": "2026-05-23",
+      "readTime": "13 min de leitura"
+    },
+    {
+      "title": "Quanto custa morar em Miami em 2026?",
+      "description": "Miami em 2026 para brasileiros: custo de vida alto, aluguel, trabalho, escolas, carro, comunidade brasileira, seguranca e perfil ideal.",
+      "category": "Cidades da Florida",
+      "url": "articles/quanto-custa-morar-em-miami-2026.html",
+      "date": "2026-05-23",
+      "modified": "2026-05-23",
+      "readTime": "13 min de leitura"
+    },
+    {
+      "title": "Quanto custa morar em Fort Lauderdale em 2026?",
+      "description": "Fort Lauderdale em 2026: custo de vida, aluguel, trabalho, praias, comunidade brasileira, transporte, escolas e comparacao com Miami.",
+      "category": "Cidades da Florida",
+      "url": "articles/quanto-custa-morar-em-fort-lauderdale-2026.html",
+      "date": "2026-05-23",
+      "modified": "2026-05-23",
+      "readTime": "13 min de leitura"
+    },
+    {
+      "title": "Quanto custa morar em Boca Raton em 2026?",
+      "description": "Boca Raton em 2026 para brasileiros: custo alto, aluguel, escolas, trabalho, seguranca, comunidade brasileira e perfil de morador.",
+      "category": "Cidades da Florida",
+      "url": "articles/quanto-custa-morar-em-boca-raton-2026.html",
+      "date": "2026-05-23",
+      "modified": "2026-05-23",
+      "readTime": "13 min de leitura"
+    },
+    {
+      "title": "Quanto custa morar em Sarasota em 2026?",
+      "description": "Sarasota em 2026 para brasileiros: custo de vida, aluguel, praias, trabalho, escolas, carro, pontos positivos e negativos.",
+      "category": "Cidades da Florida",
+      "url": "articles/quanto-custa-morar-em-sarasota-2026.html",
+      "date": "2026-05-23",
+      "modified": "2026-05-23",
+      "readTime": "13 min de leitura"
+    },
+    {
+      "title": "Quanto custa morar em Naples em 2026?",
+      "description": "Naples em 2026 para brasileiros: custo alto, aluguel, trabalho, praias, seguranca, escolas, comunidade e perfil de morador.",
+      "category": "Cidades da Florida",
+      "url": "articles/quanto-custa-morar-em-naples-2026.html",
+      "date": "2026-05-23",
+      "modified": "2026-05-23",
+      "readTime": "13 min de leitura"
     },
     {
       "title": "Emergência médica nos EUA: ER, urgent care e seguro",
@@ -783,5 +864,6 @@
       "modified": "2026-05-22",
       "readTime": "8 min de leitura"
     }
-  ]
+  ],
+  "generatedAt": "2026-05-23"
 }

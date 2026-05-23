@@ -70,7 +70,7 @@
         "banco e credito",
         "familia e filhos",
         "saude nos eua"
-      ].includes(normalizeText(post.category)),
+      ].includes(normalizeText(post.category)) || normalizeText(post.category).includes("cidades da florida"),
       limit: 6
     },
     alertas: {
