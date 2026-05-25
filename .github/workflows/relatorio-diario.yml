@@ -3,14 +3,14 @@ name: Relatorio diario de tendencias
 on:
   workflow_dispatch:
   schedule:
-    # Manha - 08:00 New York
-    - cron: "0 12 * * *"
+    # Manha - 08:15 Florida/New York durante horario de verao
+    - cron: "15 12 * * *"
 
-    # Tarde - 14:00 New York
-    - cron: "0 18 * * *"
+    # Tarde - 14:15 Florida/New York durante horario de verao
+    - cron: "15 18 * * *"
 
-    # Noite - 20:00 New York
-    - cron: "0 0 * * *"
+    # Noite - 20:15 Florida/New York durante horario de verao
+    - cron: "15 0 * * *"
 
 permissions:
   contents: write
