@@ -1,7 +1,8 @@
 from datetime import datetime
 from pathlib import Path
-from urllib.parse import quote_plus
+from urllib.parse import quote_plus, urlparse, parse_qs, unquote
 import html
+import re
 import urllib.request
 import xml.etree.ElementTree as ET
 
@@ -26,10 +27,34 @@ PALAVRAS_CHAVE = [
 ]
 
 
-def buscar_google_news(termo, limite=5):
+def limpar_texto(texto):
+    texto = html.unescape(texto or "")
+    texto = re.sub(r"\s+", " ", texto).strip()
+    return texto
+
+
+def limpar_link_google_news(link):
+    if not link:
+        return ""
+
+    try:
+        parsed = urlparse(link)
+        params = parse_qs(parsed.query)
+
+        for chave in ["url", "q"]:
+            if chave in params and params[chave]:
+                return unquote(params[chave][0])
+    except Exception:
+        pass
+
+    return link
+
+
+def buscar_google_news(termo, limite=3):
     query = quote_plus(termo)
     url = f"https://news.google.com/rss/search?q={query}&hl=pt-BR&gl=BR&ceid=BR:pt-419"
     noticias = []
+    titulos_vistos = set()
 
     try:
         req = urllib.request.Request(
@@ -40,17 +65,38 @@ def buscar_google_news(termo, limite=5):
             dados = response.read()
 
         raiz = ET.fromstring(dados)
-        itens = raiz.findall("./channel/item")[:limite]
+        itens = raiz.findall("./channel/item")
 
         for item in itens:
-            titulo = html.unescape(item.findtext("title", default="Sem título"))
-            link = item.findtext("link", default="")
-            data = item.findtext("pubDate", default="")
-            noticias.append({"titulo": titulo, "link": link, "data": data})
+            titulo = limpar_texto(item.findtext("title", default="Sem título"))
+            link = limpar_link_google_news(item.findtext("link", default=""))
+            data = limpar_texto(item.findtext("pubDate", default=""))
+            fonte = ""
+
+            if " - " in titulo:
+                partes = titulo.rsplit(" - ", 1)
+                titulo = partes[0].strip()
+                fonte = partes[1].strip()
+
+            chave = titulo.lower()
+            if chave in titulos_vistos:
+                continue
+
+            titulos_vistos.add(chave)
+            noticias.append({
+                "titulo": titulo,
+                "fonte": fonte,
+                "link": link,
+                "data": data,
+            })
+
+            if len(noticias) >= limite:
+                break
 
     except Exception as erro:
         noticias.append({
             "titulo": f"Erro ao buscar notícias para: {termo}",
+            "fonte": "Sistema",
             "link": "",
             "data": str(erro),
         })
@@ -69,18 +115,15 @@ def formatar_noticias():
             blocos.append("Nenhuma notícia encontrada.\n")
             continue
 
-        for noticia in noticias:
+        for indice, noticia in enumerate(noticias, start=1):
             titulo = noticia["titulo"]
+            fonte = noticia["fonte"] or "Fonte não identificada"
             link = noticia["link"]
-            data = noticia["data"]
 
+            blocos.append(f"{indice}. **{titulo}**")
+            blocos.append(f"   - Fonte: {fonte}")
             if link:
-                blocos.append(f"- [{titulo}]({link})")
-            else:
-                blocos.append(f"- {titulo}")
-
-            if data:
-                blocos.append(f"  - Data/Fonte: {data}")
+                blocos.append(f"   - Link: {link}")
 
         blocos.append("")
 
@@ -128,7 +171,7 @@ Peça ao ChatGPT: "Leia o relatório de hoje e crie ideias de artigos com base n
 
 ## Observação
 
-Esta versão busca notícias reais via RSS do Google News. O próximo passo será adicionar IA para resumir automaticamente os principais temas e sugerir pautas mais fortes para SEO.
+Esta versão busca notícias reais via RSS do Google News, limita os resultados por tema e organiza títulos, fontes e links de forma mais limpa.
 """
 
     caminho.write_text(conteudo, encoding="utf-8")
