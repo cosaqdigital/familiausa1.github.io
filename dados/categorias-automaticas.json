@@ -1,0 +1,119 @@
+{
+  "categorias": [
+    {
+      "id": "imigracao-e-legalizacao",
+      "nome": "Imigracao e legalizacao",
+      "descricao": "Artigos sobre green card, vistos, USCIS, asilo, processos migratorios e caminhos legais para morar nos EUA.",
+      "url": "categorias.html#imigracao-e-legalizacao",
+      "palavras_chave": [
+        "green card",
+        "USCIS",
+        "visto",
+        "asilo",
+        "imigracao",
+        "legalizacao",
+        "status migratorio",
+        "work permit"
+      ]
+    },
+    {
+      "id": "noticias-de-imigracao",
+      "nome": "Noticias de imigracao",
+      "descricao": "Atualizacoes e explicacoes sobre noticias recentes de imigracao nos Estados Unidos para brasileiros.",
+      "url": "categorias.html#noticias-de-imigracao",
+      "palavras_chave": [
+        "noticia",
+        "Trump",
+        "governo",
+        "lei de imigracao",
+        "politica migratoria",
+        "deportacao",
+        "ICE",
+        "Senado"
+      ]
+    },
+    {
+      "id": "vida-nos-eua",
+      "nome": "Vida nos EUA",
+      "descricao": "Conteudos sobre adaptacao, rotina, custo de vida, trabalho, documentos e vida real de brasileiros nos Estados Unidos.",
+      "url": "categorias.html#vida-nos-eua",
+      "palavras_chave": [
+        "vida nos EUA",
+        "morar nos EUA",
+        "brasileiros nos Estados Unidos",
+        "adaptacao",
+        "custo de vida",
+        "trabalho",
+        "aluguel"
+      ]
+    },
+    {
+      "id": "cidades-da-florida",
+      "nome": "Cidades da Florida",
+      "descricao": "Guias sobre cidades da Florida para brasileiros: custo de vida, aluguel, trabalho, escolas e qualidade de vida.",
+      "url": "categorias.html#cidades-da-florida",
+      "palavras_chave": [
+        "Florida",
+        "Orlando",
+        "Miami",
+        "Tampa",
+        "Kissimmee",
+        "Jacksonville",
+        "Fort Lauderdale",
+        "Boca Raton"
+      ]
+    },
+    {
+      "id": "compras-nos-eua",
+      "nome": "Compras nos EUA",
+      "descricao": "Dicas de compras, precos, impostos, lojas, outlets e produtos que valem a pena para brasileiros nos EUA.",
+      "url": "categorias.html#compras-nos-eua",
+      "palavras_chave": [
+        "compras",
+        "outlet",
+        "iPhone",
+        "Walmart",
+        "Target",
+        "preco",
+        "imposto",
+        "bagagem"
+      ]
+    },
+    {
+      "id": "familia-e-filhos",
+      "nome": "Familia e filhos",
+      "descricao": "Conteudos sobre escola, filhos, familia, adaptacao infantil e vida familiar nos Estados Unidos.",
+      "url": "categorias.html#familia-e-filhos",
+      "palavras_chave": [
+        "filhos",
+        "escola",
+        "familia",
+        "ano escolar",
+        "criancas",
+        "pais brasileiros"
+      ]
+    },
+    {
+      "id": "saude-nos-eua",
+      "nome": "Saude nos EUA",
+      "descricao": "Guias sobre seguro saude, emergencia, urgent care, ER, custos medicos e cuidados nos Estados Unidos.",
+      "url": "categorias.html#saude-nos-eua",
+      "palavras_chave": [
+        "saude",
+        "seguro saude",
+        "ER",
+        "urgent care",
+        "medico",
+        "hospital",
+        "emergencia"
+      ]
+    }
+  ],
+  "regra_padrao": {
+    "categoria_fallback": "vida-nos-eua",
+    "usar_primeira_categoria_com_maior_pontuacao": true,
+    "adicionar_categoria_no_card_blog": true,
+    "adicionar_categoria_no_breadcrumb": true,
+    "adicionar_categoria_no_schema": true
+  }
+}
