@@ -1,0 +1,34 @@
+name: Atualizar sitemap
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  atualizar-sitemap:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Baixar repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Gerar sitemap.xml
+        run: python scripts/gerar_sitemap.py
+
+      - name: Salvar sitemap atualizado
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add sitemap.xml
+          git commit -m "Atualiza sitemap automaticamente" || echo "Nenhuma alteracao para salvar"
+          git push
