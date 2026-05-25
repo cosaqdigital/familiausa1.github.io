@@ -20,6 +20,7 @@ function Get-FirstMatch {
 }
 
 $articles = @()
+$generatedDate = Get-Date -Format "yyyy-MM-dd"
 
 foreach ($file in (Get-ChildItem -Path articles -Filter *.html -File | Sort-Object Name)) {
   $html = Get-Content -Raw -Encoding UTF8 -LiteralPath $file.FullName
@@ -30,8 +31,12 @@ foreach ($file in (Get-ChildItem -Path articles -Filter *.html -File | Sort-Obje
   $modified = Get-FirstMatch -Text $html -Pattern '"dateModified"\s*:\s*"(\d{4}-\d{2}-\d{2})'
   $readTime = Get-FirstMatch -Text $html -Pattern '<span>(\d+\s*min[^<]*)</span>'
 
-  if ([string]::IsNullOrWhiteSpace($title) -or [string]::IsNullOrWhiteSpace($date)) {
+  if ([string]::IsNullOrWhiteSpace($title)) {
     continue
+  }
+
+  if ([string]::IsNullOrWhiteSpace($date)) {
+    $date = $generatedDate
   }
 
   $articles += [pscustomobject]@{
@@ -46,7 +51,7 @@ foreach ($file in (Get-ChildItem -Path articles -Filter *.html -File | Sort-Obje
 }
 
 $articles = $articles | Sort-Object @{ Expression = "date"; Descending = $true }, @{ Expression = "modified"; Descending = $true }, @{ Expression = "url"; Descending = $false }
-$output = @{ generatedAt = (Get-Date -Format "yyyy-MM-dd"); articles = $articles }
+$output = @{ generatedAt = $generatedDate; articles = $articles }
 $json = $output | ConvertTo-Json -Depth 5
 $directory = Split-Path -Parent $OutputPath
 
