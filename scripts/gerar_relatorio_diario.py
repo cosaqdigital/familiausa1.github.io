@@ -8,6 +8,7 @@ import urllib.request
 import xml.etree.ElementTree as ET
 
 FUSO_HORARIO = ZoneInfo("America/New_York")
+PASTA_RELATORIOS = Path("relatorios-diarios")
 
 TERMOS_MONITORADOS = [
     "imigração EUA",
@@ -173,14 +174,30 @@ def gerar_ideias_de_artigos():
 5. Resumo semanal de imigração para brasileiros que querem morar nos EUA"""
 
 
+def atualizar_indice(nome_arquivo, data_hora_legivel):
+    indice = PASTA_RELATORIOS / "indice.md"
+    entrada = f"- {data_hora_legivel} — [{nome_arquivo}]({nome_arquivo})"
+
+    if indice.exists():
+        linhas_antigas = indice.read_text(encoding="utf-8").splitlines()
+        linhas = [linha for linha in linhas_antigas if nome_arquivo not in linha]
+    else:
+        linhas = ["# Índice de relatórios diários", ""]
+
+    linhas.insert(2, entrada)
+    indice.write_text("\n".join(linhas).strip() + "\n", encoding="utf-8")
+
+
 def gerar_relatorio():
     agora = datetime.now(FUSO_HORARIO)
     data = agora.strftime("%Y-%m-%d")
     hora = agora.strftime("%H-%M")
     data_hora_legivel = agora.strftime("%Y-%m-%d %H:%M %Z")
 
-    caminho = Path("relatorios-diarios") / f"{data}-{hora}-tendencias-imigracao.md"
-    caminho.parent.mkdir(parents=True, exist_ok=True)
+    PASTA_RELATORIOS.mkdir(parents=True, exist_ok=True)
+    nome_arquivo = f"{data}-{hora}-tendencias-imigracao.md"
+    caminho = PASTA_RELATORIOS / nome_arquivo
+    ultimo_relatorio = PASTA_RELATORIOS / "ULTIMO_RELATORIO.md"
 
     noticias = coletar_noticias()
     principais_assuntos = formatar_principais_assuntos(noticias)
@@ -189,6 +206,8 @@ def gerar_relatorio():
     conteudo = f"""# Relatório diário — Imigração e brasileiros nos EUA
 
 Gerado em: {data_hora_legivel}
+
+Arquivo original: `{nome_arquivo}`
 
 ## Objetivo
 
@@ -216,15 +235,19 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ## Como usar este relatório no ChatGPT
 
-Peça: "Leia o relatório de hoje e crie 3 artigos para o blog Família USA 1 com base nos principais assuntos do dia."
+Peça: "Leia o último relatório e veja se tem pauta boa para publicar."
 
 ## Observação
 
-Esta versão cria relatórios com data e hora no nome do arquivo, remove duplicações, prioriza os principais assuntos e organiza notícias de apoio por tema.
+Esta versão cria relatórios com data e hora no nome do arquivo, atualiza o arquivo ULTIMO_RELATORIO.md e mantém um indice.md com o histórico.
 """
 
     caminho.write_text(conteudo, encoding="utf-8")
+    ultimo_relatorio.write_text(conteudo, encoding="utf-8")
+    atualizar_indice(nome_arquivo, data_hora_legivel)
+
     print(f"Relatório criado em: {caminho}")
+    print(f"Último relatório atualizado em: {ultimo_relatorio}")
 
 
 if __name__ == "__main__":
