@@ -1,10 +1,13 @@
 from datetime import datetime
 from pathlib import Path
 from urllib.parse import quote_plus, urlparse, parse_qs, unquote
+from zoneinfo import ZoneInfo
 import html
 import re
 import urllib.request
 import xml.etree.ElementTree as ET
+
+FUSO_HORARIO = ZoneInfo("America/New_York")
 
 TERMOS_MONITORADOS = [
     "imigração EUA",
@@ -171,8 +174,12 @@ def gerar_ideias_de_artigos():
 
 
 def gerar_relatorio():
-    hoje = datetime.now().strftime("%Y-%m-%d")
-    caminho = Path("relatorios-diarios") / f"{hoje}-tendencias-imigracao.md"
+    agora = datetime.now(FUSO_HORARIO)
+    data = agora.strftime("%Y-%m-%d")
+    hora = agora.strftime("%H-%M")
+    data_hora_legivel = agora.strftime("%Y-%m-%d %H:%M %Z")
+
+    caminho = Path("relatorios-diarios") / f"{data}-{hora}-tendencias-imigracao.md"
     caminho.parent.mkdir(parents=True, exist_ok=True)
 
     noticias = coletar_noticias()
@@ -181,7 +188,7 @@ def gerar_relatorio():
 
     conteudo = f"""# Relatório diário — Imigração e brasileiros nos EUA
 
-Data: {hoje}
+Gerado em: {data_hora_legivel}
 
 ## Objetivo
 
@@ -213,7 +220,7 @@ Peça: "Leia o relatório de hoje e crie 3 artigos para o blog Família USA 1 co
 
 ## Observação
 
-Esta versão remove duplicações, prioriza os principais assuntos e organiza notícias de apoio por tema para facilitar a criação de artigos.
+Esta versão cria relatórios com data e hora no nome do arquivo, remove duplicações, prioriza os principais assuntos e organiza notícias de apoio por tema.
 """
 
     caminho.write_text(conteudo, encoding="utf-8")
