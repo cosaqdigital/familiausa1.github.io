@@ -1,0 +1,82 @@
+{
+  "site": {
+    "nome": "FamiliaUSA1",
+    "url_base": "https://familiausa1.com",
+    "idioma": "pt-BR",
+    "imagem_padrao": "https://familiausa1.com/assets/images/familiausa1-share.svg"
+  },
+  "seo_padrao": {
+    "robots": "index, follow",
+    "author": "FamiliaUSA1",
+    "twitter_card": "summary_large_image",
+    "og_type": "article",
+    "estrutura_titulo": "{titulo_principal} | FamiliaUSA1",
+    "tamanho_meta_description": {
+      "minimo": 120,
+      "maximo": 160
+    },
+    "schema_types": [
+      "Article",
+      "BlogPosting",
+      "FAQPage"
+    ]
+  },
+  "regras_de_artigo": {
+    "h1_unico": true,
+    "usar_h2_descritivos": true,
+    "incluir_resumo_rapido": true,
+    "incluir_aviso_informativo_em_imigracao": true,
+    "incluir_leia_tambem": true,
+    "incluir_canonical": true,
+    "incluir_og_image_personalizada": true,
+    "incluir_data_publicacao": true,
+    "incluir_data_modificacao": true
+  },
+  "categorias": {
+    "imigracao": {
+      "nome_exibicao": "Imigracao e legalizacao",
+      "keywords_base": [
+        "imigracao EUA",
+        "brasileiros nos EUA",
+        "green card",
+        "USCIS",
+        "visto americano",
+        "morar nos Estados Unidos"
+      ],
+      "aviso": "Conteudo informativo. Nao substitui orientacao juridica individualizada."
+    },
+    "noticias_imigracao": {
+      "nome_exibicao": "Noticias de imigracao",
+      "keywords_base": [
+        "noticias imigracao EUA",
+        "imigracao Estados Unidos",
+        "brasileiros nos Estados Unidos",
+        "politica migratoria EUA"
+      ],
+      "aviso": "Noticias podem mudar rapidamente. Sempre confirme em fontes oficiais."
+    },
+    "vida_nos_eua": {
+      "nome_exibicao": "Vida nos EUA",
+      "keywords_base": [
+        "vida nos EUA",
+        "brasileiros nos Estados Unidos",
+        "morar nos EUA",
+        "custo de vida EUA"
+      ]
+    }
+  },
+  "modelo_faq_imigracao": [
+    {
+      "pergunta": "Este conteudo substitui advogado de imigracao?",
+      "resposta": "Nao. O conteudo e informativo e nao substitui orientacao juridica individualizada."
+    },
+    {
+      "pergunta": "Cada caso migratorio e diferente?",
+      "resposta": "Sim. Entrada, historico, documentos, status atual e categoria migratoria podem mudar completamente a analise."
+    },
+    {
+      "pergunta": "Onde buscar informacao oficial sobre imigracao nos EUA?",
+      "resposta": "USCIS, Department of State, Federal Register, ICE, CBP e tribunais migratorios sao fontes oficiais importantes."
+    }
+  ]
+}
