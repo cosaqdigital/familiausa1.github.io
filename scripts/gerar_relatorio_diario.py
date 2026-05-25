@@ -33,6 +33,14 @@ def limpar_texto(texto):
     return texto
 
 
+def criar_chave_titulo(titulo):
+    titulo = titulo.lower()
+    titulo = re.sub(r"[^a-z0-9áàâãéèêíóôõúçñ ]", "", titulo)
+    titulo = re.sub(r"\s+", " ", titulo).strip()
+    palavras = [p for p in titulo.split() if len(p) > 3]
+    return " ".join(palavras[:10])
+
+
 def limpar_link_google_news(link):
     if not link:
         return ""
@@ -54,7 +62,6 @@ def buscar_google_news(termo, limite=3):
     query = quote_plus(termo)
     url = f"https://news.google.com/rss/search?q={query}&hl=pt-BR&gl=BR&ceid=BR:pt-419"
     noticias = []
-    titulos_vistos = set()
 
     try:
         req = urllib.request.Request(
@@ -68,26 +75,24 @@ def buscar_google_news(termo, limite=3):
         itens = raiz.findall("./channel/item")
 
         for item in itens:
-            titulo = limpar_texto(item.findtext("title", default="Sem título"))
+            titulo_original = limpar_texto(item.findtext("title", default="Sem título"))
             link = limpar_link_google_news(item.findtext("link", default=""))
             data = limpar_texto(item.findtext("pubDate", default=""))
             fonte = ""
+            titulo = titulo_original
 
-            if " - " in titulo:
-                partes = titulo.rsplit(" - ", 1)
+            if " - " in titulo_original:
+                partes = titulo_original.rsplit(" - ", 1)
                 titulo = partes[0].strip()
                 fonte = partes[1].strip()
 
-            chave = titulo.lower()
-            if chave in titulos_vistos:
-                continue
-
-            titulos_vistos.add(chave)
             noticias.append({
+                "termo": termo,
                 "titulo": titulo,
-                "fonte": fonte,
+                "fonte": fonte or "Fonte não identificada",
                 "link": link,
                 "data": data,
+                "chave": criar_chave_titulo(titulo),
             })
 
             if len(noticias) >= limite:
@@ -95,39 +100,74 @@ def buscar_google_news(termo, limite=3):
 
     except Exception as erro:
         noticias.append({
+            "termo": termo,
             "titulo": f"Erro ao buscar notícias para: {termo}",
             "fonte": "Sistema",
             "link": "",
             "data": str(erro),
+            "chave": f"erro-{termo}",
         })
 
     return noticias
 
 
-def formatar_noticias():
+def coletar_noticias():
+    todas = []
+    chaves_vistas = set()
+
+    for termo in TERMOS_MONITORADOS:
+        for noticia in buscar_google_news(termo, limite=4):
+            chave = noticia["chave"]
+            if chave in chaves_vistas:
+                continue
+            chaves_vistas.add(chave)
+            todas.append(noticia)
+
+    return todas
+
+
+def formatar_principais_assuntos(noticias):
+    assuntos = noticias[:5]
+    if not assuntos:
+        return "Nenhum assunto encontrado hoje."
+
+    linhas = []
+    for indice, noticia in enumerate(assuntos, start=1):
+        linhas.append(f"{indice}. **{noticia['titulo']}**")
+        linhas.append(f"   - Fonte: {noticia['fonte']}")
+        linhas.append(f"   - Termo monitorado: {noticia['termo']}")
+        if noticia["link"]:
+            linhas.append(f"   - Link: {noticia['link']}")
+        linhas.append("")
+
+    return "\n".join(linhas)
+
+
+def formatar_noticias_por_tema(noticias):
     blocos = []
 
     for termo in TERMOS_MONITORADOS:
-        noticias = buscar_google_news(termo)
-        blocos.append(f"### {termo}\n")
-
-        if not noticias:
-            blocos.append("Nenhuma notícia encontrada.\n")
+        noticias_do_termo = [n for n in noticias if n["termo"] == termo][:2]
+        if not noticias_do_termo:
             continue
 
-        for indice, noticia in enumerate(noticias, start=1):
-            titulo = noticia["titulo"]
-            fonte = noticia["fonte"] or "Fonte não identificada"
-            link = noticia["link"]
-
-            blocos.append(f"{indice}. **{titulo}**")
-            blocos.append(f"   - Fonte: {fonte}")
-            if link:
-                blocos.append(f"   - Link: {link}")
-
+        blocos.append(f"### {termo}\n")
+        for noticia in noticias_do_termo:
+            blocos.append(f"- **{noticia['titulo']}**")
+            blocos.append(f"  - Fonte: {noticia['fonte']}")
+            if noticia["link"]:
+                blocos.append(f"  - Link: {noticia['link']}")
         blocos.append("")
 
-    return "\n".join(blocos)
+    return "\n".join(blocos) if blocos else "Nenhuma notícia organizada por tema."
+
+
+def gerar_ideias_de_artigos():
+    return """1. O que brasileiros nos EUA precisam saber sobre as notícias de imigração de hoje
+2. Green card e USCIS: principais atualizações que podem afetar brasileiros
+3. Visto americano: mudanças, alertas e notícias importantes da semana
+4. Asilo, deportação e imigração: o que acompanhar antes de tomar decisões
+5. Resumo semanal de imigração para brasileiros que querem morar nos EUA"""
 
 
 def gerar_relatorio():
@@ -135,7 +175,9 @@ def gerar_relatorio():
     caminho = Path("relatorios-diarios") / f"{hoje}-tendencias-imigracao.md"
     caminho.parent.mkdir(parents=True, exist_ok=True)
 
-    noticias_do_dia = formatar_noticias()
+    noticias = coletar_noticias()
+    principais_assuntos = formatar_principais_assuntos(noticias)
+    noticias_por_tema = formatar_noticias_por_tema(noticias)
 
     conteudo = f"""# Relatório diário — Imigração e brasileiros nos EUA
 
@@ -145,33 +187,33 @@ Data: {hoje}
 
 Este relatório serve como base para criação de artigos atualizados para o blog Família USA 1.
 
+## Principais assuntos do dia
+
+{principais_assuntos}
+
+## Sugestões de artigos para publicar
+
+{gerar_ideias_de_artigos()}
+
+## Notícias de apoio por tema
+
+{noticias_por_tema}
+
 ## Termos monitorados
 
 {chr(10).join(f"- {termo}" for termo in TERMOS_MONITORADOS)}
-
-## Notícias encontradas hoje
-
-{noticias_do_dia}
-
-## Ideias iniciais de artigos
-
-1. O que mudou na imigração dos EUA hoje?
-2. Principais notícias sobre USCIS para brasileiros
-3. O que brasileiros nos EUA precisam acompanhar esta semana
-4. Atualizações sobre vistos, green card e processos imigratórios
-5. Como as notícias de hoje podem afetar brasileiros que querem morar nos EUA
 
 ## Palavras-chave sugeridas
 
 {chr(10).join(f"- {palavra}" for palavra in PALAVRAS_CHAVE)}
 
-## Próxima ação recomendada
+## Como usar este relatório no ChatGPT
 
-Peça ao ChatGPT: "Leia o relatório de hoje e crie ideias de artigos com base nas notícias encontradas."
+Peça: "Leia o relatório de hoje e crie 3 artigos para o blog Família USA 1 com base nos principais assuntos do dia."
 
 ## Observação
 
-Esta versão busca notícias reais via RSS do Google News, limita os resultados por tema e organiza títulos, fontes e links de forma mais limpa.
+Esta versão remove duplicações, prioriza os principais assuntos e organiza notícias de apoio por tema para facilitar a criação de artigos.
 """
 
     caminho.write_text(conteudo, encoding="utf-8")
