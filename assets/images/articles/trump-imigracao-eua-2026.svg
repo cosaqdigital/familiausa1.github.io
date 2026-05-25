@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Trump e imigracao nos EUA</title>
+  <desc id="desc">Capa do artigo sobre impactos das discussoes migratorias para brasileiros nos Estados Unidos.</desc>
+  <rect width="1200" height="630" fill="#111827"/>
+  <rect x="0" y="0" width="1200" height="100" fill="#b31942"/>
+  <rect x="0" y="530" width="1200" height="100" fill="#1f2937"/>
+  <polygon points="850,120 1180,120 1180,450" fill="#1d4ed8" opacity="0.35"/>
+  <polygon points="720,630 1180,260 1180,630" fill="#b31942" opacity="0.35"/>
+  <text x="70" y="70" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700">FamiliaUSA1</text>
+  <text x="80" y="220" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="800">Trump e</text>
+  <text x="80" y="310" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="800">imigracao</text>
+  <text x="80" y="400" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="800">nos EUA</text>
+  <text x="80" y="470" fill="#d1d5db" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="500">Como brasileiros podem ser afetados em 2026</text>
+  <rect x="770" y="180" width="250" height="320" rx="20" fill="#ffffff" opacity="0.12"/>
+  <rect x="805" y="220" width="180" height="24" rx="6" fill="#ffffff" opacity="0.75"/>
+  <rect x="805" y="270" width="150" height="18" rx="5" fill="#ffffff" opacity="0.55"/>
+  <rect x="805" y="310" width="170" height="18" rx="5" fill="#ffffff" opacity="0.55"/>
+  <rect x="805" y="350" width="120" height="18" rx="5" fill="#ffffff" opacity="0.55"/>
+  <circle cx="930" cy="430" r="38" fill="#b31942" opacity="0.95"/>
+  <text x="80" y="585" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700">Noticias de imigracao • EUA 2026</text>
+</svg>
