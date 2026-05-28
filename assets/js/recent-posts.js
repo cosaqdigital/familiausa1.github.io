@@ -22,6 +22,7 @@
       .toLowerCase();
 
   const editorial = {
+    "articles/trabalhos-aprender-antes-de-vir-eua-vistos-carreira.html": { image: "assets/images/articles/erros-financeiros-imigrantes-eua.webp", alt: "Brasileiro planejando trabalhos, renda e carreira antes de vir para os Estados Unidos", badge: "NOVO", badgeClass: "badge-new" },
     "articles/emergencia-medica-nos-eua-er-urgent-care.html": { image: "assets/images/articles/custo-de-vida-eua.webp", alt: "Familia brasileira entendendo emergencia medica, ER e urgent care nos Estados Unidos", badge: "NOVO", badgeClass: "badge-new" },
     "articles/ano-escolar-nos-eua-guia-pais-brasileiros.html": { image: "assets/images/articles/matricular-filho-escola-eua.webp", alt: "Familia brasileira entendendo o ano escolar nos Estados Unidos", badge: "NOVO", badgeClass: "badge-new" },
     "articles/itin-ssn-conta-bancaria-nos-eua.html": { image: "assets/images/articles/trump-bancos-imigrantes-eua-2026.png", alt: "Brasileiro organizando ITIN, SSN e conta bancaria nos Estados Unidos", badge: "BANCO", badgeClass: "badge-new" },
