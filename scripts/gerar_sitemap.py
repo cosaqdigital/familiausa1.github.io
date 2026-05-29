@@ -4,6 +4,7 @@ from pathlib import Path
 BASE_URL = "https://familiausa1.com"
 IGNORAR = {
     "404.html",
+    "article.html",
 }
 
 PRIORIDADES = {
@@ -38,11 +39,16 @@ def url_para_arquivo(caminho):
     return BASE_URL + "/" + caminho_url
 
 
+def deve_indexar(caminho):
+    html = caminho.read_text(encoding="utf-8", errors="ignore").lower()
+    return 'name="robots"' not in html or "noindex" not in html
+
+
 def gerar_sitemap():
     raiz = Path(".")
     arquivos_html = sorted(
         p for p in raiz.rglob("*.html")
-        if ".git" not in p.parts and p.name not in IGNORAR
+        if ".git" not in p.parts and p.name not in IGNORAR and deve_indexar(p)
     )
 
     hoje = datetime.utcnow().strftime("%Y-%m-%d")
