@@ -22,7 +22,7 @@
       .toLowerCase();
 
   const editorial = {
-    "articles/eua-classificam-cv-pcc-terroristas-entenda.html": { image: "assets/images/articles/alertas-imigrantes-eua.webp", alt: "Alerta jornalístico sobre EUA, CV, PCC e classificação como organizações terroristas", badge: "ALERTA", badgeClass: "badge-alert" },
+    "articles/eua-classificam-cv-pcc-terroristas-entenda.html": { image: "assets/images/articles/eua-cv-pcc-terroristas-2026.webp", alt: "Thumbnail jornalística sobre EUA, CV e PCC em matéria sobre classificação terrorista e impactos para brasileiros", badge: "ALERTA", badgeClass: "badge-alert" },
     "articles/trabalhos-aprender-antes-de-vir-eua-vistos-carreira.html": { image: "assets/images/articles/erros-financeiros-imigrantes-eua.webp", alt: "Brasileiro planejando trabalhos, renda e carreira antes de vir para os Estados Unidos", badge: "NOVO", badgeClass: "badge-new" },
     "articles/emergencia-medica-nos-eua-er-urgent-care.html": { image: "assets/images/articles/custo-de-vida-eua.webp", alt: "Familia brasileira entendendo emergencia medica, ER e urgent care nos Estados Unidos", badge: "NOVO", badgeClass: "badge-new" },
     "articles/ano-escolar-nos-eua-guia-pais-brasileiros.html": { image: "assets/images/articles/matricular-filho-escola-eua.webp", alt: "Familia brasileira entendendo o ano escolar nos Estados Unidos", badge: "NOVO", badgeClass: "badge-new" },
