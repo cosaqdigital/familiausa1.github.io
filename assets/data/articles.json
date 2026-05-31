@@ -1,6 +1,24 @@
 {
     "articles":  [
                      {
+                         "title":  "Copa de 2026 nos EUA: visto, FIFA Pass e imigração",
+                         "description":  "Vai à Copa de 2026 nos EUA? Entenda visto americano, FIFA Pass, entrada no país, ICE, documentos e cuidados para brasileiros.",
+                         "category":  "Visto americano",
+                         "url":  "articles/copa-2026-nos-eua-visto-imigracao-brasileiros.html",
+                         "date":  "2026-05-31",
+                         "modified":  "2026-05-31",
+                         "readTime":  "12 min de leitura"
+                     },
+                     {
+                         "title":  "Fim do visto americano para brasileiros? Entenda a proposta",
+                         "description":  "Entenda a fala sobre fim do visto entre Brasil e EUA, o que seria necessário para virar regra e por que brasileiros ainda precisam de visto.",
+                         "category":  "Visto americano",
+                         "url":  "articles/fim-do-visto-brasil-eua-entenda-proposta-2026.html",
+                         "date":  "2026-05-31",
+                         "modified":  "2026-05-31",
+                         "readTime":  "11 min de leitura"
+                     },
+                     {
                          "title":  "EUA classificam CV e PCC como terroristas? Entenda",
                          "description":  "Entenda a notícia sobre CV e PCC, a diferença entre PCC facção e Partido Comunista Chinês e possíveis impactos para brasileiros nos EUA.",
                          "category":  "Notícias dos EUA",

@@ -22,6 +22,8 @@
       .toLowerCase();
 
   const editorial = {
+    "articles/copa-2026-nos-eua-visto-imigracao-brasileiros.html": { image: "assets/images/articles/copa-2026-visto-imigracao.svg", alt: "Copa de 2026 nos EUA com alerta sobre visto americano, FIFA Pass e imigração para brasileiros", badge: "COPA 2026", badgeClass: "badge-hot" },
+    "articles/fim-do-visto-brasil-eua-entenda-proposta-2026.html": { image: "assets/images/articles/fim-visto-brasil-eua-2026.svg", alt: "Checagem sobre proposta de fim do visto americano para brasileiros e regras oficiais entre Brasil e Estados Unidos", badge: "CHECAGEM", badgeClass: "badge-alert" },
     "articles/eua-classificam-cv-pcc-terroristas-entenda.html": { image: "assets/images/articles/eua-cv-pcc-terroristas-2026.webp", alt: "Thumbnail jornalística sobre EUA, CV e PCC em matéria sobre classificação terrorista e impactos para brasileiros", badge: "ALERTA", badgeClass: "badge-alert" },
     "articles/como-economizar-em-orlando-sem-passar-vontade-2026.html": { image: "assets/images/articles/como-economizar-orlando-2026.webp", alt: "Thumbnail editorial sobre como economizar em Orlando sem passar vontade em 2026", badge: "GUIA", badgeClass: "badge-hot" },
     "articles/vale-a-pena-morar-em-orlando-ou-tampa-2026.html": { image: "assets/images/articles/orlando-ou-tampa-morar-2026.webp", alt: "Thumbnail editorial comparando Orlando e Tampa para brasileiros que querem morar na Flórida", badge: "COMPARATIVO", badgeClass: "badge-hot" },

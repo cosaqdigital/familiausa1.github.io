@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-label="Copa de 2026 nos EUA, visto americano, FIFA Pass e imigração para brasileiros">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#07111f"/>
+      <stop offset=".45" stop-color="#0f2f56"/>
+      <stop offset="1" stop-color="#8a1024"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" x2="1">
+      <stop offset="0" stop-color="#ffd86b"/>
+      <stop offset="1" stop-color="#f59e0b"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <circle cx="1315" cy="260" r="220" fill="#ffffff" opacity=".08"/>
+  <path d="M0 650 C260 540 470 720 760 595 C1020 480 1260 610 1600 430 L1600 900 L0 900 Z" fill="#f8fafc" opacity=".10"/>
+  <g opacity=".22" fill="#fff">
+    <rect x="1110" y="0" width="42" height="900"/>
+    <rect x="1194" y="0" width="42" height="900"/>
+    <rect x="1278" y="0" width="42" height="900"/>
+    <rect x="1362" y="0" width="42" height="900"/>
+  </g>
+  <rect x="95" y="92" width="260" height="56" rx="28" fill="#ef4444"/>
+  <text x="130" y="132" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="900" fill="#fff">ALERTA COPA</text>
+  <text x="95" y="250" font-family="Arial, Helvetica, sans-serif" font-size="104" font-weight="900" fill="#fff">COPA 2026</text>
+  <text x="95" y="360" font-family="Arial, Helvetica, sans-serif" font-size="92" font-weight="900" fill="url(#gold)">VISTO E</text>
+  <text x="95" y="464" font-family="Arial, Helvetica, sans-serif" font-size="92" font-weight="900" fill="url(#gold)">IMIGRAÇÃO</text>
+  <text x="100" y="548" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="800" fill="#e5e7eb">FIFA PASS • ICE • ENTRADA NOS EUA</text>
+  <rect x="102" y="610" width="770" height="96" rx="18" fill="#020617" opacity=".78"/>
+  <text x="135" y="670" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="900" fill="#fff">O que brasileiros precisam saber</text>
+  <g transform="translate(1070 380)">
+    <circle cx="150" cy="150" r="144" fill="#f8fafc"/>
+    <path d="M150 26 A124 124 0 0 1 274 150 H150 Z" fill="#1d4ed8"/>
+    <path d="M150 150 H274 A124 124 0 0 1 150 274 Z" fill="#ef4444"/>
+    <path d="M150 150 V274 A124 124 0 0 1 26 150 Z" fill="#16a34a"/>
+    <path d="M150 150 H26 A124 124 0 0 1 150 26 Z" fill="#f59e0b"/>
+    <circle cx="150" cy="150" r="56" fill="#fff"/>
+    <path d="M150 88 L174 131 L222 141 L188 176 L194 224 L150 203 L106 224 L112 176 L78 141 L126 131 Z" fill="#0f172a"/>
+  </g>
+</svg>
