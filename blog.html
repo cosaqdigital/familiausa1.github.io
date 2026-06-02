@@ -37,7 +37,22 @@
           <article class="card post-card" data-category="imigracao vida" data-search="eua classificam cv pcc terroristas comando vermelho primeiro comando capital terrorismo seguranca imigração"><div class="post-category">Notícias dos EUA</div><h2><a href="articles/eua-classificam-cv-pcc-terroristas-entenda.html">EUA classificam CV e PCC como terroristas? Entenda</a></h2><p>Entenda a notícia, a diferença entre PCC facção e Partido Comunista Chinês e possíveis impactos para brasileiros nos EUA.</p><div class="post-meta"><span>12 min de leitura</span><a class="read-more" href="articles/eua-classificam-cv-pcc-terroristas-entenda.html">Ler artigo -></a></div></article>
           <article class="card post-card" data-category="vida custo" data-search="trabalhos brasileiros eua trabalho renda florida carreira visto green card subemprego entrada"><div class="post-category">Trabalho e renda</div><h2><a href="articles/trabalhos-aprender-antes-de-vir-eua-vistos-carreira.html">7 trabalhos para aprender antes de vir para os EUA</a></h2><p>Veja trabalhos de entrada, salários aproximados na Flórida e profissões que podem abrir portas para carreira, visto ou green card.</p><div class="post-meta"><span>13 min de leitura</span><a class="read-more" href="articles/trabalhos-aprender-antes-de-vir-eua-vistos-carreira.html">Ler artigo -></a></div></article>
         </div><div id="emptyState" class="empty-state">Nenhum artigo encontrado. Tente outra palavra ou categoria.</div><div class="load-more-wrap"><button id="loadMore" class="button secondary" type="button">Carregar mais artigos</button></div></section>
-    </main><footer class="site-footer"><div class="container footer-inner"><p>&copy; 2026 FamiliaUSA1. Conteúdo informativo para brasileiros nos EUA.</p></div></footer>
+    </main><footer class="site-footer">
+      <div class="container footer-inner">
+        <div class="footer-brand">
+          <strong>Sobre o Família USA 1</strong>
+          <p>Uma família brasileira compartilhando experiências e informações para quem vive ou sonha viver nos Estados Unidos.</p>
+          <a href="sobre.html">Conheça nossa história</a>
+        </div>
+        <div class="footer-links">
+          <a href="index.html">Início</a>
+          <a href="comece-aqui.html">Comece Aqui</a>
+          <a href="blog.html">Artigos</a>
+          <a href="categorias.html">Categorias</a>
+          <a href="sobre.html">Sobre</a>
+        </div>
+      </div>
+    </footer>
     <script>const cards=Array.from(document.querySelectorAll('.post-card'));const search=document.getElementById('articleSearch');const buttons=Array.from(document.querySelectorAll('.filter-button'));const loadMore=document.getElementById('loadMore');const empty=document.getElementById('emptyState');let active='todos';let visible=12;function apply(){const q=(search.value||'').toLowerCase().trim();let shown=0;let matches=0;cards.forEach((c)=>{const cat=c.dataset.category||'';const text=(c.innerText+' '+(c.dataset.search||'')).toLowerCase();const okCat=active==='todos'||cat.includes(active);const okSearch=!q||text.includes(q);const ok=okCat&&okSearch;if(ok)matches++;if(ok&&shown<visible){c.classList.remove('hidden-card');shown++;}else{c.classList.add('hidden-card');}});empty.classList.toggle('show',matches===0);loadMore.style.display=matches>visible?'inline-flex':'none';}search.addEventListener('input',()=>{visible=12;apply();});buttons.forEach((b)=>b.addEventListener('click',()=>{buttons.forEach(x=>x.classList.remove('active'));b.classList.add('active');active=b.dataset.filter;visible=12;apply();}));loadMore.addEventListener('click',()=>{visible+=9;apply();});apply();</script>
   </body>
 </html>
