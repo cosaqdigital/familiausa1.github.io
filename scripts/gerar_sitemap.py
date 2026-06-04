@@ -5,6 +5,8 @@ BASE_URL = "https://familiausa1.com"
 IGNORAR = {
     "404.html",
     "article.html",
+    "teste.html",
+    "template-artigo-html.html",
 }
 
 PRIORIDADES = {
