@@ -422,13 +422,13 @@
   </url>
   <url>
     <loc>https://familiausa1.com/articles/morar-em-boston-2026.html</loc>
-    <lastmod>2026-06-02</lastmod>
+    <lastmod>2026-06-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://familiausa1.com/articles/morar-em-cambridge-massachusetts-2026.html</loc>
-    <lastmod>2026-06-02</lastmod>
+    <lastmod>2026-06-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -475,7 +475,19 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://familiausa1.com/articles/morar-em-framingham-massachusetts-2026.html</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://familiausa1.com/articles/morar-em-pompano-beach-2026.html</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://familiausa1.com/articles/morar-em-providence-rhode-island-2026.html</loc>
     <lastmod>2026-06-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -1055,13 +1067,5 @@
     <lastmod>2026-06-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://familiausa1.com/articles/morar-em-framingham-massachusetts-2026.html</loc>
-    <lastmod>2026-06-04</lastmod>
-  </url>
-  <url>
-    <loc>https://familiausa1.com/articles/morar-em-providence-rhode-island-2026.html</loc>
-    <lastmod>2026-06-04</lastmod>
   </url>
 </urlset>
