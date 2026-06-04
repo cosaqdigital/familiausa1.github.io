@@ -1,6 +1,51 @@
 {
   "articles": [
     {
+      "title": "Morar em Framingham em 2026: comunidade brasileira, aluguel e vida pratica em Massachusetts",
+      "description": "Guia para brasileiros sobre morar em Framingham, Massachusetts, em 2026: comunidade brasileira, custo de vida, aluguel, trabalho, escolas e acesso a Boston.",
+      "category": "Cidades do Norte e Massachusetts",
+      "url": "articles/morar-em-framingham-massachusetts-2026.html",
+      "date": "2026-06-04",
+      "modified": "2026-06-04",
+      "readTime": "13 min de leitura"
+    },
+    {
+      "title": "Morar em Providence em 2026: custo de vida, estudo e alternativa a Boston",
+      "description": "Guia para brasileiros sobre morar em Providence, Rhode Island, em 2026: custo de vida, aluguel, trabalho, estudo, comunidade latina e acesso a Boston.",
+      "category": "Cidades do Norte e Massachusetts",
+      "url": "articles/morar-em-providence-rhode-island-2026.html",
+      "date": "2026-06-04",
+      "modified": "2026-06-04",
+      "readTime": "13 min de leitura"
+    },
+    {
+      "title": "Morar em Worcester em 2026: custo de vida, trabalho e comunidade brasileira",
+      "description": "Guia completo para brasileiros sobre morar em Worcester, Massachusetts, em 2026: custo de vida, aluguel, trabalho, comunidade brasileira, escolas e inverno.",
+      "category": "Cidades do Norte e Massachusetts",
+      "url": "articles/morar-em-worcester-massachusetts-2026.html",
+      "date": "2026-06-02",
+      "modified": "2026-06-04",
+      "readTime": "13 min de leitura"
+    },
+    {
+      "title": "Morar em Cambridge em 2026: Harvard, MIT, aluguel e custo de vida",
+      "description": "Guia para brasileiros sobre morar em Cambridge, Massachusetts, em 2026: Harvard, MIT, trabalho, aluguel premium, transporte, escolas e custo de vida.",
+      "category": "Cidades do Norte e Massachusetts",
+      "url": "articles/morar-em-cambridge-massachusetts-2026.html",
+      "date": "2026-06-02",
+      "modified": "2026-06-02",
+      "readTime": "13 min de leitura"
+    },
+    {
+      "title": "Morar em Boston em 2026: custo de vida, trabalho, estudo e inverno",
+      "description": "Guia para brasileiros sobre morar em Boston em 2026: custo de vida, aluguel, trabalho, universidades, transporte, inverno e comparacao com cidades proximas.",
+      "category": "Cidades do Norte e Massachusetts",
+      "url": "articles/morar-em-boston-2026.html",
+      "date": "2026-06-02",
+      "modified": "2026-06-02",
+      "readTime": "13 min de leitura"
+    },
+    {
       "title": "USCIS em 2026: atualizacoes que brasileiros devem acompanhar",
       "description": "Entenda por que brasileiros que acompanham green card, vistos e processos migratorios devem ficar atentos as atualizacoes do USCIS em 2026.",
       "category": "Imigracao e legalizacao",
