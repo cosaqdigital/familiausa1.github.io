@@ -3,20 +3,28 @@ import BaseLayout from "./BaseLayout.astro";
 import ChecklistCTA from "../components/ChecklistCTA.astro";
 import RelatedPosts from "../components/RelatedPosts.astro";
 import type { PilotArticle } from "../data/pilotContent";
-import { SITE_URL, articleUrl, canonicalUrl } from "../data/pilotContent";
+import { DEFAULT_IMAGE, SITE_URL, articleUrl, canonicalUrl } from "../data/pilotContent";
+
+type ArticleForLayout = PilotArticle & {
+  canonical?: string;
+  h1?: string;
+};
 
 interface Props {
-  article: PilotArticle;
-  relatedPosts?: PilotArticle[];
+  article: ArticleForLayout;
+  relatedPosts?: ArticleForLayout[];
+  renderFaqSection?: boolean;
 }
 
-const { article, relatedPosts = [] } = Astro.props;
-const canonical = canonicalUrl(articleUrl(article.slug));
+const { article, relatedPosts = [], renderFaqSection = true } = Astro.props;
+const canonical = article.canonical ?? canonicalUrl(articleUrl(article.slug));
+const heading = article.h1 ?? article.title;
+const image = article.image ?? DEFAULT_IMAGE;
 
 const blogPosting = {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  headline: article.title,
+  headline: heading,
   description: article.description,
   url: canonical,
   datePublished: article.datePublished,
@@ -25,7 +33,7 @@ const blogPosting = {
   author: { "@type": "Organization", name: "FamiliaUSA1" },
   publisher: { "@type": "Organization", name: "FamiliaUSA1", url: SITE_URL },
   mainEntityOfPage: { "@type": "WebPage", "@id": canonical },
-  image: article.image
+  image
 };
 
 const faqSchema = article.faq?.length
@@ -42,7 +50,7 @@ const faqSchema = article.faq?.length
 
 const schemas = faqSchema ? [blogPosting, faqSchema] : [blogPosting];
 ---
-<BaseLayout title={article.title} description={article.description} canonical={canonical} image={article.image} type="article" schemas={schemas}>
+<BaseLayout title={article.title} description={article.description} canonical={canonical} image={image} type="article" schemas={schemas}>
   <header class="narrow-container article-header">
     <nav class="breadcrumb" aria-label="Breadcrumb">
       <a href="/index.html">Início</a>
@@ -50,7 +58,7 @@ const schemas = faqSchema ? [blogPosting, faqSchema] : [blogPosting];
       <span>{article.category}</span>
     </nav>
     <div class="eyebrow">{article.category}</div>
-    <h1>{article.title}</h1>
+    <h1>{heading}</h1>
     <p class="lead">{article.description}</p>
     <div class="article-meta">
       <span>Por FamiliaUSA1</span>
@@ -65,7 +73,7 @@ const schemas = faqSchema ? [blogPosting, faqSchema] : [blogPosting];
     </article>
   </section>
 
-  {article.faq?.length && (
+  {renderFaqSection && article.faq?.length && (
     <section class="narrow-container article-content" aria-labelledby="faq">
       <h2 id="faq">Perguntas frequentes</h2>
       {article.faq.map((item) => (
