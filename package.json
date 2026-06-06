@@ -7,7 +7,8 @@
     "dev": "astro dev",
     "build": "astro build && node scripts/copy-static-assets.mjs",
     "preview": "astro preview",
-    "validate:poc": "node scripts/validate-astro-poc.mjs"
+    "validate:poc": "node scripts/validate-astro-poc.mjs",
+    "extract:pilot": "node scripts/extract-legacy-articles.mjs --pilot"
   },
   "devDependencies": {
     "astro": "^5.0.0"
