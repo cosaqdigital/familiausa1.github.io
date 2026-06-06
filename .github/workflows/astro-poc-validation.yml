@@ -39,6 +39,15 @@ jobs:
       - name: Validate generated POC
         run: npm run validate:poc
 
+      - name: Validate 20-article migration batch
+        run: npm run validate:batch
+
+      - name: QA rendered batch pages
+        run: npm run qa:batch
+
+      - name: Validate all legacy articles
+        run: npm run validate:all-articles
+
       - name: Upload dist artifact for inspection
         uses: actions/upload-artifact@v4
         if: always()

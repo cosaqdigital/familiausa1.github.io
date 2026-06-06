@@ -1,11 +1,11 @@
 ---
 import ArticleLayout from "../../layouts/ArticleLayout.astro";
-import { getRelatedMigrationArticles, migrationBatchArticles } from "../../data/migrationBatch20";
+import { getRelatedLegacyArticles, legacyArticles } from "../../data/legacyArticles";
 
 export function getStaticPaths() {
-  return migrationBatchArticles.map((article) => ({
+  return legacyArticles.map((article) => ({
     params: { slug: article.slug },
-    props: { article, relatedPosts: getRelatedMigrationArticles(article) }
+    props: { article, relatedPosts: getRelatedLegacyArticles(article) }
   }));
 }
 
