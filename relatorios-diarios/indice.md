@@ -1,5 +1,6 @@
 # Índice de relatórios diários
 
+- 2026-06-06 15:46 EDT — [2026-06-06-15-46-tendencias-imigracao.md](2026-06-06-15-46-tendencias-imigracao.md)
 - 2026-06-06 10:07 EDT — [2026-06-06-10-07-tendencias-imigracao.md](2026-06-06-10-07-tendencias-imigracao.md)
 - 2026-06-06 00:19 EDT — [2026-06-06-00-19-tendencias-imigracao.md](2026-06-06-00-19-tendencias-imigracao.md)
 - 2026-06-05 16:12 EDT — [2026-06-05-16-12-tendencias-imigracao.md](2026-06-05-16-12-tendencias-imigracao.md)
