@@ -9,6 +9,7 @@
     "preview": "astro preview",
     "validate:poc": "node scripts/validate-astro-poc.mjs",
     "validate:batch": "node scripts/validate-astro-batch.mjs",
+    "qa:batch": "node scripts/qa-astro-rendered-pages.mjs",
     "extract:pilot": "node scripts/extract-legacy-articles.mjs --pilot",
     "extract:all": "node scripts/extract-legacy-articles.mjs --all"
   },
