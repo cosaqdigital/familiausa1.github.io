@@ -1,6 +1,6 @@
 {
   "mode": "pilot",
-  "extractedAt": "2026-06-06T13:06:15.280Z",
+  "extractedAt": "2026-06-06T13:17:26.483Z",
   "source": "legacy-html",
   "articles": [
     {
@@ -957,7 +957,9 @@
         "twitter:description",
         "FAQPage schema"
       ],
-      "risks": []
+      "risks": [
+        "FAQ visivel sem FAQPage; Astro pode gerar FAQPage automaticamente."
+      ]
     },
     {
       "originalPath": "articles/formas-legais-conseguir-green-card-eua-2026.html",
@@ -1971,6 +1973,641 @@
     "withHeader": 10,
     "withFooter": 10,
     "invalidJsonLdCount": 0,
-    "totalInternalLinks": 187
+    "totalInternalLinks": 187,
+    "articlesWithFaqVisibleWithoutFaqPage": [
+      "articles/cidades-da-florida-com-mais-brasileiros-2026.html"
+    ],
+    "articlesWithoutMetaDescription": [],
+    "articlesWithoutCanonical": [],
+    "articlesWithoutH1": [],
+    "articlesWithoutHeader": [],
+    "articlesWithoutFooter": [],
+    "articlesWithInvalidJsonLd": [],
+    "articlesWithFewInternalLinks": [],
+    "articlesWithEmptyOrShortContent": [],
+    "articlesWithMigrationRisk": [
+      {
+        "path": "articles/cidades-da-florida-com-mais-brasileiros-2026.html",
+        "risks": [
+          "FAQ visivel sem FAQPage; Astro pode gerar FAQPage automaticamente."
+        ]
+      }
+    ]
+  },
+  "crossChecks": {
+    "articlesJson": {
+      "exists": true,
+      "totalEntries": 151,
+      "articlesMissingInJson": [],
+      "jsonEntriesWithoutFile": [],
+      "titleDivergences": [
+        {
+          "path": "articles/custo-de-vida-nos-eua-2026-atualizado.html",
+          "htmlTitle": "Custo de vida nos EUA em 2026: aluguel, mercado, carro, saúde e orçamento | FamiliaUSA1",
+          "jsonTitle": "Custo de vida nos EUA 2026: guia atualizado",
+          "similarity": 0.38
+        },
+        {
+          "path": "articles/formas-legais-conseguir-green-card-eua-2026.html",
+          "htmlTitle": "Green card nos EUA: caminhos legais reais em 2026",
+          "jsonTitle": "Green Card: formas legais de conseguir morar nos EUA",
+          "similarity": 0.38
+        },
+        {
+          "path": "articles/quanto-custa-morar-em-orlando-2026.html",
+          "htmlTitle": "Morar em Orlando em 2026: custo de vida, aluguel, trabalho e bairros | FamiliaUSA1",
+          "jsonTitle": "Quanto custa morar em Orlando em 2026?",
+          "similarity": 0.29
+        }
+      ],
+      "categoryDivergences": [
+        {
+          "path": "articles/morar-em-boston-2026.html",
+          "htmlCategory": "Massachusetts",
+          "jsonCategory": "Cidades do Norte e Massachusetts"
+        },
+        {
+          "path": "articles/morar-em-framingham-massachusetts-2026.html",
+          "htmlCategory": "Massachusetts",
+          "jsonCategory": "Cidades do Norte e Massachusetts"
+        }
+      ],
+      "urlDivergences": [],
+      "extractedWithoutFileCheck": 10
+    },
+    "sitemap": {
+      "exists": true,
+      "totalUrls": 177,
+      "totalArticleUrls": 151,
+      "duplicates": [],
+      "articlesMissingInSitemap": [],
+      "sitemapUrlsWithoutFile": [
+        {
+          "url": "https://familiausa1.com/articles/10-palavras-ingles-viajar-orlando-2026.html",
+          "path": "articles/10-palavras-ingles-viajar-orlando-2026.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/5-erros-que-brasileiros-cometem-ao-chegar-nos-eua.html",
+          "path": "articles/5-erros-que-brasileiros-cometem-ao-chegar-nos-eua.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/5-habitos-comuns-no-brasil-problemas-eua.html",
+          "path": "articles/5-habitos-comuns-no-brasil-problemas-eua.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/7-erros-trabalho-brasileiros-eua.html",
+          "path": "articles/7-erros-trabalho-brasileiros-eua.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/7-sinais-de-golpe-na-imigracao-dos-eua.html",
+          "path": "articles/7-sinais-de-golpe-na-imigracao-dos-eua.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/a-verdade-sobre-morar-nos-eua.html",
+          "path": "articles/a-verdade-sobre-morar-nos-eua.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/adjustment-of-status-eua-brasileiros-2026.html",
+          "path": "articles/adjustment-of-status-eua-brasileiros-2026.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/adjustment-of-status-ou-processo-consular-green-card-2026.html",
+          "path": "articles/adjustment-of-status-ou-processo-consular-green-card-2026.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/agendamento-visto-americano-2026.html",
+          "path": "articles/agendamento-visto-americano-2026.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/aluguel-carro-orlando-2026.html",
+          "path": "articles/aluguel-carro-orlando-2026.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/ano-escolar-nos-eua-guia-pais-brasileiros.html",
+          "path": "articles/ano-escolar-nos-eua-guia-pais-brasileiros.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/asilo-nos-eua-nao-e-atalho-migratorio.html",
+          "path": "articles/asilo-nos-eua-nao-e-atalho-migratorio.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/boca-raton-ou-fort-lauderdale-onde-morar-2026.html",
+          "path": "articles/boca-raton-ou-fort-lauderdale-onde-morar-2026.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/brasil-x-eua-diferencas-que-pesam-na-rotina.html",
+          "path": "articles/brasil-x-eua-diferencas-que-pesam-na-rotina.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/brasileiros-comprando-casas-nos-eua-2026.html",
+          "path": "articles/brasileiros-comprando-casas-nos-eua-2026.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/choque-realidade-brasileiros-eua-antes-de-mudar.html",
+          "path": "articles/choque-realidade-brasileiros-eua-antes-de-mudar.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/coisas-comuns-no-brasil-que-dao-problema-nos-eua.html",
+          "path": "articles/coisas-comuns-no-brasil-que-dao-problema-nos-eua.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/como-abrir-conta-em-banco-nos-eua.html",
+          "path": "articles/como-abrir-conta-em-banco-nos-eua.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/como-alugar-casa-nos-eua-sendo-brasileiro-sem-historico-de-credito.html",
+          "path": "articles/como-alugar-casa-nos-eua-sendo-brasileiro-sem-historico-de-credito.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/como-conseguir-trabalho-nos-eua-sendo-brasileiro-guia-2026.html",
+          "path": "articles/como-conseguir-trabalho-nos-eua-sendo-brasileiro-guia-2026.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/como-e-trabalhar-nos-eua-rotina-salario-diferencas-2026.html",
+          "path": "articles/como-e-trabalhar-nos-eua-rotina-salario-diferencas-2026.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/como-economizar-em-orlando-sem-passar-vontade-2026.html",
+          "path": "articles/como-economizar-em-orlando-sem-passar-vontade-2026.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/como-escolher-uma-cidade-para-morar-nos-eua.html",
+          "path": "articles/como-escolher-uma-cidade-para-morar-nos-eua.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/como-funciona-o-credito-nos-eua.html",
+          "path": "articles/como-funciona-o-credito-nos-eua.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/como-matricular-filho-na-escola-nos-eua.html",
+          "path": "articles/como-matricular-filho-na-escola-nos-eua.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/como-preencher-ds-160-passo-a-passo-2026.html",
+          "path": "articles/como-preencher-ds-160-passo-a-passo-2026.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/como-renovar-visto-americano-2026.html",
+          "path": "articles/como-renovar-visto-americano-2026.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/como-saber-se-um-advogado-de-imigracao-e-confiavel-nos-eua.html",
+          "path": "articles/como-saber-se-um-advogado-de-imigracao-e-confiavel-nos-eua.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/como-tirar-carteira-de-motorista-nos-eua-passo-a-passo.html",
+          "path": "articles/como-tirar-carteira-de-motorista-nos-eua-passo-a-passo.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/copa-2026-nos-eua-visto-imigracao-brasileiros.html",
+          "path": "articles/copa-2026-nos-eua-visto-imigracao-brasileiros.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/cruzeiro-ainda-e-seguro-em-2026.html",
+          "path": "articles/cruzeiro-ainda-e-seguro-em-2026.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/custo-de-vida-na-florida-2026-quanto-sobra.html",
+          "path": "articles/custo-de-vida-na-florida-2026-quanto-sobra.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/davenport-ou-orlando-onde-morar-2026.html",
+          "path": "articles/davenport-ou-orlando-onde-morar-2026.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/deerfield-beach-ou-pompano-beach-2026.html",
+          "path": "articles/deerfield-beach-ou-pompano-beach-2026.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/disney-orlando-2026-guia-brasileiros.html",
+          "path": "articles/disney-orlando-2026-guia-brasileiros.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/documentos-entrevista-visto-americano-2026.html",
+          "path": "articles/documentos-entrevista-visto-americano-2026.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/documentos-para-imigrar-para-os-eua.html",
+          "path": "articles/documentos-para-imigrar-para-os-eua.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/documentos-para-pedir-asilo-nos-eua.html",
+          "path": "articles/documentos-para-pedir-asilo-nos-eua.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/e-facil-se-legalizar-nos-eua.html",
+          "path": "articles/e-facil-se-legalizar-nos-eua.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/e-perigoso-morar-nos-eua.html",
+          "path": "articles/e-perigoso-morar-nos-eua.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/emergencia-medica-nos-eua-er-urgent-care.html",
+          "path": "articles/emergencia-medica-nos-eua-er-urgent-care.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/emigrar-para-os-eua-em-2026.html",
+          "path": "articles/emigrar-para-os-eua-em-2026.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/entrevista-visto-americano-perguntas-erros-comuns-2026.html",
+          "path": "articles/entrevista-visto-americano-perguntas-erros-comuns-2026.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/erros-financeiros-culturais-imigrantes-eua.html",
+          "path": "articles/erros-financeiros-culturais-imigrantes-eua.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/eua-classificam-cv-pcc-terroristas-entenda.html",
+          "path": "articles/eua-classificam-cv-pcc-terroristas-entenda.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/ex-prefeita-california-agente-governo-chines-eua.html",
+          "path": "articles/ex-prefeita-california-agente-governo-chines-eua.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/filas-disney-orlando-2026-familias-brasileiras.html",
+          "path": "articles/filas-disney-orlando-2026-familias-brasileiras.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/fim-do-visto-brasil-eua-entenda-proposta-2026.html",
+          "path": "articles/fim-do-visto-brasil-eua-entenda-proposta-2026.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/florida-vs-massachusetts-imigrantes.html",
+          "path": "articles/florida-vs-massachusetts-imigrantes.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/fraude-migratoria-eua-brasileiros-presos-florida.html",
+          "path": "articles/fraude-migratoria-eua-brasileiros-presos-florida.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/green-card-nova-regra-uscis-brasileiros-sair-dos-eua-2026.html",
+          "path": "articles/green-card-nova-regra-uscis-brasileiros-sair-dos-eua-2026.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/green-card-regras-mais-rigidas-pedido-fora-dos-eua-2026.html",
+          "path": "articles/green-card-regras-mais-rigidas-pedido-fora-dos-eua-2026.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/guia-completo-disney-orlando-2026-brasileiros.html",
+          "path": "articles/guia-completo-disney-orlando-2026-brasileiros.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/guia-completo-orlando-2026-brasileiros.html",
+          "path": "articles/guia-completo-orlando-2026-brasileiros.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/imigrar-para-os-eua-depois-dos-50-anos.html",
+          "path": "articles/imigrar-para-os-eua-depois-dos-50-anos.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/iphone-nos-eua-vale-a-pena-2026.html",
+          "path": "articles/iphone-nos-eua-vale-a-pena-2026.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/itin-ssn-conta-bancaria-nos-eua.html",
+          "path": "articles/itin-ssn-conta-bancaria-nos-eua.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/kissimmee-ou-orlando-onde-morar-2026.html",
+          "path": "articles/kissimmee-ou-orlando-onde-morar-2026.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/legalizar-pela-fronteira-eua.html",
+          "path": "articles/legalizar-pela-fronteira-eua.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/leis-estranhas-dos-estados-unidos-brasileiros-2026.html",
+          "path": "articles/leis-estranhas-dos-estados-unidos-brasileiros-2026.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/lula-nos-eua-trump-impactos-brasileiros-2026.html",
+          "path": "articles/lula-nos-eua-trump-impactos-brasileiros-2026.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/maior-dificuldade-imigrante-eua.html",
+          "path": "articles/maior-dificuldade-imigrante-eua.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/melhores-outlets-orlando-2026.html",
+          "path": "articles/melhores-outlets-orlando-2026.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/miami-ou-fort-lauderdale-onde-morar-2026.html",
+          "path": "articles/miami-ou-fort-lauderdale-onde-morar-2026.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/miami-ou-orlando-onde-morar-2026.html",
+          "path": "articles/miami-ou-orlando-onde-morar-2026.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/morar-em-cambridge-massachusetts-2026.html",
+          "path": "articles/morar-em-cambridge-massachusetts-2026.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/morar-em-cape-coral-florida-2026.html",
+          "path": "articles/morar-em-cape-coral-florida-2026.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/morar-em-clearwater-florida-2026.html",
+          "path": "articles/morar-em-clearwater-florida-2026.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/morar-em-clermont-florida-2026.html",
+          "path": "articles/morar-em-clermont-florida-2026.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/morar-em-davenport-florida-2026.html",
+          "path": "articles/morar-em-davenport-florida-2026.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/morar-em-deerfield-beach-2026.html",
+          "path": "articles/morar-em-deerfield-beach-2026.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/morar-em-delray-beach-2026.html",
+          "path": "articles/morar-em-delray-beach-2026.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/morar-em-fort-myers-florida-2026.html",
+          "path": "articles/morar-em-fort-myers-florida-2026.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/morar-em-manchester-new-hampshire-2026.html",
+          "path": "articles/morar-em-manchester-new-hampshire-2026.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/morar-em-pompano-beach-2026.html",
+          "path": "articles/morar-em-pompano-beach-2026.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/morar-em-providence-rhode-island-2026.html",
+          "path": "articles/morar-em-providence-rhode-island-2026.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/morar-em-st-petersburg-florida-2026.html",
+          "path": "articles/morar-em-st-petersburg-florida-2026.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/morar-em-west-palm-beach-2026.html",
+          "path": "articles/morar-em-west-palm-beach-2026.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/morar-em-winter-garden-2026.html",
+          "path": "articles/morar-em-winter-garden-2026.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/morar-em-worcester-massachusetts-2026.html",
+          "path": "articles/morar-em-worcester-massachusetts-2026.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/novo-virus-em-cruzeiros-o-que-e-verdade.html",
+          "path": "articles/novo-virus-em-cruzeiros-o-que-e-verdade.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/o-que-fazer-se-ficar-doente-em-cruzeiro.html",
+          "path": "articles/o-que-fazer-se-ficar-doente-em-cruzeiro.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/o-que-fazer-se-passar-mal-nos-eua-viagem-2026.html",
+          "path": "articles/o-que-fazer-se-passar-mal-nos-eua-viagem-2026.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/o-que-mais-sentimos-falta-do-brasil-nos-eua-2026.html",
+          "path": "articles/o-que-mais-sentimos-falta-do-brasil-nos-eua-2026.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/o-que-nao-comprar-nos-eua-2026.html",
+          "path": "articles/o-que-nao-comprar-nos-eua-2026.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/o-que-pode-mudar-na-imigracao-dos-eua-em-2026.html",
+          "path": "articles/o-que-pode-mudar-na-imigracao-dos-eua-em-2026.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/o-que-reprova-no-visto-americano.html",
+          "path": "articles/o-que-reprova-no-visto-americano.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/oms-monitora-casos-em-navio.html",
+          "path": "articles/oms-monitora-casos-em-navio.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/orlando-alem-da-disney-lugares-2026.html",
+          "path": "articles/orlando-alem-da-disney-lugares-2026.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/pedido-green-card-dentro-ou-fora-dos-eua-riscos.html",
+          "path": "articles/pedido-green-card-dentro-ou-fora-dos-eua-riscos.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/por-que-brasileiros-querem-morar-nos-eua-2026.html",
+          "path": "articles/por-que-brasileiros-querem-morar-nos-eua-2026.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/por-que-imigrar-para-os-eua.html",
+          "path": "articles/por-que-imigrar-para-os-eua.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/por-que-pessoas-entram-nos-eua-pela-fronteira.html",
+          "path": "articles/por-que-pessoas-entram-nos-eua-pela-fronteira.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/portugal-endurece-cidadania-comparacao-eua-brasileiros.html",
+          "path": "articles/portugal-endurece-cidadania-comparacao-eua-brasileiros.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/precos-eua-2026-mercado-aluguel-gasolina-contas.html",
+          "path": "articles/precos-eua-2026-mercado-aluguel-gasolina-contas.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/primeiros-30-dias-nos-eua.html",
+          "path": "articles/primeiros-30-dias-nos-eua.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/primeiros-passos-para-quem-chega-nos-eua.html",
+          "path": "articles/primeiros-passos-para-quem-chega-nos-eua.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/quanto-custa-alugar-casa-nos-eua-2026.html",
+          "path": "articles/quanto-custa-alugar-casa-nos-eua-2026.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/quanto-custa-morar-em-boca-raton-2026.html",
+          "path": "articles/quanto-custa-morar-em-boca-raton-2026.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/quanto-custa-morar-em-fort-lauderdale-2026.html",
+          "path": "articles/quanto-custa-morar-em-fort-lauderdale-2026.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/quanto-custa-morar-em-jacksonville-2026.html",
+          "path": "articles/quanto-custa-morar-em-jacksonville-2026.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/quanto-custa-morar-em-kissimmee-2026.html",
+          "path": "articles/quanto-custa-morar-em-kissimmee-2026.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/quanto-custa-morar-em-lakeland-2026.html",
+          "path": "articles/quanto-custa-morar-em-lakeland-2026.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/quanto-custa-morar-em-miami-2026.html",
+          "path": "articles/quanto-custa-morar-em-miami-2026.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/quanto-custa-morar-em-naples-2026.html",
+          "path": "articles/quanto-custa-morar-em-naples-2026.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/quanto-custa-morar-em-sarasota-2026.html",
+          "path": "articles/quanto-custa-morar-em-sarasota-2026.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/quanto-custa-morar-em-tampa-2026.html",
+          "path": "articles/quanto-custa-morar-em-tampa-2026.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/quanto-custa-ter-carro-nos-eua-2026.html",
+          "path": "articles/quanto-custa-ter-carro-nos-eua-2026.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/quanto-custa-tirar-visto-americano-2026.html",
+          "path": "articles/quanto-custa-tirar-visto-americano-2026.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/quanto-custa-viajar-orlando-2026.html",
+          "path": "articles/quanto-custa-viajar-orlando-2026.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/quanto-custa-viver-nos-eua.html",
+          "path": "articles/quanto-custa-viver-nos-eua.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/quanto-dinheiro-levar-para-os-eua-2026-experiencia-real.html",
+          "path": "articles/quanto-dinheiro-levar-para-os-eua-2026-experiencia-real.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/quanto-dinheiro-preciso-para-ir-para-os-eua-2026.html",
+          "path": "articles/quanto-dinheiro-preciso-para-ir-para-os-eua-2026.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/quanto-ganha-um-brasileiro-nos-eua-2026.html",
+          "path": "articles/quanto-ganha-um-brasileiro-nos-eua-2026.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/quanto-tempo-demora-visto-americano-2026.html",
+          "path": "articles/quanto-tempo-demora-visto-americano-2026.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/quem-pode-ser-afetado-novas-medidas-imigracao-eua.html",
+          "path": "articles/quem-pode-ser-afetado-novas-medidas-imigracao-eua.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/sair-dos-eua-para-green-card-riscos-2026.html",
+          "path": "articles/sair-dos-eua-para-green-card-riscos-2026.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/salario-minimo-nos-eua-quanto-da-para-ganhar-em-2026.html",
+          "path": "articles/salario-minimo-nos-eua-quanto-da-para-ganhar-em-2026.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/se-legalizar-nos-eua-com-visto-de-turista-2026.html",
+          "path": "articles/se-legalizar-nos-eua-com-visto-de-turista-2026.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/seguro-saude-nos-eua-como-funciona-2026.html",
+          "path": "articles/seguro-saude-nos-eua-como-funciona-2026.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/seguro-saude-nos-eua-para-brasileiros.html",
+          "path": "articles/seguro-saude-nos-eua-para-brasileiros.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/situacoes-causar-deportacao-problemas-legais-eua.html",
+          "path": "articles/situacoes-causar-deportacao-problemas-legais-eua.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/solidao-de-morar-nos-eua.html",
+          "path": "articles/solidao-de-morar-nos-eua.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/suprema-corte-juizes-imigracao-fala-trump-2026.html",
+          "path": "articles/suprema-corte-juizes-imigracao-fala-trump-2026.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/tiros-evento-trump-white-house-correspondents-dinner-2026.html",
+          "path": "articles/tiros-evento-trump-white-house-correspondents-dinner-2026.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/trabalho-nos-eua-para-brasileiros-2026.html",
+          "path": "articles/trabalho-nos-eua-para-brasileiros-2026.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/trabalhos-aprender-antes-de-vir-eua-vistos-carreira.html",
+          "path": "articles/trabalhos-aprender-antes-de-vir-eua-vistos-carreira.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/trump-bancos-imigrantes-conta-eua-2026.html",
+          "path": "articles/trump-bancos-imigrantes-conta-eua-2026.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/trump-imigracao-eua-impacto-brasileiros-2026.html",
+          "path": "articles/trump-imigracao-eua-impacto-brasileiros-2026.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/uscis-2026-atualizacoes-green-card-brasileiros.html",
+          "path": "articles/uscis-2026-atualizacoes-green-card-brasileiros.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/vale-a-pena-fazer-compras-nos-eua-2026.html",
+          "path": "articles/vale-a-pena-fazer-compras-nos-eua-2026.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/vale-a-pena-morar-em-orlando-ou-tampa-2026.html",
+          "path": "articles/vale-a-pena-morar-em-orlando-ou-tampa-2026.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/vale-a-pena-morar-nos-eua-2026.html",
+          "path": "articles/vale-a-pena-morar-nos-eua-2026.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/vale-a-pena-morar-nos-eua-em-2026-a-verdade-sem-filtro.html",
+          "path": "articles/vale-a-pena-morar-nos-eua-em-2026-a-verdade-sem-filtro.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/vale-a-pena-pedir-asilo-nos-eua-em-2026.html",
+          "path": "articles/vale-a-pena-pedir-asilo-nos-eua-em-2026.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/visto-americano-crianca-familia-2026.html",
+          "path": "articles/visto-americano-crianca-familia-2026.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/visto-americano-negado-motivos-o-que-fazer-2026.html",
+          "path": "articles/visto-americano-negado-motivos-o-que-fazer-2026.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/visto-f1-estudante-americano-como-funciona-2026.html",
+          "path": "articles/visto-f1-estudante-americano-como-funciona-2026.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/visto-temporario-nos-eua-ainda-posso-tentar-green-card-2026.html",
+          "path": "articles/visto-temporario-nos-eua-ainda-posso-tentar-green-card-2026.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/walmart-target-orlando-compras-brasileiros.html",
+          "path": "articles/walmart-target-orlando-compras-brasileiros.html"
+        },
+        {
+          "url": "https://familiausa1.com/articles/winter-garden-ou-clermont-onde-morar-2026.html",
+          "path": "articles/winter-garden-ou-clermont-onde-morar-2026.html"
+        }
+      ],
+      "canonicalDivergences": []
+    }
   }
 }
