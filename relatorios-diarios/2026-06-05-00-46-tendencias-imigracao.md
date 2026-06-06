@@ -1,8 +1,8 @@
 # Relatório diário — Imigração e brasileiros nos EUA
 
-Gerado em: 2026-06-05 16:12 EDT
+Gerado em: 2026-06-05 00:46 EDT
 
-Arquivo original: `2026-06-05-16-12-tendencias-imigracao.md`
+Arquivo original: `2026-06-05-00-46-tendencias-imigracao.md`
 
 ## Objetivo
 
@@ -10,15 +10,15 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ## Principais assuntos do dia
 
-1. **Juiz anula decisões do governo Trump sobre imigração nos EUA**
-   - Fonte: Gazeta do Povo
-   - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxOdllZNEdydUgwNDBKLTFwbGtpZXd1bU1YVUVnNDI1XzdFa3BHbUFUUVlWUXVKdkZsZGVaS2VMSVRsaDZweHR0UjZ4NlJzbkZsclBJVWdJTGcxdVgxdlA3eXpBQl94XzNLRzdycWdWd0dLOXRSaUx4RURVSEtzUlhXUVlHbDdid01GaDY4XzRQMFhnQmkxN3lReF9pT1cxMnZKMFJTZ0w4M04yZUZURTdqZ0ZR?oc=5
-
-2. **'Eu nasci aqui': americano relata ser detido 3 vezes por imigração nos EUA mesmo com documentos**
+1. **'Eu nasci aqui': americano relata ser detido 3 vezes por imigração nos EUA mesmo com documentos**
    - Fonte: AcheiUSA
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMizgFBVV95cUxNMlVjeFhRVlNueDNnRS1jRHIzY05yUGtwZG95d1JDaVhIcGdCQ2kzTWg2cUtuNE1RSXVFQ1Q3R3AzbGVNVWlLUTk4NU9kT09XTTM4Yk1scmVteEJyTGh3ODhIeEhVNVRLZmdFOHd2VEMzTlEtVE9HVk5keVpLRGJ2MXBYb2JqdVlwaDh1VUZ2Q0hicDV3c1M5aXB6dmpaMkZsN1lQajRxRHNKNUxXOFZZOWliZ0tydGl0bmRxS3VuN054eE54NEpxOXJvMjJKUQ?oc=5
+
+2. **‘Solidarity’: Darren Aronofsky entra para equipe de novo drama sobre imigração nos EUA; Confira o trailer!**
+   - Fonte: cinepop.com.br
+   - Termo monitorado: imigração EUA
+   - Link: https://news.google.com/rss/articles/CBMizAFBVV95cUxPbE9ZV0VCVkJobDZlYjY0UDZxNk1MdGFJb3laX2EwYXJySDhndmNWdk1NYTlPRTJZb25ZSUptYVRzbkRHQnY3STdTVnpjVE5aNTRyRVFnUWlYTjcyMUl6LVdDWGowSjlJV1c0Mk94bEJhVnhpWWE1amg4Q3B2OXQtLTctU0FoaG0zSURaOThGbmNBYjJOSFdiOFdzMktHWC11M1dCbWlIQXgyWlljRXlpY04yd3lHVVBWWm10aUlubFpTb3RqbGtsM0RzcXE?oc=5
 
 3. **Centros do ICE são alvo de críticas por detenção de crianças migrantes 'tratadas como criminosas'**
    - Fonte: AcheiUSA
@@ -48,21 +48,21 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### imigração EUA
 
-- **Juiz anula decisões do governo Trump sobre imigração nos EUA**
-  - Fonte: Gazeta do Povo
-  - Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxOdllZNEdydUgwNDBKLTFwbGtpZXd1bU1YVUVnNDI1XzdFa3BHbUFUUVlWUXVKdkZsZGVaS2VMSVRsaDZweHR0UjZ4NlJzbkZsclBJVWdJTGcxdVgxdlA3eXpBQl94XzNLRzdycWdWd0dLOXRSaUx4RURVSEtzUlhXUVlHbDdid01GaDY4XzRQMFhnQmkxN3lReF9pT1cxMnZKMFJTZ0w4M04yZUZURTdqZ0ZR?oc=5
 - **'Eu nasci aqui': americano relata ser detido 3 vezes por imigração nos EUA mesmo com documentos**
   - Fonte: AcheiUSA
   - Link: https://news.google.com/rss/articles/CBMizgFBVV95cUxNMlVjeFhRVlNueDNnRS1jRHIzY05yUGtwZG95d1JDaVhIcGdCQ2kzTWg2cUtuNE1RSXVFQ1Q3R3AzbGVNVWlLUTk4NU9kT09XTTM4Yk1scmVteEJyTGh3ODhIeEhVNVRLZmdFOHd2VEMzTlEtVE9HVk5keVpLRGJ2MXBYb2JqdVlwaDh1VUZ2Q0hicDV3c1M5aXB6dmpaMkZsN1lQajRxRHNKNUxXOFZZOWliZ0tydGl0bmRxS3VuN054eE54NEpxOXJvMjJKUQ?oc=5
+- **‘Solidarity’: Darren Aronofsky entra para equipe de novo drama sobre imigração nos EUA; Confira o trailer!**
+  - Fonte: cinepop.com.br
+  - Link: https://news.google.com/rss/articles/CBMizAFBVV95cUxPbE9ZV0VCVkJobDZlYjY0UDZxNk1MdGFJb3laX2EwYXJySDhndmNWdk1NYTlPRTJZb25ZSUptYVRzbkRHQnY3STdTVnpjVE5aNTRyRVFnUWlYTjcyMUl6LVdDWGowSjlJV1c0Mk94bEJhVnhpWWE1amg4Q3B2OXQtLTctU0FoaG0zSURaOThGbmNBYjJOSFdiOFdzMktHWC11M1dCbWlIQXgyWlljRXlpY04yd3lHVVBWWm10aUlubFpTb3RqbGtsM0RzcXE?oc=5
 
 ### USCIS
 
 - **Pânico não é estratégia: como ler com lucidez as notícias do USCIS**
   - Fonte: Canal MyNews
   - Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxPa0N4WVhtU3oyYnZhcVNWb1BKODBzTXFqSF92dlp5MWttbUg2emY3cS1lMmFLcnFnQ2RDNGd3aUxmNXFoalRYSVlTVlBNV1FWYXdfRWM5MUVjUUtQNjNtS3pFdjFvWW42WnZBUDBfcjRSTnc4VWZsZ05kQnNiNHJKaFluV1YwZ0tNTUJ2cnp1QjVzc0RpM25KOGZUNTBNTXdpQ0RYWE14cGt3eHlxQ29hdU93?oc=5
-- **Justiça dos EUA invalida políticas de Trump contra imigrantes de 39 países**
-  - Fonte: Portal do Holanda
-  - Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxObmloVkRoaGlYaVBhd2tsN0ZTTy02SWlscS1PWEdiUVdHZ1RGeG1ILTJEa0JrVU1iSk9HTjg0Zno0SHFKOXRWb29GWS11OEFyMmxua01SNUZINjhha01fc1FfQnJ4U0tJX3JsVUw0YmZQRFR6bTlZTF95aTlxX3Y3elhWX3JuRVFDaWhFNU9sMXM5M1BuSFIzRFhqR09CN3I2SEZBM0NZeXozSGRpMGxjWUdQaV95UQ?oc=5
+- **Green card: entenda ponto a ponto a ordem do governo Trump para restringir pedidos feitos nos EUA**
+  - Fonte: G1
+  - Link: https://news.google.com/rss/articles/CBMi4gFBVV95cUxPRHdMeERia19SZWNpcE9Oa1NKUEV6eE90SDF6aE5hdURtaUdvdm9LMTRjVERQbnE5WnMzSmk5LVpocS03QXFSLTFKYUozbnMwOVd6SjhacHY2cmtfejhHc0tQcmx5TUQyNGxYV0kxeHQ0NGFkTFJtWEpMOHNpcElKRC1oQWtDbUQydFdFN25QTFNmc19XUEFSaGoyUnJZQi04ZUlrV21mNlM2YVZQT2J0Vjd4LWhYLVUyZkFZRWRZT0NoeWpnXzdYTnNteFo2aFZmRW1nLUZOdDFuaF9oUE1uZGxn0gHwAUFVX3lxTE4yVFFIQm5tUF8tNmVtWV9TWFU3cU91bnJnSEZOaExLTFRJd1hzRk5HcGVKUDRzLXhOY2VjOWlKMzVJT0JuRXFmSk1nbXhSYlVkVDRTQ3k5a0lGVTJCZWtkcl9rTXBvZ3lsSy1ZMXVmTzk4YVd4VVpjRjlBWTJPdGx5MXhmenFhZWtFR3ZsbzdqbmZab3Y1b3RHMEJGMWNUbVlTY1gzb2NzZkhqMXE2MmRUMWdud21BWEdaNmF0NVlDN2FxeTBIR0RWVzhlYTNHUTJVc2htT0l1a2EwcDZWMGp6NWRoclY2UTlBNXloQy1tVg?oc=5
 
 ### green card
 
@@ -75,39 +75,39 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### visto americano
 
-- **Atacante suíço consegue visto para viajar aos EUA e se juntar à seleção**
-  - Fonte: GE
-  - Link: https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZG5EVExUUHlocGsxd0hOZmdFY2sxTUZXVGEzRm5FT2VzU0o5VVdnaWJzbmtoWlowamktc3dQVEcxZTl4RU51aEd2V2dlckdSalhnUFY2R1dCbDVPYTNhMEI0MjZXOFNZaExDRW4tUW9zSTFIRWZab09nY01Hc3dBanN2VWk5S2Q5NjdZUUJqckotZ0lMdmM2SV9Cck5HWkdSYjNEMnFURmtQSW01VVlFb0J1M3FRUlk0ZG9WdHFMY2lCUkczR1dDWjlYTU5LLTM0b19kRkNn0gHkAUFVX3lxTE5INEZveUo3YVN1c3NUR21xcUs5dmU5TDZpTW90SjlQOVR2NTRCQ2NybEVPVTkyVUMwLWs4UFRUQVhEc0ZzS1N2cFgzSnRRTlNZd3hlb3UtRk9XT2lrbExsZjZ0aEpDN3JmUkxvallNQ2toTTVlb0R4elpRTjhwTjBtNzItQ29VMEk4bnVMOFZfZ2tqaTNTOGdZdWt5MHdGbFBkRGMyT19LWFZmMGxzOVNFRU5lbWRicjJQb3VTWnU1RUR5dVJBOW56bGROdEZxck9SaTRZNzJZYUN5a0t3V3J0WW03Tw?oc=5
-- **VÍDEO: indignada, Patixa desabafa após ter visto para os EUA negado pela 2 vez**
-  - Fonte: D24AM
-  - Link: https://news.google.com/rss/articles/CBMirAFBVV95cUxPV2VKUjlOUGVPVlhBTFZEakNFREpab3FPNlVSekl1ZzczQmNwcWpQOF9oNjd5R1RUdlRMcTNUdThOLVYwemRhMDJmVUVPU28yUEl1aXJTR0JhZElzUzJBVllkaW0zZnhZNklmNDhvdHAzT3IzVW84aDVORV9LaVhzRlVsVUhFOG14dUV5YXJSM2c5RGgxZVVCRy1KSExMMkNfWThjcHduemVwbWNK?oc=5
+- **Jogador do Marrocos perde voo para os EUA por problema com visto, mas vai à Copa do Mundo**
+  - Fonte: ge
+  - Link: https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSk91MEd6ZmpCQ0dfM3dKQml6dG5nYVlpQy1vNktlVUhuMGJucWNwTUowMlRoMnlkTmhaUGczbERJR0dyUE50NW9XTXNUN1o0V0pMbzZWOG1tdFc5VUhXWS1teFBXd2dIdkx2TlBQenJocjUwOHp0UERXQUc3czZZem56WFo4MW1kemtVSnRmVkVsLXFGQVZWc3otRmJXLXgyLUs5QW1uMjd6amdLR0pPX1Q2QWYyRmpOeV9DaEEtMGNldENZNU5ZdzdhWDRUVmt4amtvTEU1S1NiYXZUWlBwRW9HOWFDQUcxWXhZRNIB-wFBVV95cUxQb3Vudlc1emN6VzQ1Q2pYTzI5UUcxa2RPRktJTW5wSFdrY25zT0xHNG5uNTZ2WnhYSmFKVkRCTVV0TGgxZFBxYVpDNElSekRyOXNtam1sQjMwaEpqc2NHaGkwSXpzaF9JVEh6VFNWUXRaU2c0TDEwTld2N1h3M1hnMG9aZlMzT1ZuOWRERUlTYktNRzlSWlFlc1h4b1JzWkk5Qy1OaVhLQkJNRU1URUJQRlRqWWNZVkU0azl0RFFiX3A0V1lyck84MVp4S3BXblBtYk1MUE8wQi1veFhYdU0tcGM1a0ZBaS1mM0RpWlpiWEl1OXBRQ2FxWjMxNA?oc=5
+- **Copa 2026: veja regras de visto para EUA, México e Canadá**
+  - Fonte: band.com.br
+  - Link: https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZ1hJMVZkRDJPSEJ5TlFTV0JNM2wzQ0l4Q2lUTklMc2JUT1d4ZWh0dk5GNlBiRGl6eUQ5d0NWWGJVaXVCZnFyeUw0LTR6LV9wMVNuT3VMaU5teFFYVDdNTkxiZU9hQlZpaV9hajM3QWxpV1BHbTUwTlVjNWZsVXg0Tnd6c3BJdGtMazRKbGphTzNlOXI1WHBqeVpJUDJuaVNDSGlIMHcwRDZlYm5mUmtQeVlpcFdQa1Z5UzlPUTBIN1ZCTm9vRWp0R0g1ckRfb2dxWHVZSHNmWXhjMmRYOGI4?oc=5
 
 ### brasileiros nos Estados Unidos
 
-- **EUA propõem ao Brasil acordo mineral sem exclusividade e com preço mínimo**
-  - Fonte: CNN Brasil
-  - Link: https://news.google.com/rss/articles/CBMirgFBVV95cUxQMXd5cE5aUU13N2FONFlqVG5JMFF5QXZNYk1BUGdvaGp6d1QxT3lRQUZPTk14Rnczd0drSThIMmJfczJiTnh5a3luT19LZi1tX0RGS0VlT0htMzg2TTBOdlI2V0JUUGVWNlRQOUdsR3VkYkl0QXdDVHE0SjlrMEdsVW5HbnFKcDdFOU9JTlNhVXZwUFYxYVBqZGRjc2NRNnpvNjkxY18zUTh0RDlaWkE?oc=5
-- **Governo amplia plano Brasil Soberano após novo tarifaço dos EUA**
-  - Fonte: Agência Brasil
-  - Link: https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSG1ZMlZreDhSVnNRUVhGUDFlYXd2SVNkTHRkeS1zN0N1dWRpdWlmcFRrTW12LVh3RFhZRGY0ZDRudzcxOC1XNVktdk03TURJSHZfRUlWQkswWjhudUE4RzFjSk5TVzZ5RHF3QWl6RUFFSUJMRUtEd1dIOFpyQ3NfWWxRZFRoVTJEbmpvMnVsTzVRb2l4NEd0Yks3OWtWWngyZUFUSVdrc0NjbmkyWFVMcjR4ZHdqUkY0bGVudUtrQ3dEcUZKV3JIN0x4M1N2eVUyVXBxQUdXQUQ?oc=5
+- **Operação humanitária do Governo do Brasil acolhe 72 brasileiros repatriados dos EUA**
+  - Fonte: GOV.BR
+  - Link: https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbjA1QmFKTEY4QVZCTnJvd00zQTNmTDFQdzN1bEh0WFhvRC04SDJlQVBmZFFnS2hQRmJ5U1dXQVRxQXRQdUZXRWtBcDZBblJsVUkxUXlzNHBWZGRWcEl5Z2tYS2xKZW83dE02MklEN1lQUkdxRmd5a3I5dTNabVg3Ni02LUZJSFE1LVBCSklxdm5IVnFmRkI2YURYSVZJQldoTlZ3YTVmQ0dpZGhjVjI4cmx0cjVGa2xJM2V5SHBacm1WcHlKZGQ2dXlvaUJBVXpPSmZRSDBCZFA?oc=5
+- **Mesmo sem novas tarifas, fatia dos EUA na exportação cai para a menor desde 1997**
+  - Fonte: Valor Econômico
+  - Link: https://news.google.com/rss/articles/CBMi0AFBVV95cUxQN1hBWTJMS0d4ZUQzMjRFOF8wLTlLcVlycDFJUm9Ma2xyYlJJS1JJYl9ieXJ0NE45LWpWM0pmeUtFSHdrNkE3S29FMTdlYzlhTXBicVU4aXQ0QlpyRW5TR2R2RHVJdjhFOElQMEJLMEw4djgtLVhiX3EyRm0wR2NWTHkzS3BJTzNWWXZQSUhWdmpHc2RfZjcyQlh6dDlJSnEwZjZ5ZW5seHR6dThLUVphaWtKa2NJRS1Fc2RlVXR1Qk5BVUNLejZfX0JMMnRXODVR0gHfAUFVX3lxTE5fTHYxaTVsbG5SNFlzSGR4eTYxb05zMzQ4ajhKbk5NN04wMFdzeHdKUE12Mk52RUxpWVpZVzhMeklLX2d5MGhXMGc2ZjhnTHFsSm1sVkt2Z3ZRNE5YTGRZZG5ITlRPQ3ZfQzE2X1lUUl9GeXNqMk0tYjJ6UmVzNzBkWUc2Z2hBQVFCMVNZRlNVLVR0ZjNaRkJhSFhuVXRRMFRGM1Ixcm5mTEw0M0VVNWxON0E5NjBSUi0xclJnRnRiVG13QXM0VExENEdVQWc5TXptc0MwYnpoMjBpc3FIMFE?oc=5
 
 ### asilo nos EUA
 
+- **Parlamentares aprovam comitiva aos EUA bancada pelo Senado para pedir asilo político a Ramagem**
+  - Fonte: Terra
+  - Link: https://news.google.com/rss/articles/CBMijgJBVV95cUxOcFJvZWp5ZV85MHRtT2VUNER3X0doZjd6QUpDV3R2aXBjN3JLOWZUZ0NvcEtGTzNsaFZxcHNnQkhhR2paMkhMa0I4RmRLbEg3bkNiMEV6aGg3Q19HUFNSTklLaXRvbTc2X1lhVi05bTVfY2dnTDJIVUlFRm0tMklyNlRFZDUtZWVNYXg4Q2FESGlkV0NuUi1FZ0VBem9Dc2xwMnd5RzdFc2VnVHMyUkhuWTdKWVp6YXA2aHROaEJ2VjR3b3VtRUI4Q3JYZ0t6cnJMd2FEQzMzcXI0QzhmYXh3anAwRmFaOGVZSW9WdTVYbHJUMDVJWEY0TDNuMUlnbUNDNU9BZXZCOF8xN2RXT0E?oc=5
 - **Ramagem é solto nos EUA e espera resposta a pedido de asilo**
   - Fonte: BBC
   - Link: https://news.google.com/rss/articles/CBMiYkFVX3lxTE9EMUFBNkc3X2ZsVFVkMFAyY0JkZTE0MjZLZWlJQ2YwNk9fWk9ma3QxdFRtaE1xcWVmRDFTS1huRDZ6UGFnX3YyRzJqVWl2YzVhVmxZWnVyLTk3TE4zNnFOd1NR0gFnQVVfeXFMTlZaZVR4Mlk5SWxIS0xiWHJoc0ZvTmZhMmstNE13Yk84Yi1UYkZ1TzBPY01GS3dVOWpZYW5CbWJUclVXX1I5clFTSUQ5VER4ZXZQSEswN3pNcVVpUGhmUUV4OVJuVkRZVQ?oc=5
-- **Oposição vai pedir asilo político para Ramagem ao governo dos EUA**
-  - Fonte: CNN Brasil
-  - Link: https://news.google.com/rss/articles/CBMipwFBVV95cUxNbXZZSXBOUzh5MDcwVFZ3bG13T3VadjE2RzdKUjVQdE5HYjhXd0kyS3hMUGxzSzRCanZqZngwTndDU3NhNGVDS2YxMkxHaDIxZ2Q5a1p4SEJFRXh1V2xRQkNEM2RCMVo2UmR6N3BNUDI2SEVKX0VYa0pyTzczUG45MlFjWXJEVmhMNFZKSVRhMVhQOEQ4QXNMVGhXWGFjbF96QmxPaXY5Yw?oc=5
 
 ### ICE immigration
 
-- **ICE deixará de divulgar mortes de imigrantes após liberação da custódia**
+- **Senado dos EUA avança pacote bilionário para ICE, mas proposta enfrenta resistência**
   - Fonte: Gazeta Brazilian News
-  - Link: https://news.google.com/rss/articles/CBMixwFBVV95cUxQOGFUZ2VmaGtLOERQN1E2QldDQmJ1dFpKeTBHYVQycF9SMzFlRllURWQtZE9QblktOGxWV251YUpxc1I3Rm9FVFRma21PUFV4eFVPd2hQSkFkX0tkNnFsYjFaemh6X0pFZlZiSU41UWhVRldJVmtfLUI4NnNZUVRPR0pqQlBPZGMwRFVwOUF1aWY4VThKNTdDeWpBZDhNTnVrQnNFUDVsWGRUaWF4RHVYZHlvZ1BPQmJabUpWZ1NvV005U2NDM1NF?oc=5
-- **EUA: Senado aprova US$ 70 bilhões para financiar ICE no governo Trump**
-  - Fonte: Metrópoles
-  - Link: https://news.google.com/rss/articles/CBMiogFBVV95cUxOTEVTb3dJTGFYODZBOXJCejM4Q3dxR29xT1RoWWdnWm1ES2RYdEE5SzhzSG5NWjMxMURyZi1ZRmFwVmRaN0Z3cWs4YXRZbjVvcU5WN1ZTYWlnZFpOSU1HX0wyQWtZMXZjLXh2Wm5GdGQwRlRiaWYtTTNmTS00NFVJMGN6ZDU1X1RpS1REX0tvaU1wTzU4YkJwcDdib2czZjhtY0E?oc=5
+  - Link: https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdTQyeEFnSWRKcVV1alVlV2xWSDVHRlBubnFRNE9qdVFJaDFaMTV0MEx5UGl4U2RhcGlfdDZneDExSjRmRWNkSDcwVEwtT29GQU5Sd1dpaXUtM2RuYmRNcFpyd1JYRTFCT0JLdTZiSlBXd2VUNlA4M01YbkhoSnJQcTc0Mk5xYU5kaHU5ajlUZ0FqUXJKVGw3cDNYcXFkLUVyb0ZQRThzYW1YYVo0VXMzY1pBUm1mU21SSFlWSWxwTHlvTDdJUXdIOFRpWG53Z3N4dnhRS1Fn?oc=5
+- **Governo dos EUA não descarta prender torcedores durante a Copa do Mundo**
+  - Fonte: Consultor Jurídico
+  - Link: https://news.google.com/rss/articles/CBMirwFBVV95cUxOb005TmE0Vk9RM0t6M295VEQ5aVZheVdpaXFIZHlkcGxFMEgzRjBJWHZkVGNmU2ZYRnRPMUJxX0R5ZWo5U010NzFNVkhkdkw4RUc2MmlVd3l2TWF0SmwwWm92UXpHczFwWHBfRTluSjA4UnVYWUk4QlVXeklldkF6TWhjZVJtSkN1Q2lvWldJOUt5ODhYNFhxYkhYckR1R3MwZnhuR0JyWEwzVWtaZlBv?oc=5
 
 
 ## Termos monitorados
