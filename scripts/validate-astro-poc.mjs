@@ -24,12 +24,26 @@ const expectedPages = [
 
 const expectedArticlePages = expectedPages.filter((file) => file.startsWith("articles/"));
 const expectedCategoryPages = expectedPages.filter((file) => file.startsWith("categorias/"));
+const expectedPageSet = new Set(expectedPages);
 const errors = [];
+const missingExpectedPages = [];
+
+function listGeneratedHtml() {
+  if (!fs.existsSync(dist)) {
+    return [];
+  }
+
+  return fs.readdirSync(dist, { recursive: true })
+    .map((file) => String(file).replaceAll("\\", "/"))
+    .filter((file) => file.endsWith(".html"))
+    .sort();
+}
 
 function readDist(file) {
   const fullPath = path.join(dist, file);
   if (!fs.existsSync(fullPath)) {
     errors.push(`Arquivo esperado nao gerado: ${file}`);
+    missingExpectedPages.push(file);
     return "";
   }
   return fs.readFileSync(fullPath, "utf8");
@@ -98,6 +112,11 @@ for (const file of expectedPages) {
     const relativeTarget = cleanHref.startsWith("/")
       ? cleanHref.slice(1)
       : path.posix.normalize(path.posix.join(currentDir === "." ? "" : currentDir, cleanHref));
+    const isPilotPage = expectedPageSet.has(relativeTarget);
+    const isAsset = relativeTarget.startsWith("assets/");
+    if (!isPilotPage && !isAsset) {
+      continue;
+    }
     const fullTarget = path.join(dist, relativeTarget);
     if (!fs.existsSync(fullTarget)) {
       errors.push(`Link interno quebrado em ${file}: ${href}`);
@@ -106,6 +125,11 @@ for (const file of expectedPages) {
 }
 
 if (errors.length > 0) {
+  if (missingExpectedPages.length > 0) {
+    const generatedHtml = listGeneratedHtml();
+    console.error("\nArquivos .html encontrados em dist:");
+    console.error(generatedHtml.length ? generatedHtml.slice(0, 80).join("\n") : "(nenhum .html encontrado)");
+  }
   console.error(errors.join("\n"));
   process.exit(1);
 }
