@@ -1,0 +1,54 @@
+---
+import BaseLayout from "./BaseLayout.astro";
+import ArticleCard from "../components/ArticleCard.astro";
+import ChecklistCTA from "../components/ChecklistCTA.astro";
+import type { PilotArticle, PilotCategory } from "../data/pilotContent";
+import { SITE_URL, categoryUrl, canonicalUrl, articleUrl } from "../data/pilotContent";
+
+interface Props {
+  category: PilotCategory;
+  posts: PilotArticle[];
+}
+
+const { category, posts } = Astro.props;
+const canonical = canonicalUrl(categoryUrl(category.slug));
+const schema = {
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  name: category.title,
+  description: category.description,
+  url: canonical,
+  inLanguage: "pt-BR",
+  publisher: { "@type": "Organization", name: "FamiliaUSA1", url: SITE_URL },
+  mainEntity: posts.map((post) => ({
+    "@type": "BlogPosting",
+    headline: post.title,
+    url: canonicalUrl(articleUrl(post.slug))
+  }))
+};
+---
+<BaseLayout title={`${category.title} | FamiliaUSA1`} description={category.description} canonical={canonical} schemas={[schema]}>
+  <header class="narrow-container article-header">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="/index.html">Início</a>
+      <span><a href="/categorias.html">Categorias</a></span>
+      <span>{category.title}</span>
+    </nav>
+    <div class="eyebrow">Categoria</div>
+    <h1>{category.title}</h1>
+    <p class="lead">{category.intro}</p>
+  </header>
+
+  <section class="container section-wide">
+    <div class="section-header">
+      <h2>Guias desta categoria</h2>
+      <p>Conteúdos piloto renderizados pelo Astro para validar hubs, links internos e schema de CollectionPage.</p>
+    </div>
+    <div class="article-grid">
+      {posts.map((post) => <ArticleCard article={post} />)}
+    </div>
+  </section>
+
+  <slot />
+  <ChecklistCTA />
+</BaseLayout>

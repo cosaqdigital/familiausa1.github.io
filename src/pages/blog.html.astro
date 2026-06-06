@@ -1,0 +1,44 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import ArticleCard from "../components/ArticleCard.astro";
+import ChecklistCTA from "../components/ChecklistCTA.astro";
+import { SITE_URL, pilotArticles, pilotCategories, categoryUrl } from "../data/pilotContent";
+
+const title = "Artigos sobre brasileiros nos EUA | FamiliaUSA1";
+const description = "Lista piloto de artigos em Astro para validar blog.html, cards, categorias, links internos e preservação de URLs .html.";
+---
+<BaseLayout title={title} description={description} canonical={`${SITE_URL}/blog.html`}>
+  <header class="narrow-container article-header">
+    <nav class="breadcrumb" aria-label="Breadcrumb"><a href="/index.html">Início</a><span>Artigos</span></nav>
+    <div class="eyebrow">Blog</div>
+    <h1>Artigos do Família USA 1</h1>
+    <p class="lead">Página piloto do blog em Astro, com cards gerados a partir de dados estruturados e links para categorias reais.</p>
+  </header>
+
+  <section class="container section">
+    <div class="section-header">
+      <h2>Escolha por onde começar</h2>
+      <p>Navegação por categoria usando links reais, sem filtros que escondem conteúdo na mesma página.</p>
+    </div>
+    <div class="category-grid">
+      {pilotCategories.map((category) => (
+        <a class="card category-card" href={categoryUrl(category.slug)}>
+          <div class="category-title">{category.title}</div>
+          <p class="card-copy">{category.description}</p>
+        </a>
+      ))}
+    </div>
+  </section>
+
+  <ChecklistCTA />
+
+  <section class="container section-wide">
+    <div class="section-header">
+      <h2>Últimos artigos piloto</h2>
+      <p>Cards alimentados por dados para reduzir erro manual quando o acervo crescer.</p>
+    </div>
+    <div class="article-grid">
+      {pilotArticles.map((article) => <ArticleCard article={article} />)}
+    </div>
+  </section>
+</BaseLayout>

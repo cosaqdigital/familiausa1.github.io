@@ -1,0 +1,21 @@
+---
+import CategoryLayout from "../../layouts/CategoryLayout.astro";
+import { pilotCategories, getArticlesByCategory } from "../../data/pilotContent";
+
+export function getStaticPaths() {
+  return pilotCategories.map((category) => ({
+    params: { slug: category.slug },
+    props: { category, posts: getArticlesByCategory(category) }
+  }));
+}
+
+const { category, posts } = Astro.props;
+---
+<CategoryLayout category={category} posts={posts}>
+  <section class="narrow-container article-content">
+    <article>
+      <h2>Como usar este hub</h2>
+      <p>Esta categoria piloto valida o modelo de página pilar em Astro. Na migração completa, ela deve listar todos os artigos reais do cluster e manter links para conteúdos complementares.</p>
+    </article>
+  </section>
+</CategoryLayout>

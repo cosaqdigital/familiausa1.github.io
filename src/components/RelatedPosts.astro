@@ -1,0 +1,21 @@
+---
+import ArticleCard from "./ArticleCard.astro";
+import type { PilotArticle } from "../data/pilotContent";
+
+interface Props {
+  posts?: PilotArticle[];
+}
+
+const { posts = [] } = Astro.props;
+---
+{posts.length > 0 && (
+  <section class="container section-wide" aria-labelledby="posts-relacionados">
+    <div class="section-header">
+      <h2 id="posts-relacionados">Continue lendo</h2>
+      <p>Guias relacionados para aprofundar sua pesquisa sem sair do Família USA 1.</p>
+    </div>
+    <div class="article-grid">
+      {posts.map((post) => <ArticleCard article={post} />)}
+    </div>
+  </section>
+)}

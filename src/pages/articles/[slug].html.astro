@@ -1,0 +1,16 @@
+---
+import ArticleLayout from "../../layouts/ArticleLayout.astro";
+import { pilotArticles, getRelatedArticles } from "../../data/pilotContent";
+
+export function getStaticPaths() {
+  return pilotArticles.map((article) => ({
+    params: { slug: article.slug },
+    props: { article, relatedPosts: getRelatedArticles(article) }
+  }));
+}
+
+const { article, relatedPosts } = Astro.props;
+---
+<ArticleLayout article={article} relatedPosts={relatedPosts}>
+  <Fragment set:html={article.content} />
+</ArticleLayout>

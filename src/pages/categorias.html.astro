@@ -1,0 +1,30 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { SITE_URL, pilotCategories, categoryUrl } from "../data/pilotContent";
+
+const title = "Categorias do Família USA 1 | Brasileiros nos EUA";
+const description = "Categorias piloto do Família USA 1 em Astro: imigração, custo de vida, cidades da Flórida e cidades do Norte dos EUA.";
+---
+<BaseLayout title={title} description={description} canonical={`${SITE_URL}/categorias.html`}>
+  <header class="narrow-container article-header">
+    <nav class="breadcrumb" aria-label="Breadcrumb"><a href="/index.html">Início</a><span>Categorias</span></nav>
+    <div class="eyebrow">Categorias</div>
+    <h1>Categorias do blog</h1>
+    <p class="lead">Esta página valida hubs em Astro com links reais para páginas de categoria preservando a estrutura atual.</p>
+  </header>
+
+  <section class="container section-wide">
+    <div class="section-header">
+      <h2>Hubs piloto</h2>
+      <p>Cada hub deve concentrar artigos relacionados e fortalecer a navegação interna para SEO.</p>
+    </div>
+    <div class="category-grid">
+      {pilotCategories.map((category) => (
+        <a class="card category-card" href={categoryUrl(category.slug)}>
+          <div class="category-title">{category.title}</div>
+          <p class="card-copy">{category.description}</p>
+        </a>
+      ))}
+    </div>
+  </section>
+</BaseLayout>

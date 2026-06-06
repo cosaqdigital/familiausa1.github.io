@@ -1,0 +1,19 @@
+---
+import type { PilotArticle } from "../data/pilotContent";
+import { articleUrl } from "../data/pilotContent";
+
+interface Props {
+  article: PilotArticle;
+}
+
+const { article } = Astro.props;
+---
+<article class="card post-card">
+  <div class="post-category">{article.category}</div>
+  <h3><a href={articleUrl(article.slug)}>{article.cardTitle || article.title}</a></h3>
+  <p>{article.excerpt}</p>
+  <div class="post-meta">
+    <span>{article.readingTime}</span>
+    <a class="read-more" href={articleUrl(article.slug)}>Ler artigo →</a>
+  </div>
+</article>

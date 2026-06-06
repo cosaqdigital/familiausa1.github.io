@@ -1,0 +1,63 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import ArticleCard from "../components/ArticleCard.astro";
+import ChecklistCTA from "../components/ChecklistCTA.astro";
+import { SITE_URL, pilotArticles, pilotCategories, categoryUrl } from "../data/pilotContent";
+
+const title = "A realidade dos brasileiros nos Estados Unidos | FamiliaUSA1";
+const description = "Protótipo Astro do Família USA 1 preservando URLs .html, SEO técnico, artigos, categorias, Google Analytics e estrutura de links.";
+---
+<BaseLayout title={title} description={description} canonical={`${SITE_URL}/`}>
+  <section class="hero-cinematic" aria-labelledby="hero-title">
+    <div class="container hero">
+      <div class="hero-copy">
+        <div class="eyebrow hero-eyebrow">Protótipo Astro seguro</div>
+        <h1 id="hero-title">A realidade dos brasileiros nos Estados Unidos</h1>
+        <p>Esta prova de conceito valida uma migração segura para Astro sem mudar URLs, canonicals, schema, header, footer ou identidade editorial.</p>
+        <div class="actions">
+          <a class="button primary" href="/blog.html">Ver artigos piloto</a>
+          <a class="button secondary hero-secondary" href="/categorias.html">Explorar categorias</a>
+        </div>
+      </div>
+      <div class="hero-panel">
+        <article class="stat-card info-card">
+          <div class="stat-label">SEO técnico</div>
+          <div class="stat-value">URLs .html preservadas</div>
+          <p>O build precisa gerar arquivos como blog.html, articles/slug.html e categorias/slug.html.</p>
+        </article>
+        <article class="stat-card info-card">
+          <div class="stat-label">Escala editorial</div>
+          <div class="stat-value">Layouts reutilizáveis</div>
+          <p>Artigos, categorias, CTA e schema passam a ser padronizados por componentes.</p>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <section class="container section">
+    <div class="section-header">
+      <h2>Clusters piloto</h2>
+      <p>Hubs essenciais para validar navegação, links internos e topical authority antes de migrar todos os artigos.</p>
+    </div>
+    <div class="category-grid">
+      {pilotCategories.map((category) => (
+        <a class="card category-card" href={categoryUrl(category.slug)}>
+          <div class="category-title">{category.title}</div>
+          <p class="card-copy">{category.description}</p>
+        </a>
+      ))}
+    </div>
+  </section>
+
+  <ChecklistCTA />
+
+  <section class="container section-wide">
+    <div class="section-header">
+      <h2>Artigos piloto em Astro</h2>
+      <p>Estes conteúdos validam ArticleLayout, BlogPosting, FAQPage, links internos e CTA do checklist.</p>
+    </div>
+    <div class="article-grid">
+      {pilotArticles.map((article) => <ArticleCard article={article} />)}
+    </div>
+  </section>
+</BaseLayout>
