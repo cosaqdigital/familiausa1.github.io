@@ -22,6 +22,8 @@ const expectedPages = [
   "categorias/cidades-do-norte-e-massachusetts.html"
 ];
 
+const expectedArticlePages = expectedPages.filter((file) => file.startsWith("articles/"));
+const expectedCategoryPages = expectedPages.filter((file) => file.startsWith("categorias/"));
 const errors = [];
 
 function readDist(file) {
@@ -33,10 +35,21 @@ function readDist(file) {
   return fs.readFileSync(fullPath, "utf8");
 }
 
+function canonicalFor(file) {
+  if (file === "index.html") {
+    return "https://familiausa1.com/";
+  }
+
+  return `https://familiausa1.com/${file}`;
+}
+
 for (const file of expectedPages) {
   const html = readDist(file);
   if (!html) continue;
 
+  if (html.includes("PLACEHOLDER")) {
+    errors.push(`PLACEHOLDER encontrado em pagina piloto: ${file}`);
+  }
   if (!html.includes("G-5RND6F4L8G")) {
     errors.push(`Google Analytics ausente: ${file}`);
   }
@@ -49,12 +62,26 @@ for (const file of expectedPages) {
   if (!html.includes("rel=\"canonical\"")) {
     errors.push(`Canonical ausente: ${file}`);
   }
+  if (!html.includes(`href="${canonicalFor(file)}"`)) {
+    errors.push(`Canonical familiausa1.com incorreto ou ausente em ${file}: esperado ${canonicalFor(file)}`);
+  }
 
-  if (file.startsWith("articles/") && !html.includes("\"@type\":\"BlogPosting\"")) {
+  if (expectedArticlePages.includes(file) && !/"@type"\s*:\s*"BlogPosting"/.test(html)) {
     errors.push(`BlogPosting ausente: ${file}`);
   }
-  if (file.startsWith("categorias/") && !html.includes("\"@type\":\"CollectionPage\"")) {
+  if (expectedCategoryPages.includes(file) && !/"@type"\s*:\s*"CollectionPage"/.test(html)) {
     errors.push(`CollectionPage ausente: ${file}`);
+  }
+}
+
+for (const file of fs.readdirSync(dist, { recursive: true })) {
+  const relativeFile = String(file).replaceAll("\\", "/");
+  if (!relativeFile.endsWith(".html")) continue;
+  const fullPath = path.join(dist, relativeFile);
+  if (!fs.statSync(fullPath).isFile()) continue;
+  const html = fs.readFileSync(fullPath, "utf8");
+  if (html.includes("PLACEHOLDER")) {
+    errors.push(`PLACEHOLDER encontrado em arquivo gerado: ${relativeFile}`);
   }
 }
 

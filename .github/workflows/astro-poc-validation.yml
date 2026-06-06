@@ -1,0 +1,49 @@
+name: Astro POC Validation
+
+on:
+  push:
+    branches:
+      - astro-migration
+  pull_request:
+    branches:
+      - astro-migration
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    name: Build and validate Astro POC
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install dependencies
+        run: |
+          if [ -f package-lock.json ]; then
+            npm ci
+          else
+            npm install
+          fi
+
+      - name: Build Astro POC
+        run: npm run build
+
+      - name: Validate generated POC
+        run: npm run validate:poc
+
+      - name: Upload dist artifact for inspection
+        uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: astro-poc-dist
+          path: dist
+          if-no-files-found: ignore
+          retention-days: 7
