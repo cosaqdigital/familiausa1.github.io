@@ -1,30 +1,57 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
-import { SITE_URL, pilotCategories, categoryUrl } from "../data/pilotContent";
+import ChecklistCTA from "../components/ChecklistCTA.astro";
+import { SITE_URL } from "../data/pilotContent";
+import { getArticlesForCategory, siteCategories, categoryUrl } from "../data/categories";
 
-const title = "Categorias do Família USA 1 | Brasileiros nos EUA";
-const description = "Categorias piloto do Família USA 1 em Astro: imigração, custo de vida, cidades da Flórida e cidades do Norte dos EUA.";
+const title = "Categorias do Familia USA 1 | Brasileiros nos EUA";
+const description = "Explore os principais hubs do Familia USA 1: imigracao, visto americano, asilo, custo de vida, cidades, Orlando, saude, trabalho e vida real.";
+const featuredCategories = siteCategories.map((category) => ({
+  category,
+  count: getArticlesForCategory(category).length
+}));
+const collectionSchema = {
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  name: "Categorias do Familia USA 1",
+  description,
+  url: `${SITE_URL}/categorias.html`,
+  inLanguage: "pt-BR",
+  publisher: { "@type": "Organization", name: "FamiliaUSA1", url: SITE_URL },
+  mainEntity: {
+    "@type": "ItemList",
+    itemListElement: featuredCategories.map(({ category }, index) => ({
+      "@type": "ListItem",
+      position: index + 1,
+      name: category.title,
+      url: category.canonical
+    }))
+  }
+};
 ---
-<BaseLayout title={title} description={description} canonical={`${SITE_URL}/categorias.html`}>
+<BaseLayout title={title} description={description} canonical={`${SITE_URL}/categorias.html`} schemas={[collectionSchema]}>
   <header class="narrow-container article-header">
-    <nav class="breadcrumb" aria-label="Breadcrumb"><a href="/index.html">Início</a><span>Categorias</span></nav>
+    <nav class="breadcrumb" aria-label="Breadcrumb"><a href="/index.html">Inicio</a><span>Categorias</span></nav>
     <div class="eyebrow">Categorias</div>
     <h1>Categorias do blog</h1>
-    <p class="lead">Esta página valida hubs em Astro com links reais para páginas de categoria preservando a estrutura atual.</p>
+    <p class="lead">Encontre rapidamente os guias certos sobre imigracao, visto, custo de vida, trabalho, cidades da Florida, Orlando, saude, compras e vida real nos Estados Unidos.</p>
   </header>
 
   <section class="container section-wide">
     <div class="section-header">
-      <h2>Hubs piloto</h2>
-      <p>Cada hub deve concentrar artigos relacionados e fortalecer a navegação interna para SEO.</p>
+      <h2>Escolha seu proximo caminho</h2>
+      <p>Cada hub concentra artigos relacionados para melhorar a navegacao, reduzir conteudo solto e ajudar o Google a entender a autoridade tematica do blog.</p>
     </div>
     <div class="category-grid">
-      {pilotCategories.map((category) => (
+      {featuredCategories.map(({ category, count }) => (
         <a class="card category-card" href={categoryUrl(category.slug)}>
           <div class="category-title">{category.title}</div>
           <p class="card-copy">{category.description}</p>
+          <div class="post-meta"><span>{count} artigos relacionados</span></div>
         </a>
       ))}
     </div>
   </section>
+
+  <ChecklistCTA />
 </BaseLayout>

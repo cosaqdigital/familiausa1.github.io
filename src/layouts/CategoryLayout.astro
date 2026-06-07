@@ -2,52 +2,83 @@
 import BaseLayout from "./BaseLayout.astro";
 import ArticleCard from "../components/ArticleCard.astro";
 import ChecklistCTA from "../components/ChecklistCTA.astro";
-import type { PilotArticle, PilotCategory } from "../data/pilotContent";
-import { SITE_URL, categoryUrl, canonicalUrl, articleUrl } from "../data/pilotContent";
+import type { LegacyGeneratedArticle } from "../data/legacyArticles";
+import type { SiteCategory } from "../data/categories";
+import { SITE_URL } from "../data/pilotContent";
 
 interface Props {
-  category: PilotCategory;
-  posts: PilotArticle[];
+  category: SiteCategory;
+  posts: LegacyGeneratedArticle[];
 }
 
 const { category, posts } = Astro.props;
-const canonical = canonicalUrl(categoryUrl(category.slug));
-const schema = {
+const canonical = category.canonical;
+const collectionSchema = {
   "@context": "https://schema.org",
   "@type": "CollectionPage",
-  name: category.title,
+  name: category.h1,
   description: category.description,
   url: canonical,
   inLanguage: "pt-BR",
   publisher: { "@type": "Organization", name: "FamiliaUSA1", url: SITE_URL },
-  mainEntity: posts.map((post) => ({
-    "@type": "BlogPosting",
-    headline: post.title,
-    url: canonicalUrl(articleUrl(post.slug))
-  }))
+  mainEntity: {
+    "@type": "ItemList",
+    itemListElement: posts.slice(0, 50).map((post, index) => ({
+      "@type": "ListItem",
+      position: index + 1,
+      url: post.canonical,
+      name: post.h1 || post.title
+    }))
+  }
+};
+const breadcrumbSchema = {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  itemListElement: [
+    { "@type": "ListItem", position: 1, name: "Inicio", item: `${SITE_URL}/` },
+    { "@type": "ListItem", position: 2, name: "Categorias", item: `${SITE_URL}/categorias.html` },
+    { "@type": "ListItem", position: 3, name: category.title, item: canonical }
+  ]
 };
 ---
-<BaseLayout title={`${category.title} | FamiliaUSA1`} description={category.description} canonical={canonical} schemas={[schema]}>
+<BaseLayout title={`${category.h1} | FamiliaUSA1`} description={category.description} canonical={canonical} schemas={[collectionSchema, breadcrumbSchema]}>
   <header class="narrow-container article-header">
     <nav class="breadcrumb" aria-label="Breadcrumb">
-      <a href="/index.html">Início</a>
+      <a href="/index.html">Inicio</a>
       <span><a href="/categorias.html">Categorias</a></span>
       <span>{category.title}</span>
     </nav>
     <div class="eyebrow">Categoria</div>
-    <h1>{category.title}</h1>
+    <h1>{category.h1}</h1>
     <p class="lead">{category.intro}</p>
   </header>
 
   <section class="container section-wide">
     <div class="section-header">
       <h2>Guias desta categoria</h2>
-      <p>Conteúdos piloto renderizados pelo Astro para validar hubs, links internos e schema de CollectionPage.</p>
+      <p>{posts.length} conteudos relacionados, organizados para facilitar sua pesquisa e fortalecer a navegacao interna do Familia USA 1.</p>
     </div>
     <div class="article-grid">
       {posts.map((post) => <ArticleCard article={post} />)}
     </div>
   </section>
+
+  {category.hubLinks?.length ? (
+    <section class="container section">
+      <div class="section-header">
+        <h2>Continue por estes hubs</h2>
+        <p>Links de apoio para comparar temas proximos antes de tomar decisoes sobre visto, cidade, dinheiro ou mudanca.</p>
+      </div>
+      <div class="category-grid">
+        {category.hubLinks.map((href) => (
+          <a class="card category-card" href={href}>
+            <div class="category-title">{href.replace("/categorias/", "").replace(".html", "").replaceAll("-", " ")}</div>
+            <p class="card-copy">Abrir guia relacionado no Familia USA 1.</p>
+          </a>
+        ))}
+      </div>
+    </section>
+  ) : null}
 
   <slot />
   <ChecklistCTA />

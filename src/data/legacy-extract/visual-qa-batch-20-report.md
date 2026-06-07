@@ -1,6 +1,6 @@
 # QA visual tecnico do lote Astro de 20 artigos
 
-Gerado em: `2026-06-06T23:48:47.839Z`
+Gerado em: `2026-06-07T01:02:46.544Z`
 Escopo: 8 paginas renderizadas em `dist/articles/` a partir do lote Astro de 20 artigos.
 Metodo: inspecao tecnica do HTML renderizado, sem navegador e sem screenshots.
 

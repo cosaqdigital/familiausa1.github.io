@@ -10,6 +10,7 @@
     "validate:poc": "node scripts/validate-astro-poc.mjs",
     "validate:batch": "node scripts/validate-astro-batch.mjs",
     "validate:all-articles": "node scripts/validate-astro-all-articles.mjs",
+    "validate:site-structure": "node scripts/validate-astro-site-structure.mjs",
     "qa:batch": "node scripts/qa-astro-rendered-pages.mjs",
     "extract:pilot": "node scripts/extract-legacy-articles.mjs --pilot",
     "extract:all": "node scripts/extract-legacy-articles.mjs --all"

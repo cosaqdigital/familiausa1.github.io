@@ -2,29 +2,50 @@
 import BaseLayout from "../layouts/BaseLayout.astro";
 import ArticleCard from "../components/ArticleCard.astro";
 import ChecklistCTA from "../components/ChecklistCTA.astro";
-import { SITE_URL, pilotArticles, pilotCategories, categoryUrl } from "../data/pilotContent";
+import { SITE_URL } from "../data/pilotContent";
+import { getCategoryGroups, getFeaturedArticles, categoryUrl } from "../data/categories";
 
 const title = "Artigos sobre brasileiros nos EUA | FamiliaUSA1";
-const description = "Lista piloto de artigos em Astro para validar blog.html, cards, categorias, links internos e preservação de URLs .html.";
+const description = "Todos os artigos do Familia USA 1 sobre imigracao, visto, custo de vida, trabalho, Orlando, Florida e vida nos EUA.";
+const featuredArticles = getFeaturedArticles(36);
+const allCategoryGroups = getCategoryGroups();
+const categoryGroups = allCategoryGroups.filter((group) => group.posts.length > 0);
+const priorityGroups = [
+  "cidades-da-florida",
+  "imigracao-legalizacao",
+  "visto-americano",
+  "custo-de-vida",
+  "orlando-e-viagem",
+  "trabalho-renda",
+  "asilo-nos-eua",
+  "vida-real-nos-eua"
+];
+const orderedGroups = [
+  ...priorityGroups
+    .map((slug) => categoryGroups.find((group) => group.category.slug === slug))
+    .filter((group): group is (typeof categoryGroups)[number] => Boolean(group)),
+  ...categoryGroups.filter((group) => !priorityGroups.includes(group.category.slug))
+];
 ---
 <BaseLayout title={title} description={description} canonical={`${SITE_URL}/blog.html`}>
   <header class="narrow-container article-header">
-    <nav class="breadcrumb" aria-label="Breadcrumb"><a href="/index.html">Início</a><span>Artigos</span></nav>
+    <nav class="breadcrumb" aria-label="Breadcrumb"><a href="/index.html">Inicio</a><span>Artigos</span></nav>
     <div class="eyebrow">Blog</div>
-    <h1>Artigos do Família USA 1</h1>
-    <p class="lead">Página piloto do blog em Astro, com cards gerados a partir de dados estruturados e links para categorias reais.</p>
+    <h1>Artigos do Familia USA 1</h1>
+    <p class="lead">Guias, alertas e experiencias reais para brasileiros que vivem, chegam ou sonham morar nos Estados Unidos.</p>
   </header>
 
   <section class="container section">
     <div class="section-header">
-      <h2>Escolha por onde começar</h2>
-      <p>Navegação por categoria usando links reais, sem filtros que escondem conteúdo na mesma página.</p>
+      <h2>Escolha por onde comecar</h2>
+      <p>Navegacao por categoria com links reais, sem filtros invisiveis que escondem artigos no fim da pagina.</p>
     </div>
     <div class="category-grid">
-      {pilotCategories.map((category) => (
-        <a class="card category-card" href={categoryUrl(category.slug)}>
-          <div class="category-title">{category.title}</div>
-          <p class="card-copy">{category.description}</p>
+      {allCategoryGroups.map((group) => (
+        <a class="card category-card" href={categoryUrl(group.category.slug)}>
+          <div class="category-title">{group.category.title}</div>
+          <p class="card-copy">{group.category.description}</p>
+          <div class="post-meta"><span>{group.posts.length} artigos</span></div>
         </a>
       ))}
     </div>
@@ -34,11 +55,24 @@ const description = "Lista piloto de artigos em Astro para validar blog.html, ca
 
   <section class="container section-wide">
     <div class="section-header">
-      <h2>Últimos artigos piloto</h2>
-      <p>Cards alimentados por dados para reduzir erro manual quando o acervo crescer.</p>
+      <h2>Ultimos artigos</h2>
+      <p>Conteudos recentes e estrategicos, gerados a partir da base estruturada para reduzir erro manual conforme o acervo cresce.</p>
     </div>
     <div class="article-grid">
-      {pilotArticles.map((article) => <ArticleCard article={article} />)}
+      {featuredArticles.map((article) => <ArticleCard article={article} />)}
     </div>
   </section>
+
+  {orderedGroups.map((group) => (
+    <section class="container section-wide">
+      <div class="section-header">
+        <h2>{group.category.title}</h2>
+        <p>{group.category.intro}</p>
+      </div>
+      <div class="article-grid">
+        {group.posts.slice(0, 6).map((article) => <ArticleCard article={article} />)}
+      </div>
+      <p class="post-meta"><a class="read-more" href={categoryUrl(group.category.slug)}>Ver todos em {group.category.title} -&gt;</a></p>
+    </section>
+  ))}
 </BaseLayout>

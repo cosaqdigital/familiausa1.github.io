@@ -48,6 +48,9 @@ jobs:
       - name: Validate all legacy articles
         run: npm run validate:all-articles
 
+      - name: Validate editorial site structure
+        run: npm run validate:site-structure
+
       - name: Upload dist artifact for inspection
         uses: actions/upload-artifact@v4
         if: always()

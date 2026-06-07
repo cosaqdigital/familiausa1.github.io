@@ -1,9 +1,17 @@
 ---
-import type { PilotArticle } from "../data/pilotContent";
 import { articleUrl } from "../data/pilotContent";
 
+type ArticleCardData = {
+  slug: string;
+  title: string;
+  cardTitle?: string;
+  category: string;
+  excerpt: string;
+  readingTime: string;
+};
+
 interface Props {
-  article: PilotArticle;
+  article: ArticleCardData;
 }
 
 const { article } = Astro.props;
