@@ -1,6 +1,6 @@
 # Relatorio de estrutura editorial Astro
 
-Data da validacao: 2026-06-11T07:31:41.122Z
+Data da validacao: 2026-06-11T13:31:21.261Z
 
 ## Resumo
 

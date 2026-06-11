@@ -1,0 +1,139 @@
+# Relatório diário — Imigração e brasileiros nos EUA
+
+Gerado em: 2026-06-10 00:47 EDT
+
+Arquivo original: `2026-06-10-00-47-tendencias-imigracao.md`
+
+## Objetivo
+
+Este relatório serve como base para criação de artigos atualizados para o blog Família USA 1.
+
+## Principais assuntos do dia
+
+1. **Árbitro barrado por imigração dos EUA se pronuncia após ficar fora da Copa: "Estou de bom humor"**
+   - Fonte: ge
+   - Termo monitorado: imigração EUA
+   - Link: https://news.google.com/rss/articles/CBMi8wFBVV95cUxPZlRhQkp1c3ZCWW43SlFUemZxNHdrakNhMFVycnlId3ZqaUZvME1kX2tPMWl5aUF4bVlNNmlZM0tOQzkxdG1IZVRwV2k2andtLXpvVGZmVGJpMmsyUUN3dUFNUExDT3R3ZkgxZ3NMSU5OMk5rRGhwSFBEOGVxMDdFZzg0dElwTEN4dGNVa0pfd2RhODFEZk12a0ZLbU4tbEpLUUYwSFFzQm9qeWFiSXRQM3k0alhGSWdMVmZfbWNqcTNCQ0FnQXJpZ3lKWFpkOVcxTVV6R0RWWW11OWNzOTY0ZncyRmwtdFZBT2FVTmNERWVEelHSAYICQVVfeXFMTUs2aU9WbExGVE5pbU1YWU9jc2VMS0Z0cnZSODE1cWpIdGRVMUZsV3Vjak5VeXQ1aVVQbXhaWmVhREFxdndTMkJscHk0WmRtUUQ4ZDZGaE1sZ2xhYlp0S19oN3VGQ0pVN2RGNnRvbjhVV1ZGV1hqMHg4R0x1YzR1NXhCS3dLcHV5NzVfd1V2MnpKa1BOOUZjb1daVkhubE9IM0dkUGJPNzlNYVl1ZGNfYkpZZHNQSTFpZ21uNUZqVkJoeEMzSzdianA0T3k3cm1iOUQtN3BTemNhZHhCZV85NkdqNHB4akdwMGZEdmRnWHhuekl4RWR4MGoyYTZjcWR4dnhR?oc=5
+
+2. **Às vésperas da Copa, política de imigração dos EUA provoca incerteza e temor entre torcedores e profissionais do mundo todo**
+   - Fonte: G1
+   - Termo monitorado: imigração EUA
+   - Link: https://news.google.com/rss/articles/CBMikgJBVV95cUxNY3pVQ0tOZWQyRmdaZTB0QkNnWG5SOWkxMnljX0Q2NFpEWnl4cmdrLTdzWG1vMXFFVTJ2Y245QUd4YXdCVnJpWjc3aktOSUMzSVM3WXNEM0M2MTJCVmEzQWNEeTVkMURxYnBsRVR5OFc0NEIzbG96cmV5N01CUGFrZG8yUVQxcUcxT0NQV3Jid1cyR2pzNmptS3JwZ2U0S25RTk1vVG9qUkRLLWhKSDJWZHozakhKR2Y0MzZsQ05wWWIxQW9qbHpXWjdCY2xzZEQ1NWF6SUE3ekxHVTh6UEwwUjRnVTduRXFYY0JMV2trMTA1MlNuYXhZdmlCZkZPa3MtaXEzbEVqYTdMcE14VE8yZjhn0gGgAkFVX3lxTE1vTjIzVkwzOTF1RG1ZcVBIVFJfeFk4eGhhMzJwQnMyTDVJZU1pTlJ5WmItajBBcmpMdDEyMm1tcjRzWTBQNGlHZm81R3d1TWhZcUw0SFhDRGM4UGVVdkp1bzc1dmgySTQ2VWhRbTVTOHpvdzdpOWpwWTA1WERTVWNVRWtsT1Q2MmdHc09OLVJDUmxmTkZBRDBORGtFTkhEc2JNVHJWUl9VLTFBY3lsLUp5aExFOWd4ZnFhb0c2YjloczFjQ3Y0M3BnY2tJQ09XZ1h5UmF0dFBySDhsZlZrdWNveVl6ZHNLdUNnMm5VRWNIUV8zWGx5RkVBN2ZGbGx1OG96eHhrZmlsUHlzZERXemNhZHM1elFFWEdlelQwbVY3bg?oc=5
+
+3. **Copa da imigração nos EUA: árbitro somali barrado, craque iraquiano retido**
+   - Fonte: UOL Notícias
+   - Termo monitorado: imigração EUA
+   - Link: https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZGwySjFaRjIyUlhBXzFKMk9ob25McmlGWG0zbFJmdi1sZFg1RGpGd25kcmIwdFV6cWNaODduVEI3RFdDSEpWOFBtNm9ndW5lSXQxUEdMcjNGX2NrOTViVnF0RmRxLUZGT09HMEJocXVOVk9URThnTG9ZZms0bEhBQ0lIVkFQaXRFbzJPQk5nWXR3WE0tQ1JLT2VqVkN1UzdXUU1NVllaSGhfbkF5dXNqTk9mYXdmNVR0bFZiVllFTzFlaUx3UzF2b09JcGtDbko1NzN6MHBiWGI?oc=5
+
+4. **FIFA corta árbitro barrado pela imigração dos EUA da Copa do Mundo 2026**
+   - Fonte: Portal ABC do ABC
+   - Termo monitorado: imigração EUA
+   - Link: https://news.google.com/rss/articles/CBMiZEFVX3lxTE5rem5LMGk5bnNCTkNhelJ2b1M0YTNudm9obzkyUHd0Nl9Mc0JjM3lxN2VHalg4aXdvd1BkZjNzNGNHZVFzcV8tSXFVOEswbWVuVXk1Mk0yZlVMcjJHbHZWblRQNm4?oc=5
+
+5. **Pânico não é estratégia: como ler com lucidez as notícias do USCIS**
+   - Fonte: Canal MyNews
+   - Termo monitorado: USCIS
+   - Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxPa0N4WVhtU3oyYnZhcVNWb1BKODBzTXFqSF92dlp5MWttbUg2emY3cS1lMmFLcnFnQ2RDNGd3aUxmNXFoalRYSVlTVlBNV1FWYXdfRWM5MUVjUUtQNjNtS3pFdjFvWW42WnZBUDBfcjRSTnc4VWZsZ05kQnNiNHJKaFluV1YwZ0tNTUJ2cnp1QjVzc0RpM25KOGZUNTBNTXdpQ0RYWE14cGt3eHlxQ29hdU93?oc=5
+
+
+## Sugestões de artigos para publicar
+
+1. O que brasileiros nos EUA precisam saber sobre as notícias de imigração de hoje
+2. Green card e USCIS: principais atualizações que podem afetar brasileiros
+3. Visto americano: mudanças, alertas e notícias importantes da semana
+4. Asilo, deportação e imigração: o que acompanhar antes de tomar decisões
+5. Resumo semanal de imigração para brasileiros que querem morar nos EUA
+
+## Notícias de apoio por tema
+
+### imigração EUA
+
+- **Árbitro barrado por imigração dos EUA se pronuncia após ficar fora da Copa: "Estou de bom humor"**
+  - Fonte: ge
+  - Link: https://news.google.com/rss/articles/CBMi8wFBVV95cUxPZlRhQkp1c3ZCWW43SlFUemZxNHdrakNhMFVycnlId3ZqaUZvME1kX2tPMWl5aUF4bVlNNmlZM0tOQzkxdG1IZVRwV2k2andtLXpvVGZmVGJpMmsyUUN3dUFNUExDT3R3ZkgxZ3NMSU5OMk5rRGhwSFBEOGVxMDdFZzg0dElwTEN4dGNVa0pfd2RhODFEZk12a0ZLbU4tbEpLUUYwSFFzQm9qeWFiSXRQM3k0alhGSWdMVmZfbWNqcTNCQ0FnQXJpZ3lKWFpkOVcxTVV6R0RWWW11OWNzOTY0ZncyRmwtdFZBT2FVTmNERWVEelHSAYICQVVfeXFMTUs2aU9WbExGVE5pbU1YWU9jc2VMS0Z0cnZSODE1cWpIdGRVMUZsV3Vjak5VeXQ1aVVQbXhaWmVhREFxdndTMkJscHk0WmRtUUQ4ZDZGaE1sZ2xhYlp0S19oN3VGQ0pVN2RGNnRvbjhVV1ZGV1hqMHg4R0x1YzR1NXhCS3dLcHV5NzVfd1V2MnpKa1BOOUZjb1daVkhubE9IM0dkUGJPNzlNYVl1ZGNfYkpZZHNQSTFpZ21uNUZqVkJoeEMzSzdianA0T3k3cm1iOUQtN3BTemNhZHhCZV85NkdqNHB4akdwMGZEdmRnWHhuekl4RWR4MGoyYTZjcWR4dnhR?oc=5
+- **Às vésperas da Copa, política de imigração dos EUA provoca incerteza e temor entre torcedores e profissionais do mundo todo**
+  - Fonte: G1
+  - Link: https://news.google.com/rss/articles/CBMikgJBVV95cUxNY3pVQ0tOZWQyRmdaZTB0QkNnWG5SOWkxMnljX0Q2NFpEWnl4cmdrLTdzWG1vMXFFVTJ2Y245QUd4YXdCVnJpWjc3aktOSUMzSVM3WXNEM0M2MTJCVmEzQWNEeTVkMURxYnBsRVR5OFc0NEIzbG96cmV5N01CUGFrZG8yUVQxcUcxT0NQV3Jid1cyR2pzNmptS3JwZ2U0S25RTk1vVG9qUkRLLWhKSDJWZHozakhKR2Y0MzZsQ05wWWIxQW9qbHpXWjdCY2xzZEQ1NWF6SUE3ekxHVTh6UEwwUjRnVTduRXFYY0JMV2trMTA1MlNuYXhZdmlCZkZPa3MtaXEzbEVqYTdMcE14VE8yZjhn0gGgAkFVX3lxTE1vTjIzVkwzOTF1RG1ZcVBIVFJfeFk4eGhhMzJwQnMyTDVJZU1pTlJ5WmItajBBcmpMdDEyMm1tcjRzWTBQNGlHZm81R3d1TWhZcUw0SFhDRGM4UGVVdkp1bzc1dmgySTQ2VWhRbTVTOHpvdzdpOWpwWTA1WERTVWNVRWtsT1Q2MmdHc09OLVJDUmxmTkZBRDBORGtFTkhEc2JNVHJWUl9VLTFBY3lsLUp5aExFOWd4ZnFhb0c2YjloczFjQ3Y0M3BnY2tJQ09XZ1h5UmF0dFBySDhsZlZrdWNveVl6ZHNLdUNnMm5VRWNIUV8zWGx5RkVBN2ZGbGx1OG96eHhrZmlsUHlzZERXemNhZHM1elFFWEdlelQwbVY3bg?oc=5
+
+### USCIS
+
+- **Pânico não é estratégia: como ler com lucidez as notícias do USCIS**
+  - Fonte: Canal MyNews
+  - Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxPa0N4WVhtU3oyYnZhcVNWb1BKODBzTXFqSF92dlp5MWttbUg2emY3cS1lMmFLcnFnQ2RDNGd3aUxmNXFoalRYSVlTVlBNV1FWYXdfRWM5MUVjUUtQNjNtS3pFdjFvWW42WnZBUDBfcjRSTnc4VWZsZ05kQnNiNHJKaFluV1YwZ0tNTUJ2cnp1QjVzc0RpM25KOGZUNTBNTXdpQ0RYWE14cGt3eHlxQ29hdU93?oc=5
+- **Green Card por casamento: o que o USCIS realmente consegue ver da sua vida nos EUA**
+  - Fonte: nossagente.net
+  - Link: https://news.google.com/rss/articles/CBMifEFVX3lxTE9jaER1d0ctblZCWUE5dnRMUE1PVkxJOWNBdHZKRDAyeTJQRERjbEpKaWFOY3NQdXFuZ0NMaGVKLW1zWXUzeldCVWREdHkwZWFGb0lOMjRXYW5YdURiT3ROZmdFUHRhMUhzRUNpdExOc2RyRlpidFd4akRBWUk?oc=5
+
+### green card
+
+- **Nova regra migratória amplia incerteza para brasileiros que buscam 'green card' nos EUA**
+  - Fonte: O Globo
+  - Link: https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdlIxdG1LRy1YUVFpdDZvekROZ1F4U1FGTjZuQXk4T2pfUVdwYXpRSEhEdmFJaTR4RlRvcUZoX1JNeFZmaHFfTUJDZkdtRktFaXo2R2RaclZWd0QySVZYZHBCaVFXWGpVVEJKLVdIc3laN2xNZzZRTXF2Z0Q4VVM4eVIxd2JTeGFjNnNmbVZpMjFyaHZzckFlQk0taGpyZmRsUGVocjFxNnVXSzVQajVWanpxaHF4OEV6RmtRaVB2TW1uSnBBdHU5NGFybzYwUEg1eGQ4cUdXWlbSAecBQVVfeXFMTmxHUUR4ODU5UUtKTkFyZWJLQS1tVXNJMUQ0aEx5OWIzUGFZSll1NktxN3JpaWI4N1hTbUQ2TzJjWDRJMUlxcHRjYVFJeGRQaGtNUDNiQ2NQdXFPOUpOS1J1Y2J6ZkM5dWYwRzI2VThjbUpKd0dHNzFVWVhBMllCOFhROFc3b1BRU3hkZktsUGFIdUZmaHJvUjNoR1JoMEZmYUNHSFA3T1RIdzd0ZzhRdm5CcUFabDB4NDgyYl96SUltWW5pY1ZtZVQzb3V2RUNlUnZWbTdvQWF0RF9KeW5oWHRjcXpJajlF?oc=5
+- **EUA esclarecem nova regra para green card após confusão - 30/05/2026 - Mundo**
+  - Fonte: Folha de S.Paulo
+  - Link: https://news.google.com/rss/articles/CBMi-wFBVV95cUxOekVKZ1ZhOFNqbFVHUnF5Z2F6VlF1MmFrNUdHRGdaeXhHUktSWXhZWmNLMVBmTmZSWDUzcFZtc21LYTNsWk5SbXlucHpubTU4eUhCYS1QVmNhZURXaFdJRXlDZlhyNzJMYXRHd3FwUG40STZTYXI5cU1EMk9ETEhEVVlpZ1FNU0VHTXBBaGg1QWl6UTRiSThPX0Nxc3FDMnlfY1NwZWVpRzgxeXlJaWFTZWxGbVBoZVN4LVFoN3FCZ1kybzNvemEwOFZMUUNPQmcwTk1lWkw0bjY5NUJqNzBZMFlRNE10YzdfS3NDOWxYZ09sdHBEejlXelBuRQ?oc=5
+
+### visto americano
+
+- **EUA terão entrevistas prioritárias para visto mediante taxa de US$ 750**
+  - Fonte: Panrotas
+  - Link: https://news.google.com/rss/articles/CBMizwFBVV95cUxQNFVMMFlWTlNDbWN5UXNLZXc2ZmdMQTYzM2JTLVNCVVlLVkMtMjlhbEVlWE11aDdnaVhfRzVkdHJlNzI0Um5RSXNGZDNYd1lVYmZSY3U2cFBhVzM5empPbGtNX1BhV28xWFVqdi15UDFadG1vTUF1b3dNWEoyUUhKajhkT3NFYnZRX3ZSOUEtdEZlMFQzb1Zka0RPWWd5NzZrYWRjZXJGZldXYi1nSTZoa1huTGlIdmo1MEs2RjlvZjBvSG4yX094VlFiZkFsM2M?oc=5
+- **Juiz dos EUA considera ilegal taxa de 100 mil dólares criada por Trump para vistos de trabalho para estrangeiros**
+  - Fonte: G1
+  - Link: https://news.google.com/rss/articles/CBMi9gFBVV95cUxPcTVmaG1XSW5lYm94eW9LcEhzcUdKSTlFRDlvNEt2MkpvdWo4dkVFZ0ZaWmtlcHFuUGhvSDlDVUUxN1hrQlVNMEN6WFgyZ1Ixb3U1N21Pamp6YUZZSGsxamtlNkhXNEJaRDlFc0M1c3ZxYTRySFU1VHlkbFdmaXI2VEEtUFFrQm1GdWt3X041cUE5NVNUMjduaElCVFdwcTd0MkNvMGFkWE5pZE81cWFJeUlIaTRNWlp4QXM4LUs1M05RVm0tZGVScEhWMFp6UDcwQm04V1RXeGlzZ0ZiemNUb0tlb2VZSmJNa1MtVVVxdTJVcHB4REHSAYQCQVVfeXFMTzBCNTdabE94SzU4UVBHZVZYdWJreEdqLUhFcVBVcVF0QjlSa2hMSnY0TWZXaE1aSkxYSElpZzhPby1Xbm1ObnBmajdtb1FoNk5vcWl6NkhyTndqZENaeHBBZmdOVVAxLXUtblllQUFaMmVud2wzVnF4eVhQamNtVUYtbDlxR0dWemRmTkxzOXVZMWxGYjVGVm8tWF9XT0FCN0dDLXZISW1jYVpRWFlMWW5xTDlqbmRyT1JnQzhzaDA4TlRoanhBY1N3bWlsQXRXR3dJLWpmcjktWFhTdUFmRmFRS3NVVTA5UDMyUlRFX2tKR1VhVDJEbmpJNmhidmVHNUszU1Q?oc=5
+
+### brasileiros nos Estados Unidos
+
+- **Em missão oficial na ONU, ministra Janine Mello se reúne com brasileiros migrantes nos Estados Unidos**
+  - Fonte: GOV.BR
+  - Link: https://news.google.com/rss/articles/CBMi7wFBVV95cUxOZk9VSFZfVGtIdHc4VzJ2VE55SEl3bmx4elJrV1Y2V0w4dTZ1UFkyMjFuSE9MN0ozRTVoU0gwQzdxTVkxVkU1aXZvOVYwUmZKUlpYZFdBNXJlRVlrN2g5WHk1ZFZYRTAxSEJFbm9vLVdlSWpKdVJKYTRuV1oyMDdEc3JBOWhoN0hVTnNEaWZudlliWFBBbnJJWVVOQWx3U0ozWVNxc3ZWTlNTdFZkX3NCZXVkeWthRHNXd3czR0hwRklTUi1HcWZsUUw0Sk12UUQ5QlB4d2RzcEIyWjBVWklfOGxPUENDekFENlJiR09PNA?oc=5
+- **Brasil perde para os EUA em amistoso marcado por quatro expulsões e grande presença da torcida na Arena Castelão**
+  - Fonte: O Globo
+  - Link: https://news.google.com/rss/articles/CBMi_gFBVV95cUxNX19WR21PYXVOclg0OGNtTFZVUkM5cXhVc0NTU2Z6VTlQY3FrX1ZaUjBKYnVYZk00Uk5hNkhnRDU2dHJjc3MyQko0LXNGeHZZMVFNTUxZMXQ0VThvRDFuOUlKTFJVUjJVS3JyVE02elJFUS1xVFY2eUtRcW1meUZJYUZrZWo3SDJMRFE5cWE0Ni1Ob0ZxTks5b0d1dV8zRzNNOGQ0QmNPNHN5eGQ3NEdaX1g1c3VRbTBTUGdIQ1V0RFRJUzItWVlQLWdZZ3Q1eXRxLWliazFnZzlvazJqVG5wWDBkQm1zUVJVeTYwTzZMXzc3QUR3T0JBNEdBa28zd9IBjAJBVV95cUxQQVZKbllITUkzQnRIZF8xQmhBV1kzVDdZMjlRZTN1MlJVYXM3cS1oZm55eFlaMTdreEJHRXpaOF9Dd0tQa2NWczk0Y2gteDNrNUpTbjZlWWE2V1o2NG1qeGRnZ1VRSlN5NDNFa0FtT3g2Y0FDdlktWHg5ZndMYnNVREVQdkV2bW1rb0lIdVZYc0kyYTJidFRoeFprWHZfSkZhT2V6Wi1oWmpacnotazdoTkd2RDhlNTRMVC1fckRENENOVVhGNndUd2JyTml6WS1Zem1pb1p3X1JTVVVpemxZaHJ0NEM4cWR0c2trcTE4dEtlOUNhT2lwQm93YWlEQ0Q3YzdXYVp6eG5hVHhu?oc=5
+
+### asilo nos EUA
+
+- **Estrangeiros que buscam green card nos EUA vão precisar voltar a países de origem para fazer o pedido**
+  - Fonte: O Globo
+  - Link: https://news.google.com/rss/articles/CBMi7gFBVV95cUxPMU5BZnk1bFM3R1BwQ3VxSS1zSmpHRkdzVnBLcUt0TmNyZmFzYzYxZ1ViMkR4TWR4eE5QeXZlVUlfR001NlBRTWFkM25KcTAxdTgxdlE0Mlk2Rnk0OHNuVWlxbUswanlObjFwMXljaGNXbmUyRFRxdjlVbHFaNjdnMmJ0aWlhWmJVdHA0c3VwUC1vczU1aHZCbVVDMTBxYV9ua2JwbGk5M2dBVnJMTi1LNnZ1enFvV1lPa240UFpjaHpvYTF2bVpiUDlsdmdMR2pyTW82LVBMX2ZLekR2YnVhYnhZQ0psd0dFM0lET2tn0gH8AUFVX3lxTFBmQjQyc3BmQURNa1lhVEJjbUx4bjlzVWl2b2YwdWlrLTJ0VDBhSGxDdkZMWTdod1pMdnRWXzl5V0Q0T3I3VXIya1ZhNHdZblRaQnBaVllWdnhhS3Nzc1QxajBjSlJQU2pFWksyaUZuYjRTRG9UMzhZVVNEQm1EbHFRVXdvWmRocHFIbFRGb2I4c2wxQW1nQ3pKYkZZVm9tcmw0c2Mta2xBellUWHZMSXF2Y1dJTHE2OUQ5UzIyQnBHZm5LeEVYaTJUM0R6a1ExQnlQM3dnZDlIYUc0Q0ZxQ21kUHRhajN1X1g1WXh6V2p5YkNDSXJMekpqR2Z6cg?oc=5
+- **Ramagem é solto nos EUA e espera resposta a pedido de asilo**
+  - Fonte: BBC
+  - Link: https://news.google.com/rss/articles/CBMiYkFVX3lxTE9EMUFBNkc3X2ZsVFVkMFAyY0JkZTE0MjZLZWlJQ2YwNk9fWk9ma3QxdFRtaE1xcWVmRDFTS1huRDZ6UGFnX3YyRzJqVWl2YzVhVmxZWnVyLTk3TE4zNnFOd1NR0gFnQVVfeXFMTlZaZVR4Mlk5SWxIS0xiWHJoc0ZvTmZhMmstNE13Yk84Yi1UYkZ1TzBPY01GS3dVOWpZYW5CbWJUclVXX1I5clFTSUQ5VER4ZXZQSEswN3pNcVVpUGhmUUV4OVJuVkRZVQ?oc=5
+
+### ICE immigration
+
+- **Crimigração nos EUA: O ICE e a deportação de brasileiros**
+  - Fonte: OPEB
+  - Link: https://news.google.com/rss/articles/CBMijAFBVV95cUxNbm12Xzg3dkxsT09scFJCNi1URkpBRE1lcEJ5V0lEbmQ0RzdxcjVnWU5WM25lUXY3TGtUX04tWjFYRTdtVEhlRm5nRGlsSC1LVGpvcktHc0htbXY3elB5dlpHcGwyYW9CQVpQQ1NRbnpreUk3dEhJRHFXX3hJRWprdm1FSXVxLS1UNGR2bQ?oc=5
+- **Senado dos EUA aprova pacote de US$ 70 bilhões para operações do ICE**
+  - Fonte: CNN Brasil
+  - Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxPWW14MnZxVUNtZXF0dnUzTmZITENyc2Jtd2lNT3dVaWE3bkFkNDFFeThBRTBwWnFvZFZKb29fZGIyb1ZoQlQ1WlRlVjNqYm5WRTIwel8yamRETFU4X0d3YlNMakRUY2Zaam9mWXRYaGRJSzNIWkEzeTZyRG5HS3MxVGNPTFp3dXF1TGdFQ1RfV3R0djliTm9IWGU2OTBiQmZDd0otZGdJS2kyMnJRblNQMw?oc=5
+
+
+## Termos monitorados
+
+- imigração EUA
+- USCIS
+- green card
+- visto americano
+- brasileiros nos Estados Unidos
+- asilo nos EUA
+- ICE immigration
+
+## Palavras-chave sugeridas
+
+- imigração EUA
+- USCIS
+- green card
+- visto americano
+- brasileiros nos EUA
+- morar nos Estados Unidos
+- asilo nos EUA
+
+## Como usar este relatório no ChatGPT
+
+Peça: "Leia o último relatório e veja se tem pauta boa para publicar."
+
+## Observação
+
+Esta versão cria relatórios com data e hora no nome do arquivo, atualiza o arquivo ULTIMO_RELATORIO.md e mantém um indice.md com o histórico.

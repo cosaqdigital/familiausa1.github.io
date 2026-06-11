@@ -1,6 +1,6 @@
 # Relatorio Astro dos 151 artigos legados
 
-Gerado em: `2026-06-11T07:31:38.950Z`
+Gerado em: `2026-06-11T13:31:18.698Z`
 Escopo: validacao dos artigos legados renderizados em Astro a partir de `src/data/legacy-extract/legacy-articles.json`.
 
 ## Resumo

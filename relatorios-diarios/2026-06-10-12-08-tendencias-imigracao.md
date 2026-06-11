@@ -1,8 +1,8 @@
 # Relatório diário — Imigração e brasileiros nos EUA
 
-Gerado em: 2026-06-11 00:58 EDT
+Gerado em: 2026-06-10 12:08 EDT
 
-Arquivo original: `2026-06-11-00-58-tendencias-imigracao.md`
+Arquivo original: `2026-06-10-12-08-tendencias-imigracao.md`
 
 ## Objetivo
 
@@ -20,20 +20,20 @@ Este relatório serve como base para criação de artigos atualizados para o blo
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZzVlQm03aWpCQVppYXo2Zi05Y05pREI5OE15NHVBWjF6cWNZZ0RVZFhvQWZYQjdIMC1WUWJMVUtMOTN5UGx4WVlOV20tTjRBYjVENlRQTXNtOTJReVNzd18xQV9nLXF1V1VZeHNFRUdreWM4QU1OTElWV1VFY1VBdkhMcnRSSmZEenMxV0Q2Z1VCOENsdWRPMUNRcEZwRThpb1I4UnZCdmVkRnd0TDFIenNUYTE3TXc1WU5qM3ZWR0N5cUQzZ1Z3MW8xMkZiTmJrUmfSAdcBQVVfeXFMTXVDMnZ5S3hndmVSa0REZFJFYTlEdlh6WmxXMFR3OVQ2NmtfcDVjVlRKVmNYNEdtRWpsZldySmZGU21QVGxYcGJZOENRTllqbmpTSnRfbVJXNkc5Q1g4ckJCTkdMUXR3ZUpfbjhSU0I0djVQbjFVbUlPaFhla1o0U3FVMWFra21CZU5WTktPeEZ3ci1wM1lLY1BEbUZGSXFxXzltRVoxcUlUZkxpUlRzSmtDZEJDeUw5cU5mY2traDZZNXpINE1JU1FYejdiYm5xUnRzSTgwN3M?oc=5
 
-3. **Repórter da Globo relata momento constrangedor na imigração dos EUA**
-   - Fonte: Estado de Minas
+3. **Juiz revoga norma que impõe taxas de US$ 100 mil para vistos de trabalhadores estrangeiros nos EUA**
+   - Fonte: Estadão
    - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxOSHRtTHE1ajVDWmFNMFltSlhuOXo2VGs5SUFWRk1ITElKYWJZb1lkSEQzUjRvS3dvYm5KSndadm0wVnhQNDJ5OVNma1UwY1hYcHdXVUZHZlEwVy14WVRBbzRDX2JxQlo3aHE0aUxOaWhFRWluZVNZdWJHUDdUQWxUOU9zSjFKcEJXa1hEVlE2Wk5WX1VwN1J2eGRRbnp2a29xSlpmd0NHeVJOd1VGY2ZwY1I3Nllmc01EM1HSAb8BQVVfeXFMT3FfZkRNVGQ2UUNhSUl1MmYybGE0OWNtLWE2MmhtSGd1ZmZUc0VtZUw3VzZKbmZfMlQwdmFsQnd4SlhaUGd1X3ozbXlEbUZSQnBLLVdobkE1UGV2VHNNR0FVcDdIdHlSdm1FUldVYnFhTm9sS1dvazE5U1NoblVMSWlpQXRhel9zYTNVaWFHbUpoZzlzMERKSWEtbnhIa1Bab3VWLVdxY0dRb1lqdGlfc1NxZXpFd2tkUS1GQThMZVU?oc=5
+   - Link: https://news.google.com/rss/articles/CBMi2wFBVV95cUxPYkhQMXBsRjBOaC1ia1ZJRlM1Q2p4dWxHUFRBbVFFZGQxRC1YWXBUSmZyR2U3SlliMEd5ZjZ2aVQyWHR4NzFGb2dZLXNhdzUxVFg1T0VicC1vUUlvSmxEc1FBTktuN3RuNHdJVUlUN21WM2ZBWkVBTmt6ZG9Qc3pnRUZwMzZYOTFmN2NUM2JvSk9vbDZkSWpEQnRmbW1uWTdSc2VmTFhSZXpqVnhrU19UNFR2ZExyUnZfVUx3R0t1S0JUN09OVkhpaF9nbThxUDc0OGFpWFZBNlJ3QWfSAeABQVVfeXFMTkxBdDFtLXktQXpONWZ1a3dzTXAwb3Q2c0dacUo4NWljY3dOamEzT091YmFHdWZETnhQbFUzbjg3VHRHQnRtRDZnVERtOHRTRTVUcDIzRGROLVFfel9DOUFXYzBaZ2tEWjF5UWRscDg4QzcxMmxWRjFncFdNeGhDVTRqZWdUaVlFZTFJcE4yS0xTdTl3WElSbVFHdThTTFBUeTBJNkdZN2hhcm4tb005ZUdIcEZ3Y2gxeVF2MlBLbjdOenUzVjRmRkdmSGlvNTZsQmlWRDR3dnA2ZUwxbUFSR3g?oc=5
 
-4. **Green Card por casamento: o que o USCIS realmente consegue ver da sua vida nos EUA**
+4. **Governo Trump ameaça revogar cidadania de imigrantes que cometem fraude nos EUA**
+   - Fonte: Gazeta do Povo
+   - Termo monitorado: imigração EUA
+   - Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxOSHhiTnlvdUt0ajVKWGhPeXF4eFNmSXJoTzZvRmVLa3Q2SmgyaDVCQTdGM2twN1lDdVRNRmV2Mnd0dzNIamlNeFpqdTgxLVFkRHBSQXFqV0hNUFhKZ2p3RVdfeDYwb01wb0UtN2tRd3Z3M2NDVmt1a1lwbTR4STZwd0ZYdEJoYlFOeFUyOEdZTG02QnRmVWFBUmhNSFBIQ0JYOFoxRXIza3RodmpyWnVoY1puMkJtdTJaQUE?oc=5
+
+5. **Green Card por casamento: o que o USCIS realmente consegue ver da sua vida nos EUA**
    - Fonte: nossagente.net
    - Termo monitorado: USCIS
    - Link: https://news.google.com/rss/articles/CBMifEFVX3lxTE9jaER1d0ctblZCWUE5dnRMUE1PVkxJOWNBdHZKRDAyeTJQRERjbEpKaWFOY3NQdXFuZ0NMaGVKLW1zWXUzeldCVWREdHkwZWFGb0lOMjRXYW5YdURiT3ROZmdFUHRhMUhzRUNpdExOc2RyRlpidFd4akRBWUk?oc=5
-
-5. **Pânico não é estratégia: como ler com lucidez as notícias do USCIS**
-   - Fonte: Canal MyNews
-   - Termo monitorado: USCIS
-   - Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxPa0N4WVhtU3oyYnZhcVNWb1BKODBzTXFqSF92dlp5MWttbUg2emY3cS1lMmFLcnFnQ2RDNGd3aUxmNXFoalRYSVlTVlBNV1FWYXdfRWM5MUVjUUtQNjNtS3pFdjFvWW42WnZBUDBfcjRSTnc4VWZsZ05kQnNiNHJKaFluV1YwZ0tNTUJ2cnp1QjVzc0RpM25KOGZUNTBNTXdpQ0RYWE14cGt3eHlxQ29hdU93?oc=5
 
 
 ## Sugestões de artigos para publicar
@@ -75,21 +75,21 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### visto americano
 
-- **Trump sobre vistos para a Copa do Mundo: 'Trabalhando pra garantir que as pessoas certas entrem'**
+- **Visto não garante entrada e beber na rua pode ser proibido: o que brasileiros precisam saber antes de ir à Copa**
   - Fonte: G1
-  - Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxQYjE2b1ZHSUhkbGdpb1EzSWU4cWZGNjJxdDVRTUVOUFZwRUpxS0dOaWdyWGlfNS1fRkgyZE1xa2xiUG9LVXdEVlBZN3hjUWVmNDM4RWVYd2NCTUhPaVkzeDRMZ3ppTWU2VU9iTkNvMVdrTDR3b0JhbnVmY1VUVkNVWkNINUjSAZMBQVVfeXFMTlc5WEFnaVNRbzZQR0hpZUpjWmtNTGdmTmxMX3NFUEZRUnhUNng2eE96ZTlVTVVtZDJ5T0xLVGtycFl3T3pNSlE1YUxtRGx0WlNNNXlxYTAxSU9mTzV4Zmx6WGVPRmJZVDdIMjVqN3NmX1BNRlRqSE05MnY0cElYQ0p2dWpiS2lTT0plU0t5MHhqQkhF?oc=5
-- **Material do Brand USA tira principais dúvidas sobre vistos e entrada nos EUA; acesse aqui**
+  - Link: https://news.google.com/rss/articles/CBMiiAFBVV95cUxNa0VRVGZUVVVVT0ZKY2lTcWFBajJFRGNZQ3R5TWxKUzNCcG9VbFh4OFVIQWZ1VE12UTd1LW55TEU4YkNYdDFSUDFOenRBV3ZXNUtYSS1xeEVOV1FTaERZVHBYeV9KS3dxWTlNYk5PMzRxY0dGMXJnbkdjY3V3eEgxa3RXN0NMeFFK0gGXAUFVX3lxTE1YOGk2OW4yaW1Yc1RFdjBYLVhfQjBMVmNtUk45RDh0WGpJT0FzMFJtTXVWNGhpRWtKOXdnSlhIRDBWdnFDeDhJVlNkZGs0T0xIaHBjVDMxM2tfdmttdHpTX18wU1BuMW5BdDkxTGJOUURTUFo5TXVMT2FlUUFQQVp3VFQ1SVNBcThyTTRUZ0Y3VTRTeE5WYVk?oc=5
+- **EUA terão entrevistas prioritárias para visto mediante taxa de US$ 750**
   - Fonte: Panrotas
-  - Link: https://news.google.com/rss/articles/CBMi6AFBVV95cUxNSUlFaWlHdkNBRWpITEJjbkhDNVROZ2JtTS1HWGg3TDktRExIQnJ5RjJ6UmUwUHl1UkJPQVFtanhCbXVWUVVHa1NkaVZEa1VNV3E4S2tDRW1jTzZQeWV3WU5sTmVBTkNkNFpkMWRlQWQ2NXdxN0RXcGJQd2VYcW5NWU5PdUlQaG9MM0lDWE1FRDUzVjM0VDdwcUY5QjBaSzZNcUNfQW81ZktPQ2RxUGR2UUszYXlLZXJZUzZBZVpXTHY2R0g3TFl4UU83V2xLZXhHQmZmUnY0YUQ2eXJuc1BnYVI3MVpqYWt3?oc=5
+  - Link: https://news.google.com/rss/articles/CBMizwFBVV95cUxQNFVMMFlWTlNDbWN5UXNLZXc2ZmdMQTYzM2JTLVNCVVlLVkMtMjlhbEVlWE11aDdnaVhfRzVkdHJlNzI0Um5RSXNGZDNYd1lVYmZSY3U2cFBhVzM5empPbGtNX1BhV28xWFVqdi15UDFadG1vTUF1b3dNWEoyUUhKajhkT3NFYnZRX3ZSOUEtdEZlMFQzb1Zka0RPWWd5NzZrYWRjZXJGZldXYi1nSTZoa1huTGlIdmo1MEs2RjlvZjBvSG4yX094VlFiZkFsM2M?oc=5
 
 ### brasileiros nos Estados Unidos
 
-- **Em missão oficial na ONU, ministra Janine Mello se reúne com brasileiros migrantes nos Estados Unidos**
-  - Fonte: GOV.BR
-  - Link: https://news.google.com/rss/articles/CBMi7wFBVV95cUxOZk9VSFZfVGtIdHc4VzJ2VE55SEl3bmx4elJrV1Y2V0w4dTZ1UFkyMjFuSE9MN0ozRTVoU0gwQzdxTVkxVkU1aXZvOVYwUmZKUlpYZFdBNXJlRVlrN2g5WHk1ZFZYRTAxSEJFbm9vLVdlSWpKdVJKYTRuV1oyMDdEc3JBOWhoN0hVTnNEaWZudlliWFBBbnJJWVVOQWx3U0ozWVNxc3ZWTlNTdFZkX3NCZXVkeWthRHNXd3czR0hwRklTUi1HcWZsUUw0Sk12UUQ5QlB4d2RzcEIyWjBVWklfOGxPUENDekFENlJiR09PNA?oc=5
-- **Comércio entre Brasil e EUA recua 14,3% em 2026, com queda de exportações e importações**
+- **Economia brasileira ‘dá sinais positivos’ apesar de ‘problemas’ na relação com EUA, diz ministro**
   - Fonte: Valor Econômico
-  - Link: https://news.google.com/rss/articles/CBMi6gFBVV95cUxOVnNnUWNuLS1kenRYbkhTUjhuaFA5Y0dJSzIybXV4dkFkc2Ixc0stVm02S3BOa1pfUFV4RGM4N2N5b1RfSDEtUldyaVRPQ1Jpa05fSm1HdWZ0ZExlNkJFQ3BMNDNuQmlKcGdUaVlXVHUtM2RfamxudUo0dDFBWmRSSENiWVJHRUh6T2Vxc3ktcHVTNktxRUktVlJ2dHB5R01PTm9mcjFVQ201OG1DWVJGNEM1MWdWc3VLcHQxRG5fak9BNkljNWxnNV9nUHppRFE5NzJsT25oamFidV9TbFFrVUV1ZzJPeW5qelHSAfgBQVVfeXFMTzFaS2lCWXdzMUI4dGNqNFBES0pwZWJoaFNNY2RHSEtNREhVWms4UmdhUFNiS2dBTFVSY19QcmhSeXdMTXdyRkJuOU5fVUZ5Q0VnTWdTMHp5VlkzTWk5NHJqZnlmWnVHMGFLa1ZYZ2JYS1VJNWtWUTE3NXJLa1hlNGJsenpUY051M3czamRSdUZZN2djZEdMWVhRQWdocDJxMl9wMU1yelQycUJNNkJrUzctVjM1WV9ZX2dOQnRQak5oWWNOMl8zTlI4LXJ3ZkNMU0FTRHUteVhTamxFdjNGTU00V2l6aGllYklkcXdZN09hV3BadnV6cHU?oc=5
+  - Link: https://news.google.com/rss/articles/CBMi4AFBVV95cUxNLVZpbFdlNmFpb211bmRDYmNiTmpGbGRpUTBQN2p1RVJQOTJMeWkybVZCbHZVb3NLUHlqMEpTbzh5dXJCNnpWWFhNdERnVllZZE1fU1dXQjZsc1pkakF3U2Z2MFVtYk9UN2hXVnhkYzVmNFJlUEpGc2ttUHMtallROUR6cjNLM3dlNDdyX1AybENIZ2RXalYwUnU2M0VwMGtlY2NyQ3VfNDhzUWFyQmxFR2Vka2dzQ0ViQkdiZzYzRHd5RGJ1bW9JVmd5aVkzZnoxZEh5d2xZS3BZQy03RGlQSQ?oc=5
+- **Copa do Mundo 2026 nos EUA terá tributação desigual sobre seleções**
+  - Fonte: JOTA
+  - Link: https://news.google.com/rss/articles/CBMingFBVV95cUxOQnFDdnJUbzFkS2thcko4aXVQcUdtYXc3TDZaLVBKdnJyOUpMcnRQRHFVWG9lRWJ4aXJOQnV5UW0zZFNmSVltalMwSHFQSGdtVmZWbFdfNkFOZklnN2tobWU2UnAzQndCcGRzRUdtSWhiNnl3R1ZSN04zUloteERLVUZPY3VSc2t3YWtzN0dveU8xMFRwbGFZU0VXYlJsUQ?oc=5
 
 ### asilo nos EUA
 
@@ -102,12 +102,12 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### ICE immigration
 
-- **Congresso dos EUA aprova R$ 350 bilhões para financiar ICE e políticas de deportação**
-  - Fonte: Opera Mundi
-  - Link: https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSjVWTGVXSWlrOElwZFdfak1McS1MZm1CNGd4MlJGUXdMWERFdVBmNXo4cXQ1bGtPb0hRMXRyZWdOb0ZfNV9yT3R5NXhHUk5xVnlEQl9GWE9Kbkw1ckdoVDNZNE1wOVRiRHFKQUwwRjFWcGhwZGthOV95UmFGdnpjdVVSdmhDamFOMmxaY0RDTHdVYWdYejBWeFE3bzNUVnZsdzhkaDdRdU5IMnkxRHdQanZSYXJLb0ZmZ1M0RFExZFZ6ZUE1by1pWA?oc=5
 - **Crimigração nos EUA: O ICE e a deportação de brasileiros**
   - Fonte: OPEB
   - Link: https://news.google.com/rss/articles/CBMijAFBVV95cUxNbm12Xzg3dkxsT09scFJCNi1URkpBRE1lcEJ5V0lEbmQ0RzdxcjVnWU5WM25lUXY3TGtUX04tWjFYRTdtVEhlRm5nRGlsSC1LVGpvcktHc0htbXY3elB5dlpHcGwyYW9CQVpQQ1NRbnpreUk3dEhJRHFXX3hJRWprdm1FSXVxLS1UNGR2bQ?oc=5
+- **Senado dos EUA aprova pacote de US$ 70 bilhões para operações do ICE**
+  - Fonte: CNN Brasil
+  - Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxPWW14MnZxVUNtZXF0dnUzTmZITENyc2Jtd2lNT3dVaWE3bkFkNDFFeThBRTBwWnFvZFZKb29fZGIyb1ZoQlQ1WlRlVjNqYm5WRTIwel8yamRETFU4X0d3YlNMakRUY2Zaam9mWXRYaGRJSzNIWkEzeTZyRG5HS3MxVGNPTFp3dXF1TGdFQ1RfV3R0djliTm9IWGU2OTBiQmZDd0otZGdJS2kyMnJRblNQMw?oc=5
 
 
 ## Termos monitorados
