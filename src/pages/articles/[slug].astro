@@ -1,16 +1,17 @@
 ---
 import ArticleLayout from "../../layouts/ArticleLayout.astro";
-import { getRelatedLegacyArticles, legacyArticles } from "../../data/legacyArticles";
+import { allArticles, getRelatedArticles } from "../../data/allArticles";
 
 export function getStaticPaths() {
-  return legacyArticles.map((article) => ({
+  return allArticles.map((article) => ({
     params: { slug: article.slug },
-    props: { article, relatedPosts: getRelatedLegacyArticles(article) }
+    props: { article, relatedPosts: getRelatedArticles(article) }
   }));
 }
 
 const { article, relatedPosts } = Astro.props;
+const MarkdownContent = article.source === "markdown" ? article.Content : null;
 ---
 <ArticleLayout article={article} relatedPosts={relatedPosts} renderFaqSection={false}>
-  <Fragment set:html={article.content} />
+  {MarkdownContent ? <MarkdownContent /> : <Fragment set:html={article.content} />}
 </ArticleLayout>

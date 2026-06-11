@@ -154,8 +154,8 @@ const migrationRiskArticles = [];
 const linkWarnings = [];
 const linkErrors = [];
 
-if (generatedArticleFiles.length !== legacyArticles.length) {
-  errors.push(`Quantidade de artigos gerados incorreta: esperado ${legacyArticles.length}, encontrado ${generatedArticleFiles.length}.`);
+if (generatedArticleFiles.length < legacyArticles.length) {
+  errors.push(`Quantidade de artigos gerados menor que o acervo legado: esperado pelo menos ${legacyArticles.length}, encontrado ${generatedArticleFiles.length}.`);
 }
 
 for (const article of legacyArticles) {

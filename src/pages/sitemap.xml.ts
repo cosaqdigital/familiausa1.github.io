@@ -1,4 +1,4 @@
-import { legacyArticles } from "../data/legacyArticles";
+import { allArticles } from "../data/allArticles";
 import { siteCategories } from "../data/categories";
 import { pageUrl, sitePages } from "../data/sitePages";
 
@@ -47,7 +47,7 @@ ${urls}
 }
 
 export function GET() {
-  const articleEntries: SitemapEntry[] = legacyArticles.map((article) => ({
+  const articleEntries: SitemapEntry[] = allArticles.map((article) => ({
     loc: article.canonical,
     lastmod: article.dateModified || article.datePublished || "2026-06-06",
     changefreq: "weekly",

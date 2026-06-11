@@ -1,6 +1,6 @@
 # Relatorio de estrutura editorial Astro
 
-Data da validacao: 2026-06-07T01:02:59.403Z
+Data da validacao: 2026-06-11T05:11:56.564Z
 
 ## Resumo
 
@@ -8,6 +8,8 @@ Data da validacao: 2026-06-07T01:02:59.403Z
 - Paginas esperadas: 177
 - Paginas principais esperadas: 6
 - Categorias geradas/esperadas: 20/20
+- Artigos legados esperados: 151
+- Artigos Markdown publicados: 0
 - Artigos gerados/esperados: 151/151
 - Categorias com CollectionPage: 20/20
 - Categorias com BreadcrumbList: 20/20

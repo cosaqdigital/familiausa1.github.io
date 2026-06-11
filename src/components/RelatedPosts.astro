@@ -1,9 +1,9 @@
 ---
 import ArticleCard from "./ArticleCard.astro";
-import type { PilotArticle } from "../data/pilotContent";
+import type { SiteArticle } from "../data/allArticles";
 
 interface Props {
-  posts?: PilotArticle[];
+  posts?: SiteArticle[];
 }
 
 const { posts = [] } = Astro.props;

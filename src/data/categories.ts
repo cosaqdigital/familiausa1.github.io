@@ -1,5 +1,5 @@
 import { SITE_URL } from "./pilotContent";
-import { legacyArticles, type LegacyGeneratedArticle } from "./legacyArticles";
+import { allArticles, type SiteArticle } from "./allArticles";
 
 export type SiteCategory = {
   slug: string;
@@ -232,7 +232,7 @@ export const siteCategories: SiteCategory[] = [
   }
 ];
 
-function articleMatches(category: SiteCategory, article: LegacyGeneratedArticle) {
+function articleMatches(category: SiteCategory, article: SiteArticle) {
   const normalizedCategory = normalize(article.category);
   const categoryMatches = category.matchCategories.map(normalize);
   if (categoryMatches.includes(normalizedCategory)) {
@@ -243,7 +243,7 @@ function articleMatches(category: SiteCategory, article: LegacyGeneratedArticle)
   return category.matchKeywords.some((keyword) => haystack.includes(normalize(keyword)));
 }
 
-function compareArticles(left: LegacyGeneratedArticle, right: LegacyGeneratedArticle) {
+function compareArticles(left: SiteArticle, right: SiteArticle) {
   return (right.dateModified || right.datePublished).localeCompare(left.dateModified || left.datePublished);
 }
 
@@ -256,13 +256,13 @@ export function getCategoryBySlug(slug: string) {
 }
 
 export function getArticlesForCategory(category: SiteCategory) {
-  return legacyArticles
+  return allArticles
     .filter((article) => articleMatches(category, article))
     .sort(compareArticles);
 }
 
 export function getFeaturedArticles(limit = 24) {
-  return [...legacyArticles].sort(compareArticles).slice(0, limit);
+  return [...allArticles].sort(compareArticles).slice(0, limit);
 }
 
 export function getCategoryGroups() {

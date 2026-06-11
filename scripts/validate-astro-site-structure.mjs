@@ -8,6 +8,7 @@ const reportsDir = path.join(root, "src", "data", "legacy-extract");
 const currentSitemapPath = path.join(root, "sitemap.xml");
 const astroSitemapPath = path.join(dist, "sitemap.xml");
 const categoriesDir = path.join(root, "categorias");
+const markdownArticlesDir = path.join(root, "src", "content", "articles");
 const siteUrl = "https://familiausa1.com";
 
 const sitemapReportPath = path.join(reportsDir, "astro-sitemap-comparison-report.md");
@@ -110,6 +111,32 @@ function sourceCategorySlugs() {
     .sort();
 }
 
+function scalar(frontmatter, key) {
+  const match = frontmatter.match(new RegExp(`^${key}:\\s*(.+)$`, "m"));
+  return match ? match[1].trim().replace(/^['"]|['"]$/g, "").trim() : "";
+}
+
+function markdownArticleEntries() {
+  if (!fs.existsSync(markdownArticlesDir)) return [];
+
+  return fs.readdirSync(markdownArticlesDir)
+    .filter((file) => file.endsWith(".md") && !file.startsWith("_"))
+    .map((file) => {
+      const markdown = fs.readFileSync(path.join(markdownArticlesDir, file), "utf8");
+      const frontmatter = markdown.match(/^---\r?\n([\s\S]*?)\r?\n---/)?.[1] ?? "";
+      const draft = scalar(frontmatter, "draft");
+      const slug = scalar(frontmatter, "slug") || file.replace(/\.md$/, "");
+      return {
+        slug,
+        path: `articles/${slug}.html`,
+        canonical: `${siteUrl}/articles/${slug}.html`,
+        draft
+      };
+    })
+    .filter((entry) => entry.draft === "false")
+    .sort((left, right) => left.path.localeCompare(right.path));
+}
+
 function hrefTargets(html, currentFile) {
   const currentDir = path.posix.dirname(currentFile);
   return [...html.matchAll(/\bhref=["']([^"']+)["']/gi)]
@@ -139,7 +166,12 @@ function bulletList(items, emptyText = "Nenhum item encontrado.") {
 
 const legacy = JSON.parse(fs.readFileSync(legacyPath, "utf8"));
 const legacyArticles = legacy.articles ?? [];
-const articlePaths = legacyArticles.map((article) => `articles/${article.slug}.html`).sort();
+const markdownArticles = markdownArticleEntries();
+const articlePaths = [
+  ...legacyArticles.map((article) => `articles/${article.slug}.html`),
+  ...markdownArticles.map((article) => article.path)
+].sort();
+const markdownCanonicalSet = new Set(markdownArticles.map((article) => article.canonical));
 const categorySlugs = sourceCategorySlugs();
 const categoryPaths = categorySlugs.map((slug) => `categorias/${slug}.html`);
 const expectedPaths = [...rootPages, ...categoryPaths, ...articlePaths];
@@ -190,7 +222,9 @@ for (const relativePath of expectedPaths) {
   const html = fs.readFileSync(fullPath, "utf8");
   const canonical = canonicalOf(html);
   const expectedCanonical = relativePath.startsWith("articles/")
-    ? legacyArticles.find((article) => `articles/${article.slug}.html` === relativePath)?.canonical ?? canonicalForPath(relativePath)
+    ? legacyArticles.find((article) => `articles/${article.slug}.html` === relativePath)?.canonical
+      ?? markdownArticles.find((article) => article.path === relativePath)?.canonical
+      ?? canonicalForPath(relativePath)
     : canonicalForPath(relativePath);
   const isArticle = relativePath.startsWith("articles/");
   const isCategory = relativePath.startsWith("categorias/");
@@ -277,8 +311,13 @@ warnings.push(...linkWarnings);
 
 const currentOnlyUrls = currentSitemap.urls.filter((url) => !astroSitemap.set.has(url));
 const astroOnlyUrls = astroSitemap.urls.filter((url) => !currentSitemap.set.has(url));
-const missingArticleUrls = legacyArticles
-  .map((article) => article.canonical)
+const allowedNewMarkdownUrls = astroOnlyUrls.filter((url) => markdownCanonicalSet.has(url));
+const unexpectedAstroOnlyUrls = astroOnlyUrls.filter((url) => !markdownCanonicalSet.has(url));
+const expectedArticleCanonicals = [
+  ...legacyArticles.map((article) => article.canonical),
+  ...markdownArticles.map((article) => article.canonical)
+];
+const missingArticleUrls = expectedArticleCanonicals
   .filter((url) => !astroSitemap.set.has(url));
 const missingCategoryUrls = categoryPaths
   .map((relativePath) => canonicalForPath(relativePath))
@@ -303,9 +342,9 @@ if (missingRootUrls.length > 0) {
   errors.push(`Sitemap Astro nao contem todas as paginas principais: ${missingRootUrls.length} ausentes.`);
 }
 
-const currentVsAstroUrlSetMatches = currentOnlyUrls.length === 0 && astroOnlyUrls.length === 0;
+const currentVsAstroUrlSetMatches = currentOnlyUrls.length === 0 && unexpectedAstroOnlyUrls.length === 0;
 if (!currentVsAstroUrlSetMatches) {
-  errors.push(`Sitemap Astro diverge do sitemap atual: ${currentOnlyUrls.length} URLs faltando e ${astroOnlyUrls.length} URLs extras.`);
+  errors.push(`Sitemap Astro diverge do sitemap atual: ${currentOnlyUrls.length} URLs faltando e ${unexpectedAstroOnlyUrls.length} URLs extras inesperadas.`);
 }
 
 const sitemapReport = `# Comparacao de sitemap Astro
@@ -316,12 +355,15 @@ Data da validacao: ${new Date().toISOString()}
 
 - URLs no sitemap atual: ${currentSitemap.urls.length}
 - URLs no sitemap Astro: ${astroSitemap.urls.length}
-- Artigos esperados: ${legacyArticles.length}
+- Artigos legados esperados: ${legacyArticles.length}
+- Artigos Markdown publicados: ${markdownArticles.length}
+- Artigos totais esperados: ${articlePaths.length}
 - Categorias esperadas: ${categoryPaths.length}
 - Paginas principais esperadas: ${rootPages.length}
 - Duplicatas no sitemap atual: ${currentSitemap.duplicates.length}
 - Duplicatas no sitemap Astro: ${astroSitemap.duplicates.length}
-- URL set atual vs Astro igual: ${currentVsAstroUrlSetMatches ? "sim" : "nao"}
+- URL set atual preservado no Astro: ${currentOnlyUrls.length === 0 ? "sim" : "nao"}
+- URLs extras permitidas por Markdown: ${allowedNewMarkdownUrls.length}
 
 ## URLs faltando no Astro
 
@@ -330,6 +372,14 @@ ${bulletList(currentOnlyUrls)}
 ## URLs extras no Astro
 
 ${bulletList(astroOnlyUrls)}
+
+## URLs extras permitidas por Markdown
+
+${bulletList(allowedNewMarkdownUrls)}
+
+## URLs extras inesperadas
+
+${bulletList(unexpectedAstroOnlyUrls)}
 
 ## Artigos ausentes no sitemap Astro
 
@@ -345,7 +395,7 @@ ${bulletList(missingRootUrls)}
 
 ## Recomendacao
 
-${currentVsAstroUrlSetMatches && astroSitemap.duplicates.length === 0 ? "O sitemap gerado pelo Astro preserva o conjunto de URLs atual e esta apto para a proxima etapa de validacao." : "Corrigir divergencias antes de qualquer merge para main."}
+${currentVsAstroUrlSetMatches && astroSitemap.duplicates.length === 0 ? "O sitemap gerado pelo Astro preserva o conjunto de URLs atual e permite crescimento futuro via artigos Markdown validados." : "Corrigir divergencias antes de qualquer merge para main."}
 `;
 
 const pagesWithErrors = pageResults.filter((item) => item.localErrors.length > 0);
@@ -360,6 +410,8 @@ Data da validacao: ${new Date().toISOString()}
 - Paginas esperadas: ${expectedPaths.length}
 - Paginas principais esperadas: ${rootPages.length}
 - Categorias geradas/esperadas: ${categoryPaths.filter((file) => generatedPathSet.has(file)).length}/${categoryPaths.length}
+- Artigos legados esperados: ${legacyArticles.length}
+- Artigos Markdown publicados: ${markdownArticles.length}
 - Artigos gerados/esperados: ${articlePaths.filter((file) => generatedPathSet.has(file)).length}/${articlePaths.length}
 - Categorias com CollectionPage: ${categoryCollectionPages}/${categoryPaths.length}
 - Categorias com BreadcrumbList: ${categoryBreadcrumbs}/${categoryPaths.length}
@@ -407,5 +459,5 @@ if (errors.length > 0) {
   process.exit(1);
 }
 
-console.log(`Estrutura Astro validada: ${expectedPaths.length} paginas, ${legacyArticles.length} artigos, ${categoryPaths.length} categorias, ${totalInternalLinksChecked} links internos analisados.`);
+console.log(`Estrutura Astro validada: ${expectedPaths.length} paginas, ${legacyArticles.length} artigos legados, ${markdownArticles.length} artigos Markdown, ${categoryPaths.length} categorias, ${totalInternalLinksChecked} links internos analisados.`);
 console.log(`Relatorios gerados:\n- ${sitemapReportPath}\n- ${structureReportPath}`);

@@ -1,20 +1,25 @@
-name: Astro POC Validation
+name: Deploy Astro to GitHub Pages
 
 on:
   push:
     branches:
-      - astro-migration
-  pull_request:
-    branches:
-      - astro-migration
+      - main
+  workflow_dispatch:
 
 permissions:
   contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
 
 jobs:
-  validate:
-    name: Build and validate Astro POC
+  build:
+    name: Build and validate Astro site
     runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/main'
 
     steps:
       - name: Checkout
@@ -33,7 +38,7 @@ jobs:
             npm install
           fi
 
-      - name: Build Astro POC
+      - name: Build Astro site
         run: npm run build
 
       - name: Validate generated POC
@@ -54,11 +59,24 @@ jobs:
       - name: Validate new Markdown articles
         run: npm run validate:new-article
 
-      - name: Upload dist artifact for inspection
-        uses: actions/upload-artifact@v4
-        if: always()
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload GitHub Pages artifact
+        uses: actions/upload-pages-artifact@v3
         with:
-          name: astro-poc-dist
           path: dist
-          if-no-files-found: ignore
-          retention-days: 7
+
+  deploy:
+    name: Deploy to GitHub Pages
+    needs: build
+    runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/main'
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Deploy artifact
+        id: deployment
+        uses: actions/deploy-pages@v4

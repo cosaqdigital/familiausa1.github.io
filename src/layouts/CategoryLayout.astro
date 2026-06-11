@@ -2,13 +2,13 @@
 import BaseLayout from "./BaseLayout.astro";
 import ArticleCard from "../components/ArticleCard.astro";
 import ChecklistCTA from "../components/ChecklistCTA.astro";
-import type { LegacyGeneratedArticle } from "../data/legacyArticles";
+import type { SiteArticle } from "../data/allArticles";
 import type { SiteCategory } from "../data/categories";
 import { SITE_URL } from "../data/pilotContent";
 
 interface Props {
   category: SiteCategory;
-  posts: LegacyGeneratedArticle[];
+  posts: SiteArticle[];
 }
 
 const { category, posts } = Astro.props;
