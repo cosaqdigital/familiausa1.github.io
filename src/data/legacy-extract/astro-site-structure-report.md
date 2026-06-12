@@ -1,6 +1,6 @@
 # Relatorio de estrutura editorial Astro
 
-Data da validacao: 2026-06-12T05:25:18.787Z
+Data da validacao: 2026-06-12T15:53:26.857Z
 
 ## Resumo
 
@@ -15,7 +15,7 @@ Data da validacao: 2026-06-12T05:25:18.787Z
 - Categorias com BreadcrumbList: 20/20
 - Artigos com BlogPosting: 151/151
 - Artigos com FAQPage: 143
-- Links internos analisados: 6902
+- Links internos analisados: 7022
 - Erros: 0
 - Avisos: 0
 

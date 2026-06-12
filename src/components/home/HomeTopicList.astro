@@ -1,0 +1,27 @@
+---
+type Topic = {
+  label: string;
+  href: string;
+  description?: string;
+};
+
+interface Props {
+  title: string;
+  eyebrow?: string;
+  topics: Topic[];
+}
+
+const { title, eyebrow, topics } = Astro.props;
+---
+<div class="topic-card">
+  {eyebrow && <div class="eyebrow">{eyebrow}</div>}
+  <h2>{title}</h2>
+  <div class="topic-list">
+    {topics.map((topic) => (
+      <a class="topic-link" href={topic.href}>
+        <span>{topic.label}</span>
+        {topic.description && <small>{topic.description}</small>}
+      </a>
+    ))}
+  </div>
+</div>

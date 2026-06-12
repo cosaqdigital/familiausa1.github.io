@@ -1,63 +1,288 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
-import ArticleCard from "../components/ArticleCard.astro";
 import ChecklistCTA from "../components/ChecklistCTA.astro";
-import { SITE_URL, pilotArticles, pilotCategories, categoryUrl } from "../data/pilotContent";
+import HomeHero from "../components/home/HomeHero.astro";
+import HomeSection from "../components/home/HomeSection.astro";
+import HomeFeatureCard from "../components/home/HomeFeatureCard.astro";
+import HomeVideoHighlight from "../components/home/HomeVideoHighlight.astro";
+import HomeArticleGrid from "../components/home/HomeArticleGrid.astro";
+import HomeTopicList from "../components/home/HomeTopicList.astro";
+import { SITE_URL } from "../data/pilotContent";
+import { allArticles, getArticleBySlug, type SiteArticle } from "../data/allArticles";
+import { categoryUrl, getArticlesForCategory, getCategoryBySlug, siteCategories } from "../data/categories";
 
 const title = "A realidade dos brasileiros nos Estados Unidos | FamiliaUSA1";
-const description = "Protótipo Astro do Família USA 1 preservando URLs .html, SEO técnico, artigos, categorias, Google Analytics e estrutura de links.";
+const description = "Portal premium sobre vida real de brasileiros nos EUA: leis, imigração, trabalho, custos, alertas e erros que podem sair caro.";
+const homeImage = `${SITE_URL}/assets/images/familiausa1/familiausa1-sobre.webp`;
+const videoId = "Dx6UjWv3P_U";
+
+function uniqueBySlug(articles: (SiteArticle | undefined)[]) {
+  const seen = new Set<string>();
+  return articles.filter((article): article is SiteArticle => {
+    if (!article || seen.has(article.slug)) {
+      return false;
+    }
+    seen.add(article.slug);
+    return true;
+  });
+}
+
+function bySlug(slugs: string[]) {
+  return uniqueBySlug(slugs.map((slug) => getArticleBySlug(slug)));
+}
+
+function byCategory(slug: string, limit = 6) {
+  const category = getCategoryBySlug(slug);
+  return category ? getArticlesForCategory(category).slice(0, limit) : [];
+}
+
+const featuredNews = getArticleBySlug("eua-classificam-cv-pcc-terroristas-entenda");
+const latestArticles = allArticles.slice(0, 9);
+const northArticles = bySlug([
+  "morar-em-boston-2026",
+  "morar-em-cambridge-massachusetts-2026",
+  "morar-em-worcester-massachusetts-2026",
+  "morar-em-framingham-massachusetts-2026",
+  "morar-em-providence-rhode-island-2026",
+  "morar-em-manchester-new-hampshire-2026"
+]);
+const floridaArticles = bySlug([
+  "cidades-da-florida-com-mais-brasileiros-2026",
+  "miami-ou-orlando-onde-morar-2026",
+  "quanto-custa-morar-em-orlando-2026",
+  "quanto-custa-morar-em-miami-2026",
+  "quanto-custa-morar-em-tampa-2026",
+  "morar-em-deerfield-beach-2026"
+]);
+const vistoArticles = byCategory("visto-americano", 6);
+const orlandoArticles = uniqueBySlug([
+  ...byCategory("orlando-e-viagem", 6),
+  ...byCategory("orlando-disney", 4),
+  ...byCategory("compras-nos-eua", 3)
+]).slice(0, 9);
+const financeArticles = uniqueBySlug([
+  ...byCategory("custo-de-vida", 5),
+  ...byCategory("banco-credito", 3),
+  ...byCategory("trabalho-renda", 3),
+  ...byCategory("planejamento", 3)
+]).slice(0, 9);
+const alertArticles = uniqueBySlug([
+  ...byCategory("imigracao-legalizacao", 6),
+  ...byCategory("asilo-nos-eua", 4),
+  ...byCategory("noticias-eua", 4),
+  ...byCategory("vida-real-nos-eua", 3)
+]).slice(0, 9);
+
+const quickPaths = [
+  {
+    title: "Vida real nos EUA",
+    description: "Trabalho, adaptação, rotina e o choque cultural americano.",
+    href: categoryUrl("vida-real-nos-eua")
+  },
+  {
+    title: "Leis e imigração",
+    description: "O que pode causar problemas legais para imigrantes.",
+    href: categoryUrl("imigracao-legalizacao")
+  },
+  {
+    title: "Dinheiro e custo de vida",
+    description: "Aluguel, crédito, mercado, carro e despesas reais nos EUA.",
+    href: categoryUrl("custo-de-vida")
+  }
+];
+
+const trendingTopics = [
+  { label: "ICE e imigração", href: categoryUrl("imigracao-legalizacao") },
+  { label: "Custos reais nos EUA", href: categoryUrl("custo-de-vida") },
+  { label: "Leis americanas", href: categoryUrl("vida-real-nos-eua") },
+  { label: "Golpes contra imigrantes", href: "/articles/7-sinais-de-golpe-na-imigracao-dos-eua.html" },
+  { label: "Trabalho e adaptação", href: categoryUrl("trabalho-renda") },
+  { label: "Erros que podem gerar problemas legais", href: "/articles/situacoes-causar-deportacao-problemas-legais-eua.html" }
+];
+
+const newTopics = siteCategories
+  .filter((category) => ["saude-nos-eua", "asilo-nos-eua", "cidades-do-norte-e-massachusetts", "banco-credito"].includes(category.slug))
+  .map((category) => ({
+    label: category.title,
+    href: categoryUrl(category.slug),
+    description: category.description
+  }));
+
+const websiteSchema = {
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  name: "FamiliaUSA1",
+  url: `${SITE_URL}/`,
+  inLanguage: "pt-BR",
+  description,
+  publisher: {
+    "@type": "Organization",
+    name: "FamiliaUSA1",
+    url: SITE_URL,
+    sameAs: ["https://www.instagram.com/familiausa1", "https://www.youtube.com/@familiausa1"]
+  }
+};
+
+const organizationSchema = {
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  name: "FamiliaUSA1",
+  url: SITE_URL,
+  logo: `${SITE_URL}/assets/images/familiausa1-share.svg`,
+  image: homeImage,
+  sameAs: ["https://www.instagram.com/familiausa1", "https://www.youtube.com/@familiausa1"]
+};
+
+const videoSchema = {
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  name: "Vídeo em destaque do FamiliaUSA1 sobre vida real nos Estados Unidos",
+  description: "Conteúdo em destaque do Família USA 1 no YouTube sobre vida nos Estados Unidos, imigração, custo de vida e adaptação para brasileiros.",
+  thumbnailUrl: [`https://img.youtube.com/vi/${videoId}/maxresdefault.jpg`],
+  uploadDate: "2026-05-21T12:00:00-04:00",
+  embedUrl: `https://www.youtube-nocookie.com/embed/${videoId}`,
+  contentUrl: `https://www.youtube.com/watch?v=${videoId}`,
+  publisher: { "@type": "Organization", name: "FamiliaUSA1", url: `${SITE_URL}/` }
+};
 ---
-<BaseLayout title={title} description={description} canonical={`${SITE_URL}/`}>
-  <section class="hero-cinematic" aria-labelledby="hero-title">
-    <div class="container hero">
-      <div class="hero-copy">
-        <div class="eyebrow hero-eyebrow">Protótipo Astro seguro</div>
-        <h1 id="hero-title">A realidade dos brasileiros nos Estados Unidos</h1>
-        <p>Esta prova de conceito valida uma migração segura para Astro sem mudar URLs, canonicals, schema, header, footer ou identidade editorial.</p>
+<BaseLayout title={title} description={description} canonical={`${SITE_URL}/`} image={homeImage} schemas={[websiteSchema, organizationSchema, videoSchema]}>
+  <HomeHero />
+
+  <section class="container institutional-section" aria-labelledby="familiausa1-institucional">
+    <div class="institutional-card">
+      <div class="institutional-copy">
+        <div class="eyebrow">Projeto com rosto e história</div>
+        <h2 id="familiausa1-institucional">Conheça o Família USA 1</h2>
+        <p>Somos uma família brasileira vivendo nos Estados Unidos e compartilhando experiências reais sobre imigração, adaptação, trabalho, custo de vida, educação, viagens e vida familiar.</p>
+        <p>Criamos o Família USA 1 para ajudar outros brasileiros a tomar decisões mais conscientes sobre a vida nos EUA, com informação prática, experiências reais e conteúdo atualizado.</p>
         <div class="actions">
-          <a class="button primary" href="/blog.html">Ver artigos piloto</a>
-          <a class="button secondary hero-secondary" href="/categorias.html">Explorar categorias</a>
+          <a class="button primary" href="/sobre.html">Nossa História</a>
+          <a class="button secondary" href="/comece-aqui.html">Comece Aqui</a>
         </div>
       </div>
-      <div class="hero-panel">
-        <article class="stat-card info-card">
-          <div class="stat-label">SEO técnico</div>
-          <div class="stat-value">URLs .html preservadas</div>
-          <p>O build precisa gerar arquivos como blog.html, articles/slug.html e categorias/slug.html.</p>
-        </article>
-        <article class="stat-card info-card">
-          <div class="stat-label">Escala editorial</div>
-          <div class="stat-value">Layouts reutilizáveis</div>
-          <p>Artigos, categorias, CTA e schema passam a ser padronizados por componentes.</p>
-        </article>
-      </div>
+      <figure class="institutional-media">
+        <img src="/assets/images/familiausa1/familiausa1-sobre.webp" alt="Família brasileira vivendo nos Estados Unidos, criadora do Família USA 1" width="768" height="1024" loading="lazy" />
+      </figure>
     </div>
   </section>
 
-  <section class="container section">
-    <div class="section-header">
-      <h2>Clusters piloto</h2>
-      <p>Hubs essenciais para validar navegação, links internos e topical authority antes de migrar todos os artigos.</p>
-    </div>
+  <HomeVideoHighlight
+    videoId={videoId}
+    title="Vídeo em destaque da semana"
+    description="Veja o novo conteúdo em destaque do canal Família USA 1 sobre vida nos Estados Unidos, imigração, custo de vida, trabalho e adaptação para brasileiros."
+  />
+
+  {featuredNews && (
+    <section class="container editorial-lead" aria-labelledby="manchete-principal">
+      <HomeFeatureCard
+        title="EUA classificam CV e PCC como terroristas? Entenda o que está acontecendo"
+        description="Entenda o que foi anunciado, a diferença entre PCC facção e Partido Comunista Chinês, e quais impactos podem existir para brasileiros nos EUA."
+        href="/articles/eua-classificam-cv-pcc-terroristas-entenda.html"
+        category="Notícia urgente"
+        meta="Atualizado em 2026"
+        image="/assets/images/articles/eua-cv-pcc-terroristas-2026.webp"
+        alt="Thumbnail jornalística sobre EUA, CV e PCC em matéria sobre classificação terrorista e impactos para brasileiros"
+        badge="ALERTA"
+        id="manchete-principal"
+      />
+    </section>
+  )}
+
+  <HomeSection
+    title="O que brasileiros mais precisam entender nos EUA"
+    description="Antes de tomar decisões grandes, entenda os temas que mais pesam na vida real de quem imigra."
+    id="entender-eua"
+    wide={false}
+  >
     <div class="category-grid">
-      {pilotCategories.map((category) => (
-        <a class="card category-card" href={categoryUrl(category.slug)}>
-          <div class="category-title">{category.title}</div>
-          <p class="card-copy">{category.description}</p>
+      {quickPaths.map((item) => (
+        <a class="card category-card home-path-card" href={item.href}>
+          <div class="category-title">{item.title}</div>
+          <p class="card-copy">{item.description}</p>
         </a>
       ))}
     </div>
-  </section>
+  </HomeSection>
 
   <ChecklistCTA />
 
-  <section class="container section-wide">
-    <div class="section-header">
-      <h2>Artigos piloto em Astro</h2>
-      <p>Estes conteúdos validam ArticleLayout, BlogPosting, FAQPage, links internos e CTA do checklist.</p>
+  <HomeSection
+    title="Onde morar no Norte dos EUA e em Massachusetts em 2026"
+    description="Compare Boston, Cambridge, Worcester, Framingham, Providence e Manchester NH por custo de vida, trabalho, estudo, comunidade brasileira, inverno e qualidade de vida."
+    id="onde-morar-norte"
+  >
+    <div class="section-actions">
+      <a class="read-more" href="/categorias/cidades-do-norte-e-massachusetts.html">Abrir hub do Norte e Massachusetts -&gt;</a>
     </div>
-    <div class="article-grid">
-      {pilotArticles.map((article) => <ArticleCard article={article} />)}
+    <HomeArticleGrid articles={northArticles} compact />
+  </HomeSection>
+
+  <HomeSection
+    title="Onde morar na Flórida em 2026"
+    description="Compare cidades da Flórida por custo de vida, trabalho, escolas, comunidade brasileira, praia e qualidade de vida."
+    id="onde-morar-florida"
+  >
+    <div class="section-actions">
+      <a class="read-more" href="/categorias/cidades-da-florida.html">Abrir hub de cidades da Flórida -&gt;</a>
     </div>
+    <HomeArticleGrid articles={floridaArticles} compact />
+  </HomeSection>
+
+  <HomeSection title="Últimos artigos" description="Novos guias e alertas publicados no Família USA 1." id="ultimos-artigos">
+    <HomeArticleGrid articles={latestArticles} imageCards />
+  </HomeSection>
+
+  <HomeSection title="Visto americano" description="Guias completos sobre visto, DS-160, entrevista, documentos, custos, prazos e erros que brasileiros devem evitar." id="visto-americano">
+    <HomeArticleGrid articles={vistoArticles} imageCards />
+  </HomeSection>
+
+  <HomeSection title="Orlando e Disney" description="Planejamento de viagem para Orlando: Disney, custos, outlets, aluguel de carro, compras e dicas para famílias brasileiras." id="orlando-disney">
+    <HomeArticleGrid articles={orlandoArticles} imageCards />
+  </HomeSection>
+
+  <HomeSection title="Vida financeira e recomeço nos EUA" description="Custo de vida, trabalho, aluguel, crédito, banco, primeiros passos e decisões que pesam no bolso de quem vive nos EUA." id="vida-financeira">
+    <HomeArticleGrid articles={financeArticles} imageCards />
+  </HomeSection>
+
+  <HomeSection title="Alertas, imigração e problemas legais" description="Conteúdos importantes sobre golpes, deportação, imigração, documentos, segurança e situações que podem gerar risco para brasileiros." id="alertas-imigracao">
+    <HomeArticleGrid articles={alertArticles} />
+  </HomeSection>
+
+  <section class="highlight-band">
+    <div class="container highlight-inner">
+      <div>
+        <h2>A vida nos EUA não é como mostram na internet</h2>
+        <p>Aqui você encontra experiências reais, alertas importantes e informações que podem evitar erros caros nos Estados Unidos.</p>
+      </div>
+      <div class="actions">
+        <a class="button primary" href="/blog.html">Ver todos os artigos</a>
+        <a class="button secondary" href="https://www.youtube.com/@familiausa1" target="_blank" rel="noopener">YouTube</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="container trending-section" aria-labelledby="assuntos-mais-lidos">
+    <div class="trending-card">
+      <div class="trending-media">
+        <img src="/assets/images/articles/mais-lidos-brasileiros-eua.webp" alt="Brasileiros acompanhando assuntos importantes sobre vida nos Estados Unidos" loading="lazy" />
+        <span class="content-badge badge-hot">MAIS LIDO</span>
+      </div>
+      <HomeTopicList title="Assuntos que brasileiros estão acompanhando" eyebrow="Portal vivo" topics={trendingTopics} />
+    </div>
+  </section>
+
+  <section class="container content-grid">
+    <div class="card topics">
+      <HomeTopicList title="Novos temas no blog" topics={newTopics} />
+    </div>
+    <aside class="card social-card">
+      <div class="card-label">Acompanhe o FamiliaUSA1</div>
+      <p class="card-copy">Use o blog para aprofundar os temas e acompanhe os conteúdos rápidos nas redes.</p>
+      <div class="social-links">
+        <a class="social-link" href="https://www.instagram.com/familiausa1" target="_blank" rel="noopener">Instagram <span>-&gt;</span></a>
+        <a class="social-link" href="https://www.youtube.com/@familiausa1" target="_blank" rel="noopener">YouTube <span>-&gt;</span></a>
+        <a class="social-link" href="/blog.html">Artigos <span>-&gt;</span></a>
+      </div>
+    </aside>
   </section>
 </BaseLayout>

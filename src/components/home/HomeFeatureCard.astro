@@ -1,0 +1,44 @@
+---
+interface Props {
+  title: string;
+  description: string;
+  href: string;
+  category?: string;
+  meta?: string;
+  image?: string;
+  alt?: string;
+  badge?: string;
+  cta?: string;
+  id?: string;
+}
+
+const {
+  title,
+  description,
+  href,
+  category = "Destaque",
+  meta,
+  image,
+  alt = "",
+  badge,
+  cta = "Ler análise completa",
+  id
+} = Astro.props;
+---
+<article class="main-story main-story-visual">
+  {image && (
+    <a class="main-story-media" href={href} aria-label={`Ler ${title}`}>
+      <img src={image} alt={alt || title} loading="lazy" />
+      {badge && <span class="content-badge badge-alert">{badge}</span>}
+    </a>
+  )}
+  <div class="main-story-copy">
+    <div class="story-kicker">{category}</div>
+    <h2 id={id}><a href={href}>{title}</a></h2>
+    <p>{description}</p>
+    <div class="story-meta">
+      {meta && <span>{meta}</span>}
+      <a class="read-more" href={href}>{cta} -&gt;</a>
+    </div>
+  </div>
+</article>
