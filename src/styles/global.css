@@ -787,10 +787,15 @@ main {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(270px, 1fr));
   gap: 20px;
+  align-items: stretch;
 }
 
 .home-article-grid-compact {
   grid-template-columns: repeat(auto-fit, minmax(310px, 1fr));
+}
+
+.home-article-grid-media {
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
 }
 
 .home-post-card {
@@ -821,6 +826,10 @@ main {
   display: block;
   min-height: 188px;
   border-radius: 0;
+}
+
+.home-article-grid-media .home-post-media {
+  aspect-ratio: 16 / 9;
 }
 
 .highlight-band {

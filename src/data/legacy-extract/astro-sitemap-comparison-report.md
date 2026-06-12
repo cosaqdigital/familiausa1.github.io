@@ -1,6 +1,6 @@
 # Comparacao de sitemap Astro
 
-Data da validacao: 2026-06-12T15:53:26.856Z
+Data da validacao: 2026-06-12T22:36:09.525Z
 
 ## Resumo
 

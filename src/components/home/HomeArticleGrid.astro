@@ -18,22 +18,48 @@ function imagePath(image?: string) {
   return image.startsWith(SITE_URL) ? image.replace(SITE_URL, "") : image;
 }
 ---
-<div class:list={["home-article-grid", compact && "home-article-grid-compact", imageCards && "home-article-grid-media"]}>
+
+<div class:list={[
+  "home-article-grid",
+  compact && "home-article-grid-compact",
+  imageCards && "home-article-grid-media"
+]}>
   {articles.map((article) => {
     const src = imagePath(article.image);
+    const title = article.cardTitle || article.title;
+    const description = article.excerpt || article.description;
+
     return (
       <article class="card post-card home-post-card">
         {imageCards && src && (
-          <a class="home-post-media" href={articleUrl(article.slug)} aria-label={`Ler ${article.cardTitle || article.title}`}>
-            <img src={src} alt={article.cardTitle || article.title} loading="lazy" />
+          <a
+            class="home-post-media"
+            href={articleUrl(article.slug)}
+            aria-label={`Ler ${title}`}
+          >
+            <img
+              src={src}
+              alt={`Imagem do artigo: ${title}`}
+              loading="lazy"
+            />
           </a>
         )}
-        <div class="post-category">{article.category}</div>
-        <h3><a href={articleUrl(article.slug)}>{article.cardTitle || article.title}</a></h3>
-        <p>{article.excerpt || article.description}</p>
+
+        {article.category && (
+          <div class="post-category">{article.category}</div>
+        )}
+
+        <h3>
+          <a href={articleUrl(article.slug)}>{title}</a>
+        </h3>
+
+        {description && <p>{description}</p>}
+
         <div class="post-meta">
-          <span>{article.readingTime}</span>
-          <a class="read-more" href={articleUrl(article.slug)}>Ler artigo -&gt;</a>
+          <span>{article.readingTime || "Leitura rápida"}</span>
+          <a class="read-more" href={articleUrl(article.slug)}>
+            Ler artigo →
+          </a>
         </div>
       </article>
     );

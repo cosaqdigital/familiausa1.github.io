@@ -46,6 +46,15 @@ Recriar a Home Astro usando a Home atual de producao como referencia editorial e
 - `src/components/home/HomeArticleGrid.astro`
 - `src/components/home/HomeTopicList.astro`
 
+## Refinamento do HomeArticleGrid
+
+- `HomeArticleGrid.astro` agora usa fallback protegido para titulo, descricao e tempo de leitura.
+- Imagens padrao (`familiausa1-share.svg`) continuam ocultas nos cards com mídia para evitar repetição visual generica.
+- Alt text das thumbnails usa o padrão `Imagem do artigo: {titulo}`.
+- Categoria e descrição só são renderizadas quando existem dados disponíveis.
+- O link "Ler artigo →" fica padronizado em todos os cards da Home.
+- `.home-article-grid-media` recebeu regra propria no CSS para thumbnails em proporção editorial 16:9.
+
 ## Arquivos alterados
 
 - `src/pages/index.astro`
