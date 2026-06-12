@@ -99,7 +99,7 @@ main {
   top: 0;
   z-index: 20;
   border-bottom: 1px solid rgba(255, 255, 255, 0.14);
-  background: rgba(17, 29, 46, 0.94);
+  background: rgba(17, 29, 46, 0.98);
   color: #fffaf1;
   box-shadow: 0 14px 36px rgba(10, 15, 24, 0.18);
   backdrop-filter: blur(14px);
@@ -167,7 +167,8 @@ main {
 .hero-cinematic {
   position: relative;
   overflow: hidden;
-  padding: clamp(52px, 8vw, 112px) 0;
+  scroll-margin-top: 120px;
+  padding: clamp(82px, 10vw, 140px) 0 clamp(56px, 8vw, 112px);
   color: #fffaf1;
   background:
     linear-gradient(115deg, rgba(9, 15, 25, 0.94), rgba(17, 29, 46, 0.84) 58%, rgba(155, 61, 37, 0.72)),
@@ -653,7 +654,7 @@ main {
   }
 
   .hero-cinematic {
-    padding: 42px 0;
+    padding: 76px 0 46px;
   }
 
   .article-grid,
@@ -678,6 +679,10 @@ main {
 
   .header-inner {
     padding: 14px 0;
+  }
+
+  .hero-cinematic {
+    padding-top: 88px;
   }
 
   .tagline {
