@@ -1,0 +1,31 @@
+---
+import Header from "../components/Header.astro";
+import Footer from "../components/Footer.astro";
+import SeoHead from "../components/SeoHead.astro";
+import globalStyles from "../styles/global.css?raw";
+
+interface Props {
+  title: string;
+  description: string;
+  canonical: string;
+  image?: string;
+  type?: "website" | "article";
+  schemas?: Record<string, unknown>[];
+}
+
+const { title, description, canonical, image, type = "website", schemas = [] } = Astro.props;
+---
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <SeoHead title={title} description={description} canonical={canonical} image={image} type={type} schemas={schemas} />
+    <style set:html={globalStyles}></style>
+  </head>
+  <body>
+    <Header />
+    <main>
+      <slot />
+    </main>
+    <Footer />
+  </body>
+</html>

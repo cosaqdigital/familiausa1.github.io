@@ -1,0 +1,21 @@
+---
+interface Props {
+  title: string;
+  description?: string;
+  eyebrow?: string;
+  id?: string;
+  wide?: boolean;
+  className?: string;
+}
+
+const { title, description, eyebrow, id, wide = true, className = "" } = Astro.props;
+const sectionClass = `${wide ? "container section-wide" : "container section"} ${className}`.trim();
+---
+<section class={sectionClass} aria-labelledby={id}>
+  <div class="section-header">
+    {eyebrow && <div class="eyebrow">{eyebrow}</div>}
+    <h2 id={id}>{title}</h2>
+    {description && <p>{description}</p>}
+  </div>
+  <slot />
+</section>

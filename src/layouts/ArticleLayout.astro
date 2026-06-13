@@ -1,0 +1,90 @@
+---
+import BaseLayout from "./BaseLayout.astro";
+import ChecklistCTA from "../components/ChecklistCTA.astro";
+import RelatedPosts from "../components/RelatedPosts.astro";
+import type { PilotArticle } from "../data/pilotContent";
+import { DEFAULT_IMAGE, SITE_URL, articleUrl, canonicalUrl } from "../data/pilotContent";
+
+type ArticleForLayout = PilotArticle & {
+  canonical?: string;
+  h1?: string;
+};
+
+interface Props {
+  article: ArticleForLayout;
+  relatedPosts?: ArticleForLayout[];
+  renderFaqSection?: boolean;
+}
+
+const { article, relatedPosts = [], renderFaqSection = true } = Astro.props;
+const canonical = article.canonical ?? canonicalUrl(articleUrl(article.slug));
+const heading = article.h1 ?? article.title;
+const image = article.image ?? DEFAULT_IMAGE;
+
+const blogPosting = {
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  headline: heading,
+  description: article.description,
+  url: canonical,
+  datePublished: article.datePublished,
+  dateModified: article.dateModified,
+  inLanguage: "pt-BR",
+  author: { "@type": "Organization", name: "FamiliaUSA1" },
+  publisher: { "@type": "Organization", name: "FamiliaUSA1", url: SITE_URL },
+  mainEntityOfPage: { "@type": "WebPage", "@id": canonical },
+  image
+};
+
+const faqSchema = article.faq?.length
+  ? {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      mainEntity: article.faq.map((item) => ({
+        "@type": "Question",
+        name: item.question,
+        acceptedAnswer: { "@type": "Answer", text: item.answer }
+      }))
+    }
+  : null;
+
+const schemas = faqSchema ? [blogPosting, faqSchema] : [blogPosting];
+---
+<BaseLayout title={article.title} description={article.description} canonical={canonical} image={image} type="article" schemas={schemas}>
+  <header class="narrow-container article-header">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="/index.html">Início</a>
+      <span><a href="/blog.html">Artigos</a></span>
+      <span>{article.category}</span>
+    </nav>
+    <div class="eyebrow">{article.category}</div>
+    <h1>{heading}</h1>
+    <p class="lead">{article.description}</p>
+    <div class="article-meta">
+      <span>Por FamiliaUSA1</span>
+      <span>Atualizado em {article.dateModified}</span>
+      <span>{article.readingTime}</span>
+    </div>
+  </header>
+
+  <section class="narrow-container article-content">
+    <article>
+      <slot />
+    </article>
+  </section>
+
+  {renderFaqSection && article.faq?.length && (
+    <section class="narrow-container article-content" aria-labelledby="faq">
+      <h2 id="faq">Perguntas frequentes</h2>
+      {article.faq.map((item) => (
+        <details class="faq-item">
+          <summary>{item.question}</summary>
+          <p>{item.answer}</p>
+        </details>
+      ))}
+    </section>
+  )}
+
+  <RelatedPosts posts={relatedPosts} />
+  <ChecklistCTA />
+</BaseLayout>

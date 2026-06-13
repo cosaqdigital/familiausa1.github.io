@@ -1,0 +1,34 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { SITE_URL } from "../data/pilotContent";
+
+const title = "Checklist da Mudança para os EUA: PDF gratuito para brasileiros | FamiliaUSA1";
+const description = "Baixe gratuitamente o checklist da mudança para os EUA com documentos, dinheiro, moradia, escola, carro e primeiros passos para brasileiros.";
+---
+<BaseLayout title={title} description={description} canonical={`${SITE_URL}/checklist-mudanca-eua.html`}>
+  <header class="narrow-container article-header">
+    <nav class="breadcrumb" aria-label="Breadcrumb"><a href="/index.html">Início</a><span>Checklist</span></nav>
+    <div class="eyebrow">PDF gratuito</div>
+    <h1>Checklist Completo da Mudança para os EUA</h1>
+    <p class="lead">Um material gratuito para organizar documentos, dinheiro, moradia, escola, carro e primeiros passos nos Estados Unidos.</p>
+    <div class="actions">
+      <a class="button primary" href="/assets/pdfs/checklist-mudanca-eua-familiausa1.pdf" download>Baixar checklist gratuito</a>
+    </div>
+  </header>
+
+  <section class="narrow-container article-content">
+    <article>
+      <h2>O que o PDF ajuda a organizar</h2>
+      <ul>
+        <li>Documentos.</li>
+        <li>Dinheiro e reserva inicial.</li>
+        <li>Cidade e moradia.</li>
+        <li>Escola dos filhos.</li>
+        <li>Carro e primeiros 30 dias.</li>
+      </ul>
+      <div class="article-note">Este material é informativo e não substitui orientação jurídica, migratória, financeira ou profissional.</div>
+      <h2>Continue sua pesquisa</h2>
+      <p><a href="/categorias/cidades-da-florida.html">Compare cidades da Flórida</a> e leia o guia de <a href="/articles/custo-de-vida-nos-eua-2026-atualizado.html">custo de vida nos EUA</a>.</p>
+    </article>
+  </section>
+</BaseLayout>

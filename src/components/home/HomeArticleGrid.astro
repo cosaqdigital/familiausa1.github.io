@@ -1,0 +1,69 @@
+---
+import { articleUrl, DEFAULT_IMAGE, SITE_URL } from "../../data/pilotContent";
+import type { SiteArticle } from "../../data/allArticles";
+import { articleCardTitle, articleCta, articleMicrocopy } from "../../utils/cardText";
+
+interface Props {
+  articles: SiteArticle[];
+  imageCards?: boolean;
+  compact?: boolean;
+}
+
+const { articles, imageCards = false, compact = false } = Astro.props;
+
+function imagePath(image?: string) {
+  if (!image || image === DEFAULT_IMAGE || image.endsWith("/familiausa1-share.svg")) {
+    return "";
+  }
+
+  return image.startsWith(SITE_URL) ? image.replace(SITE_URL, "") : image;
+}
+---
+
+<div class:list={[
+  "home-article-grid",
+  compact && "home-article-grid-compact",
+  imageCards && "home-article-grid-media"
+]}>
+  {articles.map((article) => {
+    const src = imagePath(article.image);
+    const title = articleCardTitle(article);
+    const description = articleMicrocopy(article, 90);
+    const cta = articleCta(article);
+
+    return (
+      <article class="card post-card home-post-card">
+        {imageCards && src && (
+          <a
+            class="home-post-media"
+            href={articleUrl(article.slug)}
+            aria-label={`Ler ${title}`}
+          >
+            <img
+              src={src}
+              alt={`Imagem do artigo: ${title}`}
+              loading="lazy"
+            />
+          </a>
+        )}
+
+        {article.category && (
+          <div class="post-category">{article.category}</div>
+        )}
+
+        <h3>
+          <a href={articleUrl(article.slug)}>{title}</a>
+        </h3>
+
+        {description && <p>{description}</p>}
+
+        <div class="post-meta">
+          <span>{article.readingTime || "Leitura rápida"}</span>
+          <a class="read-more" href={articleUrl(article.slug)}>
+            {cta} →
+          </a>
+        </div>
+      </article>
+    );
+  })}
+</div>

@@ -1,0 +1,31 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { SITE_URL, DEFAULT_IMAGE } from "../data/pilotContent";
+
+const title = "Sobre o Família USA 1: brasileiros vivendo nos EUA";
+const description = "Conheça a família por trás do Família USA 1, projeto criado para compartilhar experiências reais e guias para brasileiros nos Estados Unidos.";
+---
+<BaseLayout title={title} description={description} canonical={`${SITE_URL}/sobre.html`} image={DEFAULT_IMAGE}>
+  <header class="narrow-container article-header">
+    <nav class="breadcrumb" aria-label="Breadcrumb"><a href="/index.html">Início</a><span>Sobre</span></nav>
+    <div class="eyebrow">Nossa história</div>
+    <h1>Quem somos</h1>
+    <p class="lead">Somos uma família brasileira vivendo nos Estados Unidos e compartilhando experiências reais com responsabilidade.</p>
+  </header>
+
+  <section class="narrow-container article-content">
+    <article>
+      <p>O Família USA 1 nasceu para ajudar brasileiros que querem visitar, estudar, trabalhar ou construir uma vida nos Estados Unidos com mais informação e menos ilusão.</p>
+      <h2>O que você encontra aqui</h2>
+      <ul>
+        <li>Imigração e legalização.</li>
+        <li>Vistos e atualizações.</li>
+        <li>Custo de vida.</li>
+        <li>Trabalho nos EUA.</li>
+        <li>Orlando, Flórida e cidades para brasileiros.</li>
+      </ul>
+      <h2>Nosso compromisso</h2>
+      <p>Produzimos conteúdo informativo, baseado em pesquisa e experiências reais. Não prestamos aconselhamento jurídico e recomendamos consultar profissionais qualificados para situações específicas.</p>
+    </article>
+  </section>
+</BaseLayout>

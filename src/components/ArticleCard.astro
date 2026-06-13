@@ -1,0 +1,35 @@
+---
+import { articleUrl } from "../data/pilotContent";
+import { articleCardTitle, articleCta, articleMicrocopy } from "../utils/cardText";
+
+type ArticleCardData = {
+  slug: string;
+  title: string;
+  cardTitle?: string;
+  category?: string;
+  excerpt?: string;
+  description?: string;
+  readingTime?: string;
+};
+
+interface Props {
+  article: ArticleCardData;
+  microcopyLength?: number;
+  cta?: string;
+  compact?: boolean;
+}
+
+const { article, microcopyLength = 110, cta, compact = false } = Astro.props;
+const title = articleCardTitle(article);
+const description = articleMicrocopy(article, microcopyLength);
+const ctaLabel = cta || articleCta(article);
+---
+<article class:list={["card post-card", compact && "post-card-compact"]}>
+  {article.category && <div class="post-category">{article.category}</div>}
+  <h3><a href={articleUrl(article.slug)}>{title}</a></h3>
+  {description && <p>{description}</p>}
+  <div class="post-meta">
+    <span>{article.readingTime || "Leitura rápida"}</span>
+    <a class="read-more" href={articleUrl(article.slug)}>{ctaLabel} →</a>
+  </div>
+</article>

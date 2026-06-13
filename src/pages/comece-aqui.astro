@@ -1,0 +1,35 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { SITE_URL } from "../data/pilotContent";
+
+const title = "Comece Aqui: guia para brasileiros nos EUA | FamiliaUSA1";
+const description = "Encontre os principais caminhos do Família USA 1 sobre morar nos EUA, imigração, custo de vida, Flórida e vida real de brasileiros.";
+---
+<BaseLayout title={title} description={description} canonical={`${SITE_URL}/comece-aqui.html`}>
+  <header class="narrow-container article-header">
+    <nav class="breadcrumb" aria-label="Breadcrumb"><a href="/index.html">Início</a><span>Comece Aqui</span></nav>
+    <div class="eyebrow">Guia de navegação</div>
+    <h1>Comece Aqui</h1>
+    <p class="lead">Separamos caminhos rápidos para encontrar conteúdos relevantes conforme o seu momento de vida nos Estados Unidos.</p>
+  </header>
+
+  <section class="container section-wide">
+    <div class="article-grid">
+      <article class="card post-card">
+        <div class="post-category">Imigração</div>
+        <h3><a href="/categorias/imigracao-legalizacao.html">Quero entender imigração</a></h3>
+        <p>Comece pelos guias sobre morar legalmente, asilo e cuidados migratórios.</p>
+      </article>
+      <article class="card post-card">
+        <div class="post-category">Planejamento</div>
+        <h3><a href="/categorias/custo-de-vida.html">Quero calcular custos</a></h3>
+        <p>Veja aluguel, carro, mercado, saúde e planejamento antes de se mudar.</p>
+      </article>
+      <article class="card post-card">
+        <div class="post-category">Cidades</div>
+        <h3><a href="/categorias/cidades-da-florida.html">Quero escolher cidade</a></h3>
+        <p>Compare Flórida, Boston e outros hubs com brasileiros nos EUA.</p>
+      </article>
+    </div>
+  </section>
+</BaseLayout>

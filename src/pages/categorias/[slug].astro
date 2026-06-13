@@ -1,0 +1,22 @@
+---
+import CategoryLayout from "../../layouts/CategoryLayout.astro";
+import { getArticlesForCategory, siteCategories } from "../../data/categories";
+
+export function getStaticPaths() {
+  return siteCategories.map((category) => ({
+    params: { slug: category.slug },
+    props: { category, posts: getArticlesForCategory(category) }
+  }));
+}
+
+const { category, posts } = Astro.props;
+---
+<CategoryLayout category={category} posts={posts}>
+  <section class="narrow-container article-content">
+    <article>
+      <h2>Como usar este hub</h2>
+      <p>Comece pelos artigos mais proximos da sua duvida e use os links internos para comparar custo, documentacao, cidade, trabalho e vida real antes de tomar uma decisao.</p>
+      <p>Quando o assunto envolver imigracao, saude ou dinheiro, use este conteudo como ponto de partida informativo e confirme detalhes em fontes oficiais ou com profissionais qualificados.</p>
+    </article>
+  </section>
+</CategoryLayout>

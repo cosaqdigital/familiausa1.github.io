@@ -1,0 +1,30 @@
+---
+interface Props {
+  videoId: string;
+  title: string;
+  description: string;
+}
+
+const { videoId, title, description } = Astro.props;
+const watchUrl = `https://www.youtube.com/watch?v=${videoId}`;
+const embedUrl = `https://www.youtube-nocookie.com/embed/${videoId}?rel=0&modestbranding=1`;
+---
+<section class="container featured-video-section" aria-labelledby="video-em-destaque" data-youtube-video-id={videoId}>
+  <div class="featured-video-card">
+    <div class="featured-video-copy">
+      <div class="eyebrow">Família USA 1 no YouTube</div>
+      <h2 id="video-em-destaque">{title}</h2>
+      <p>{description}</p>
+      <a class="button primary" href={watchUrl} target="_blank" rel="noopener">Assistir no YouTube</a>
+    </div>
+    <div class="featured-video-frame">
+      <iframe
+        src={embedUrl}
+        title="Vídeo em destaque do Família USA 1 no YouTube"
+        loading="lazy"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        allowfullscreen
+      ></iframe>
+    </div>
+  </div>
+</section>
