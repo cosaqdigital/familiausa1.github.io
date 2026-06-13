@@ -366,6 +366,19 @@ main {
   letter-spacing: -0.04em;
 }
 
+.post-card.card {
+  min-height: auto;
+  padding: 20px;
+}
+
+.post-card-compact.card {
+  padding: 18px;
+}
+
+.post-card h3 {
+  font-size: clamp(1.16rem, 1.8vw, 1.5rem);
+}
+
 .post-card h3 a {
   text-decoration: none;
 }
@@ -375,16 +388,26 @@ main {
   color: var(--ink-soft);
 }
 
+.post-card p,
+.category-card .card-copy,
+.related-card p {
+  display: -webkit-box;
+  overflow: hidden;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+}
+
 .post-meta,
 .article-meta {
   margin-top: auto;
   color: var(--muted);
-  font-size: 0.92rem;
+  font-size: 0.88rem;
   font-weight: 800;
 }
 
 .read-more {
   color: var(--terracotta);
+  white-space: nowrap;
   font-weight: 900;
   text-decoration: none;
 }
@@ -819,7 +842,7 @@ main {
   display: -webkit-box;
   overflow: hidden;
   -webkit-box-orient: vertical;
-  -webkit-line-clamp: 3;
+  -webkit-line-clamp: 2;
 }
 
 .home-post-media {

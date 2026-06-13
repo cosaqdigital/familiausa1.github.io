@@ -5,6 +5,7 @@ import ChecklistCTA from "../components/ChecklistCTA.astro";
 import type { SiteArticle } from "../data/allArticles";
 import type { SiteCategory } from "../data/categories";
 import { SITE_URL } from "../data/pilotContent";
+import { truncateText } from "../utils/cardText";
 
 interface Props {
   category: SiteCategory;
@@ -59,7 +60,7 @@ const breadcrumbSchema = {
       <p>{posts.length} conteudos relacionados, organizados para facilitar sua pesquisa e fortalecer a navegacao interna do Familia USA 1.</p>
     </div>
     <div class="article-grid">
-      {posts.map((post) => <ArticleCard article={post} />)}
+      {posts.map((post) => <ArticleCard article={post} microcopyLength={110} compact />)}
     </div>
   </section>
 
@@ -73,7 +74,11 @@ const breadcrumbSchema = {
         {category.hubLinks.map((href) => (
           <a class="card category-card" href={href}>
             <div class="category-title">{href.replace("/categorias/", "").replace(".html", "").replaceAll("-", " ")}</div>
-            <p class="card-copy">Abrir guia relacionado no Familia USA 1.</p>
+            <p class="card-copy">{truncateText("Abrir guia relacionado no Familia USA 1 para comparar temas proximos.", 90)}</p>
+            <div class="post-meta">
+              <span>Hub</span>
+              <span class="read-more">Explorar tema →</span>
+            </div>
           </a>
         ))}
       </div>

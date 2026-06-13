@@ -15,7 +15,7 @@ const { posts = [] } = Astro.props;
       <p>Guias relacionados para aprofundar sua pesquisa sem sair do Família USA 1.</p>
     </div>
     <div class="article-grid">
-      {posts.map((post) => <ArticleCard article={post} />)}
+      {posts.map((post) => <ArticleCard article={post} microcopyLength={90} compact />)}
     </div>
   </section>
 )}

@@ -4,6 +4,7 @@ import ArticleCard from "../components/ArticleCard.astro";
 import ChecklistCTA from "../components/ChecklistCTA.astro";
 import { SITE_URL } from "../data/pilotContent";
 import { getCategoryGroups, getFeaturedArticles, categoryUrl } from "../data/categories";
+import { truncateText } from "../utils/cardText";
 
 const title = "Artigos sobre brasileiros nos EUA | FamiliaUSA1";
 const description = "Todos os artigos do Familia USA 1 sobre imigracao, visto, custo de vida, trabalho, Orlando, Florida e vida nos EUA.";
@@ -44,8 +45,11 @@ const orderedGroups = [
       {allCategoryGroups.map((group) => (
         <a class="card category-card" href={categoryUrl(group.category.slug)}>
           <div class="category-title">{group.category.title}</div>
-          <p class="card-copy">{group.category.description}</p>
-          <div class="post-meta"><span>{group.posts.length} artigos</span></div>
+          <p class="card-copy">{truncateText(group.category.description, 110)}</p>
+          <div class="post-meta">
+            <span>{group.posts.length} artigos</span>
+            <span class="read-more">Explorar tema →</span>
+          </div>
         </a>
       ))}
     </div>
@@ -59,7 +63,7 @@ const orderedGroups = [
       <p>Conteudos recentes e estrategicos, gerados a partir da base estruturada para reduzir erro manual conforme o acervo cresce.</p>
     </div>
     <div class="article-grid">
-      {featuredArticles.map((article) => <ArticleCard article={article} />)}
+      {featuredArticles.map((article) => <ArticleCard article={article} microcopyLength={110} compact />)}
     </div>
   </section>
 
@@ -70,7 +74,7 @@ const orderedGroups = [
         <p>{group.category.intro}</p>
       </div>
       <div class="article-grid">
-        {group.posts.slice(0, 6).map((article) => <ArticleCard article={article} />)}
+        {group.posts.slice(0, 6).map((article) => <ArticleCard article={article} microcopyLength={110} compact />)}
       </div>
       <p class="post-meta"><a class="read-more" href={categoryUrl(group.category.slug)}>Ver todos em {group.category.title} -&gt;</a></p>
     </section>

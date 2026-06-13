@@ -3,6 +3,7 @@ import BaseLayout from "../layouts/BaseLayout.astro";
 import ChecklistCTA from "../components/ChecklistCTA.astro";
 import { SITE_URL } from "../data/pilotContent";
 import { getArticlesForCategory, siteCategories, categoryUrl } from "../data/categories";
+import { truncateText } from "../utils/cardText";
 
 const title = "Categorias do Familia USA 1 | Brasileiros nos EUA";
 const description = "Explore os principais hubs do Familia USA 1: imigracao, visto americano, asilo, custo de vida, cidades, Orlando, saude, trabalho e vida real.";
@@ -46,8 +47,11 @@ const collectionSchema = {
       {featuredCategories.map(({ category, count }) => (
         <a class="card category-card" href={categoryUrl(category.slug)}>
           <div class="category-title">{category.title}</div>
-          <p class="card-copy">{category.description}</p>
-          <div class="post-meta"><span>{count} artigos relacionados</span></div>
+          <p class="card-copy">{truncateText(category.description, 110)}</p>
+          <div class="post-meta">
+            <span>{count} artigos</span>
+            <span class="read-more">Explorar tema →</span>
+          </div>
         </a>
       ))}
     </div>

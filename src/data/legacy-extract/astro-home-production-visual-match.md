@@ -55,6 +55,17 @@ Recriar a Home Astro usando a Home atual de producao como referencia editorial e
 - O link "Ler artigo →" fica padronizado em todos os cards da Home.
 - `.home-article-grid-media` recebeu regra propria no CSS para thumbnails em proporção editorial 16:9.
 
+## Padrao de cards SEO/CTR
+
+- Cards agora funcionam como chamadas de clique, nao como resumo completo do artigo.
+- Home: microcopy truncada em ate 90 caracteres.
+- Blog e categorias: microcopy truncada em ate 110 caracteres.
+- Posts relacionados: microcopy truncada em ate 90 caracteres.
+- CSS aplica `line-clamp: 2` em textos de cards para evitar blocos altos e cansativos.
+- CTAs ficam contextualizados: `Ler artigo →` para conteudos gerais e `Ver guia →` para cidades/guias.
+- Cards de categoria/hub exibem microcopy curta e CTA `Explorar tema →`.
+- Impacto esperado: Home, Blog e categorias ficam mais escaneaveis, com mais artigos visiveis por dobra e maior foco em CTR.
+
 ## Arquivos alterados
 
 - `src/pages/index.astro`

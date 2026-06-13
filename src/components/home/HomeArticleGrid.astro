@@ -1,6 +1,7 @@
 ---
 import { articleUrl, DEFAULT_IMAGE, SITE_URL } from "../../data/pilotContent";
 import type { SiteArticle } from "../../data/allArticles";
+import { articleCardTitle, articleCta, articleMicrocopy } from "../../utils/cardText";
 
 interface Props {
   articles: SiteArticle[];
@@ -26,8 +27,9 @@ function imagePath(image?: string) {
 ]}>
   {articles.map((article) => {
     const src = imagePath(article.image);
-    const title = article.cardTitle || article.title;
-    const description = article.excerpt || article.description;
+    const title = articleCardTitle(article);
+    const description = articleMicrocopy(article, 90);
+    const cta = articleCta(article);
 
     return (
       <article class="card post-card home-post-card">
@@ -58,7 +60,7 @@ function imagePath(image?: string) {
         <div class="post-meta">
           <span>{article.readingTime || "Leitura rápida"}</span>
           <a class="read-more" href={articleUrl(article.slug)}>
-            Ler artigo →
+            {cta} →
           </a>
         </div>
       </article>
