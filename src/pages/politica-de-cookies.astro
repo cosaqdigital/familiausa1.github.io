@@ -1,0 +1,64 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { DEFAULT_IMAGE, SITE_URL } from "../data/pilotContent";
+
+const title = "Política de Cookies | Família USA 1";
+const description = "Saiba como o Família USA 1 usa cookies essenciais, analíticos e de publicidade, e como você pode gerenciar cookies no navegador.";
+const canonical = `${SITE_URL}/politica-de-cookies.html`;
+const schemas = [
+  {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    name: title,
+    description,
+    url: canonical,
+    inLanguage: "pt-BR",
+    isPartOf: {
+      "@type": "WebSite",
+      name: "Família USA 1",
+      url: SITE_URL
+    }
+  }
+];
+---
+
+<BaseLayout title={title} description={description} canonical={canonical} image={DEFAULT_IMAGE} schemas={schemas}>
+  <header class="narrow-container article-header">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="/index.html">Início</a>
+      <span>Política de Cookies</span>
+    </nav>
+    <div class="eyebrow">Cookies e navegação</div>
+    <h1>Política de Cookies</h1>
+    <p class="lead">Esta política explica o que são cookies, por que eles podem ser usados no Família USA 1 e como você pode controlar essas tecnologias no seu navegador.</p>
+  </header>
+
+  <section class="narrow-container article-content">
+    <article>
+      <h2>O que são cookies?</h2>
+      <p>Cookies são pequenos arquivos salvos no navegador quando você acessa um site. Eles ajudam a reconhecer visitas, medir desempenho, lembrar preferências e melhorar a navegação.</p>
+
+      <h2>Cookies essenciais</h2>
+      <p>Cookies essenciais ajudam o site a funcionar corretamente. Eles podem ser usados para segurança, carregamento de páginas, navegação básica e recursos técnicos necessários. Sem eles, algumas partes do site podem não funcionar da forma esperada.</p>
+
+      <h2>Cookies analíticos</h2>
+      <p>Cookies analíticos nos ajudam a entender como os leitores usam o blog. O Família USA 1 usa Google Analytics para analisar audiência, páginas mais acessadas, origem de tráfego e desempenho geral. Essas informações são analisadas de forma agregada para melhorar o conteúdo.</p>
+
+      <h2>Cookies de publicidade</h2>
+      <p>No futuro, o Família USA 1 pode exibir anúncios por meio do Google AdSense ou outras plataformas. Nesse caso, cookies de publicidade poderão ser usados para medir anúncios, evitar repetições e, quando aplicável, exibir publicidade personalizada ou contextual.</p>
+      <p>Não inserimos código de anúncios nesta preparação. A estrutura foi organizada para que, se aprovado, o site possa ativar publicidade de forma responsável e compatível com as políticas aplicáveis.</p>
+
+      <h2>Cookies de terceiros</h2>
+      <p>Alguns conteúdos incorporados, como vídeos, fontes oficiais, redes sociais ou links externos, podem usar cookies próprios. Esses cookies são controlados pelos respectivos serviços, não pelo Família USA 1.</p>
+
+      <h2>Como desativar cookies</h2>
+      <p>Você pode bloquear, apagar ou limitar cookies nas configurações do seu navegador. As opções variam conforme Chrome, Safari, Firefox, Edge ou outro navegador utilizado.</p>
+      <p>Ao desativar cookies, o site continuará acessível, mas algumas medições, preferências ou recursos podem funcionar de maneira limitada.</p>
+
+      <h2>Relação com a Política de Privacidade</h2>
+      <p>Para entender melhor como tratamos dados de navegação e informações não sensíveis, leia também nossa <a href="/politica-de-privacidade.html">Política de Privacidade</a>.</p>
+
+      <p><strong>Última atualização:</strong> 17 de junho de 2026.</p>
+    </article>
+  </section>
+</BaseLayout>

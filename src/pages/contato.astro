@@ -1,0 +1,64 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { DEFAULT_IMAGE, SITE_URL } from "../data/pilotContent";
+
+const title = "Contato | Família USA 1";
+const description = "Entre em contato com o Família USA 1 para sugestões, dúvidas editoriais, parcerias e mensagens sobre o blog para brasileiros nos Estados Unidos.";
+const canonical = `${SITE_URL}/contato.html`;
+const email = "contato@familiausa1.com";
+const schemas = [
+  {
+    "@context": "https://schema.org",
+    "@type": "ContactPage",
+    name: title,
+    description,
+    url: canonical,
+    inLanguage: "pt-BR",
+    isPartOf: {
+      "@type": "WebSite",
+      name: "Família USA 1",
+      url: SITE_URL
+    },
+    contactPoint: {
+      "@type": "ContactPoint",
+      email,
+      contactType: "editorial"
+    }
+  }
+];
+---
+
+<BaseLayout title={title} description={description} canonical={canonical} image={DEFAULT_IMAGE} schemas={schemas}>
+  <header class="narrow-container article-header">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="/index.html">Início</a>
+      <span>Contato</span>
+    </nav>
+    <div class="eyebrow">Fale conosco</div>
+    <h1>Contato</h1>
+    <p class="lead">Tem uma sugestão de pauta, dúvida editorial, proposta de parceria ou mensagem para o Família USA 1? Este é o melhor caminho para falar conosco.</p>
+  </header>
+
+  <section class="narrow-container article-content">
+    <article>
+      <p>O Família USA 1 é um projeto editorial feito para brasileiros que vivem, estão chegando ou sonham conhecer melhor a vida nos Estados Unidos. Lemos mensagens com atenção e usamos sugestões reais para melhorar nossos conteúdos.</p>
+
+      <h2>E-mail de contato</h2>
+      <p>Envie sua mensagem para <a href={`mailto:${email}`}>{email}</a>.</p>
+
+      <h2>Antes de enviar</h2>
+      <ul>
+        <li>Para sugestões de artigo, conte qual tema você gostaria de ver no blog.</li>
+        <li>Para parcerias, explique a proposta e inclua informações de contato.</li>
+        <li>Para correções editoriais, envie o link da página e o trecho que precisa ser revisado.</li>
+      </ul>
+
+      <div class="article-note">
+        O Família USA 1 não analisa casos migratórios individuais por comentário público ou mensagem informal. Para situações específicas envolvendo visto, status, asilo, green card, trabalho, saúde, finanças ou impostos, consulte profissionais qualificados e fontes oficiais.
+      </div>
+
+      <h2>Continue navegando</h2>
+      <p>Se você está começando agora, veja o guia <a href="/comece-aqui.html">Comece Aqui</a>, explore os <a href="/blog.html">artigos do blog</a> ou conheça melhor nossa história em <a href="/sobre.html">Sobre o Família USA 1</a>.</p>
+    </article>
+  </section>
+</BaseLayout>

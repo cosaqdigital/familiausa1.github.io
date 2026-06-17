@@ -20,7 +20,11 @@ const rootPages = [
   "categorias.html",
   "checklist-mudanca-eua.html",
   "comece-aqui.html",
-  "sobre.html"
+  "sobre.html",
+  "contato.html",
+  "politica-de-privacidade.html",
+  "politica-de-cookies.html",
+  "termos-de-uso.html"
 ];
 
 const errors = [];
@@ -312,7 +316,9 @@ warnings.push(...linkWarnings);
 const currentOnlyUrls = currentSitemap.urls.filter((url) => !astroSitemap.set.has(url));
 const astroOnlyUrls = astroSitemap.urls.filter((url) => !currentSitemap.set.has(url));
 const allowedNewMarkdownUrls = astroOnlyUrls.filter((url) => markdownCanonicalSet.has(url));
-const unexpectedAstroOnlyUrls = astroOnlyUrls.filter((url) => !markdownCanonicalSet.has(url));
+const rootPageCanonicalSet = new Set(rootPages.map(canonicalForPath));
+const allowedNewRootPageUrls = astroOnlyUrls.filter((url) => rootPageCanonicalSet.has(url));
+const unexpectedAstroOnlyUrls = astroOnlyUrls.filter((url) => !markdownCanonicalSet.has(url) && !rootPageCanonicalSet.has(url));
 const expectedArticleCanonicals = [
   ...legacyArticles.map((article) => article.canonical),
   ...markdownArticles.map((article) => article.canonical)
@@ -364,6 +370,7 @@ Data da validacao: ${new Date().toISOString()}
 - Duplicatas no sitemap Astro: ${astroSitemap.duplicates.length}
 - URL set atual preservado no Astro: ${currentOnlyUrls.length === 0 ? "sim" : "nao"}
 - URLs extras permitidas por Markdown: ${allowedNewMarkdownUrls.length}
+- URLs extras permitidas por paginas principais: ${allowedNewRootPageUrls.length}
 
 ## URLs faltando no Astro
 
@@ -376,6 +383,10 @@ ${bulletList(astroOnlyUrls)}
 ## URLs extras permitidas por Markdown
 
 ${bulletList(allowedNewMarkdownUrls)}
+
+## URLs extras permitidas por paginas principais
+
+${bulletList(allowedNewRootPageUrls)}
 
 ## URLs extras inesperadas
 

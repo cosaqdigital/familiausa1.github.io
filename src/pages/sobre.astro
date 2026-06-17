@@ -1,31 +1,76 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
-import { SITE_URL, DEFAULT_IMAGE } from "../data/pilotContent";
+import { SITE_URL } from "../data/pilotContent";
 
 const title = "Sobre o Família USA 1: brasileiros vivendo nos EUA";
-const description = "Conheça a família por trás do Família USA 1, projeto criado para compartilhar experiências reais e guias para brasileiros nos Estados Unidos.";
+const description = "Conheça a família por trás do Família USA 1, um projeto criado para compartilhar experiências reais, informação prática e guias para brasileiros nos Estados Unidos.";
+const canonical = `${SITE_URL}/sobre.html`;
+const image = `${SITE_URL}/assets/images/familiausa1/familiausa1-sobre.webp`;
+const schemas = [
+  {
+    "@context": "https://schema.org",
+    "@type": "AboutPage",
+    name: title,
+    description,
+    url: canonical,
+    image,
+    inLanguage: "pt-BR",
+    isPartOf: {
+      "@type": "WebSite",
+      name: "Família USA 1",
+      url: SITE_URL
+    },
+    about: {
+      "@type": "Organization",
+      name: "Família USA 1",
+      url: SITE_URL
+    }
+  }
+];
 ---
-<BaseLayout title={title} description={description} canonical={`${SITE_URL}/sobre.html`} image={DEFAULT_IMAGE}>
+
+<BaseLayout title={title} description={description} canonical={canonical} image={image} schemas={schemas}>
   <header class="narrow-container article-header">
-    <nav class="breadcrumb" aria-label="Breadcrumb"><a href="/index.html">Início</a><span>Sobre</span></nav>
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="/index.html">Início</a>
+      <span>Sobre</span>
+    </nav>
     <div class="eyebrow">Nossa história</div>
     <h1>Quem somos</h1>
-    <p class="lead">Somos uma família brasileira vivendo nos Estados Unidos e compartilhando experiências reais com responsabilidade.</p>
+    <p class="lead">Somos uma família brasileira vivendo nos Estados Unidos e compartilhando experiências reais sobre imigração, adaptação, trabalho, custo de vida, educação, viagens e vida familiar.</p>
   </header>
 
   <section class="narrow-container article-content">
     <article>
-      <p>O Família USA 1 nasceu para ajudar brasileiros que querem visitar, estudar, trabalhar ou construir uma vida nos Estados Unidos com mais informação e menos ilusão.</p>
+      <figure class="card" style="overflow: hidden; padding: 0;">
+        <img
+          src="/assets/images/familiausa1/familiausa1-sobre.webp"
+          alt="Família brasileira vivendo nos Estados Unidos, criadora do Família USA 1"
+          loading="eager"
+          style="display: block; width: 100%; height: auto;"
+        />
+      </figure>
+
+      <p>Ao longo dessa jornada, aprendemos na prática sobre adaptação, trabalho, educação dos filhos, custo de vida, documentação, viagens e os desafios emocionais da vida fora do Brasil.</p>
+      <p>O Família USA 1 nasceu para compartilhar essas experiências de forma responsável, ajudando outros brasileiros que estão planejando visitar, estudar, trabalhar ou construir uma vida nos Estados Unidos.</p>
+
       <h2>O que você encontra aqui</h2>
       <ul>
-        <li>Imigração e legalização.</li>
-        <li>Vistos e atualizações.</li>
-        <li>Custo de vida.</li>
-        <li>Trabalho nos EUA.</li>
-        <li>Orlando, Flórida e cidades para brasileiros.</li>
+        <li>Imigração e legalização, sempre com linguagem responsável.</li>
+        <li>Vistos, atualizações e cuidados para brasileiros.</li>
+        <li>Custo de vida, moradia, carro, saúde e planejamento financeiro.</li>
+        <li>Trabalho nos EUA, renda, rotina e recomeço profissional.</li>
+        <li>Orlando, Flórida, cidades americanas e viagens em família.</li>
+        <li>Vida familiar, educação dos filhos e adaptação cultural.</li>
+        <li>Experiências reais, alertas e bastidores que nem sempre aparecem nas redes sociais.</li>
       </ul>
-      <h2>Nosso compromisso</h2>
-      <p>Produzimos conteúdo informativo, baseado em pesquisa e experiências reais. Não prestamos aconselhamento jurídico e recomendamos consultar profissionais qualificados para situações específicas.</p>
+
+      <h2>Nosso compromisso editorial</h2>
+      <p>Nosso objetivo é produzir conteúdo informativo, baseado em pesquisa, fontes confiáveis e experiências reais. Falamos com o leitor brasileiro de forma direta, humana e pé no chão, sem vender ilusão sobre a vida nos Estados Unidos.</p>
+      <p>Temas como imigração, saúde, finanças, impostos e trabalho podem ter consequências importantes. Por isso, o conteúdo do Família USA 1 é educativo e não substitui orientação jurídica, migratória, financeira, médica ou profissional individual.</p>
+
+      <h2>Como usar o Família USA 1</h2>
+      <p>Se você está começando sua pesquisa, recomendamos visitar a página <a href="/comece-aqui.html">Comece Aqui</a>. Se quer navegar por assunto, veja nossas <a href="/categorias.html">categorias</a>. Para falar conosco, acesse a página de <a href="/contato.html">Contato</a>.</p>
     </article>
   </section>
 </BaseLayout>

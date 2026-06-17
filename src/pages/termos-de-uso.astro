@@ -1,0 +1,69 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { DEFAULT_IMAGE, SITE_URL } from "../data/pilotContent";
+
+const title = "Termos de Uso | Família USA 1";
+const description = "Leia os termos de uso do Família USA 1, blog informativo para brasileiros sobre vida nos EUA, imigração, vistos, trabalho e custo de vida.";
+const canonical = `${SITE_URL}/termos-de-uso.html`;
+const schemas = [
+  {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    name: title,
+    description,
+    url: canonical,
+    inLanguage: "pt-BR",
+    isPartOf: {
+      "@type": "WebSite",
+      name: "Família USA 1",
+      url: SITE_URL
+    }
+  }
+];
+---
+
+<BaseLayout title={title} description={description} canonical={canonical} image={DEFAULT_IMAGE} schemas={schemas}>
+  <header class="narrow-container article-header">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="/index.html">Início</a>
+      <span>Termos de Uso</span>
+    </nav>
+    <div class="eyebrow">Regras do site</div>
+    <h1>Termos de Uso</h1>
+    <p class="lead">Ao acessar o Família USA 1, você concorda em usar este conteúdo de forma responsável, entendendo que o blog tem finalidade informativa e editorial.</p>
+  </header>
+
+  <section class="narrow-container article-content">
+    <article>
+      <h2>Finalidade do conteúdo</h2>
+      <p>O Família USA 1 publica conteúdo informativo sobre brasileiros nos Estados Unidos, imigração, vistos, custo de vida, trabalho, cidades, Orlando, adaptação e vida familiar. Nosso objetivo é ajudar leitores a entender melhor a realidade da vida nos EUA.</p>
+
+      <h2>Não prestamos aconselhamento individual</h2>
+      <p>As informações publicadas no site não constituem aconselhamento jurídico, migratório, financeiro, médico, fiscal ou profissional individual. Cada caso pode depender de documentos, histórico, cidade, status migratório, renda, saúde, família e regras vigentes.</p>
+      <p>Para decisões específicas, consulte fontes oficiais e profissionais qualificados, como advogados de imigração licenciados, contadores, médicos, consultores financeiros ou órgãos governamentais competentes.</p>
+
+      <h2>Imigração e informações que podem mudar</h2>
+      <p>Regras de imigração, vistos, prazos, taxas, políticas de fronteira, exigências documentais e procedimentos consulares podem mudar rapidamente. Fazemos esforço editorial para manter o conteúdo útil e atualizado, mas não garantimos que cada informação permaneça válida em todos os momentos.</p>
+      <p>Antes de tomar uma decisão, confirme dados em fontes oficiais, como USCIS, Departamento de Estado dos EUA, embaixadas, consulados e órgãos estaduais ou locais.</p>
+
+      <h2>Uso responsável do conteúdo</h2>
+      <p>Você pode usar os artigos para estudo, planejamento pessoal e pesquisa. Não é permitido copiar, republicar, vender, automatizar, raspar ou redistribuir o conteúdo do Família USA 1 como se fosse próprio, sem autorização.</p>
+      <p>Citações curtas com link para a página original são permitidas quando respeitam autoria, contexto e boa-fé.</p>
+
+      <h2>Comentários, mensagens e contato</h2>
+      <p>Ao enviar mensagens para o Família USA 1, pedimos que não compartilhe dados sensíveis, documentos pessoais, números de processo, informações médicas ou detalhes migratórios confidenciais em espaços públicos.</p>
+      <p>O blog não analisa casos migratórios individuais por comentário público ou mensagem informal.</p>
+
+      <h2>Links externos e terceiros</h2>
+      <p>Podemos indicar links externos, fontes oficiais, vídeos, ferramentas e sites de terceiros. Esses links são fornecidos para conveniência editorial. Não controlamos conteúdo, políticas, segurança ou atualizações desses sites.</p>
+
+      <h2>Publicidade e monetização</h2>
+      <p>O site pode exibir anúncios, links patrocinados ou parcerias no futuro. Quando isso ocorrer, buscaremos manter transparência e separar conteúdo editorial de publicidade. A presença de anúncio não representa recomendação individual de produto, serviço ou decisão financeira.</p>
+
+      <h2>Alterações nos termos</h2>
+      <p>Estes Termos de Uso podem ser atualizados para refletir mudanças no site, em ferramentas, políticas de publicidade, exigências legais ou práticas editoriais.</p>
+
+      <p><strong>Última atualização:</strong> 17 de junho de 2026.</p>
+    </article>
+  </section>
+</BaseLayout>
