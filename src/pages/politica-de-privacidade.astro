@@ -1,0 +1,71 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { DEFAULT_IMAGE, SITE_URL } from "../data/pilotContent";
+
+const title = "Política de Privacidade | Família USA 1";
+const description = "Entenda como o Família USA 1 trata dados, cookies, Google Analytics, links externos e anúncios no blog para brasileiros nos Estados Unidos.";
+const canonical = `${SITE_URL}/politica-de-privacidade.html`;
+const schemas = [
+  {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    name: title,
+    description,
+    url: canonical,
+    inLanguage: "pt-BR",
+    isPartOf: {
+      "@type": "WebSite",
+      name: "Família USA 1",
+      url: SITE_URL
+    }
+  }
+];
+---
+
+<BaseLayout title={title} description={description} canonical={canonical} image={DEFAULT_IMAGE} schemas={schemas}>
+  <header class="narrow-container article-header">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="/index.html">Início</a>
+      <span>Política de Privacidade</span>
+    </nav>
+    <div class="eyebrow">Transparência</div>
+    <h1>Política de Privacidade</h1>
+    <p class="lead">Esta página explica, de forma simples, como o Família USA 1 pode coletar e usar informações não sensíveis para melhorar a experiência do leitor e manter o blog funcionando.</p>
+  </header>
+
+  <section class="narrow-container article-content">
+    <article>
+      <p>O Família USA 1 é um blog informativo para brasileiros que vivem, visitam, estudam, trabalham ou sonham construir uma vida nos Estados Unidos. Valorizamos a privacidade dos leitores e buscamos tratar dados com responsabilidade.</p>
+
+      <h2>Quais informações podemos coletar</h2>
+      <p>Podemos coletar informações não sensíveis de navegação, como páginas acessadas, tipo de dispositivo, navegador, origem de tráfego, tempo de visita e interações gerais com o site. Esses dados ajudam a entender quais conteúdos são mais úteis para a comunidade.</p>
+      <p>Quando você entra em contato conosco por e-mail, podemos receber seu nome, e-mail e mensagem enviada. Essas informações são usadas apenas para responder à solicitação.</p>
+
+      <h2>Uso de cookies</h2>
+      <p>O site pode usar cookies e tecnologias semelhantes para lembrar preferências, medir audiência, melhorar desempenho e, no futuro, exibir anúncios mais relevantes. Cookies são pequenos arquivos armazenados no navegador do usuário.</p>
+      <p>Você pode gerenciar, bloquear ou apagar cookies diretamente nas configurações do seu navegador. Ao bloquear cookies, algumas funções do site podem ter desempenho limitado.</p>
+
+      <h2>Google Analytics</h2>
+      <p>Utilizamos Google Analytics para medir audiência e compreender como os visitantes encontram e usam o blog. O Google Analytics pode coletar dados agregados de navegação, como páginas visitadas, localização aproximada, dispositivo e origem do acesso.</p>
+      <p>Essas informações são usadas para melhorar conteúdo, navegação, velocidade e experiência geral do site. Não usamos esses dados para identificar pessoalmente leitores comuns.</p>
+
+      <h2>Google AdSense e publicidade</h2>
+      <p>O Família USA 1 pode usar Google AdSense ou outras plataformas de publicidade no futuro. Caso anúncios sejam ativados, parceiros de publicidade poderão usar cookies para exibir anúncios personalizados ou não personalizados, medir desempenho e limitar repetição de anúncios.</p>
+      <p>O usuário pode controlar preferências de anúncios e cookies no navegador e nas ferramentas disponibilizadas pelo Google. Não ativamos anúncios sem estrutura adequada e sem respeitar as políticas aplicáveis.</p>
+
+      <h2>Links externos</h2>
+      <p>Nossos artigos podem incluir links para fontes oficiais, serviços, sites de terceiros, redes sociais, vídeos e páginas externas. Não controlamos as práticas de privacidade desses sites. Recomendamos que você leia as políticas de privacidade de cada plataforma acessada.</p>
+
+      <h2>Conteúdo sensível e decisões pessoais</h2>
+      <p>O blog publica conteúdo sobre imigração, vistos, custo de vida, trabalho, saúde, educação e vida nos Estados Unidos. As informações são educativas e não substituem aconselhamento jurídico, migratório, financeiro, médico ou profissional individual.</p>
+
+      <h2>Alterações nesta política</h2>
+      <p>Esta Política de Privacidade pode ser atualizada periodicamente para refletir mudanças no site, ferramentas usadas, exigências legais ou políticas de plataformas como Google Analytics e Google AdSense.</p>
+
+      <h2>Contato</h2>
+      <p>Para dúvidas sobre esta política, fale conosco pela página de <a href="/contato.html">Contato</a>.</p>
+
+      <p><strong>Última atualização:</strong> 17 de junho de 2026.</p>
+    </article>
+  </section>
+</BaseLayout>
