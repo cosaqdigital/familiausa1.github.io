@@ -7,8 +7,9 @@ import HomeFeatureCard from "../components/home/HomeFeatureCard.astro";
 import HomeVideoHighlight from "../components/home/HomeVideoHighlight.astro";
 import HomeArticleGrid from "../components/home/HomeArticleGrid.astro";
 import HomeTopicList from "../components/home/HomeTopicList.astro";
+import FeaturedArticles from "../components/FeaturedArticles.astro";
 import { SITE_URL } from "../data/pilotContent";
-import { allArticles, getArticleBySlug, type SiteArticle } from "../data/allArticles";
+import { allArticles, getArticleBySlug, getFeaturedArticles, type SiteArticle } from "../data/allArticles";
 import { categoryUrl, getArticlesForCategory, getCategoryBySlug, siteCategories } from "../data/categories";
 
 const title = "A realidade dos brasileiros nos Estados Unidos | FamiliaUSA1";
@@ -37,7 +38,9 @@ function byCategory(slug: string, limit = 6) {
 }
 
 const featuredNews = getArticleBySlug("eua-classificam-cv-pcc-terroristas-entenda");
-const latestArticles = allArticles.slice(0, 9);
+const highlightedArticles = getFeaturedArticles(3);
+const highlightedSlugSet = new Set(highlightedArticles.map((article) => article.slug));
+const latestArticles = allArticles.filter((article) => !highlightedSlugSet.has(article.slug)).slice(0, 9);
 const northArticles = bySlug([
   "morar-em-boston-2026",
   "morar-em-cambridge-massachusetts-2026",
@@ -147,6 +150,8 @@ const videoSchema = {
 ---
 <BaseLayout title={title} description={description} canonical={`${SITE_URL}/`} image={homeImage} schemas={[websiteSchema, organizationSchema, videoSchema]}>
   <HomeHero />
+
+  <FeaturedArticles articles={highlightedArticles} />
 
   <section class="container institutional-section" aria-labelledby="familiausa1-institucional">
     <div class="institutional-card">

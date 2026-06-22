@@ -12,6 +12,9 @@ type MarkdownModule = {
     title?: string;
     description?: string;
     category?: string;
+    featured?: boolean;
+    featuredOrder?: number;
+    featuredLabel?: string;
     datePublished?: string;
     dateModified?: string;
     readingTime?: string;
@@ -68,6 +71,9 @@ export const newMarkdownArticles: NewMarkdownArticle[] = Object.entries(markdown
       cardTitle: h1,
       description,
       category: frontmatter.category?.trim() || "Planejamento",
+      featured: Boolean(frontmatter.featured),
+      featuredOrder: typeof frontmatter.featuredOrder === "number" ? frontmatter.featuredOrder : undefined,
+      featuredLabel: frontmatter.featuredLabel?.trim(),
       datePublished,
       dateModified,
       readingTime: frontmatter.readingTime || "10 min de leitura",

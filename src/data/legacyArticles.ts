@@ -34,6 +34,9 @@ export type LegacyGeneratedArticle = {
   cardTitle: string;
   description: string;
   category: string;
+  featured?: boolean;
+  featuredOrder?: number;
+  featuredLabel?: string;
   datePublished: string;
   dateModified: string;
   readingTime: string;

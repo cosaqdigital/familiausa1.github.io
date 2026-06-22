@@ -5,6 +5,9 @@ title: "Meus pais vieram para os Estados Unidos aos 54 e 63 anos: a realidade qu
 h1: "Meus pais vieram para os Estados Unidos aos 54 e 63 anos: a realidade que ninguém mostra"
 description: "A história real dos meus pais recomeçando nos EUA depois dos 50 anos mostra a verdade sobre trabalho, coragem e vida de brasileiros na América."
 category: "Vida real nos EUA"
+featured: true
+featuredOrder: 1
+featuredLabel: "Vida real nos EUA"
 datePublished: "2026-06-17"
 dateModified: "2026-06-17"
 readingTime: "10 min de leitura"

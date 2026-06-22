@@ -5,6 +5,10 @@ title: "Titulo SEO do artigo novo | FamiliaUSA1"
 h1: "Titulo principal forte do artigo novo"
 description: "Meta description unica com a promessa clara do artigo em ate 155 caracteres, sem exagero e com a palavra-chave principal."
 category: "Planejamento"
+# Destaque na Home (opcional): use featured: true apenas para artigos estrategicos.
+featured: false
+# featuredOrder: 1
+# featuredLabel: "Vida real nos EUA"
 datePublished: "2026-06-11"
 dateModified: "2026-06-11"
 readingTime: "10 min de leitura"
