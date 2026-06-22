@@ -13,6 +13,7 @@ const articles = defineCollection({
     h1: z.string().optional(),
     description: z.string(),
     category: z.string(),
+    tags: z.array(z.string()).optional(),
     featured: z.boolean().default(false).optional(),
     featuredOrder: z.number().optional(),
     featuredLabel: z.string().optional(),
