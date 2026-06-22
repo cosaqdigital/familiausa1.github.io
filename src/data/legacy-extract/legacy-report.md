@@ -1,7 +1,7 @@
 # Relatorio da extracao completa de artigos legados
 
 Modo: `all`
-Gerado em: `2026-06-06T13:17:27.045Z`
+Gerado em: `2026-06-22T04:01:45.312Z`
 Artigos processados: **151**
 
 ## Resumo tecnico
@@ -13,7 +13,7 @@ Artigos processados: **151**
 - Com header padrao: 151/151
 - Com footer padrao: 124/151
 - JSON-LD invalidos: 0
-- Links internos extraidos: 2540
+- Links internos extraidos: 2550
 
 ## Problemas e pontos de atencao
 
@@ -284,7 +284,7 @@ Artigos processados: **151**
 | `articles/guia-completo-orlando-2026-brasileiros.html` | 0 | 892 | 16 | sim | sim | sim | sim | sim | 4 | 1 |
 | `articles/guia-completo-visto-americano-2026.html` | 2 | 1488 | 19 | sim | sim | sim | sim | sim | 6 | 0 |
 | `articles/imigrar-para-os-eua-depois-dos-50-anos.html` | 1 | 1366 | 20 | sim | sim | nao | sim | sim | 3 | 0 |
-| `articles/iphone-nos-eua-vale-a-pena-2026.html` | 0 | 1299 | 15 | sim | sim | sim | sim | sim | 4 | 0 |
+| `articles/iphone-nos-eua-vale-a-pena-2026.html` | 0 | 1921 | 25 | sim | sim | sim | sim | sim | 8 | 0 |
 | `articles/itin-ssn-conta-bancaria-nos-eua.html` | 0 | 816 | 15 | sim | sim | sim | sim | sim | 4 | 1 |
 | `articles/kissimmee-ou-orlando-onde-morar-2026.html` | 3 | 899 | 17 | sim | sim | sim | sim | nao | 4 | 2 |
 | `articles/legalizar-pela-fronteira-eua.html` | 1 | 911 | 15 | sim | sim | nao | sim | sim | 3 | 0 |
