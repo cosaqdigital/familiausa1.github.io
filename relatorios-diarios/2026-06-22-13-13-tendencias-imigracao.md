@@ -1,8 +1,8 @@
 # Relatório diário — Imigração e brasileiros nos EUA
 
-Gerado em: 2026-06-22 17:13 EDT
+Gerado em: 2026-06-22 13:13 EDT
 
-Arquivo original: `2026-06-22-17-13-tendencias-imigracao.md`
+Arquivo original: `2026-06-22-13-13-tendencias-imigracao.md`
 
 ## Objetivo
 
@@ -10,25 +10,25 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ## Principais assuntos do dia
 
-1. **“Qual o motivo da sua viagem?”: veja as 5 perguntas que mais geram dúvidas na imigração dos Estados Unidos**
-   - Fonte: Mercado e Eventos
-   - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUFZyYm1RZk5fVGJPUnhxYWVfMTZ2TFJTb3YtQWd5NkNnN2plbG13TE1XTHlBVXJ1ejIyRWJNemNDUWxKMk94VHNOYTNtREdqbnhHQl9hTGNZbjBDWnVpWDNqYy00a0RoeEJsR0E1UlE1Zm1uN1JGQ3lXS2VsT0tLMHdMUHl2eGxWNnhEYmdTdXRCVTNlUzJjdTBjdEFlbXJTcTNtR0JpRDQtUXp2M3pLWmZEVUtyN1BWeGNLU2JHcUlDZW9FMTR1MlZUaFNROFJhMHh5a1hCVm5YRURRQVE?oc=5
-
-2. **Seleção dos EUA reflete força da imigração, diz advogado**
+1. **Seleção dos EUA reflete força da imigração, diz advogado**
    - Fonte: Migalhas
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMinwFBVV95cUxOd09EY2VTUUU5bWNjMUY1SnBPSFV4Z3MzOXNLT0ZEdmxmbWE3RFdGUVBTYkFhNzdiT3RZS1R0WUwxN3RkbXFYTk05LXMzcHV4bEhDOEZ5MS13Mk5zcjFzVEQxRnAxYzZQN3hDc1M0c2xhdEpaTnVHZ1ZabUxQUXIyLWp4MXRSdk5CLUQwZE5oUnhBbElheWFKM1ZneGF0SGc?oc=5
+
+2. **Filha de herói da Revolução Cubana é detida pela polícia da Imigração nos EUA**
+   - Fonte: Extra online
+   - Termo monitorado: imigração EUA
+   - Link: https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUWNkOWk0MlAxWkI2TnpRUU9qM0F4OW5wSUVpaXFoYzhBdzZjN3RGejhOakJCdWFXQWNORk1yUlNNQ1FqWkp6MllLaHNKc05UbWhYRjVoRVhpOTVxNzR6TEZ0Tm9hLXA3blV6T2Y1Z19aaGk0TWZpdkhROHloRzNRNFd6SU16QzlERWhmNlBiVVc0aXhPRTNRYWJOaUQwS19Fc3o4Vmw3ZDc3YXJWdGF3LUxiMmh3c05oWHVVdW8yUFU4OVpCVzJkUjZFMzBabGhnd2NkNWVRZFPSAecBQVVfeXFMTURpdGM3TXhQTmtROEVxRWdtbHB3MThtQk1QNVRSUzV1RGhWOGpGdFAyUHJQUF9UVG1pNzdPSzZNZFRXOU4ybm85QmZjQ1FpUDV0YXpSN0NLWmxIUl93Rjh2Vy0xRTR6V0lSNTZYclF4d243TzBONUxUc2lNRkNJWlllZFVsWjdkbnRtb256MlN0RVJsb0xNa3NBajktWWxMbHVMenF0UWNQMkhuVm55QzA4OVhkN09IaU1RWVdjcWdmcEppSTFTYzRxRE54NzJINm1yTU1KaEtfWTNnY1EwSUZxZHNLOFhJ?oc=5
 
 3. **Filha de herói cubano é detida por agentes do ICE nos EUA**
    - Fonte: Aventuras na História
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMivgFBVV95cUxNd1VIMm5NZEEyTXpSVzlXMy1aZXdtbV9JLVlOVzQtY29ab2VEWkZxcTNlU2hJeFFkWFU0UlJ0dUxpSXk3Yld5U0NTcVdjcTJkN0hfcklHVVdTdWtNS2pGemo5cmhwSXNqbFFlTUU1eDUzVV9uUXFfTVBwbk1reE5ISDBZY3V4YjRfWDlsbDZWRXVxMW5pc3hPR0pPdGRmWlJ0V01EUXJ6Q2c5NklmU2ZnNHJrUEFNVjJsNGZHdm5R?oc=5
 
-4. **Filha de herói da Revolução Cubana é detida pela polícia da Imigração nos EUA**
-   - Fonte: Extra online
+4. **Barrada no Panamá, imigrante mora em aeroporto há 6 meses e espera documentos para reencontrar filho**
+   - Fonte: Estadão
    - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUWNkOWk0MlAxWkI2TnpRUU9qM0F4OW5wSUVpaXFoYzhBdzZjN3RGejhOakJCdWFXQWNORk1yUlNNQ1FqWkp6MllLaHNKc05UbWhYRjVoRVhpOTVxNzR6TEZ0Tm9hLXA3blV6T2Y1Z19aaGk0TWZpdkhROHloRzNRNFd6SU16QzlERWhmNlBiVVc0aXhPRTNRYWJOaUQwS19Fc3o4Vmw3ZDc3YXJWdGF3LUxiMmh3c05oWHVVdW8yUFU4OVpCVzJkUjZFMzBabGhnd2NkNWVRZFPSAecBQVVfeXFMTURpdGM3TXhQTmtROEVxRWdtbHB3MThtQk1QNVRSUzV1RGhWOGpGdFAyUHJQUF9UVG1pNzdPSzZNZFRXOU4ybm85QmZjQ1FpUDV0YXpSN0NLWmxIUl93Rjh2Vy0xRTR6V0lSNTZYclF4d243TzBONUxUc2lNRkNJWlllZFVsWjdkbnRtb256MlN0RVJsb0xNa3NBajktWWxMbHVMenF0UWNQMkhuVm55QzA4OVhkN09IaU1RWVdjcWdmcEppSTFTYzRxRE54NzJINm1yTU1KaEtfWTNnY1EwSUZxZHNLOFhJ?oc=5
+   - Link: https://news.google.com/rss/articles/CBMizwFBVV95cUxOVnVrN29VOFVCSHpvWkE2UVJoU1kzN1AtdmEteGplZ3NSTE5ySzhmRTNnQ2o3eXFmVWZBYjczeUJEWEM5OEN1WjZTRG9RdGVka082RTlDSXk0UGx2ZDF5djI1clhZNmhwQ0M5VHQ4M0xIaG5waFhtWU5WbUJsdGxpRTFaZkdLSW5uak0yb0gzQ21LODBrTGlxdFNUWDFkUjRrNWw4aERLdzl6MEpGdW5hQlhQaFFSWXZ3ZVlvSVpxeE83cU1mVlg3N0I3QTZHWW_SAdQBQVVfeXFMUDV2VXpmRmJybGpvaHI0bE9JazZjNzA1bmNld1FaYzMyOXFla3dBeVJ5ZjVjVk9XdDVZN0dTd19xSXRMSk10LWRMZGJCbXVNTWJkbEpKQksyaFRTVlptT2kyUHRjbml4NFJMZmFCZkV6WTBHb2EyV0xJLWhDdGtRTHBTQ1NncTVfSzk4YlA0SkkyRGZMVWRLM0hGQzIxbjByTFlwWlNKeENZMmVpSkJENkhmdjEwaUZpS1c4NEpPOV93RTBySm5zZHkySEdGT3dEbjc3X2c?oc=5
 
 5. **Nova diretriz da USCIS aumenta rigor na análise de pedidos de Green Card dentro dos Estados Unidos**
    - Fonte: Valor Econômico
@@ -48,12 +48,12 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### imigração EUA
 
-- **“Qual o motivo da sua viagem?”: veja as 5 perguntas que mais geram dúvidas na imigração dos Estados Unidos**
-  - Fonte: Mercado e Eventos
-  - Link: https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUFZyYm1RZk5fVGJPUnhxYWVfMTZ2TFJTb3YtQWd5NkNnN2plbG13TE1XTHlBVXJ1ejIyRWJNemNDUWxKMk94VHNOYTNtREdqbnhHQl9hTGNZbjBDWnVpWDNqYy00a0RoeEJsR0E1UlE1Zm1uN1JGQ3lXS2VsT0tLMHdMUHl2eGxWNnhEYmdTdXRCVTNlUzJjdTBjdEFlbXJTcTNtR0JpRDQtUXp2M3pLWmZEVUtyN1BWeGNLU2JHcUlDZW9FMTR1MlZUaFNROFJhMHh5a1hCVm5YRURRQVE?oc=5
 - **Seleção dos EUA reflete força da imigração, diz advogado**
   - Fonte: Migalhas
   - Link: https://news.google.com/rss/articles/CBMinwFBVV95cUxOd09EY2VTUUU5bWNjMUY1SnBPSFV4Z3MzOXNLT0ZEdmxmbWE3RFdGUVBTYkFhNzdiT3RZS1R0WUwxN3RkbXFYTk05LXMzcHV4bEhDOEZ5MS13Mk5zcjFzVEQxRnAxYzZQN3hDc1M0c2xhdEpaTnVHZ1ZabUxQUXIyLWp4MXRSdk5CLUQwZE5oUnhBbElheWFKM1ZneGF0SGc?oc=5
+- **Filha de herói da Revolução Cubana é detida pela polícia da Imigração nos EUA**
+  - Fonte: Extra online
+  - Link: https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUWNkOWk0MlAxWkI2TnpRUU9qM0F4OW5wSUVpaXFoYzhBdzZjN3RGejhOakJCdWFXQWNORk1yUlNNQ1FqWkp6MllLaHNKc05UbWhYRjVoRVhpOTVxNzR6TEZ0Tm9hLXA3blV6T2Y1Z19aaGk0TWZpdkhROHloRzNRNFd6SU16QzlERWhmNlBiVVc0aXhPRTNRYWJOaUQwS19Fc3o4Vmw3ZDc3YXJWdGF3LUxiMmh3c05oWHVVdW8yUFU4OVpCVzJkUjZFMzBabGhnd2NkNWVRZFPSAecBQVVfeXFMTURpdGM3TXhQTmtROEVxRWdtbHB3MThtQk1QNVRSUzV1RGhWOGpGdFAyUHJQUF9UVG1pNzdPSzZNZFRXOU4ybm85QmZjQ1FpUDV0YXpSN0NLWmxIUl93Rjh2Vy0xRTR6V0lSNTZYclF4d243TzBONUxUc2lNRkNJWlllZFVsWjdkbnRtb256MlN0RVJsb0xNa3NBajktWWxMbHVMenF0UWNQMkhuVm55QzA4OVhkN09IaU1RWVdjcWdmcEppSTFTYzRxRE54NzJINm1yTU1KaEtfWTNnY1EwSUZxZHNLOFhJ?oc=5
 
 ### USCIS
 
@@ -63,6 +63,15 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 - **Alerta de Cartão Verde! USCIS propõe aumentar a taxa de cidadania em US$ 570, a naturalização não deveria ter opções de baixo custo**
   - Fonte: cinemaecerveja.com.br
   - Link: https://news.google.com/rss/articles/CBMigAJBVV95cUxPb3Y5OWE2REJnaGJIR1RLcXFLY0xIUjM5Q3Jkd0ZUZk56cnJURGx0U1R5Q2tnVUhSRTJHckRqRFlneG9yYm9LRVQwUWN1c1NhX2ZYTlI2SUV2MHNJOW43Q2FET2FDLTJmclVsRkJOQzNxbExzclhoRlZkSXc2SVNZMEx2OVpSRm5IZkpjZXlheEllazQzUVZ6STUxQmdZZGxheU5wRlBFYV9DYkd2c3FZLVNZOHJqMHltaURzOThRSThzdExlbVFBOUJZSTZSQTd6YXhyWE1MM0FVVTZ2UktXeWR6N3psRk4wMl9GUGFSSHV0cjhvQklfVnRjb0x2Nlp1?oc=5
+
+### green card
+
+- **Nova regra migratória amplia incerteza para brasileiros que buscam 'green card' nos EUA**
+  - Fonte: O Globo
+  - Link: https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdlIxdG1LRy1YUVFpdDZvekROZ1F4U1FGTjZuQXk4T2pfUVdwYXpRSEhEdmFJaTR4RlRvcUZoX1JNeFZmaHFfTUJDZkdtRktFaXo2R2RaclZWd0QySVZYZHBCaVFXWGpVVEJKLVdIc3laN2xNZzZRTXF2Z0Q4VVM4eVIxd2JTeGFjNnNmbVZpMjFyaHZzckFlQk0taGpyZmRsUGVocjFxNnVXSzVQajVWanpxaHF4OEV6RmtRaVB2TW1uSnBBdHU5NGFybzYwUEg1eGQ4cUdXWlbSAecBQVVfeXFMTmxHUUR4ODU5UUtKTkFyZWJLQS1tVXNJMUQ0aEx5OWIzUGFZSll1NktxN3JpaWI4N1hTbUQ2TzJjWDRJMUlxcHRjYVFJeGRQaGtNUDNiQ2NQdXFPOUpOS1J1Y2J6ZkM5dWYwRzI2VThjbUpKd0dHNzFVWVhBMllCOFhROFc3b1BRU3hkZktsUGFIdUZmaHJvUjNoR1JoMEZmYUNHSFA3T1RIdzd0ZzhRdm5CcUFabDB4NDgyYl96SUltWW5pY1ZtZVQzb3V2RUNlUnZWbTdvQWF0RF9KeW5oWHRjcXpJajlF?oc=5
+- **Como as mudanças na imigração americana afetam brasileiros que buscam o Green Card?**
+  - Fonte: Migalhas
+  - Link: https://news.google.com/rss/articles/CBMiogFBVV95cUxQdVdfN1dfRVoybEw5U2NzOWo1Ri1IaGhOZ1BRX1A2QzQ0clpNR3VaRzFYMUNmSW9kMHRTc2VOb3BtNjR1aHRHYzcyeXNBX3FlMEVCTUM2V2FGM3k3a3NUYkw2TU13TEVZY3pXQlVQT0ZmV0YzUURqOGNPaURXaTlCbnc4blh2R2VURkljOW5pUVVvTHRoSkNPX09QZm5EdVZuNUE?oc=5
 
 ### visto americano
 
@@ -77,10 +86,10 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 - **Tarifaço de Trump: audiência decisiva para futuro das taxas sobre produtos brasileiros encerra inscrições; veja como funciona**
   - Fonte: G1
-  - Link: https://news.google.com/rss/articles/CBMiigJBVV95cUxPN1lLcll4dE14ZzNjcjJWMThtU1M0eHMtUHFUY3d0alZUYU1ONm1rbUdTWktrd2pKYkt5Z0pIUTNLeElMaHJ4ZEFRT3FPbXpwbmwxYzBBc1llbUFkSkk5NFFuektSNV81YmZ0SG5QRnc2ejZFTUtIamd3cXBFRHhQUUZMVjVOS0IxRGNqTVFzQk5iTXo3ajBVNWpJMG50RFNOSTBtQzFSQ25GMVY2Y0ROSkYyaXg3TC1xdGpheHNZV3hKRG1CbGVuVHpHVVlvYmlBQ1JBTm5IWjZKT2UybWtwYXJwcDVCZUREUEkxeXdhalcyY0pYVmpCVkZyTW1TY0ZUZ1lJdk5DYS1ldw?oc=5
-- **Programa Aqui é Brasil acolhe 68 brasileiros repatriados dos Estados Unidos em Confins (MG)**
-  - Fonte: www.gov.br
-  - Link: https://news.google.com/rss/articles/CBMi4AFBVV95cUxOOThEX2JDWENHYzk4VUh0VHhKcUZKbEZrV3FlcXA2STFvdHA4ZlVYLUptTGxEbklBVnBTcEtET1BSTVoxY0paT2h1OHh6US1DRG1xdWhGSTdfbFpCY1ZKbV9tVGJzT1d1R0xiV29uc0VoVlVDdFBHMlNhd1JKUjdBTnlNNkpJeUVVVWVfYTBMdm1VMS16NFJxaFNRNi1OVVhrWnp3Z2Z5ODZLRDZYSlF1SVNpc2V2NU1jYkZhRGlNMHlNT0dHaTNYYmE4SF9iQks2WGxHdGd4bU1Jb0NIMDNCbQ?oc=5
+  - Link: https://news.google.com/rss/articles/CBMiigJBVV95cUxPN1lLcll4dE14ZzNjcjJWMThtU1M0eHMtUHFUY3d0alZUYU1ONm1rbUdTWktrd2pKYkt5Z0pIUTNLeElMaHJ4ZEFRT3FPbXpwbmwxYzBBc1llbUFkSkk5NFFuektSNV81YmZ0SG5QRnc2ejZFTUtIamd3cXBFRHhQUUZMVjVOS0IxRGNqTVFzQk5iTXo3ajBVNWpJMG50RFNOSTBtQzFSQ25GMVY2Y0ROSkYyaXg3TC1xdGpheHNZV3hKRG1CbGVuVHpHVVlvYmlBQ1JBTm5IWjZKT2UybWtwYXJwcDVCZUREUEkxeXdhalcyY0pYVmpCVkZyTW1TY0ZUZ1lJdk5DYS1ld9IBmAJBVV95cUxPNVIyUm43cTV6VjlJMVhsVXdkcXI5MHBzZ2ZLSXczVGVuTzFDR1FhQTlqWExiVDg3M1ZpYzNfSXBybE5LazhqeHFKdklsT2VGZ2JZYUZ5REQyMHdXSTBxTkJpMlVWN0Fyc0NqTDFwV0hqanBINXdsTE9rX0M1dDVkcGRQbkVMdUN3aE9aMmtfQUZGUWZmTDk0b2ltYTZkcXBOVnd6MzZjc190VWl0Ty1LWXc5cEZBYWlKYi1OVXdVbm5EV2tNNzZ4V3FNSnp5U0NQc3dXOGFQeDVLRkVRS05vSHIwd3YzMS1pSFd2UTBsVzdxLVVTOHF0MTFteGdUZXdBbU5FbjhKZDBwYWoxUEYxNlJvVXVrTFps?oc=5
+- **Exportações do Brasil aos EUA desabam após tarifaço de Trump**
+  - Fonte: Gazeta do Povo
+  - Link: https://news.google.com/rss/articles/CBMikAFBVV95cUxQYkl2eHlYRTh1Z3FZM0g4aGpqNXZxaDNSM0JxcDFLV2lCamJ5ZzRMMXRUeWVoLXVOVFd5aVRoLTJsS1ZkaThtTVd2ZDg0RnNUMjVmX295Q0p1aXZaVWkzQmFoQ2NzdmZOaGlNR1VIUGpQbU5sNmxOdk9lQkoyS1J4ZGlkdWs2RzZhSkdHNUZndHk?oc=5
 
 ### asilo nos EUA
 
