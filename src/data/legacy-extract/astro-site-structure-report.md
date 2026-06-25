@@ -1,23 +1,23 @@
 # Relatorio de estrutura editorial Astro
 
-Data da validacao: 2026-06-13T03:28:43.219Z
+Data da validacao: 2026-06-25T04:28:53.417Z
 
 ## Resumo
 
-- HTMLs gerados em dist: 177
-- Paginas esperadas: 177
-- Paginas principais esperadas: 6
+- HTMLs gerados em dist: 188
+- Paginas esperadas: 184
+- Paginas principais esperadas: 10
 - Categorias geradas/esperadas: 20/20
 - Artigos legados esperados: 151
-- Artigos Markdown publicados: 0
-- Artigos gerados/esperados: 151/151
+- Artigos Markdown publicados: 3
+- Artigos gerados/esperados: 154/154
 - Categorias com CollectionPage: 20/20
 - Categorias com BreadcrumbList: 20/20
-- Artigos com BlogPosting: 151/151
-- Artigos com FAQPage: 143
-- Links internos analisados: 7022
+- Artigos com BlogPosting: 154/154
+- Artigos com FAQPage: 146
+- Links internos analisados: 7936
 - Erros: 0
-- Avisos: 0
+- Avisos: 1
 
 ## Paginas principais
 
@@ -27,6 +27,10 @@ Data da validacao: 2026-06-13T03:28:43.219Z
 - checklist-mudanca-eua.html: gerada
 - comece-aqui.html: gerada
 - sobre.html: gerada
+- contato.html: gerada
+- politica-de-privacidade.html: gerada
+- politica-de-cookies.html: gerada
+- termos-de-uso.html: gerada
 
 ## Categorias
 
@@ -57,7 +61,7 @@ Data da validacao: 2026-06-13T03:28:43.219Z
 
 ## Avisos
 
-- Nenhum item encontrado.
+- Arquivos HTML extras gerados: blog/index.html, sobre/index.html, trabalho-e-renda-nos-eua.html, trabalho-e-renda-nos-eua/index.html
 
 ## Paginas com erros locais
 

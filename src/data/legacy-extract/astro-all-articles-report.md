@@ -1,14 +1,14 @@
 # Relatorio Astro dos 151 artigos legados
 
-Gerado em: `2026-06-13T03:28:41.728Z`
+Gerado em: `2026-06-25T04:28:55.948Z`
 Escopo: validacao dos artigos legados renderizados em Astro a partir de `src/data/legacy-extract/legacy-articles.json`.
 
 ## Resumo
 
 - Artigos no JSON legado: 151
-- Arquivos HTML de artigos gerados em dist: 151
+- Arquivos HTML de artigos gerados em dist: 154
 - FAQPage automatico em artigos com FAQ visivel: 143/143
-- Links internos preservados no conteudo legado: 2540
+- Links internos preservados no conteudo legado: 2550
 - Divergencias de title legado x dist: 0
 - Divergencias de canonical legado x dist: 0
 - Divergencias com sitemap: 0
@@ -28,8 +28,8 @@ Escopo: validacao dos artigos legados renderizados em Astro a partir de `src/dat
 ## Divergencias com sitemap
 
 - Sitemap encontrado: sim
-- URLs totais no sitemap: 177
-- URLs de artigos no sitemap: 151
+- URLs totais no sitemap: 184
+- URLs de artigos no sitemap: 154
 
 ### Artigos gerados ausentes no sitemap
 - Nenhum.

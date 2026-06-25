@@ -1,20 +1,21 @@
 # Comparacao de sitemap Astro
 
-Data da validacao: 2026-06-13T03:28:43.217Z
+Data da validacao: 2026-06-25T04:28:53.416Z
 
 ## Resumo
 
-- URLs no sitemap atual: 177
-- URLs no sitemap Astro: 177
+- URLs no sitemap atual: 184
+- URLs no sitemap Astro: 184
 - Artigos legados esperados: 151
-- Artigos Markdown publicados: 0
-- Artigos totais esperados: 151
+- Artigos Markdown publicados: 3
+- Artigos totais esperados: 154
 - Categorias esperadas: 20
-- Paginas principais esperadas: 6
+- Paginas principais esperadas: 10
 - Duplicatas no sitemap atual: 0
 - Duplicatas no sitemap Astro: 0
 - URL set atual preservado no Astro: sim
 - URLs extras permitidas por Markdown: 0
+- URLs extras permitidas por paginas principais: 0
 
 ## URLs faltando no Astro
 
@@ -25,6 +26,10 @@ Data da validacao: 2026-06-13T03:28:43.217Z
 - Nenhum item encontrado.
 
 ## URLs extras permitidas por Markdown
+
+- Nenhum item encontrado.
+
+## URLs extras permitidas por paginas principais
 
 - Nenhum item encontrado.
 
