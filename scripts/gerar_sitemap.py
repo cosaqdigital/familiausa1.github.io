@@ -50,7 +50,10 @@ def gerar_sitemap():
     raiz = Path(".")
     arquivos_html = sorted(
         p for p in raiz.rglob("*.html")
-        if ".git" not in p.parts and p.name not in IGNORAR and deve_indexar(p)
+        if ".git" not in p.parts
+        and "public" not in p.parts
+        and p.name not in IGNORAR
+        and deve_indexar(p)
     )
 
     hoje = datetime.utcnow().strftime("%Y-%m-%d")
