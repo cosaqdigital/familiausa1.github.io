@@ -1,12 +1,12 @@
 # Relatorio de estrutura editorial Astro
 
-Data da validacao: 2026-06-26T03:44:27.801Z
+Data da validacao: 2026-06-26T13:33:38.850Z
 
 ## Resumo
 
-- HTMLs gerados em dist: 193
-- Paginas esperadas: 189
-- Paginas principais esperadas: 10
+- HTMLs gerados em dist: 195
+- Paginas esperadas: 191
+- Paginas principais esperadas: 12
 - Categorias geradas/esperadas: 20/20
 - Artigos legados esperados: 151
 - Artigos Markdown publicados: 8
@@ -15,9 +15,9 @@ Data da validacao: 2026-06-26T03:44:27.801Z
 - Categorias com BreadcrumbList: 20/20
 - Artigos com BlogPosting: 159/159
 - Artigos com FAQPage: 151
-- Links internos analisados: 8124
+- Links internos analisados: 8261
 - Erros: 0
-- Avisos: 1
+- Avisos: 3
 
 ## Paginas principais
 
@@ -26,6 +26,8 @@ Data da validacao: 2026-06-26T03:44:27.801Z
 - categorias.html: gerada
 - checklist-mudanca-eua.html: gerada
 - comece-aqui.html: gerada
+- empreendedorismo-nos-estados-unidos.html: gerada
+- empreender-nos-estados-unidos-guia-completo.html: gerada
 - sobre.html: gerada
 - contato.html: gerada
 - politica-de-privacidade.html: gerada
@@ -62,6 +64,8 @@ Data da validacao: 2026-06-26T03:44:27.801Z
 ## Avisos
 
 - Arquivos HTML extras gerados: blog/index.html, sobre/index.html, trabalho-e-renda-nos-eua.html, trabalho-e-renda-nos-eua/index.html
+- empreender-nos-estados-unidos-guia-completo.html: link interno fora do sitemap atual ou nao migrado (articles/como-abrir-conta-banco-nos-eua-2026.html).
+- empreender-nos-estados-unidos-guia-completo.html: link interno fora do sitemap atual ou nao migrado (articles/como-abrir-conta-banco-nos-eua-2026.html).
 
 ## Paginas com erros locais
 

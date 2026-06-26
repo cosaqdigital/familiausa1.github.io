@@ -1,0 +1,86 @@
+---
+type ToolItem = {
+  name: string;
+  description: string;
+};
+
+interface Props {
+  title?: string;
+  tools: ToolItem[];
+}
+
+const { title = "Ferramentas uteis", tools } = Astro.props;
+---
+<section class="guide-tools" aria-labelledby="guide-tools-title">
+  <div class="guide-tools-header">
+    <p class="guide-mini">Operacao</p>
+    <h2 id="guide-tools-title">{title}</h2>
+  </div>
+  <div class="guide-tools-grid">
+    {tools.map((tool) => (
+      <article>
+        <h3>{tool.name}</h3>
+        <p>{tool.description}</p>
+      </article>
+    ))}
+  </div>
+</section>
+
+<style>
+  .guide-tools {
+    margin: 2.5rem 0;
+  }
+
+  .guide-mini {
+    margin: 0 0 0.45rem;
+    color: #c8651b;
+    font-size: 0.78rem;
+    font-weight: 900;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+  }
+
+  .guide-tools-header h2 {
+    margin: 0 0 1rem;
+    color: #101827;
+    font-size: clamp(1.6rem, 3vw, 2.4rem);
+  }
+
+  .guide-tools-grid {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 1rem;
+  }
+
+  .guide-tools article {
+    border: 1px solid rgba(16, 24, 39, 0.08);
+    border-radius: 20px;
+    padding: 1rem;
+    background: #fff;
+    box-shadow: 0 12px 30px rgba(16, 24, 39, 0.06);
+  }
+
+  .guide-tools h3 {
+    margin: 0 0 0.5rem;
+    color: #101827;
+    font-size: 1.02rem;
+  }
+
+  .guide-tools p {
+    margin: 0;
+    color: #5b6472;
+    line-height: 1.6;
+  }
+
+  @media (max-width: 940px) {
+    .guide-tools-grid {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+  }
+
+  @media (max-width: 560px) {
+    .guide-tools-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

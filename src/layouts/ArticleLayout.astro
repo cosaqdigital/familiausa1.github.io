@@ -1,9 +1,11 @@
 ---
 import BaseLayout from "./BaseLayout.astro";
 import ChecklistCTA from "../components/ChecklistCTA.astro";
+import GuideProgress from "../components/guides/GuideProgress.astro";
 import RelatedPosts from "../components/RelatedPosts.astro";
 import type { PilotArticle } from "../data/pilotContent";
 import { DEFAULT_IMAGE, SITE_URL, articleUrl, canonicalUrl } from "../data/pilotContent";
+import { entrepreneurshipArticleSlugs } from "../data/entrepreneurshipCluster";
 
 type ArticleForLayout = PilotArticle & {
   canonical?: string;
@@ -49,6 +51,7 @@ const faqSchema = article.faq?.length
   : null;
 
 const schemas = faqSchema ? [blogPosting, faqSchema] : [blogPosting];
+const showEntrepreneurJourney = entrepreneurshipArticleSlugs.includes(article.slug);
 ---
 <BaseLayout title={article.title} description={article.description} canonical={canonical} image={image} type="article" schemas={schemas}>
   <header class="narrow-container article-header">
@@ -82,6 +85,12 @@ const schemas = faqSchema ? [blogPosting, faqSchema] : [blogPosting];
           <p>{item.answer}</p>
         </details>
       ))}
+    </section>
+  )}
+
+  {showEntrepreneurJourney && (
+    <section class="narrow-container">
+      <GuideProgress currentSlug={article.slug} />
     </section>
   )}
 

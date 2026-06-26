@@ -1,0 +1,91 @@
+---
+type SourceLink = {
+  label: string;
+  href: string;
+};
+
+interface Props {
+  title?: string;
+  sources: SourceLink[];
+}
+
+const { title = "Fontes oficiais para confirmar", sources } = Astro.props;
+---
+<section class="guide-sources" aria-labelledby="guide-sources-title">
+  <div>
+    <p class="guide-mini">E-E-A-T</p>
+    <h2 id="guide-sources-title">{title}</h2>
+    <p>Use essas fontes para confirmar regras, formularios, licencas e atualizacoes antes de tomar decisoes de negocio, imposto ou imigracao.</p>
+  </div>
+  <ul>
+    {sources.map((source) => (
+      <li><a href={source.href} target="_blank" rel="noopener">{source.label}</a></li>
+    ))}
+  </ul>
+</section>
+
+<style>
+  .guide-sources {
+    display: grid;
+    grid-template-columns: minmax(0, 0.85fr) minmax(0, 1.15fr);
+    gap: 1.4rem;
+    margin: 2.5rem 0;
+    border: 1px solid rgba(16, 24, 39, 0.08);
+    border-radius: 26px;
+    padding: clamp(1.3rem, 3vw, 2rem);
+    background: #fffaf3;
+  }
+
+  .guide-mini {
+    margin: 0 0 0.45rem;
+    color: #c8651b;
+    font-size: 0.78rem;
+    font-weight: 900;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+  }
+
+  .guide-sources h2 {
+    margin: 0;
+    color: #101827;
+    font-size: clamp(1.55rem, 3vw, 2.3rem);
+  }
+
+  .guide-sources p {
+    color: #5b6472;
+    line-height: 1.7;
+  }
+
+  .guide-sources ul {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 0.7rem;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .guide-sources li a {
+    display: block;
+    height: 100%;
+    border: 1px solid rgba(16, 24, 39, 0.08);
+    border-radius: 16px;
+    padding: 0.8rem;
+    background: #fff;
+    color: #101827;
+    font-weight: 850;
+    text-decoration: none;
+  }
+
+  @media (max-width: 820px) {
+    .guide-sources {
+      grid-template-columns: 1fr;
+    }
+  }
+
+  @media (max-width: 560px) {
+    .guide-sources ul {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>
