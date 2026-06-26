@@ -20,6 +20,8 @@ const rootPages = [
   "categorias.html",
   "checklist-mudanca-eua.html",
   "comece-aqui.html",
+  "empreendedorismo-nos-estados-unidos.html",
+  "empreender-nos-estados-unidos-guia-completo.html",
   "sobre.html",
   "contato.html",
   "politica-de-privacidade.html",

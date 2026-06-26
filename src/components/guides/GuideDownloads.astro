@@ -1,0 +1,88 @@
+---
+type DownloadItem = {
+  title: string;
+  description: string;
+  href?: string;
+  label?: string;
+};
+
+interface Props {
+  title?: string;
+  items: DownloadItem[];
+}
+
+const { title = "Downloads e materiais", items } = Astro.props;
+---
+<section class="guide-downloads" aria-labelledby="guide-downloads-title">
+  <div>
+    <p class="guide-mini">Biblioteca</p>
+    <h2 id="guide-downloads-title">{title}</h2>
+  </div>
+  <div class="guide-download-grid">
+    {items.map((item) => (
+      <article>
+        <h3>{item.title}</h3>
+        <p>{item.description}</p>
+        {item.href ? <a class="read-more" href={item.href}>{item.label || "Baixar material"} -&gt;</a> : <span>Em breve</span>}
+      </article>
+    ))}
+  </div>
+</section>
+
+<style>
+  .guide-downloads {
+    margin: 2.5rem 0;
+    border-radius: 26px;
+    padding: clamp(1.3rem, 3vw, 2rem);
+    background: #f4f7fb;
+  }
+
+  .guide-mini {
+    margin: 0 0 0.45rem;
+    color: #c8651b;
+    font-size: 0.78rem;
+    font-weight: 900;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+  }
+
+  .guide-downloads h2 {
+    margin: 0 0 1rem;
+    color: #101827;
+    font-size: clamp(1.6rem, 3vw, 2.4rem);
+  }
+
+  .guide-download-grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1rem;
+  }
+
+  .guide-download-grid article {
+    border: 1px solid rgba(16, 24, 39, 0.08);
+    border-radius: 20px;
+    padding: 1rem;
+    background: #fff;
+  }
+
+  .guide-download-grid h3 {
+    margin: 0 0 0.4rem;
+    color: #101827;
+  }
+
+  .guide-download-grid p {
+    color: #5b6472;
+    line-height: 1.65;
+  }
+
+  .guide-download-grid span {
+    color: #9a5b13;
+    font-weight: 900;
+  }
+
+  @media (max-width: 680px) {
+    .guide-download-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

@@ -45,6 +45,20 @@ export const sitePages: SitePage[] = [
     priority: "0.8"
   },
   {
+    path: "/empreendedorismo-nos-estados-unidos.html",
+    title: "Empreendedorismo nos Estados Unidos para brasileiros | FamiliaUSA1",
+    description: "Hub de empreendedorismo nos EUA para brasileiros: abrir empresa, LLC, EIN, SSN, ITIN, invoice, Sunbiz, licenças, Google Business, impostos e clientes.",
+    lastmod: "2026-06-26",
+    priority: "0.9"
+  },
+  {
+    path: "/empreender-nos-estados-unidos-guia-completo.html",
+    title: "Como empreender nos Estados Unidos sendo brasileiro: guia completo (2026)",
+    description: "Guia completo para brasileiros empreenderem nos EUA em 2026: empresa, LLC, EIN, SSN, ITIN, invoice, Sunbiz, licenças, impostos, clientes e erros comuns.",
+    lastmod: "2026-06-26",
+    priority: "0.9"
+  },
+  {
     path: "/sobre.html",
     title: "Sobre o Família USA 1: brasileiros vivendo nos EUA",
     description: "Conheça a família por trás do Família USA 1 e o projeto criado para compartilhar experiências reais sobre a vida nos EUA.",

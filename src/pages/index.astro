@@ -6,11 +6,13 @@ import HomeSection from "../components/home/HomeSection.astro";
 import HomeFeatureCard from "../components/home/HomeFeatureCard.astro";
 import HomeVideoHighlight from "../components/home/HomeVideoHighlight.astro";
 import HomeArticleGrid from "../components/home/HomeArticleGrid.astro";
+import HomeGuideCards from "../components/home/HomeGuideCards.astro";
 import HomeTopicList from "../components/home/HomeTopicList.astro";
 import FeaturedArticles from "../components/FeaturedArticles.astro";
 import { SITE_URL } from "../data/pilotContent";
 import { allArticles, getArticleBySlug, getFeaturedArticles, type SiteArticle } from "../data/allArticles";
 import { categoryUrl, getArticlesForCategory, getCategoryBySlug, siteCategories } from "../data/categories";
+import { portalGuideCards } from "../data/portalGuides";
 
 const title = "A realidade dos brasileiros nos Estados Unidos | FamiliaUSA1";
 const description = "Portal premium sobre vida real de brasileiros nos EUA: leis, imigração, trabalho, custos, alertas e erros que podem sair caro.";
@@ -152,6 +154,8 @@ const videoSchema = {
   <HomeHero />
 
   <FeaturedArticles articles={highlightedArticles} />
+
+  <HomeGuideCards guides={portalGuideCards} />
 
   <section class="container institutional-section" aria-labelledby="familiausa1-institucional">
     <div class="institutional-card">

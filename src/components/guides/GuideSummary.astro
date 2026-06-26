@@ -1,0 +1,65 @@
+---
+type SummaryItem = {
+  label: string;
+  value: string;
+};
+
+interface Props {
+  items: SummaryItem[];
+}
+
+const { items } = Astro.props;
+---
+<section class="guide-summary" aria-label="Resumo rapido">
+  {items.map((item) => (
+    <div class="guide-summary-item">
+      <span>{item.label}</span>
+      <strong>{item.value}</strong>
+    </div>
+  ))}
+</section>
+
+<style>
+  .guide-summary {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 1rem;
+    margin: 1.5rem 0 2rem;
+  }
+
+  .guide-summary-item {
+    border: 1px solid rgba(16, 24, 39, 0.08);
+    border-radius: 20px;
+    padding: 1rem;
+    background: #fffaf3;
+    box-shadow: 0 12px 32px rgba(16, 24, 39, 0.07);
+  }
+
+  .guide-summary-item span {
+    display: block;
+    margin-bottom: 0.35rem;
+    color: #9a5b13;
+    font-size: 0.76rem;
+    font-weight: 900;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+
+  .guide-summary-item strong {
+    color: #101827;
+    font-size: 0.98rem;
+    line-height: 1.35;
+  }
+
+  @media (max-width: 760px) {
+    .guide-summary {
+      grid-template-columns: 1fr 1fr;
+    }
+  }
+
+  @media (max-width: 520px) {
+    .guide-summary {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

@@ -1,0 +1,116 @@
+---
+interface Props {
+  eyebrow?: string;
+  title: string;
+  description: string;
+  primaryHref?: string;
+  primaryLabel?: string;
+  secondaryHref?: string;
+  secondaryLabel?: string;
+  badges?: string[];
+}
+
+const {
+  eyebrow = "Guia completo",
+  title,
+  description,
+  primaryHref,
+  primaryLabel = "Comecar pelo guia",
+  secondaryHref,
+  secondaryLabel = "Ver artigos",
+  badges = []
+} = Astro.props;
+---
+<section class="guide-hero">
+  <div class="guide-hero-copy">
+    <p class="guide-eyebrow">{eyebrow}</p>
+    <h1>{title}</h1>
+    <p class="guide-lead">{description}</p>
+    <div class="guide-actions">
+      {primaryHref && <a class="button primary" href={primaryHref}>{primaryLabel}</a>}
+      {secondaryHref && <a class="button secondary" href={secondaryHref}>{secondaryLabel}</a>}
+    </div>
+  </div>
+  {badges.length > 0 && (
+    <div class="guide-badges" aria-label="Pontos do guia">
+      {badges.map((badge) => <span>{badge}</span>)}
+    </div>
+  )}
+</section>
+
+<style>
+  .guide-hero {
+    display: grid;
+    grid-template-columns: minmax(0, 1.45fr) minmax(260px, 0.55fr);
+    gap: 2rem;
+    align-items: end;
+    padding: clamp(2.5rem, 5vw, 5rem);
+    margin: 2rem auto;
+    border-radius: 32px;
+    color: #fffaf1;
+    background:
+      radial-gradient(circle at 15% 15%, rgba(242, 140, 40, 0.42), transparent 28%),
+      linear-gradient(135deg, #101827 0%, #172133 58%, #2e1f12 100%);
+    box-shadow: 0 22px 60px rgba(16, 24, 39, 0.22);
+  }
+
+  .guide-eyebrow {
+    margin: 0 0 0.8rem;
+    color: #ffd08a;
+    font-size: 0.78rem;
+    font-weight: 900;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+  }
+
+  .guide-hero h1 {
+    max-width: 920px;
+    margin: 0;
+    font-size: clamp(2.2rem, 5vw, 4.75rem);
+    line-height: 0.98;
+    letter-spacing: -0.06em;
+  }
+
+  .guide-lead {
+    max-width: 760px;
+    color: rgba(255, 250, 241, 0.86);
+    font-size: clamp(1.04rem, 2vw, 1.25rem);
+    line-height: 1.75;
+  }
+
+  .guide-actions,
+  .guide-badges {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.8rem;
+    margin-top: 1.4rem;
+  }
+
+  .guide-badges {
+    align-content: end;
+    justify-content: flex-end;
+  }
+
+  .guide-badges span {
+    border: 1px solid rgba(255, 255, 255, 0.22);
+    border-radius: 999px;
+    padding: 0.72rem 0.9rem;
+    background: rgba(255, 255, 255, 0.1);
+    color: #fffaf1;
+    font-size: 0.86rem;
+    font-weight: 800;
+    backdrop-filter: blur(10px);
+  }
+
+  @media (max-width: 820px) {
+    .guide-hero {
+      grid-template-columns: 1fr;
+      padding: 2rem;
+      border-radius: 24px;
+    }
+
+    .guide-badges {
+      justify-content: flex-start;
+    }
+  }
+</style>
