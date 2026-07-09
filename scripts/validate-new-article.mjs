@@ -146,7 +146,7 @@ for (const file of publishedFiles) {
   if (!datePublished) errors.push(`${file}: datePublished ausente.`);
   if (!dateModified) errors.push(`${file}: dateModified ausente.`);
   if (!image || !/^https:\/\/familiausa1\.com\/assets\//.test(image)) errors.push(`${file}: image deve ser URL absoluta de assets do FamiliaUSA1.`);
-  if (/PLACEHOLDER|TODO|example\.com/i.test(markdown)) errors.push(`${file}: texto de placeholder encontrado.`);
+  if (/\bPLACEHOLDER\b/i.test(markdown) || /\bTODO\b/.test(markdown) || /example\.com/i.test(markdown)) errors.push(`${file}: texto de placeholder encontrado.`);
   if (!faqValid) errors.push(`${file}: FAQ ausente ou invalido.`);
   if (body.length < 800) warnings.push(`${file}: corpo do artigo parece curto; revise profundidade antes de publicar.`);
 
