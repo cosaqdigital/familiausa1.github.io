@@ -22,7 +22,7 @@ import {
 } from "../data/entrepreneurshipCluster";
 
 const title = "Como empreender nos Estados Unidos sendo brasileiro: guia completo (2026)";
-const description = "Guia completo para brasileiros empreenderem nos EUA em 2026: empresa, LLC, EIN, SSN, ITIN, invoice, Sunbiz, licencas, impostos, clientes e erros comuns.";
+const description = "Guia para brasileiros empreenderem nos EUA: empresa, LLC, EIN, invoice, licencas, seguro, financas, preco, Google e clientes.";
 const clusterArticles = entrepreneurshipArticleSlugs
   .map((slug) => getArticleBySlug(slug))
   .filter(Boolean);
@@ -199,8 +199,9 @@ const faqSchema = {
         "Confirmar se a atividade exige licenca estadual, cidade ou condado.",
         "Entender SSN, ITIN e EIN antes de preencher formularios.",
         "Criar modelo de invoice e guardar comprovantes desde o primeiro cliente.",
-        "Separar conta pessoal e conta do negocio quando possivel.",
-        "Definir preco considerando material, gasolina, imposto, seguro e tempo.",
+        "Separar conta pessoal, bookkeeping, recibos, 1099, W-9 e dinheiro do negocio.",
+        "Avaliar seguro empresarial e certificado de seguro antes de contratos maiores.",
+        "Definir preco considerando material, gasolina, imposto, seguro, tempo e margem.",
         "Configurar presenca local com Google Business Profile quando fizer sentido.",
         "Conversar com advogado, CPA ou profissional qualificado em decisoes sensiveis."
       ]}
@@ -221,7 +222,7 @@ const faqSchema = {
 
     <GuideRelatedArticles
       title="Artigos satelites ja publicados"
-      description="Estes sao os primeiros cinco guias do cluster de empreendedorismo. Eles aprofundam os pontos mais urgentes para brasileiros."
+      description="Estes guias aprofundam os pontos mais urgentes do cluster: legalizacao, SSN, Registered Agent, Sunbiz, invoice, financas, seguros, preco, Google e clientes."
       articles={clusterArticles}
     />
 

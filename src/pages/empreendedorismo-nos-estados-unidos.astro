@@ -23,7 +23,7 @@ import {
 } from "../data/entrepreneurshipCluster";
 
 const title = "Empreendedorismo nos Estados Unidos para brasileiros | FamiliaUSA1";
-const description = "Hub de empreendedorismo nos EUA para brasileiros: abrir empresa, LLC, EIN, SSN, ITIN, invoice, Sunbiz, licencas, Google Business, impostos e clientes.";
+const description = "Hub de empreendedorismo nos EUA para brasileiros: empresa, LLC, EIN, invoice, licencas, seguro, financas, precificacao, Google e clientes.";
 const clusterArticles = entrepreneurshipArticleSlugs
   .map((slug) => getArticleBySlug(slug))
   .filter(Boolean);
@@ -72,7 +72,7 @@ const faqSchema = {
       primaryLabel="Abrir guia completo"
       secondaryHref="#artigos"
       secondaryLabel="Ver artigos publicados"
-      badges={["LLC", "EIN", "Invoice", "Sunbiz", "Licencas", "Google Business"]}
+      badges={["LLC", "EIN", "Invoice", "Licencas", "Seguros", "Clientes"]}
     />
 
     <GuideSummary
@@ -93,7 +93,7 @@ const faqSchema = {
       </div>
       <aside>
         <strong>Dica do FamiliaUSA1</strong>
-        <p>Empreender e mais seguro quando voce sabe o que cada documento faz. LLC, EIN, ITIN, SSN, invoice, licenca e Google Business sao pecas diferentes do mesmo quebra-cabeca.</p>
+        <p>Empreender e mais seguro quando voce sabe o que cada documento faz. LLC, EIN, ITIN, SSN, Registered Agent, invoice, licenca, seguro, preco e Google Business sao pecas diferentes do mesmo quebra-cabeca.</p>
       </aside>
     </section>
 
@@ -111,7 +111,7 @@ const faqSchema = {
     <section id="artigos">
       <GuideRelatedArticles
         title="Ultimos artigos do cluster"
-        description="Os primeiros guias publicados atacam as duvidas mais perigosas: legalizacao, SSN, Sunbiz, invoice e Google Business."
+        description="Os guias publicados atacam as duvidas mais perigosas: legalizacao, SSN, Registered Agent, Sunbiz, invoice, financas, seguro, preco, Google e clientes."
         articles={clusterArticles}
       />
     </section>
@@ -120,7 +120,7 @@ const faqSchema = {
       <div class="hub-panel hub-panel-strong">
         <p class="hub-mini">Guia completo</p>
         <h2 id="hub-panels-title">Leia o mapa central antes dos detalhes</h2>
-        <p>A pagina pilar mostra a jornada completa: quem pode empreender, abrir empresa, LLC, corporation, EIN, SSN, ITIN, invoice, banco, Google Business, licencas, sales tax, impostos, 1099, W-9, marketing, seguros e ferramentas.</p>
+        <p>A pagina pilar mostra a jornada completa: quem pode empreender, abrir empresa, LLC, corporation, EIN, SSN, ITIN, Registered Agent, invoice, banco, licencas, impostos, 1099, W-9, seguros, precificacao, Google Business, primeiros clientes e ferramentas.</p>
         <a class="button primary" href={ENTREPRENEURSHIP_PILLAR_PATH}>Abrir guia completo</a>
       </div>
       <div class="hub-panel">
@@ -141,6 +141,9 @@ const faqSchema = {
         "Separar identificacao pessoal, fiscal e empresarial: SSN, ITIN e EIN.",
         "Verificar licencas antes de vender servico na Florida ou em outro estado.",
         "Criar invoice, rotina de comprovantes e controle de recebimentos.",
+        "Separar conta pessoal, bookkeeping, recibos, 1099, W-9 e documentos para contador.",
+        "Avaliar seguro empresarial, commercial auto, workers comp e certificado quando necessario.",
+        "Precificar com base em custo real, tempo, imposto, seguro, deslocamento e margem.",
         "Montar presenca local com Google Business Profile, fotos reais e atendimento consistente.",
         "Confirmar imposto, sales tax, 1099, W-9 e bookkeeping com profissional."
       ]}

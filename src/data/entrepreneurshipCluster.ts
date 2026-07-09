@@ -8,9 +8,14 @@ export const ENTREPRENEURSHIP_PILLAR_URL = `${SITE_URL}${ENTREPRENEURSHIP_PILLAR
 export const entrepreneurshipArticleSlugs = [
   "abrir-empresa-nos-eua-legaliza-minha-situacao",
   "preciso-de-ssn-para-abrir-llc-nos-eua",
+  "registered-agent-nos-eua-brasileiros",
   "sunbiz-nao-e-licenca-erro-brasileiros-florida",
   "como-emitir-invoice-nos-eua-guia-brasileiros",
-  "google-business-profile-prestadores-servico-eua"
+  "organizar-financas-pequena-empresa-eua",
+  "seguro-para-pequenos-negocios-nos-eua",
+  "como-precificar-servicos-nos-estados-unidos",
+  "google-business-profile-prestadores-servico-eua",
+  "como-conseguir-primeiros-clientes-nos-eua-brasileiro"
 ];
 
 export type GuideLinkStatus = "published" | "soon";
@@ -55,6 +60,18 @@ export const entrepreneurshipJourney: GuideJourneyStep[] = [
   },
   {
     step: 3,
+    label: "Registered Agent",
+    title: "Escolher quem recebe documentos oficiais da empresa",
+    summary: "Entenda Registered Agent, endereco, privacidade e notificacoes antes de preencher o registro da LLC.",
+    href: "/articles/registered-agent-nos-eua-brasileiros.html",
+    slug: "registered-agent-nos-eua-brasileiros",
+    status: "published",
+    estimatedTime: "1 a 3 dias para comparar opcoes",
+    difficulty: "Baixa a media",
+    tools: ["Sunbiz", "registro estadual", "servico de Registered Agent"]
+  },
+  {
+    step: 4,
     label: "Sunbiz e licencas",
     title: "Registrar empresa nao e o mesmo que ter licenca para trabalhar",
     summary: "Na Florida, Sunbiz registra a entidade ou nome ficticio. Licencas, permissoes e regras profissionais podem depender de outros orgaos.",
@@ -66,7 +83,7 @@ export const entrepreneurshipJourney: GuideJourneyStep[] = [
     tools: ["Sunbiz", "Florida DBPR", "cidade/condado"]
   },
   {
-    step: 4,
+    step: 5,
     label: "Invoice e cobranca",
     title: "Emitir invoice com clareza, registro e profissionalismo",
     summary: "Aprenda o que uma invoice precisa mostrar, como organizar comprovantes e por que isso ajuda no controle financeiro do pequeno negocio.",
@@ -78,7 +95,43 @@ export const entrepreneurshipJourney: GuideJourneyStep[] = [
     tools: ["QuickBooks", "Stripe", "Square", "PayPal Business"]
   },
   {
-    step: 5,
+    step: 6,
+    label: "Financas",
+    title: "Separar dinheiro pessoal, bookkeeping e documentos fiscais",
+    summary: "Organize conta, recibos, entradas, saidas, 1099, W-9 e rotina para contador antes de o imposto virar susto.",
+    href: "/articles/organizar-financas-pequena-empresa-eua.html",
+    slug: "organizar-financas-pequena-empresa-eua",
+    status: "published",
+    estimatedTime: "7 a 30 dias para criar rotina",
+    difficulty: "Media",
+    tools: ["planilha", "QuickBooks", "pasta de recibos", "CPA"]
+  },
+  {
+    step: 7,
+    label: "Seguros",
+    title: "Proteger o negocio antes de aceitar contratos maiores",
+    summary: "Entenda general liability, commercial auto, workers comp, bond e certificado de seguro para prestadores de servico.",
+    href: "/articles/seguro-para-pequenos-negocios-nos-eua.html",
+    slug: "seguro-para-pequenos-negocios-nos-eua",
+    status: "published",
+    estimatedTime: "Alguns dias a algumas semanas",
+    difficulty: "Media",
+    tools: ["corretor licenciado", "COI", "apolice"]
+  },
+  {
+    step: 8,
+    label: "Precificacao",
+    title: "Cobrar com base em custo real, margem e risco",
+    summary: "Calcule tempo, deslocamento, material, imposto, seguro, taxas e lucro para nao trabalhar muito e ganhar pouco.",
+    href: "/articles/como-precificar-servicos-nos-estados-unidos.html",
+    slug: "como-precificar-servicos-nos-estados-unidos",
+    status: "published",
+    estimatedTime: "1 a 2 semanas para revisar precos",
+    difficulty: "Media",
+    tools: ["planilha", "bookkeeping", "pesquisa de mercado"]
+  },
+  {
+    step: 9,
     label: "Google Business",
     title: "Aparecer no Google sem prometer o que nao pode entregar",
     summary: "Organize perfil, categoria, area atendida, fotos e avaliacoes para prestadores de servico serem encontrados com mais confianca.",
@@ -90,14 +143,16 @@ export const entrepreneurshipJourney: GuideJourneyStep[] = [
     tools: ["Google Business Profile", "fotos reais", "politicas do Google"]
   },
   {
-    step: 6,
+    step: 10,
     label: "Clientes e crescimento",
-    title: "Transformar servico em negocio com processo, seguro e recorrencia",
-    summary: "A fase de crescimento envolve precificacao, indicacoes, contratos simples, seguro, bookkeeping e rotina de atendimento.",
-    status: "soon",
+    title: "Transformar indicacao em processo de vendas local",
+    summary: "Use indicacao, fotos, reviews, Google, site simples e atendimento rapido para conseguir primeiros clientes com mais consistencia.",
+    href: "/articles/como-conseguir-primeiros-clientes-nos-eua-brasileiro.html",
+    slug: "como-conseguir-primeiros-clientes-nos-eua-brasileiro",
+    status: "published",
     estimatedTime: "Continuo",
     difficulty: "Alta",
-    tools: ["bookkeeping", "seguro", "contratos", "CRM simples"]
+    tools: ["Google Business Profile", "reviews", "site simples", "CRM simples"]
   }
 ];
 
@@ -124,6 +179,12 @@ export const pillarSections: GuideSection[] = [
     title: "LLC",
     summary: "A LLC costuma ser uma estrutura simples para pequenos negocios, mas precisa ser entendida com responsabilidade fiscal.",
     href: "/articles/preciso-de-ssn-para-abrir-llc-nos-eua.html",
+    status: "published"
+  },
+  {
+    title: "Registered Agent",
+    summary: "Registered Agent recebe documentos oficiais e precisa ser escolhido com atencao a endereco, privacidade e regras do estado.",
+    href: "/articles/registered-agent-nos-eua-brasileiros.html",
     status: "published"
   },
   {
@@ -175,18 +236,26 @@ export const pillarSections: GuideSection[] = [
   {
     title: "Impostos e bookkeeping",
     summary: "Empreender exige guardar recibos, separar contas, entender receita, despesa, 1099, W-9 e relatorios.",
-    status: "soon"
+    href: "/articles/organizar-financas-pequena-empresa-eua.html",
+    status: "published"
   },
   {
     title: "Marketing e primeiros clientes",
     summary: "Google, Nextdoor, Thumbtack, Yelp, indicacoes e fotos reais podem acelerar a primeira base de clientes.",
-    href: "/articles/google-business-profile-prestadores-servico-eua.html",
+    href: "/articles/como-conseguir-primeiros-clientes-nos-eua-brasileiro.html",
+    status: "published"
+  },
+  {
+    title: "Precificacao",
+    summary: "Preco precisa considerar tempo, material, gasolina, imposto, seguro, ferramenta, taxas, risco e margem.",
+    href: "/articles/como-precificar-servicos-nos-estados-unidos.html",
     status: "published"
   },
   {
     title: "Seguros",
     summary: "General liability, commercial auto, workers compensation e outros seguros podem proteger o negocio e abrir portas.",
-    status: "soon"
+    href: "/articles/seguro-para-pequenos-negocios-nos-eua.html",
+    status: "published"
   },
   {
     title: "Ferramentas",
@@ -234,6 +303,14 @@ export const officialEntrepreneurshipSources = [
     href: "https://www2.myfloridalicense.com/services-requiring-a-dbpr-license/"
   },
   {
+    label: "SBA - Get business insurance",
+    href: "https://www.sba.gov/business-guide/launch-your-business/get-business-insurance"
+  },
+  {
+    label: "SBA - Marketing and sales",
+    href: "https://www.sba.gov/business-guide/manage-your-business/marketing-sales"
+  },
+  {
     label: "USCIS - Working in the United States",
     href: "https://www.uscis.gov/working-in-the-united-states"
   }
@@ -259,6 +336,10 @@ export const entrepreneurshipFaq = [
   {
     question: "Google Business Profile garante clientes?",
     answer: "Nao garante. Ele aumenta a presenca local quando bem configurado, mas resultado depende de servico, reputacao, fotos, avaliacoes, concorrencia, atendimento e consistencia."
+  },
+  {
+    question: "Seguro empresarial substitui licenca ou autorizacao de trabalho?",
+    answer: "Nao. Seguro pode proteger o negocio e abrir portas para contratos, mas nao substitui licenca, imposto, registro local, visto ou autorizacao de trabalho."
   }
 ];
 
