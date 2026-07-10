@@ -1,8 +1,8 @@
 # Relatório diário — Imigração e brasileiros nos EUA
 
-Gerado em: 2026-07-09 16:03 EDT
+Gerado em: 2026-07-09 11:32 EDT
 
-Arquivo original: `2026-07-09-16-03-tendencias-imigracao.md`
+Arquivo original: `2026-07-09-11-32-tendencias-imigracao.md`
 
 ## Objetivo
 
@@ -10,25 +10,25 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ## Principais assuntos do dia
 
-1. **México diz que apresentará denúncias criminais nos EUA por mortes de imigrantes em instalações do ICE**
-   - Fonte: Gazeta do Povo
+1. **Agente de imigração dos EUA mata homem em Houston durante operação de fiscalização, diz autoridade**
+   - Fonte: Estadão
    - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWE91eGlBZXAxMlFQZ0ZLSWVMZGNGWVlxdmpKTy10amxGSXdJcW9ydUtYWWhPMGZrQTBQT255MjM5UWx1aEhNRU92Z2ZGb3hVQTd3YWoxbmdMQXk3c2U4TGFfTWZ2ZDdGN0E3Snk2N3VBUGh0N2RmaTlVbTVYTktmU3V2ck90bzAtbFdsc0JIb0dBejFlcFM5WUgzSzBqYUlMQWVkUk9ZMEFRT1FISUI4SUVhcU1vRjdWVEh3?oc=5
+   - Link: https://news.google.com/rss/articles/CBMiygFBVV95cUxOSU1WcnlkaFp3aVNQM3E5aTlRU05EeVZlbFFzOGFkTHpOV1lxMUNxalhsM1FncXBNUjA4V2lxQXNua0hfX2JVcU1qLU1wWWQ2Q3VKOFoxcTJ3bFlid2pyeUNCRjJiMER6NjcxTGMtYWJaVkpIZXNfdFhzVUgxSVBFTHlZTlNXT2U1SWxVYTVmdmtPZUdLQU1falBaaGIzMTVYVlZtc0Z4ekkzNW9ac2Z4TDlpVDlhbU41aWhWWF9UZXdCR2dZSzZzT1hB0gHPAUFVX3lxTE9ZZ1BneUxyUlN0QzRZdUZ5cy1mWi0xdUd6YkdCa2FBQnYxNElNSzhQaExlb09yVzFGOHdGQ2NXd2FMOFFRN2VhSG1kODlLNnZ0ZE1EYXlHaDl0c1lEUmplOEc5SGw3anBkaExuSFQ3TTM2andteVNySXVyTGIzS1hDQlRwSFRyQkMzZWUtZzY3RU85OVkxRm81d3k5YmhuMGl6RXJLcmtYZmFwOG9lUUItME4xX3BNQTR6WXl4ZC1GRnFkblJBMklBeXlLSDZPaw?oc=5
 
-2. **Ex-juíza dos EUA não será presa por ajudar imigrante a fugir**
+2. **Agentes do ICE matam imigrante mexicano em abordagem no Texas**
+   - Fonte: O GLOBO
+   - Termo monitorado: imigração EUA
+   - Link: https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdzdIbUlFb1VhbUc5NEZZNXUxNjV0T2ZEU3ZJdm9QLWJmUmt6STV4XzdKMFdsODRwWlkzWk9hdWJIR2MxZ2NNSWZMc2VENE5FM3IwcTBlSUxQWmgtQ0NIMk1XV2xEUkQ5UE1CMzVLaFhUT3RrdVFxNWM4NWhRakJuUVVBaU5ydGxVXzN1NHhNemtvSGdmSzRHUDliNVFEQVRObUNick1vQmd0Vmt5MmVWLXoxMGV2dzZP0gHHAUFVX3lxTE5HRWxzRUZwU2NkdFZzSDh0Ukt3ckxweXItc29VaDItWlJrNDAtSFBTYW82Qlg5X2dXTDZmSm1TMlZMRmtXNVdKM3NjVDAxd0trd3NzbmJNT0tJeXVJV0UwRGctc2ljR3lwSHluN21nLXlqbU1TZUlKVDMtcEdIcHFJdi0tZHhtZFN0SVBVUHFvM3pXYk56UXl5YVZXOEZ5TDFYN0xrTzN3em9XbVFwNk5zaHQ4YXAtb0RxWEFxLVJHeFljNjJUczg?oc=5
+
+3. **Mexicano morre após ser baleado por agente do ICE durante operação de imigração nos EUA**
+   - Fonte: Rádio Metrópole
+   - Termo monitorado: imigração EUA
+   - Link: https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeUxvMUNTc1M1cUdaejNZc2djbllHLTQ2aGF1bDFKdXRyVHFkUEhOZ19xb043U004UkFmb3Q0REc0WXU3QVZCbXJpN2FoWlVhRF9EZjVGR3FDeE5tN1hlaWZrSXM0MS0tZnZaZEtuV1ZCTjlvYmJORW5yVHA2UVpmNVJ1UkJxNUZfRWtrYS15UVc4MUVONlJ5WndhaGg5MHV6bTY2UzM4bFViWVpsTThJbS0wSkprRUhzTkJTV2lPZkNybTFLbFpfa2NVd0ZPSkJVcUhBYU9EZnhtdGc?oc=5
+
+4. **Ex-juíza dos EUA não será presa por ajudar imigrante a fugir**
    - Fonte: SBT News
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMiowFBVV95cUxNVHlLanhFR1NOU2phM3JlemhLSGU5b0tfMllKV1dDZHN6VFN3bkp2LUt0bEVqUDhGYkpxUU5ZZmt0NDVzU1FUSEJtU3NncDBTaFRHbXI3bU93ZE1MTndRUURBaVNQT1BkR1J2SFBNVXd4a1dhOVJZWWtBSk4xSUtZRnB6N1pWa0J6emVwbGl4a3A4dlhkNkpfUmtJWU05dFhhT0NJ?oc=5
-
-3. **ICE na Copa gera alerta entre imigrantes nos EUA**
-   - Fonte: AcheiUSA
-   - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeUdrdFJiMFprd28xY0F1T0V6OW5VdGhQTlo4WVpxb3JQaG8zU2l3VDZwWjdscEhXWXNBbkk5dXJmam4zVVNqRzY5WG01QURjQjA0alg2YUY0ZlRLSTl6VW00MVBzaGIxSnBFQnNOelFsbUtONGZEWWJBdGNOUUdWbk5PMVBuU3VsbzAw?oc=5
-
-4. **ICE bate mais de 10 mil prisões em cinco dias e mantém comunidades imigrantes em estado de alerta**
-   - Fonte: AcheiUSA
-   - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWll4WFhGdk1qMUFpclE5elRnLV9ZNzRidXhwRm0xdUVNUnZjcXVkdENNNXkxZ2xKbjJtTDhsQTlycmRlRE16SlRzcm1MWEpvY0RiRC1aY0QzRi1zaXFsZzBlU1dxVHVyaWlQNlhPb2xHTU8wSy1EckpybzBLTWFCSGRTRVI2bGtaazBfanBubVZqbk9jU1hGU3U3OW15TzJXalAtUTdIVEpyNlFCVDdrbTNsNjlVN2s5VXRvajd3UlY3aTNLX01YVG04cG16MU9zd21nTw?oc=5
 
 5. **Nova diretriz da USCIS aumenta rigor na análise de pedidos de Green Card dentro dos Estados Unidos**
    - Fonte: Valor Econômico
@@ -48,21 +48,21 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### imigração EUA
 
-- **México diz que apresentará denúncias criminais nos EUA por mortes de imigrantes em instalações do ICE**
-  - Fonte: Gazeta do Povo
-  - Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWE91eGlBZXAxMlFQZ0ZLSWVMZGNGWVlxdmpKTy10amxGSXdJcW9ydUtYWWhPMGZrQTBQT255MjM5UWx1aEhNRU92Z2ZGb3hVQTd3YWoxbmdMQXk3c2U4TGFfTWZ2ZDdGN0E3Snk2N3VBUGh0N2RmaTlVbTVYTktmU3V2ck90bzAtbFdsc0JIb0dBejFlcFM5WUgzSzBqYUlMQWVkUk9ZMEFRT1FISUI4SUVhcU1vRjdWVEh3?oc=5
-- **Ex-juíza dos EUA não será presa por ajudar imigrante a fugir**
-  - Fonte: SBT News
-  - Link: https://news.google.com/rss/articles/CBMiowFBVV95cUxNVHlLanhFR1NOU2phM3JlemhLSGU5b0tfMllKV1dDZHN6VFN3bkp2LUt0bEVqUDhGYkpxUU5ZZmt0NDVzU1FUSEJtU3NncDBTaFRHbXI3bU93ZE1MTndRUURBaVNQT1BkR1J2SFBNVXd4a1dhOVJZWWtBSk4xSUtZRnB6N1pWa0J6emVwbGl4a3A4dlhkNkpfUmtJWU05dFhhT0NJ?oc=5
+- **Agente de imigração dos EUA mata homem em Houston durante operação de fiscalização, diz autoridade**
+  - Fonte: Estadão
+  - Link: https://news.google.com/rss/articles/CBMiygFBVV95cUxOSU1WcnlkaFp3aVNQM3E5aTlRU05EeVZlbFFzOGFkTHpOV1lxMUNxalhsM1FncXBNUjA4V2lxQXNua0hfX2JVcU1qLU1wWWQ2Q3VKOFoxcTJ3bFlid2pyeUNCRjJiMER6NjcxTGMtYWJaVkpIZXNfdFhzVUgxSVBFTHlZTlNXT2U1SWxVYTVmdmtPZUdLQU1falBaaGIzMTVYVlZtc0Z4ekkzNW9ac2Z4TDlpVDlhbU41aWhWWF9UZXdCR2dZSzZzT1hB0gHPAUFVX3lxTE9ZZ1BneUxyUlN0QzRZdUZ5cy1mWi0xdUd6YkdCa2FBQnYxNElNSzhQaExlb09yVzFGOHdGQ2NXd2FMOFFRN2VhSG1kODlLNnZ0ZE1EYXlHaDl0c1lEUmplOEc5SGw3anBkaExuSFQ3TTM2andteVNySXVyTGIzS1hDQlRwSFRyQkMzZWUtZzY3RU85OVkxRm81d3k5YmhuMGl6RXJLcmtYZmFwOG9lUUItME4xX3BNQTR6WXl4ZC1GRnFkblJBMklBeXlLSDZPaw?oc=5
+- **Agentes do ICE matam imigrante mexicano em abordagem no Texas**
+  - Fonte: O GLOBO
+  - Link: https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdzdIbUlFb1VhbUc5NEZZNXUxNjV0T2ZEU3ZJdm9QLWJmUmt6STV4XzdKMFdsODRwWlkzWk9hdWJIR2MxZ2NNSWZMc2VENE5FM3IwcTBlSUxQWmgtQ0NIMk1XV2xEUkQ5UE1CMzVLaFhUT3RrdVFxNWM4NWhRakJuUVVBaU5ydGxVXzN1NHhNemtvSGdmSzRHUDliNVFEQVRObUNick1vQmd0Vmt5MmVWLXoxMGV2dzZP0gHHAUFVX3lxTE5HRWxzRUZwU2NkdFZzSDh0Ukt3ckxweXItc29VaDItWlJrNDAtSFBTYW82Qlg5X2dXTDZmSm1TMlZMRmtXNVdKM3NjVDAxd0trd3NzbmJNT0tJeXVJV0UwRGctc2ljR3lwSHluN21nLXlqbU1TZUlKVDMtcEdIcHFJdi0tZHhtZFN0SVBVUHFvM3pXYk56UXl5YVZXOEZ5TDFYN0xrTzN3em9XbVFwNk5zaHQ4YXAtb0RxWEFxLVJHeFljNjJUczg?oc=5
 
 ### USCIS
 
 - **Nova diretriz da USCIS aumenta rigor na análise de pedidos de Green Card dentro dos Estados Unidos**
   - Fonte: Valor Econômico
   - Link: https://news.google.com/rss/articles/CBMiggJBVV95cUxNY1JWcDF5RnNpT2pwVWFWb2NZSFdZTS01bXVVdkgwRzM0UEVzQ3lFV3FzMzVhSVJpbVdIN3lRMjB3ZmtOTk42SXlWZGxWQTd3YzQtWnA1R0tzdlBuSGZ1RFlrWTdwTDFwdm5rUzJodzF1aFY1ZTJndUk4cVcxZnRnamdzMjRmVUcxYTVQX3c5TXcydXA1cjlfUGY5cVM0RmM0VHZHMXdOckRhLThrb1BKdHhua0w2a0REb3R4VjF1ZmhoQlFseHFYMTh5cmpxQkNReUVoWGNsemg3V2p5dGNidmdka1F2VTNzS3VjZFN0YmlTVlVFbHMtNC1fYmhBdXllb0HSAZACQVVfeXFMUDJZR0VKcFNtUTFKVjJITXZCNXh2S2pSUE5Uc3N3Qk5pcHpvU1dMOTQxbVdHM0NpcERDMzlwZWJnNGVoelFla0tSLUV0YWdvUlRXdjRPamFXX2ZPa2taQm9VdkJQM2ViWDZFeTN6aVNyVWVpR2dVM0J6QkJnOFlsNWRjbjFDaHNUbTlMdmc2LTdxUEhfTXk3eWU4OUp5V016V3diVDVmdUhtaFducjNEeXhkczRSNGxEMUplZGYxZDNxYndhMVNnd2NXWUlmRm1pUEdyMllCLUdocHNxOGNYSlpyVFVVVjBEOFZTMEdYMmx3OGdRZzAxS19Zdm9JMzZuWTdOdUJEbndoR1ZIVjRScFI?oc=5
-- **Green Card em xeque? Entenda quem realmente está em risco**
-  - Fonte: Terra
-  - Link: https://news.google.com/rss/articles/CBMi0gFBVV95cUxONTFraDQ5Y0VsNGJoTm4xWFhSOTYtYThOZDBETW4zRUhwcG4wLXQyOUxhZkhWcW9hR1FTckhzb2ZWTFdNd1BMMzJNNWtsNUlZM1VzWFRhT3hfTnpyWF8xZlpvNW4yZVBRSktWZXcyTUE3NHRIRzVvWlgzTmpYaUYzRVVaalFoYW9tQnhEaF9OVHRndUNxYzM0cWsyTTlvMFlrTmpYZjJrR3YyUldsLXVnMEpSQXZhWWhYYUxydk9EUEFpSGpRUHVkczBUOHZYRnBRYnc?oc=5
+- **Juiz de Nebraska questiona a famosa “discricionariedade do agente”**
+  - Fonte: Migalhas
+  - Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYl82V3p0RmV1ZEFmRnhVSk9lVnlEX2xiTHRmLTItTU1FdHJLbWZCa3hDZ2VldnJUeEtXQzlVNllrcXBCVElPbkRobHRRMzJXTUs5Q25ZSnR0XzZTMTBEWV9UdmFUb1lfMl9OR3hTTWx2ei00UjNKUVFHSEZLekRtUm1Fams4SVd6a2M0VVB4S1NPLUlTM3kxc3hRRzFKQmtWVEtfZlJhSExnQQ?oc=5
 
 ### green card
 
@@ -84,12 +84,12 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### brasileiros nos Estados Unidos
 
-- **Painel S.A.: Brasileiros que moram nos EUA são 20% dos compradores em bairro planejado**
-  - Fonte: Folha de S.Paulo
-  - Link: https://news.google.com/rss/articles/CBMizgFBVV95cUxObmw1Ri1oZWZNY1l5ZUJ0YjNTUW9JZ09GRmdTbTBWdnhuY2JNbjREUmthaVdsSlBDSGNSY09vcHZ2TzZPU1U1cjh0UkVwNWFZejFxOWZDUENGemt0SmhjS2lkVDRBQkt3SW9zcG1fZWM2OWJyZm51enFkSE5sSDNSUDFWQUVzT3ZGLV9hRmZGYU1pa1BxQjZ1dFk5S2gxOElwWnBwemlmaDFaR0k3a19manl2UWk1RF8tRHpEQTA1aFBJQUVlelhIN2VXT2JVZw?oc=5
 - **Decisão sobre tarifaço ao Brasil sairá 'muito em breve', diz representante de comércio dos EUA**
   - Fonte: G1
   - Link: https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRnlxTE90VmdGNTYtNFlKOXNsamdLbF9taHpRNkpERjVySHVVZnI2ejlGakd1bU9LS1pzNVY5eVlRcXBTYXdycnJZbTUyaHhMRTU4UEwwcWVyTjFnOFl5ZENVZnpUYzhSVHpZSDItN2dBdnhGS1Vyek5CQ3JwRHE5WV9NSm0yaWVkeS0tWklwNzNRWUFpMU1KUVFRa1phQ1hBaFZETGg5U1NHTHB6UGpESE14eGZPa2VzZks3d2lza0NFZ0FnWWdTR0M2bEFMelNyMVlPT9IB4wFBVV95cUxQcjhPN19uMkpGNHVVR2dzdUZRdWJ3cHpYTmJ6THJIS211MlBtTG1BMmhmNnZ6cTFES19LYmFaOXBERTM4YXZoWFVxb0YyX0RncXJqZUFaejdINHljWUw2YXBVWU84TFlRd216TzZrc2ZqNFVPTTVXOEQ3dDluRGhsOWFMU1RRWWlqanZDZ3EtR3NQLV9pTVlXdGR6WmpqMUdCZHMxWmFFOWQ4eXRWc1dGSmZmV2tGNGV2UXFDeG9BY0ROUHFjWXpYWGtKYm1GQVdJWWtCX0MwaEtFbkpnVDZmLXdTcw?oc=5
+- **Acúmulo de frentes de tensões amplia desafios na relação entre Brasil e EUA**
+  - Fonte: CNN Brasil
+  - Link: https://news.google.com/rss/articles/CBMic0FVX3lxTE91T3ZwbzFhelZyYkZoZ3pLT1pKUjVXQkpxWEE4aE1ZWk9uQkFkVWNLZWNyU3pkWi1rdUFueVhJRjBYR3NHVmJlOTg4OFlHcHZmd1N1bThkX3J1bUV6UzI1dVpqNVhlMFEzV195N2pPT2FfakE?oc=5
 
 ### asilo nos EUA
 
@@ -102,12 +102,12 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### ICE immigration
 
-- **Agentes do ICE matam imigrante mexicano em abordagem no Texas**
-  - Fonte: O GLOBO
-  - Link: https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdzdIbUlFb1VhbUc5NEZZNXUxNjV0T2ZEU3ZJdm9QLWJmUmt6STV4XzdKMFdsODRwWlkzWk9hdWJIR2MxZ2NNSWZMc2VENE5FM3IwcTBlSUxQWmgtQ0NIMk1XV2xEUkQ5UE1CMzVLaFhUT3RrdVFxNWM4NWhRakJuUVVBaU5ydGxVXzN1NHhNemtvSGdmSzRHUDliNVFEQVRObUNick1vQmd0Vmt5MmVWLXoxMGV2dzZP0gHHAUFVX3lxTE5HRWxzRUZwU2NkdFZzSDh0Ukt3ckxweXItc29VaDItWlJrNDAtSFBTYW82Qlg5X2dXTDZmSm1TMlZMRmtXNVdKM3NjVDAxd0trd3NzbmJNT0tJeXVJV0UwRGctc2ljR3lwSHluN21nLXlqbU1TZUlKVDMtcEdIcHFJdi0tZHhtZFN0SVBVUHFvM3pXYk56UXl5YVZXOEZ5TDFYN0xrTzN3em9XbVFwNk5zaHQ4YXAtb0RxWEFxLVJHeFljNjJUczg?oc=5
 - **Agente do ICE mata a tiros motorista mexicano no Texas durante abordagem de veículo**
   - Fonte: InfoMoney
   - Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbXpsWl9kc2t6RWhQNFBXSkZjUkwwQzZpTUtEOE00OFBjMnotNlRKRnpqOFNfUFJ6QVp6WHFpT192S1pDNzJBWUNzc01HNGIwWGtJaEN4dlRtdG15MW9sd25SX0tkZzh4amREZkZlaFhrdEVMckw2LWRYRnpPdklydVhTU1RzM0xjWmZ0N0UtUUF0TkV3WGRzTmUtQ1BGX2RVM0RQRzg0RVE1RVktek5tVHd0RlNVWEtjSmpJ0gHAAUFVX3lxTE0tNGtyUzBoT0d3ZVJ0STVmU1lJeTBaREE2c2FVUjZoZThDOHRvNDdoa1FSSGFTTFl2SXREd0VidnJKcnVLMFVmZ2tZejFlMFhrQ0xMQ2xTS01PTDVZeVFLV2N1d2ZtMFJCTDA5SklUdVRScDZlT3A3TFhTaHc5VWtINjcxeWVIWkRBSVc4djBaV1BYOWVMOTlreDlydzQ1bVRWR2U1cTVMeEdNb2IxTG0xSVRnaVFoc3VlNTZNM3ZiTA?oc=5
+- **ICE bate mais de 10 mil prisões em cinco dias e mantém comunidades imigrantes em estado de alerta**
+  - Fonte: AcheiUSA
+  - Link: https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWll4WFhGdk1qMUFpclE5elRnLV9ZNzRidXhwRm0xdUVNUnZjcXVkdENNNXkxZ2xKbjJtTDhsQTlycmRlRE16SlRzcm1MWEpvY0RiRC1aY0QzRi1zaXFsZzBlU1dxVHVyaWlQNlhPb2xHTU8wSy1EckpybzBLTWFCSGRTRVI2bGtaazBfanBubVZqbk9jU1hGU3U3OW15TzJXalAtUTdIVEpyNlFCVDdrbTNsNjlVN2s5VXRvajd3UlY3aTNLX01YVG04cG16MU9zd21nTw?oc=5
 
 
 ## Termos monitorados
