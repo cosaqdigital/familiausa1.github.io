@@ -1,18 +1,18 @@
 # Relatorio Astro dos 151 artigos legados
 
-Gerado em: `2026-06-26T13:33:42.506Z`
+Gerado em: `2026-07-12T03:42:36.596Z`
 Escopo: validacao dos artigos legados renderizados em Astro a partir de `src/data/legacy-extract/legacy-articles.json`.
 
 ## Resumo
 
 - Artigos no JSON legado: 151
-- Arquivos HTML de artigos gerados em dist: 159
+- Arquivos HTML de artigos gerados em dist: 169
 - FAQPage automatico em artigos com FAQ visivel: 143/143
 - Links internos preservados no conteudo legado: 2550
 - Divergencias de title legado x dist: 0
 - Divergencias de canonical legado x dist: 0
 - Divergencias com sitemap: 0
-- Divergencias com articles.json: 29
+- Divergencias com articles.json: 30
 - Artigos com conteudo curto abaixo de 900 palavras: 50
 - Artigos com possivel risco visual/tecnico: 62
 - Links internos entre artigos gerados quebrados: 0
@@ -28,8 +28,8 @@ Escopo: validacao dos artigos legados renderizados em Astro a partir de `src/dat
 ## Divergencias com sitemap
 
 - Sitemap encontrado: sim
-- URLs totais no sitemap: 191
-- URLs de artigos no sitemap: 159
+- URLs totais no sitemap: 196
+- URLs de artigos no sitemap: 164
 
 ### Artigos gerados ausentes no sitemap
 - Nenhum.
@@ -64,12 +64,13 @@ Escopo: validacao dos artigos legados renderizados em Astro a partir de `src/dat
 - `articles/green-card-regras-mais-rigidas-pedido-fora-dos-eua-2026.html`: HTML="Green card com regras mais rígidas: pedido fora dos EUA e cuidados para brasileiros | FamiliaUSA1" | JSON="Green card com regras mais rigidas: o que brasileiros precisam saber"
 - `articles/maior-dificuldade-imigrante-eua.html`: HTML="Maior Dificuldade do Imigrante nos EUA | Moradia e Realidade" | JSON="A Maior Dificuldade do Imigrante nos EUA em 2026 (E Quase Ninguém Fala Disso)"
 - `articles/melhores-outlets-orlando-2026.html`: HTML="Melhores outlets de Orlando em 2026" | JSON="Melhores outlets de Orlando em 2026: onde comprar mais barato e o que vale a pena"
-- `articles/quanto-custa-morar-em-boca-raton-2026.html`: HTML="Morar em Boca Raton em 2026: custo, escolas, família e qualidade de vida | FamiliaUSA1" | JSON="Quanto custa morar em Boca Raton em 2026?"
+- `articles/miami-ou-orlando-onde-morar-2026.html`: HTML="Miami ou Orlando: onde morar na Flórida em 2026?" | JSON="Miami ou Orlando em 2026: qual cidade é melhor para brasileiros?"
+- `articles/quanto-custa-morar-em-boca-raton-2026.html`: HTML="Boca Raton custo de vida 2026: vale morar?" | JSON="Quanto custa morar em Boca Raton em 2026?"
 - `articles/quanto-custa-morar-em-fort-lauderdale-2026.html`: HTML="Morar em Fort Lauderdale em 2026: custo, praia, trabalho e Miami | FamiliaUSA1" | JSON="Quanto custa morar em Fort Lauderdale em 2026?"
 - `articles/quanto-custa-morar-em-jacksonville-2026.html`: HTML="Morar em Jacksonville em 2026: custo, trabalho, bairros e vida real | FamiliaUSA1" | JSON="Quanto custa morar em Jacksonville em 2026?"
-- `articles/quanto-custa-morar-em-miami-2026.html`: HTML="Morar em Miami em 2026: custo de vida, aluguel, trabalho e bairros | FamiliaUSA1" | JSON="Quanto custa morar em Miami em 2026?"
-- `articles/quanto-custa-morar-em-orlando-2026.html`: HTML="Morar em Orlando em 2026: custo de vida, aluguel, trabalho e bairros | FamiliaUSA1" | JSON="Quanto custa morar em Orlando em 2026?"
-- `articles/quanto-custa-morar-em-tampa-2026.html`: HTML="Morar em Tampa em 2026: custo de vida, trabalho, bairros e praias | FamiliaUSA1" | JSON="Quanto custa morar em Tampa em 2026?"
+- `articles/quanto-custa-morar-em-miami-2026.html`: HTML="Custo de vida em Miami em 2026: aluguel e trabalho" | JSON="Quanto custa morar em Miami em 2026?"
+- `articles/quanto-custa-morar-em-orlando-2026.html`: HTML="Custo de vida em Orlando em 2026: aluguel e trabalho" | JSON="Quanto custa morar em Orlando em 2026?"
+- `articles/quanto-custa-morar-em-tampa-2026.html`: HTML="Morar em Tampa em 2026: custo, trabalho e bairros" | JSON="Quanto custa morar em Tampa em 2026?"
 - `articles/se-legalizar-nos-eua-com-visto-de-turista-2026.html`: HTML="Visto de turista nos EUA: quando existe caminho legal?" | JSON="É possível se legalizar nos EUA com visto de turista?"
 - `articles/solidao-de-morar-nos-eua.html`: HTML="Solidão de morar nos EUA: realidade dos brasileiros" | JSON="A solidão de morar nos EUA: o lado que quase ninguém mostra"
 - `articles/trabalhos-aprender-antes-de-vir-eua-vistos-carreira.html`: HTML="Trabalhos para brasileiros nos EUA: salários e carreiras" | JSON="7 trabalhos para aprender antes de vir para os EUA"

@@ -1,6 +1,6 @@
 # Search Console Tracking - Familia USA1
 
-Atualizado em: 2026-07-10
+Atualizado em: 2026-07-11
 
 Use este arquivo para registrar dados exportados do Google Search Console. Nao inventar posicao media ou CTR se o dado nao estiver disponivel.
 

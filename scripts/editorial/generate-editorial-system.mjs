@@ -72,7 +72,7 @@ const TAXONOMY = [
   { macro: "orlando e viagem", hub: "/categorias/orlando-e-viagem.html", pillar: "/articles/guia-completo-orlando-2026-brasileiros.html", match: ["disney", "universal", "parques", "viagem", "orlando", "filas"] },
   { macro: "familia e escola", hub: "/categorias/familia-filhos.html", pillar: "/articles/como-matricular-filho-na-escola-nos-eua.html", match: ["familia", "filhos", "escola", "ano-escolar", "matricular", "crianca"] },
   { macro: "saude", hub: "/categorias/saude-nos-eua.html", pillar: "/articles/seguro-saude-nos-eua-como-funciona-2026.html", match: ["saude", "emergencia", "urgent-care", "er-", "seguro-saude", "cruzeiro", "virus"] },
-  { macro: "banco e credito", hub: "/categorias/banco-credito.html", pillar: "/articles/como-funciona-o-credito-nos-eua.html", match: ["banco", "credito", "conta-bancaria", "itin-ssn", "trump-bancos"] },
+  { macro: "banco e credito", hub: "/categorias/banco-credito.html", pillar: "/articles/como-abrir-conta-em-banco-nos-eua.html", match: ["banco", "credito", "conta-bancaria", "itin-ssn", "trump-bancos"] },
   { macro: "vida pratica", hub: "/categorias/vida-real-nos-eua.html", pillar: "/articles/a-verdade-sobre-morar-nos-eua.html", match: ["vida-real", "solidao", "verdade", "choque", "adaptacao", "primeiros", "habitos", "brasil-x-eua", "sentimos-falta"] },
   { macro: "noticias e alertas", hub: "/categorias/noticias-eua.html", pillar: "/articles/o-que-pode-mudar-na-imigracao-dos-eua-em-2026.html", match: ["trump", "suprema", "pcc", "china", "lula", "noticia", "copa-2026", "portugal"] }
 ];
@@ -187,8 +187,20 @@ function slugFromHref(href = "") {
 
 function classifyArticle(article) {
   const haystack = normalize(`${article.slug} ${article.title} ${article.description} ${article.category} ${(article.tags || []).join(" ")}`);
+  const category = normalize(article.category || "");
+  const categoryOverride = [
+    { term: "saude", macro: "saude" },
+    { term: "banco", macro: "banco e credito" },
+    { term: "credito", macro: "banco e credito" },
+    { term: "compras", macro: "compras" },
+    { term: "familia", macro: "familia e escola" },
+    { term: "filhos", macro: "familia e escola" },
+    { term: "visto", macro: "vistos" },
+    { term: "orlando", macro: "orlando e viagem" },
+    { term: "imigracao", macro: "imigracao" }
+  ].find((item) => category.includes(item.term));
   const matches = TAXONOMY.filter((tax) => tax.match.some((term) => haystack.includes(normalize(term))));
-  const selected = matches[0] || MACRO_FALLBACK;
+  const selected = (categoryOverride && TAXONOMY.find((tax) => tax.macro === categoryOverride.macro)) || matches[0] || MACRO_FALLBACK;
   const complements = matches.slice(1, 3).map((item) => item.macro);
 
   let subcluster = article.category || selected.macro;
@@ -655,7 +667,7 @@ function writeMasterPlan(summary, stats) {
   const weak = stats.filter((stat) => coverageLevel(stat).startsWith("25") || coverageLevel(stat).startsWith("50"));
   const content = `# Editorial Master Plan - Familia USA1
 
-Atualizado em: 2026-07-10
+Atualizado em: 2026-07-11
 Fonte: inventario gerado a partir do repositorio Astro em \`src/content/articles\`, \`src/data/legacy-extract/legacy-articles.json\`, \`src/pages\` e \`src/data\`.
 
 ## 1. Missao editorial
@@ -845,7 +857,7 @@ ${missing}
 
   const content = `# Cluster Map - Familia USA1
 
-Atualizado em: 2026-07-10
+Atualizado em: 2026-07-11
 
 Escala de cobertura:
 
@@ -876,28 +888,30 @@ function missingArticlesForCluster(cluster) {
   return gaps[cluster] || ["Revisar oportunidades com Search Console e relatorio externo pendente."];
 }
 
-function writeContentGaps(stats) {
+function writeContentGaps(stats, articles) {
+  const articleSlugs = new Set(articles.map((article) => article.slug));
+  const statusFor = (slug) => articleSlugs.has(slug) ? "publicado em 2026-07-11" : "pendente";
   const gaps = [
-    ["prioridade maxima", "Hub tecnologia/iPhone", "compras", "comparativa/transacional", "hub novo", "/categorias/compras-nos-eua.html", "/articles/iphone-nos-eua-vale-a-pena-2026.html", "medio", "alto", "medio", "alto", "alto", "iPhone ja recebe impressoes e tem mais de um artigo satelite."],
-    ["prioridade maxima", "Sales tax para pequenos negocios", "empreendedorismo", "informacional/pratica", "artigo novo", "/empreendedorismo-nos-estados-unidos.html", "/empreender-nos-estados-unidos-guia-completo.html", "baixo", "medio", "baixo", "baixo", "alto", "Cluster de empreendedorismo ja tem LLC/EIN/invoice/Google, falta sales tax."],
-    ["alta", "Contrato e estimate para prestadores", "empreendedorismo", "pratica/transacional", "artigo novo", "/empreendedorismo-nos-estados-unidos.html", "/empreender-nos-estados-unidos-guia-completo.html", "baixo", "medio", "medio", "baixo", "alto", "Complementa invoice, precificacao e primeiros clientes."],
-    ["alta", "Conta bancaria empresarial nos EUA", "banco e credito", "informacional/pratica", "artigo novo", "/categorias/banco-credito.html", "/articles/como-abrir-conta-em-banco-nos-eua.html", "medio", "medio", "baixo", "baixo", "alto", "Conecta banco, ITIN, SSN, LLC e empreendedorismo."],
-    ["alta", "Guia completo de escola publica nos EUA", "familia e escola", "informacional", "pilar novo ou atualizacao", "/categorias/familia-filhos.html", "/articles/como-matricular-filho-na-escola-nos-eua.html", "medio", "alto", "medio", "medio", "medio", "Artigo de matricula ja recebe impressoes; precisa hub/pilar mais forte."],
-    ["alta", "Seguro saude para familias brasileiras", "saude", "informacional/comparativa", "pilar novo ou atualizacao", "/categorias/saude-nos-eua.html", "/articles/seguro-saude-nos-eua-como-funciona-2026.html", "baixo", "alto", "baixo", "baixo", "alto", "Saude e cluster sensivel, com monetizacao futura e alto valor de usuario."],
-    ["media", "Custo de vida por estado", "custo de vida", "comparativa", "artigo novo", "/categorias/custo-de-vida.html", "/articles/custo-de-vida-nos-eua-2026-atualizado.html", "medio", "alto", "medio", "baixo", "medio", "Custo de vida pilar existe, falta comparativo por estado."],
-    ["media", "Como construir credito com ITIN", "banco e credito", "pratica", "artigo novo", "/categorias/banco-credito.html", "/articles/como-funciona-o-credito-nos-eua.html", "medio", "medio", "baixo", "baixo", "alto", "Conecta ITIN, banco, cartao secured e vida financeira."],
-    ["media", "Oficios por cidade/estado", "trabalho", "informacional/comparativa", "serie nova", "/categorias/trabalho-renda.html", "/articles/trabalhos-aprender-antes-de-vir-eua-vistos-carreira.html", "medio", "medio", "alto", "medio", "medio", "Boa ponte entre YouTube, vida real e SEO long tail."],
-    ["baixa", "Relatorio externo de 90 dias", "planejamento editorial", "auditoria", "importar/avaliar", "docs/editorial", "docs/editorial", "nao informado", "nao informado", "nao informado", "nao informado", "nao informado", "Arquivo especifico do plano de 90 dias nao foi localizado neste ambiente; importar quando disponivel."]
+    [statusFor("hub-compras-iphone"), "prioridade maxima", "Hub tecnologia/iPhone", "compras", "comparativa/transacional", "hub novo", "/categorias/compras-nos-eua.html", "/articles/iphone-nos-eua-vale-a-pena-2026.html", "medio", "alto", "medio", "alto", "alto", "iPhone ja recebe impressoes e tem mais de um artigo satelite."],
+    [statusFor("sales-tax-pequenos-negocios-eua"), "prioridade maxima", "Sales tax para pequenos negocios", "empreendedorismo", "informacional/pratica", "artigo novo", "/empreendedorismo-nos-estados-unidos.html", "/empreender-nos-estados-unidos-guia-completo.html", "baixo", "medio", "baixo", "baixo", "alto", "Cluster de empreendedorismo ja tem LLC/EIN/invoice/Google; artigo publicado para fechar lacuna fiscal inicial."],
+    [statusFor("contrato-estimate-prestadores-servico-eua"), "alta", "Contrato e estimate para prestadores", "empreendedorismo", "pratica/transacional", "artigo novo", "/empreendedorismo-nos-estados-unidos.html", "/empreender-nos-estados-unidos-guia-completo.html", "baixo", "medio", "medio", "baixo", "alto", "Complementa invoice, precificacao e primeiros clientes."],
+    [statusFor("conta-bancaria-empresarial-eua"), "alta", "Conta bancaria empresarial nos EUA", "banco e credito", "informacional/pratica", "artigo novo", "/categorias/banco-credito.html", "/articles/como-abrir-conta-em-banco-nos-eua.html", "medio", "medio", "baixo", "baixo", "alto", "Conecta banco, ITIN, SSN, LLC e empreendedorismo; artigo publicado como ponte entre clusters."],
+    [statusFor("guia-escola-publica-eua-brasileiros"), "alta", "Guia completo de escola publica nos EUA", "familia e escola", "informacional", "pilar novo ou atualizacao", "/categorias/familia-filhos.html", "/articles/como-matricular-filho-na-escola-nos-eua.html", "medio", "alto", "medio", "medio", "medio", "Artigo de matricula ja recebe impressoes; guia publicado para ampliar autoridade sem editar pagina em observacao."],
+    [statusFor("seguro-saude-familias-brasileiras-eua"), "alta", "Seguro saude para familias brasileiras", "saude", "informacional/comparativa", "pilar novo ou atualizacao", "/categorias/saude-nos-eua.html", "/articles/seguro-saude-nos-eua-como-funciona-2026.html", "baixo", "alto", "baixo", "baixo", "alto", "Saude e cluster sensivel, com monetizacao futura e alto valor de usuario; artigo familiar publicado."],
+    [statusFor("custo-de-vida-florida-texas-massachusetts"), "media", "Custo de vida por estado", "custo de vida", "comparativa", "artigo novo", "/categorias/custo-de-vida.html", "/articles/custo-de-vida-nos-eua-2026-atualizado.html", "medio", "alto", "medio", "baixo", "medio", "Custo de vida pilar existe, falta comparativo por estado."],
+    [statusFor("construir-credito-com-itin-nos-eua"), "media", "Como construir credito com ITIN", "banco e credito", "pratica", "artigo novo", "/categorias/banco-credito.html", "/articles/como-funciona-o-credito-nos-eua.html", "medio", "medio", "baixo", "baixo", "alto", "Conecta ITIN, banco, cartao secured e vida financeira."],
+    [statusFor("oficios-com-demanda-na-florida"), "media", "Oficios por cidade/estado", "trabalho", "informacional/comparativa", "serie nova", "/categorias/trabalho-renda.html", "/articles/trabalhos-aprender-antes-de-vir-eua-vistos-carreira.html", "medio", "medio", "alto", "medio", "medio", "Boa ponte entre YouTube, vida real e SEO long tail."],
+    ["pendente", "baixa", "Relatorio externo de 90 dias", "planejamento editorial", "auditoria", "importar/avaliar", "docs/editorial", "docs/editorial", "nao informado", "nao informado", "nao informado", "nao informado", "nao informado", "Arquivo especifico do plano de 90 dias nao foi localizado neste ambiente; importar quando disponivel."]
   ];
   const content = `# Content Gaps - Familia USA1
 
-Atualizado em: 2026-07-10
+Atualizado em: 2026-07-11
 
 Este documento compara o acervo real do repositorio com oportunidades editoriais. O relatorio externo de 90 dias citado no briefing nao foi localizado no caminho informado; um anexo antigo encontrado era de outro projeto e foi descartado.
 
 ## Lacunas priorizadas
 
-${mdTable(["Prioridade", "Tema", "Cluster", "Intencao", "Formato", "Hub relacionado", "Pilar relacionado", "Risco de canibalizacao", "Potencial Search", "Potencial Discover", "Potencial YouTube", "Potencial monetizacao", "Justificativa"], gaps)}
+${mdTable(["Status", "Prioridade", "Tema", "Cluster", "Intencao", "Formato", "Hub relacionado", "Pilar relacionado", "Risco de canibalizacao", "Potencial Search", "Potencial Discover", "Potencial YouTube", "Potencial monetizacao", "Justificativa"], gaps)}
 
 ## Clusters fracos ou incompletos pelo inventario
 
@@ -910,7 +924,13 @@ As paginas otimizadas na PR #18 devem ficar em observacao por pelo menos 28 dias
   writeMarkdownFile("CONTENT_GAPS.md", content);
 }
 
-function writeRoadmap() {
+function writeRoadmap(articles) {
+  const articleSlugs = new Set(articles.map((article) => article.slug));
+  const markPublished = (row) => {
+    const slug = row[4];
+    const shouldMark = articleSlugs.has(slug) && ["artigo novo", "pilar"].includes(row[2]);
+    return shouldMark ? [...row.slice(0, 15), "publicado em 2026-07-11"] : row;
+  };
   const rows = [
     ["1", "2026-07-15", "atualizacao", "Atualizar hub de compras para cluster iPhone", "hub-compras-iphone", "compras", "/categorias/compras-nos-eua.html", "/articles/iphone-nos-eua-vale-a-pena-2026.html", "iphone nos EUA", "comparativa", "alta", "iPhone ja recebe impressoes", "iPhone pilar, compatibilidade, Apple/Best Buy", "medio", "observar PR #18", "planejado"],
     ["1", "2026-07-17", "artigo novo", "Alfandega para eletronicos comprados nos EUA", "alfandega-eletronicos-eua-brasil", "compras", "/categorias/compras-nos-eua.html", "/articles/vale-a-pena-fazer-compras-nos-eua-2026.html", "alfandega eletronicos EUA", "informacional", "alta", "Complementa iPhone sem duplicar compatibilidade", "iPhone, compras, Receita Federal", "baixo", "fontes oficiais", "planejado"],
@@ -939,15 +959,16 @@ function writeRoadmap() {
     ["12", "2026-09-30", "auditoria", "Revisar resultados da PR #18 no GSC", "auditoria-pr18-gsc", "SEO", "docs/editorial/SEARCH_CONSOLE_TRACKING.md", "docs/editorial/OPTIMIZATION_HISTORY.md", "CTR artigos otimizados", "analise", "maxima", "Janela de 28 dias ja passou", "17 paginas PR #18", "baixo", "usar dados reais do GSC", "planejado"],
     ["12", "2026-10-02", "planejamento", "Atualizar inventario e roadmap", "atualizar-editorial-system", "SEO editorial", "docs/editorial", "docs/editorial/EDITORIAL_MASTER_PLAN.md", "inventario editorial", "governanca", "alta", "Manter sistema vivo", "todos os clusters", "baixo", "rodar script editorial", "planejado"]
   ];
+  const roadmapRows = rows.map(markPublished);
   const content = `# Publishing Roadmap 90 Days - Familia USA1
 
-Atualizado em: 2026-07-10
+Atualizado em: 2026-07-11
 
 Cadencia recomendada: 2 a 3 novos artigos por semana no inicio, 1 atualizacao por semana, 1 hub/pilar por mes e 1 peca integrada com YouTube por semana. Nao forcar 90 artigos. Qualidade e arquitetura valem mais que volume bruto.
 
 Regra importante: paginas otimizadas na PR #18 ficam em observacao ate a proxima coleta relevante do Search Console. Nao mexer nelas novamente sem motivo factual ou tecnico.
 
-${mdTable(["Semana", "Data sugerida", "Acao", "Titulo provisiorio", "Slug provisiorio", "Cluster", "Hub", "Pilar", "Palavra-chave", "Intencao", "Prioridade", "Justificativa", "Links planejados", "Risco canibalizacao", "Dependencias", "Status"], rows)}
+${mdTable(["Semana", "Data sugerida", "Acao", "Titulo provisiorio", "Slug provisiorio", "Cluster", "Hub", "Pilar", "Palavra-chave", "Intencao", "Prioridade", "Justificativa", "Links planejados", "Risco canibalizacao", "Dependencias", "Status"], roadmapRows)}
 `;
   writeMarkdownFile("PUBLISHING_ROADMAP_90_DAYS.md", content);
 }
@@ -967,13 +988,14 @@ function writeOptimizationHistory(articles) {
     ];
   });
   const rows = [
+    ["2026-07-11", "codex/proximos-5-artigos-editoriais", "5 artigos estrategicos", "Rodada baseada no Sistema Editorial Mestre", "Novos artigos Markdown em compras, empreendedorismo, banco, familia/escola e saude", "monitorar indexacao e primeiras impressoes", "/blog.html"],
     ["2026-07-09", "PR #17", "cluster empreendedorismo", "Novo cluster publicado", "5 novos artigos e atualizacao de hub/pilar", "validar indexacao e links internos", "/empreendedorismo-nos-estados-unidos.html"],
     ["2026-07-08", "PR #16 / commit 8833e07", "AdSense", "Preparacao/verificacao", "script de verificacao AdSense preservado globalmente", "acompanhar revisao AdSense", "/politica-de-privacidade.html"],
     ...pr18Rows
   ];
   const content = `# Optimization History - Familia USA1
 
-Atualizado em: 2026-07-10
+Atualizado em: 2026-07-11
 
 Este arquivo registra publicacoes e otimizacoes relevantes para impedir retrabalho, duplicacao e alteracoes prematuras em paginas em observacao.
 
@@ -1018,7 +1040,7 @@ function writeSearchConsoleTracking(articles) {
   });
   const content = `# Search Console Tracking - Familia USA1
 
-Atualizado em: 2026-07-10
+Atualizado em: 2026-07-11
 
 Use este arquivo para registrar dados exportados do Google Search Console. Nao inventar posicao media ou CTR se o dado nao estiver disponivel.
 
@@ -1030,7 +1052,7 @@ ${mdTable(["date_range", "url", "clicks", "impressions", "ctr", "average_positio
 function writeEditorialRules() {
   const content = `# Editorial Rules - Familia USA1
 
-Atualizado em: 2026-07-10
+Atualizado em: 2026-07-11
 
 Estas regras sao obrigatorias para qualquer trabalho futuro do Codex, editor ou desenvolvedor no portal.
 
@@ -1152,9 +1174,9 @@ function writeAll() {
 
   writeCsv(rows);
   writeMasterPlan(summary, stats);
-  writeContentGaps(stats);
+  writeContentGaps(stats, articles);
   writeClusterMap(stats, articles);
-  writeRoadmap();
+  writeRoadmap(articles);
   writeOptimizationHistory(articles);
   writeSearchConsoleTracking(articles);
   writeEditorialRules();

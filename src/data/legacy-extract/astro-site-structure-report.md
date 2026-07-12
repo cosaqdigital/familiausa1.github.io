@@ -1,23 +1,23 @@
 # Relatorio de estrutura editorial Astro
 
-Data da validacao: 2026-06-26T13:33:38.850Z
+Data da validacao: 2026-07-12T03:42:08.815Z
 
 ## Resumo
 
-- HTMLs gerados em dist: 195
-- Paginas esperadas: 191
+- HTMLs gerados em dist: 205
+- Paginas esperadas: 201
 - Paginas principais esperadas: 12
 - Categorias geradas/esperadas: 20/20
 - Artigos legados esperados: 151
-- Artigos Markdown publicados: 8
-- Artigos gerados/esperados: 159/159
+- Artigos Markdown publicados: 18
+- Artigos gerados/esperados: 169/169
 - Categorias com CollectionPage: 20/20
 - Categorias com BreadcrumbList: 20/20
-- Artigos com BlogPosting: 159/159
-- Artigos com FAQPage: 151
-- Links internos analisados: 8261
+- Artigos com BlogPosting: 169/169
+- Artigos com FAQPage: 161
+- Links internos analisados: 8825
 - Erros: 0
-- Avisos: 3
+- Avisos: 2
 
 ## Paginas principais
 
@@ -64,7 +64,6 @@ Data da validacao: 2026-06-26T13:33:38.850Z
 ## Avisos
 
 - Arquivos HTML extras gerados: blog/index.html, sobre/index.html, trabalho-e-renda-nos-eua.html, trabalho-e-renda-nos-eua/index.html
-- empreender-nos-estados-unidos-guia-completo.html: link interno fora do sitemap atual ou nao migrado (articles/como-abrir-conta-banco-nos-eua-2026.html).
 - empreender-nos-estados-unidos-guia-completo.html: link interno fora do sitemap atual ou nao migrado (articles/como-abrir-conta-banco-nos-eua-2026.html).
 
 ## Paginas com erros locais

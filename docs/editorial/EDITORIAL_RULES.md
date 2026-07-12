@@ -1,6 +1,6 @@
 # Editorial Rules - Familia USA1
 
-Atualizado em: 2026-07-10
+Atualizado em: 2026-07-11
 
 Estas regras sao obrigatorias para qualquer trabalho futuro do Codex, editor ou desenvolvedor no portal.
 
