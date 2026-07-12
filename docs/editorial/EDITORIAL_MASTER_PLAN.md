@@ -1,6 +1,6 @@
 # Editorial Master Plan - Familia USA1
 
-Atualizado em: 2026-07-10
+Atualizado em: 2026-07-11
 Fonte: inventario gerado a partir do repositorio Astro em `src/content/articles`, `src/data/legacy-extract/legacy-articles.json`, `src/pages` e `src/data`.
 
 ## 1. Missao editorial
@@ -25,32 +25,32 @@ O Familia USA1 deve ser percebido como um portal de vida real: pratico, humano, 
 
 | Metrica | Valor |
 | --- | --- |
-| Artigos totais | 164 |
+| Artigos totais | 169 |
 | Artigos legados | 151 |
-| Artigos Markdown | 13 |
+| Artigos Markdown | 18 |
 | Paginas de categoria/hub | 20 |
 | Paginas principais/institucionais | 12 |
-| Total inventariado | 196 |
+| Total inventariado | 201 |
 | Clusters oficiais | 13 |
 | Possiveis duplicacoes | 0 |
-| Possiveis canibalizacoes | 34 |
-| Artigos orfaos por grafo editorial | 21 |
+| Possiveis canibalizacoes | 36 |
+| Artigos orfaos por grafo editorial | 23 |
 
 ## 5. Macroclusters oficiais
 
 | Macrocluster | Artigos | Cobertura | Hub principal | Pilar principal |
 | --- | --- | --- | --- | --- |
-| trabalho | 52 | 100% completo/forte | /categorias/trabalho-renda.html | /articles/como-conseguir-trabalho-nos-eua-sendo-brasileiro-guia-2026.html |
-| imigracao | 37 | 100% completo/forte | /categorias/imigracao-legalizacao.html | /articles/morar-legalmente-nos-eua-caminhos-possiveis-2026.html |
-| cidades | 16 | 75% forte | /categorias/cidades-da-florida.html | /articles/cidades-da-florida-com-mais-brasileiros-2026.html |
-| custo de vida | 15 | 75% forte | /categorias/custo-de-vida.html | /articles/custo-de-vida-nos-eua-2026-atualizado.html |
-| vistos | 14 | 50% parcial | /categorias/visto-americano.html | /articles/guia-completo-visto-americano-2026.html |
+| trabalho | 49 | 100% completo/forte | /categorias/trabalho-renda.html | /articles/como-conseguir-trabalho-nos-eua-sendo-brasileiro-guia-2026.html |
+| imigracao | 34 | 100% completo/forte | /categorias/imigracao-legalizacao.html | /articles/morar-legalmente-nos-eua-caminhos-possiveis-2026.html |
+| vistos | 15 | 75% forte | /categorias/visto-americano.html | /articles/guia-completo-visto-americano-2026.html |
+| orlando e viagem | 12 | 50% parcial | /categorias/orlando-e-viagem.html | /articles/guia-completo-orlando-2026-brasileiros.html |
+| saude | 11 | 50% parcial | /categorias/saude-nos-eua.html | /articles/seguro-saude-nos-eua-como-funciona-2026.html |
+| custo de vida | 10 | 50% parcial | /categorias/custo-de-vida.html | /articles/custo-de-vida-nos-eua-2026-atualizado.html |
 | empreendedorismo | 10 | 50% parcial | /empreendedorismo-nos-estados-unidos.html | /empreender-nos-estados-unidos-guia-completo.html |
-| familia e escola | 7 | 50% parcial | /categorias/familia-filhos.html | /articles/como-matricular-filho-na-escola-nos-eua.html |
-| saude | 5 | 25% inicial | /categorias/saude-nos-eua.html | /articles/seguro-saude-nos-eua-como-funciona-2026.html |
-| compras | 3 | 25% inicial | /categorias/compras-nos-eua.html | /articles/vale-a-pena-fazer-compras-nos-eua-2026.html |
-| orlando e viagem | 2 | 25% inicial | /categorias/orlando-e-viagem.html | /articles/guia-completo-orlando-2026-brasileiros.html |
-| banco e credito | 1 | 25% inicial | /categorias/banco-credito.html | /articles/como-funciona-o-credito-nos-eua.html |
+| familia e escola | 8 | 50% parcial | /categorias/familia-filhos.html | /articles/como-matricular-filho-na-escola-nos-eua.html |
+| compras | 7 | 50% parcial | /categorias/compras-nos-eua.html | /articles/vale-a-pena-fazer-compras-nos-eua-2026.html |
+| cidades | 6 | 50% parcial | /categorias/cidades-da-florida.html | /articles/cidades-da-florida-com-mais-brasileiros-2026.html |
+| banco e credito | 5 | 25% inicial | /categorias/banco-credito.html | /articles/como-abrir-conta-em-banco-nos-eua.html |
 | moradia | 1 | 25% inicial | /categorias/moradia-nos-eua.html | /articles/quanto-custa-alugar-casa-nos-eua-2026.html |
 | green card | 1 | 25% inicial | /categorias/imigracao-legalizacao.html | /articles/formas-legais-conseguir-green-card-eua-2026.html |
 
@@ -171,19 +171,19 @@ Imigracao, asilo, trabalho sem autorizacao, impostos, saude, banco e seguranca n
 
 ## 21. Clusters fortes
 
-- trabalho: 52 artigos, cobertura 100% completo/forte.
-- imigracao: 37 artigos, cobertura 100% completo/forte.
-- cidades: 16 artigos, cobertura 75% forte.
-- custo de vida: 15 artigos, cobertura 75% forte.
+- trabalho: 49 artigos, cobertura 100% completo/forte.
+- imigracao: 34 artigos, cobertura 100% completo/forte.
+- vistos: 15 artigos, cobertura 75% forte.
 
 ## 22. Clusters que precisam reforco
 
-- vistos: 14 artigos, cobertura 50% parcial.
+- orlando e viagem: 12 artigos, cobertura 50% parcial.
+- saude: 11 artigos, cobertura 50% parcial.
+- custo de vida: 10 artigos, cobertura 50% parcial.
 - empreendedorismo: 10 artigos, cobertura 50% parcial.
-- familia e escola: 7 artigos, cobertura 50% parcial.
-- saude: 5 artigos, cobertura 25% inicial.
-- compras: 3 artigos, cobertura 25% inicial.
-- orlando e viagem: 2 artigos, cobertura 25% inicial.
-- banco e credito: 1 artigos, cobertura 25% inicial.
+- familia e escola: 8 artigos, cobertura 50% parcial.
+- compras: 7 artigos, cobertura 50% parcial.
+- cidades: 6 artigos, cobertura 50% parcial.
+- banco e credito: 5 artigos, cobertura 25% inicial.
 - moradia: 1 artigos, cobertura 25% inicial.
 - green card: 1 artigos, cobertura 25% inicial.

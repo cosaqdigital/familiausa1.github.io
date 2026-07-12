@@ -1,6 +1,6 @@
 # QA visual tecnico do lote Astro de 20 artigos
 
-Gerado em: `2026-06-26T13:33:41.172Z`
+Gerado em: `2026-07-12T03:42:27.540Z`
 Escopo: 8 paginas renderizadas em `dist/articles/` a partir do lote Astro de 20 artigos.
 Metodo: inspecao tecnica do HTML renderizado, sem navegador e sem screenshots.
 
@@ -18,11 +18,11 @@ Metodo: inspecao tecnica do HTML renderizado, sem navegador e sem screenshots.
 | `articles/custo-de-vida-nos-eua-2026-atualizado.html` | ok | 1 | 1/1 | sim | sim | 1/1 | 10459 | 8/8 | 1/1 | 0 |
 | `articles/morar-legalmente-nos-eua-caminhos-possiveis-2026.html` | ok | 1 | 1/1 | sim | sim | 1/1 | 10399 | 1/1 | 6/6 | 0 |
 | `articles/asilo-nos-estados-unidos-2026.html` | ok | 1 | 1/1 | sim | sim | 1/1 | 12407 | 0/0 | 5/5 | 0 |
-| `articles/morar-em-boston-2026.html` | ok | 1 | 1/1 | sim | sim | 1/1 | 10007 | 3/3 | 3/3 | 0 |
-| `articles/cidades-da-florida-com-mais-brasileiros-2026.html` | ok | 1 | 1/1 | sim | sim | 1/1 | 9025 | 2/2 | 1/1 | 0 |
+| `articles/morar-em-boston-2026.html` | ok | 1 | 1/1 | sim | sim | 1/1 | 9965 | 3/3 | 3/3 | 0 |
+| `articles/cidades-da-florida-com-mais-brasileiros-2026.html` | ok | 1 | 1/1 | sim | sim | 1/1 | 8993 | 2/2 | 1/1 | 0 |
 | `articles/formas-legais-conseguir-green-card-eua-2026.html` | ok | 1 | 1/1 | sim | sim | 1/1 | 11474 | 1/1 | 5/5 | 0 |
 | `articles/guia-completo-visto-americano-2026.html` | ok | 1 | 1/1 | sim | sim | 1/1 | 9449 | 0/0 | 5/5 | 0 |
-| `articles/morar-em-framingham-massachusetts-2026.html` | ok | 1 | 1/1 | sim | sim | 1/1 | 9129 | 2/2 | 2/2 | 0 |
+| `articles/morar-em-framingham-massachusetts-2026.html` | ok | 1 | 1/1 | sim | sim | 1/1 | 9212 | 2/2 | 2/2 | 0 |
 
 ## Problemas encontrados
 

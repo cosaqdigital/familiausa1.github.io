@@ -1,20 +1,20 @@
 # Comparacao de sitemap Astro
 
-Data da validacao: 2026-06-26T13:33:38.848Z
+Data da validacao: 2026-07-12T03:42:08.814Z
 
 ## Resumo
 
-- URLs no sitemap atual: 191
-- URLs no sitemap Astro: 191
+- URLs no sitemap atual: 196
+- URLs no sitemap Astro: 201
 - Artigos legados esperados: 151
-- Artigos Markdown publicados: 8
-- Artigos totais esperados: 159
+- Artigos Markdown publicados: 18
+- Artigos totais esperados: 169
 - Categorias esperadas: 20
 - Paginas principais esperadas: 12
 - Duplicatas no sitemap atual: 0
 - Duplicatas no sitemap Astro: 0
 - URL set atual preservado no Astro: sim
-- URLs extras permitidas por Markdown: 0
+- URLs extras permitidas por Markdown: 5
 - URLs extras permitidas por paginas principais: 0
 
 ## URLs faltando no Astro
@@ -23,11 +23,19 @@ Data da validacao: 2026-06-26T13:33:38.848Z
 
 ## URLs extras no Astro
 
-- Nenhum item encontrado.
+- https://familiausa1.com/articles/alfandega-eletronicos-eua-brasil.html
+- https://familiausa1.com/articles/conta-bancaria-empresarial-eua.html
+- https://familiausa1.com/articles/guia-escola-publica-eua-brasileiros.html
+- https://familiausa1.com/articles/sales-tax-pequenos-negocios-eua.html
+- https://familiausa1.com/articles/seguro-saude-familias-brasileiras-eua.html
 
 ## URLs extras permitidas por Markdown
 
-- Nenhum item encontrado.
+- https://familiausa1.com/articles/alfandega-eletronicos-eua-brasil.html
+- https://familiausa1.com/articles/conta-bancaria-empresarial-eua.html
+- https://familiausa1.com/articles/guia-escola-publica-eua-brasileiros.html
+- https://familiausa1.com/articles/sales-tax-pequenos-negocios-eua.html
+- https://familiausa1.com/articles/seguro-saude-familias-brasileiras-eua.html
 
 ## URLs extras permitidas por paginas principais
 

@@ -15,7 +15,9 @@ export const entrepreneurshipArticleSlugs = [
   "seguro-para-pequenos-negocios-nos-eua",
   "como-precificar-servicos-nos-estados-unidos",
   "google-business-profile-prestadores-servico-eua",
-  "como-conseguir-primeiros-clientes-nos-eua-brasileiro"
+  "como-conseguir-primeiros-clientes-nos-eua-brasileiro",
+  "sales-tax-pequenos-negocios-eua",
+  "conta-bancaria-empresarial-eua"
 ];
 
 export type GuideLinkStatus = "published" | "soon";
@@ -153,6 +155,30 @@ export const entrepreneurshipJourney: GuideJourneyStep[] = [
     estimatedTime: "Continuo",
     difficulty: "Alta",
     tools: ["Google Business Profile", "reviews", "site simples", "CRM simples"]
+  },
+  {
+    step: 11,
+    label: "Sales tax",
+    title: "Entender quando cobrar e repassar sales tax",
+    summary: "Separe sales tax de imposto de renda e confirme regras estaduais antes de colocar imposto na invoice.",
+    href: "/articles/sales-tax-pequenos-negocios-eua.html",
+    slug: "sales-tax-pequenos-negocios-eua",
+    status: "published",
+    estimatedTime: "1 a 3 semanas para confirmar regra e registro",
+    difficulty: "Media a alta",
+    tools: ["departamento de receita estadual", "CPA", "bookkeeping"]
+  },
+  {
+    step: 12,
+    label: "Conta empresarial",
+    title: "Abrir conta empresarial sem misturar dinheiro pessoal",
+    summary: "Entenda EIN, documentos, separacao de contas, protecao FDIC e perguntas comuns dos bancos.",
+    href: "/articles/conta-bancaria-empresarial-eua.html",
+    slug: "conta-bancaria-empresarial-eua",
+    status: "published",
+    estimatedTime: "Alguns dias a algumas semanas",
+    difficulty: "Media",
+    tools: ["EIN", "banco", "documentos da empresa", "extratos"]
   }
 ];
 
@@ -213,7 +239,7 @@ export const pillarSections: GuideSection[] = [
   {
     title: "Conta bancaria",
     summary: "Conta empresarial separa dinheiro pessoal do negocio e ajuda a evitar bagunca em imposto, credito e caixa.",
-    href: "/articles/como-abrir-conta-banco-nos-eua-2026.html",
+    href: "/articles/conta-bancaria-empresarial-eua.html",
     status: "published"
   },
   {
@@ -231,7 +257,8 @@ export const pillarSections: GuideSection[] = [
   {
     title: "Sales tax",
     summary: "Alguns produtos e servicos podem exigir registro, cobranca e repasse de sales tax conforme estado, cidade e atividade.",
-    status: "soon"
+    href: "/articles/sales-tax-pequenos-negocios-eua.html",
+    status: "published"
   },
   {
     title: "Impostos e bookkeeping",
@@ -279,12 +306,28 @@ export const officialEntrepreneurshipSources = [
     href: "https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping"
   },
   {
+    label: "IRS - Business taxes",
+    href: "https://www.irs.gov/businesses/business-taxes"
+  },
+  {
     label: "SBA - Choose a business structure",
     href: "https://www.sba.gov/business-guide/launch-your-business/choose-business-structure"
   },
   {
     label: "SBA - Register your business",
     href: "https://www.sba.gov/business-guide/launch-your-business/register-your-business"
+  },
+  {
+    label: "SBA - Open a business bank account",
+    href: "https://www.sba.gov/business-guide/launch-your-business/open-business-bank-account"
+  },
+  {
+    label: "Florida Department of Revenue - Sales and Use Tax",
+    href: "https://floridarevenue.com/taxes/taxesfees/Pages/sales_tax.aspx"
+  },
+  {
+    label: "FDIC - Deposit Insurance",
+    href: "https://www.fdic.gov/resources/deposit-insurance"
   },
   {
     label: "Sunbiz - Florida Division of Corporations",

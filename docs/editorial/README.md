@@ -23,13 +23,13 @@ node scripts/editorial/generate-editorial-system.mjs
 
 | Metrica | Valor |
 | --- | --- |
-| Artigos totais | 164 |
+| Artigos totais | 169 |
 | Artigos legados | 151 |
-| Artigos Markdown | 13 |
+| Artigos Markdown | 18 |
 | Paginas de categoria/hub | 20 |
 | Paginas principais/institucionais | 12 |
-| Total inventariado | 196 |
+| Total inventariado | 201 |
 | Clusters oficiais | 13 |
 | Possiveis duplicacoes | 0 |
-| Possiveis canibalizacoes | 34 |
-| Artigos orfaos por grafo editorial | 21 |
+| Possiveis canibalizacoes | 36 |
+| Artigos orfaos por grafo editorial | 23 |

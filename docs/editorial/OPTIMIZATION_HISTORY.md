@@ -1,11 +1,12 @@
 # Optimization History - Familia USA1
 
-Atualizado em: 2026-07-10
+Atualizado em: 2026-07-11
 
 Este arquivo registra publicacoes e otimizacoes relevantes para impedir retrabalho, duplicacao e alteracoes prematuras em paginas em observacao.
 
 | Data | Referencia | Pagina/cluster | Motivo | Tipo de ajuste | Janela/acao futura | URL |
 | --- | --- | --- | --- | --- | --- | --- |
+| 2026-07-11 | codex/proximos-5-artigos-editoriais | 5 artigos estrategicos | Rodada baseada no Sistema Editorial Mestre | Novos artigos Markdown em compras, empreendedorismo, banco, familia/escola e saude | monitorar indexacao e primeiras impressoes | /blog.html |
 | 2026-07-09 | PR #17 | cluster empreendedorismo | Novo cluster publicado | 5 novos artigos e atualizacao de hub/pilar | validar indexacao e links internos | /empreendedorismo-nos-estados-unidos.html |
 | 2026-07-08 | PR #16 / commit 8833e07 | AdSense | Preparacao/verificacao | script de verificacao AdSense preservado globalmente | acompanhar revisao AdSense | /politica-de-privacidade.html |
 | 2026-07-10 | PR #18 | iphone-comprado-nos-eua-funciona-no-brasil | 0 clicks / 616 impressoes | title, H1, meta description, resumo rapido e links contextuais quando aplicavel | observar 28 dias | https://familiausa1.com/articles/iphone-comprado-nos-eua-funciona-no-brasil.html |
