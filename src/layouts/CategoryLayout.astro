@@ -55,6 +55,9 @@ const breadcrumbSchema = {
     { "@type": "ListItem", position: 3, name: category.title, item: canonical }
   ]
 };
+const postCountText = posts.length === 1
+  ? "1 conteudo relacionado, organizado para facilitar sua pesquisa e fortalecer a navegacao interna do Familia USA 1."
+  : `${posts.length} conteudos relacionados, organizados para facilitar sua pesquisa e fortalecer a navegacao interna do Familia USA 1.`;
 ---
 <BaseLayout title={`${category.h1} | FamiliaUSA1`} description={category.description} canonical={canonical} schemas={[collectionSchema, breadcrumbSchema]}>
   <header class="narrow-container article-header">
@@ -71,7 +74,7 @@ const breadcrumbSchema = {
   <section class="container section-wide">
     <div class="section-header">
       <h2>Guias desta categoria</h2>
-      <p>{posts.length} conteudos relacionados, organizados para facilitar sua pesquisa e fortalecer a navegacao interna do Familia USA 1.</p>
+      <p>{postCountText}</p>
     </div>
     {posts.length > 0 ? (
       <div class="article-grid">
