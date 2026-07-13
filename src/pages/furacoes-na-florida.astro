@@ -188,6 +188,11 @@ const faqSchema = {
       ]}
     />
 
+    <section class="hub-alert" aria-label="Aviso importante">
+      <strong>Aviso importante:</strong>
+      <span>este guia e informativo. Em qualquer emergencia, siga as ordens do seu condado, do Florida Division of Emergency Management, do NHC/NOAA e das autoridades locais.</span>
+    </section>
+
     <TopicHubPortal compact />
 
     <nav class="hub-toc" aria-label="Sumário da página">
@@ -398,6 +403,24 @@ const faqSchema = {
     box-shadow: 0 12px 32px rgba(16, 24, 39, 0.06);
   }
 
+  .hub-alert {
+    display: flex;
+    gap: 0.55rem;
+    align-items: flex-start;
+    margin: 1.2rem 0 0;
+    border: 1px solid rgba(200, 101, 27, 0.24);
+    border-radius: 18px;
+    padding: 0.92rem 1rem;
+    background: #fff5e6;
+    color: #4f2e10;
+    line-height: 1.55;
+  }
+
+  .hub-alert strong {
+    color: #8c4612;
+    white-space: nowrap;
+  }
+
   .hub-toc strong {
     color: #101827;
     font-weight: 950;
@@ -584,6 +607,12 @@ const faqSchema = {
     .hub-panels,
     .hub-toc {
       grid-template-columns: 1fr;
+    }
+  }
+
+  @media (max-width: 680px) {
+    .hub-alert {
+      flex-direction: column;
     }
   }
 

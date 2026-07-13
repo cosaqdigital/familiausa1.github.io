@@ -78,7 +78,7 @@ export const siteCategories: SiteCategory[] = [
     intro: "Conteúdos para brasileiros entenderem a vida real na Flórida: clima extremo, furacões, preparação, seguros, cidades, família e rotina.",
     canonical: `${SITE_URL}/categorias/vida-na-florida.html`,
     matchCategories: ["Vida na Florida", "Vida na Flórida", "Furacoes", "Furacões", "Noticias meteorologicas", "Notícias meteorológicas"],
-    matchKeywords: ["furacao", "furacoes", "hurricane", "tempestade", "tropical-storm", "fema", "evacuacao", "evacuation", "seguro-residencial", "clima-extremo"],
+    matchKeywords: ["furacoes-na-florida", "vida-na-florida", "hurricane", "tropical-storm", "tempestade-tropical", "fema", "evacuacao", "evacuation", "seguro-residencial", "clima-extremo"],
     hubLinks: ["/furacoes-na-florida.html"]
   },
   {
@@ -250,7 +250,10 @@ function articleMatches(category: SiteCategory, article: SiteArticle) {
     return true;
   }
 
-  const haystack = normalize(`${article.slug} ${article.title} ${article.description} ${article.h1} ${article.category}`);
+  const tags = Array.isArray((article as SiteArticle & { tags?: string[] }).tags)
+    ? (article as SiteArticle & { tags?: string[] }).tags ?? []
+    : [];
+  const haystack = normalize(`${article.slug} ${article.title} ${article.description} ${article.h1} ${article.category} ${tags.join(" ")}`);
   return category.matchKeywords.some((keyword) => haystack.includes(normalize(keyword)));
 }
 

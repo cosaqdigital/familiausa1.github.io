@@ -26,20 +26,19 @@ export const hurricaneHub: TopicHub = {
   status: "published",
   category: "Vida na Flórida",
   keywords: [
-    "furacao",
-    "furacoes",
-    "hurricane",
-    "tempestade tropical",
-    "tropical storm",
-    "tropical depression",
+    "furacoes-na-florida",
+    "vida-na-florida",
+    "tempestade-tropical",
+    "tropical-storm",
+    "tropical-depression",
+    "noticias-meteorologicas",
     "nhc",
     "fema",
     "evacuacao",
     "evacuation",
-    "clima extremo",
+    "clima-extremo",
     "seguro residencial",
-    "flood insurance",
-    "storm surge"
+    "seguro-residencial"
   ],
   matchCategories: ["Vida na Flórida", "Furacões", "Notícias meteorológicas"]
 };

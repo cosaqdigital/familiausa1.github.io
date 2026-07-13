@@ -44,6 +44,7 @@ const {
     grid-template-columns: minmax(0, 1.45fr) minmax(260px, 0.55fr);
     gap: 2rem;
     align-items: end;
+    overflow: hidden;
     padding: clamp(2.5rem, 5vw, 5rem);
     margin: 2rem auto;
     border-radius: 32px;
@@ -52,6 +53,10 @@ const {
       radial-gradient(circle at 15% 15%, rgba(242, 140, 40, 0.42), transparent 28%),
       linear-gradient(135deg, #101827 0%, #172133 58%, #2e1f12 100%);
     box-shadow: 0 22px 60px rgba(16, 24, 39, 0.22);
+  }
+
+  .guide-hero-copy {
+    min-width: 0;
   }
 
   .guide-eyebrow {
@@ -66,14 +71,17 @@ const {
   .guide-hero h1 {
     max-width: 920px;
     margin: 0;
+    color: #fffaf1;
     font-size: clamp(2.2rem, 5vw, 4.75rem);
     line-height: 0.98;
     letter-spacing: -0.06em;
+    overflow-wrap: anywhere;
+    text-shadow: 0 2px 24px rgba(0, 0, 0, 0.38);
   }
 
   .guide-lead {
     max-width: 760px;
-    color: rgba(255, 250, 241, 0.86);
+    color: rgba(255, 250, 241, 0.9);
     font-size: clamp(1.04rem, 2vw, 1.25rem);
     line-height: 1.75;
   }
@@ -111,6 +119,28 @@ const {
 
     .guide-badges {
       justify-content: flex-start;
+    }
+  }
+
+  @media (max-width: 560px) {
+    .guide-hero {
+      margin: 1.2rem auto;
+      padding: 1.45rem;
+    }
+
+    .guide-hero h1 {
+      font-size: clamp(1.85rem, 8vw, 2.25rem);
+      line-height: 1.06;
+      letter-spacing: -0.045em;
+    }
+
+    .guide-actions .button {
+      width: 100%;
+      justify-content: center;
+    }
+
+    .guide-badges span {
+      max-width: 100%;
     }
   }
 </style>

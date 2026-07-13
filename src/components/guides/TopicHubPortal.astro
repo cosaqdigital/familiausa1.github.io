@@ -21,16 +21,21 @@ const {
   </div>
   <div class="topic-hub-grid">
     {topicHubs.map((hub) => (
-      <a
-        class:list={["topic-hub-card", hub.status === "planned" && "is-planned"]}
-        href={topicHubUrl(hub)}
-        aria-disabled={hub.status === "planned" ? "true" : "false"}
-      >
-        <span class="topic-hub-icon" aria-hidden="true">{hub.icon}</span>
-        <span class="topic-hub-title">{hub.label}</span>
-        <span class="topic-hub-copy">{hub.description}</span>
-        <span class="topic-hub-status">{hub.status === "published" ? "Abrir hub" : "Planejado"}</span>
-      </a>
+      hub.status === "published" ? (
+        <a class="topic-hub-card" href={topicHubUrl(hub)}>
+          <span class="topic-hub-icon" aria-hidden="true">{hub.icon}</span>
+          <span class="topic-hub-title">{hub.label}</span>
+          <span class="topic-hub-copy">{hub.description}</span>
+          <span class="topic-hub-status">Abrir hub</span>
+        </a>
+      ) : (
+        <article class="topic-hub-card is-planned" aria-disabled="true">
+          <span class="topic-hub-icon" aria-hidden="true">{hub.icon}</span>
+          <span class="topic-hub-title">{hub.label}</span>
+          <span class="topic-hub-copy">{hub.description}</span>
+          <span class="topic-hub-status">Planejado</span>
+        </article>
+      )
     ))}
   </div>
 </section>

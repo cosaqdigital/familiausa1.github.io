@@ -1,6 +1,6 @@
 # Relatorio Astro dos 151 artigos legados
 
-Gerado em: `2026-07-12T03:42:36.596Z`
+Gerado em: `2026-07-13T08:50:24.304Z`
 Escopo: validacao dos artigos legados renderizados em Astro a partir de `src/data/legacy-extract/legacy-articles.json`.
 
 ## Resumo
@@ -28,8 +28,8 @@ Escopo: validacao dos artigos legados renderizados em Astro a partir de `src/dat
 ## Divergencias com sitemap
 
 - Sitemap encontrado: sim
-- URLs totais no sitemap: 196
-- URLs de artigos no sitemap: 164
+- URLs totais no sitemap: 201
+- URLs de artigos no sitemap: 169
 
 ### Artigos gerados ausentes no sitemap
 - Nenhum.
