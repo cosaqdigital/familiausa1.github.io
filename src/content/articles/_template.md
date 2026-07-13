@@ -5,6 +5,9 @@ title: "Titulo SEO do artigo novo | FamiliaUSA1"
 h1: "Titulo principal forte do artigo novo"
 description: "Meta description unica com a promessa clara do artigo em ate 155 caracteres, sem exagero e com a palavra-chave principal."
 category: "Planejamento"
+tags:
+  - "cluster-principal"
+  - "tema-especifico"
 # Destaque na Home (opcional): use featured: true apenas para artigos estrategicos.
 featured: false
 # featuredOrder: 1
@@ -68,6 +71,21 @@ Mostre como isso se aplica a brasileiros nos Estados Unidos.
 - [Custo de vida nos EUA](./custo-de-vida-nos-eua-2026-atualizado.html)
 - [Morar legalmente nos EUA](./morar-legalmente-nos-eua-caminhos-possiveis-2026.html)
 - [Primeiros 30 dias nos EUA](./primeiros-30-dias-nos-eua.html)
+
+## Regra para artigos de HUB
+
+Se o artigo fizer parte de uma pagina HUB, inclua uma frase contextual no inicio ou no fim do texto.
+
+Exemplo para o cluster de furacoes:
+
+> Este artigo faz parte do [Guia Completo sobre Furacoes na Florida](/furacoes-na-florida.html).
+
+Use tags no frontmatter para alimentar as listagens automaticas das HUBs, como:
+
+- "furacoes-na-florida"
+- "vida-na-florida"
+- "fema"
+- "evacuacao"
 
 ## Bloco opcional de afiliado
 

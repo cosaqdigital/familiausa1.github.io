@@ -6,16 +6,21 @@ type SourceLink = {
 
 interface Props {
   title?: string;
+  description?: string;
   sources: SourceLink[];
 }
 
-const { title = "Fontes oficiais para confirmar", sources } = Astro.props;
+const {
+  title = "Fontes oficiais para confirmar",
+  description = "Use essas fontes para confirmar regras, formulários, licenças e atualizações antes de tomar decisões de negócio, imposto ou imigração.",
+  sources
+} = Astro.props;
 ---
 <section class="guide-sources" aria-labelledby="guide-sources-title">
   <div>
     <p class="guide-mini">E-E-A-T</p>
     <h2 id="guide-sources-title">{title}</h2>
-    <p>Use essas fontes para confirmar regras, formularios, licencas e atualizacoes antes de tomar decisoes de negocio, imposto ou imigracao.</p>
+    <p>{description}</p>
   </div>
   <ul>
     {sources.map((source) => (

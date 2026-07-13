@@ -15,6 +15,7 @@ type MarkdownModule = {
     featured?: boolean;
     featuredOrder?: number;
     featuredLabel?: string;
+    tags?: string[];
     datePublished?: string;
     dateModified?: string;
     readingTime?: string;
@@ -74,6 +75,7 @@ export const newMarkdownArticles: NewMarkdownArticle[] = Object.entries(markdown
       featured: Boolean(frontmatter.featured),
       featuredOrder: typeof frontmatter.featuredOrder === "number" ? frontmatter.featuredOrder : undefined,
       featuredLabel: frontmatter.featuredLabel?.trim(),
+      tags: Array.isArray(frontmatter.tags) ? frontmatter.tags : [],
       datePublished,
       dateModified,
       readingTime: frontmatter.readingTime || "10 min de leitura",

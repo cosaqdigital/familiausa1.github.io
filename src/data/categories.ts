@@ -71,6 +71,17 @@ export const siteCategories: SiteCategory[] = [
     matchKeywords: ["orlando", "miami", "tampa", "kissimmee", "davenport", "winter-garden", "clermont", "lakeland", "fort-lauderdale", "boca-raton", "deerfield", "pompano", "delray", "west-palm", "sarasota", "naples", "cape-coral", "fort-myers", "florida"]
   },
   {
+    slug: "vida-na-florida",
+    title: "Vida na Flórida",
+    h1: "Vida na Flórida para brasileiros",
+    description: "Guias sobre rotina, clima, furacões, preparação, seguros, família, cidades e cuidados práticos para brasileiros que vivem ou querem morar na Flórida.",
+    intro: "Conteúdos para brasileiros entenderem a vida real na Flórida: clima extremo, furacões, preparação, seguros, cidades, família e rotina.",
+    canonical: `${SITE_URL}/categorias/vida-na-florida.html`,
+    matchCategories: ["Vida na Florida", "Vida na Flórida", "Furacoes", "Furacões", "Noticias meteorologicas", "Notícias meteorológicas"],
+    matchKeywords: ["furacao", "furacoes", "hurricane", "tempestade", "tropical-storm", "fema", "evacuacao", "evacuation", "seguro-residencial", "clima-extremo"],
+    hubLinks: ["/furacoes-na-florida.html"]
+  },
+  {
     slug: "cidades-do-norte-e-massachusetts",
     title: "Cidades do Norte e Massachusetts",
     h1: "Cidades do Norte dos EUA para brasileiros em 2026: Boston, Massachusetts e alternativas mais acessiveis",

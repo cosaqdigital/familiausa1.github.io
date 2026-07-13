@@ -1,21 +1,21 @@
 # Relatorio de estrutura editorial Astro
 
-Data da validacao: 2026-07-12T03:42:08.815Z
+Data da validacao: 2026-07-13T04:26:41.695Z
 
 ## Resumo
 
-- HTMLs gerados em dist: 205
-- Paginas esperadas: 201
-- Paginas principais esperadas: 12
-- Categorias geradas/esperadas: 20/20
+- HTMLs gerados em dist: 207
+- Paginas esperadas: 203
+- Paginas principais esperadas: 13
+- Categorias geradas/esperadas: 21/21
 - Artigos legados esperados: 151
 - Artigos Markdown publicados: 18
 - Artigos gerados/esperados: 169/169
-- Categorias com CollectionPage: 20/20
-- Categorias com BreadcrumbList: 20/20
+- Categorias com CollectionPage: 21/21
+- Categorias com BreadcrumbList: 21/21
 - Artigos com BlogPosting: 169/169
 - Artigos com FAQPage: 161
-- Links internos analisados: 8825
+- Links internos analisados: 9109
 - Erros: 0
 - Avisos: 2
 
@@ -28,6 +28,7 @@ Data da validacao: 2026-07-12T03:42:08.815Z
 - comece-aqui.html: gerada
 - empreendedorismo-nos-estados-unidos.html: gerada
 - empreender-nos-estados-unidos-guia-completo.html: gerada
+- furacoes-na-florida.html: gerada
 - sobre.html: gerada
 - contato.html: gerada
 - politica-de-privacidade.html: gerada
@@ -54,6 +55,7 @@ Data da validacao: 2026-07-12T03:42:08.815Z
 - categorias/primeiros-passos.html: gerada
 - categorias/saude-nos-eua.html: gerada
 - categorias/trabalho-renda.html: gerada
+- categorias/vida-na-florida.html: gerada
 - categorias/vida-real-nos-eua.html: gerada
 - categorias/visto-americano.html: gerada
 
