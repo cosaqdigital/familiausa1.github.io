@@ -22,11 +22,16 @@ const rootPages = [
   "comece-aqui.html",
   "empreendedorismo-nos-estados-unidos.html",
   "empreender-nos-estados-unidos-guia-completo.html",
+  "furacoes-na-florida.html",
   "sobre.html",
   "contato.html",
   "politica-de-privacidade.html",
   "politica-de-cookies.html",
   "termos-de-uso.html"
+];
+
+const additionalGeneratedCategorySlugs = [
+  "vida-na-florida"
 ];
 
 const errors = [];
@@ -178,7 +183,7 @@ const articlePaths = [
   ...markdownArticles.map((article) => article.path)
 ].sort();
 const markdownCanonicalSet = new Set(markdownArticles.map((article) => article.canonical));
-const categorySlugs = sourceCategorySlugs();
+const categorySlugs = [...new Set([...sourceCategorySlugs(), ...additionalGeneratedCategorySlugs])].sort();
 const categoryPaths = categorySlugs.map((slug) => `categorias/${slug}.html`);
 const expectedPaths = [...rootPages, ...categoryPaths, ...articlePaths];
 const expectedPathSet = new Set(expectedPaths);
@@ -208,8 +213,9 @@ if (extraGeneratedHtml.length > 0) {
   warnings.push(`Arquivos HTML extras gerados: ${extraGeneratedHtml.join(", ")}`);
 }
 
-if (categoryPaths.length !== 20) {
-  warnings.push(`Quantidade de categorias fonte diferente de 20: ${categoryPaths.length}.`);
+const expectedCategoryCount = 20 + additionalGeneratedCategorySlugs.length;
+if (categoryPaths.length !== expectedCategoryCount) {
+  warnings.push(`Quantidade de categorias fonte diferente de ${expectedCategoryCount}: ${categoryPaths.length}.`);
 }
 
 const pageResults = [];
@@ -319,8 +325,10 @@ const currentOnlyUrls = currentSitemap.urls.filter((url) => !astroSitemap.set.ha
 const astroOnlyUrls = astroSitemap.urls.filter((url) => !currentSitemap.set.has(url));
 const allowedNewMarkdownUrls = astroOnlyUrls.filter((url) => markdownCanonicalSet.has(url));
 const rootPageCanonicalSet = new Set(rootPages.map(canonicalForPath));
+const categoryCanonicalSet = new Set(categoryPaths.map(canonicalForPath));
 const allowedNewRootPageUrls = astroOnlyUrls.filter((url) => rootPageCanonicalSet.has(url));
-const unexpectedAstroOnlyUrls = astroOnlyUrls.filter((url) => !markdownCanonicalSet.has(url) && !rootPageCanonicalSet.has(url));
+const allowedNewCategoryUrls = astroOnlyUrls.filter((url) => categoryCanonicalSet.has(url));
+const unexpectedAstroOnlyUrls = astroOnlyUrls.filter((url) => !markdownCanonicalSet.has(url) && !rootPageCanonicalSet.has(url) && !categoryCanonicalSet.has(url));
 const expectedArticleCanonicals = [
   ...legacyArticles.map((article) => article.canonical),
   ...markdownArticles.map((article) => article.canonical)
@@ -373,6 +381,7 @@ Data da validacao: ${new Date().toISOString()}
 - URL set atual preservado no Astro: ${currentOnlyUrls.length === 0 ? "sim" : "nao"}
 - URLs extras permitidas por Markdown: ${allowedNewMarkdownUrls.length}
 - URLs extras permitidas por paginas principais: ${allowedNewRootPageUrls.length}
+- URLs extras permitidas por categorias: ${allowedNewCategoryUrls.length}
 
 ## URLs faltando no Astro
 
@@ -389,6 +398,10 @@ ${bulletList(allowedNewMarkdownUrls)}
 ## URLs extras permitidas por paginas principais
 
 ${bulletList(allowedNewRootPageUrls)}
+
+## URLs extras permitidas por categorias
+
+${bulletList(allowedNewCategoryUrls)}
 
 ## URLs extras inesperadas
 

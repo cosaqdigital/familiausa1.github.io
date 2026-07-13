@@ -59,6 +59,13 @@ export const sitePages: SitePage[] = [
     priority: "0.9"
   },
   {
+    path: "/furacoes-na-florida.html",
+    title: "Furacões na Flórida: Guia Completo para Brasileiros (2026)",
+    description: "Guia sobre furacões na Flórida para brasileiros: temporada, categorias, preparação, evacuação, kit de emergência, FEMA, seguros e alertas oficiais.",
+    lastmod: "2026-07-13",
+    priority: "0.9"
+  },
+  {
     path: "/sobre.html",
     title: "Sobre o Família USA 1: brasileiros vivendo nos EUA",
     description: "Conheça a família por trás do Família USA 1 e o projeto criado para compartilhar experiências reais sobre a vida nos EUA.",

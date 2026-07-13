@@ -1,0 +1,174 @@
+---
+import { topicHubs, topicHubUrl } from "../../data/topicHubs";
+
+interface Props {
+  title?: string;
+  description?: string;
+  compact?: boolean;
+}
+
+const {
+  title = "📚 Guias Completos",
+  description = "Navegue pelos principais hubs do Família USA1. Cada guia concentra artigos, fontes e próximos passos para fortalecer a autoridade temática do portal.",
+  compact = false
+} = Astro.props;
+---
+<section class:list={["topic-hub-portal", compact && "topic-hub-portal-compact"]} aria-labelledby="topic-hub-portal-title">
+  <div class="topic-hub-header">
+    <p class="guide-mini">Arquitetura editorial</p>
+    <h2 id="topic-hub-portal-title">{title}</h2>
+    <p>{description}</p>
+  </div>
+  <div class="topic-hub-grid">
+    {topicHubs.map((hub) => (
+      hub.status === "published" ? (
+        <a class="topic-hub-card" href={topicHubUrl(hub)}>
+          <span class="topic-hub-icon" aria-hidden="true">{hub.icon}</span>
+          <span class="topic-hub-title">{hub.label}</span>
+          <span class="topic-hub-copy">{hub.description}</span>
+          <span class="topic-hub-status">Abrir hub</span>
+        </a>
+      ) : (
+        <article class="topic-hub-card is-planned" aria-disabled="true">
+          <span class="topic-hub-icon" aria-hidden="true">{hub.icon}</span>
+          <span class="topic-hub-title">{hub.label}</span>
+          <span class="topic-hub-copy">{hub.description}</span>
+          <span class="topic-hub-status">Planejado</span>
+        </article>
+      )
+    ))}
+  </div>
+</section>
+
+<style>
+  .topic-hub-portal {
+    margin: clamp(2rem, 5vw, 4rem) 0;
+    border: 1px solid rgba(16, 24, 39, 0.08);
+    border-radius: 30px;
+    padding: clamp(1.3rem, 3vw, 2rem);
+    background:
+      radial-gradient(circle at top right, rgba(242, 140, 40, 0.16), transparent 28rem),
+      linear-gradient(180deg, #ffffff, #fffaf3);
+    box-shadow: 0 18px 46px rgba(16, 24, 39, 0.08);
+  }
+
+  .topic-hub-portal-compact {
+    margin-top: 2rem;
+  }
+
+  .topic-hub-header {
+    max-width: 820px;
+    margin-bottom: 1.2rem;
+  }
+
+  .guide-mini {
+    margin: 0 0 0.45rem;
+    color: #c8651b;
+    font-size: 0.78rem;
+    font-weight: 900;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+  }
+
+  .topic-hub-header h2 {
+    margin: 0;
+    color: #101827;
+    font-size: clamp(1.7rem, 3vw, 2.55rem);
+    line-height: 1.05;
+    letter-spacing: -0.04em;
+  }
+
+  .topic-hub-header p {
+    color: #5b6472;
+    line-height: 1.7;
+  }
+
+  .topic-hub-grid {
+    display: grid;
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+    gap: 0.85rem;
+  }
+
+  .topic-hub-card {
+    display: flex;
+    min-height: 180px;
+    flex-direction: column;
+    gap: 0.45rem;
+    border: 1px solid rgba(16, 24, 39, 0.08);
+    border-radius: 20px;
+    padding: 1rem;
+    background: #fff;
+    color: #101827;
+    text-decoration: none;
+    box-shadow: 0 10px 30px rgba(16, 24, 39, 0.05);
+    transition: transform 0.18s ease, box-shadow 0.18s ease, border-color 0.18s ease;
+  }
+
+  .topic-hub-card:hover,
+  .topic-hub-card:focus-visible {
+    border-color: rgba(200, 101, 27, 0.36);
+    box-shadow: 0 16px 38px rgba(16, 24, 39, 0.1);
+    transform: translateY(-2px);
+  }
+
+  .topic-hub-card.is-planned {
+    cursor: default;
+    opacity: 0.74;
+  }
+
+  .topic-hub-icon {
+    font-size: 1.55rem;
+    line-height: 1;
+  }
+
+  .topic-hub-title {
+    font-weight: 950;
+    line-height: 1.2;
+  }
+
+  .topic-hub-copy {
+    color: #5b6472;
+    font-size: 0.88rem;
+    line-height: 1.45;
+  }
+
+  .topic-hub-status {
+    width: fit-content;
+    margin-top: auto;
+    border-radius: 999px;
+    padding: 0.3rem 0.58rem;
+    background: #fff2db;
+    color: #9a5b13;
+    font-size: 0.72rem;
+    font-weight: 900;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+  }
+
+  .topic-hub-card:not(.is-planned) .topic-hub-status {
+    background: #e9f8ef;
+    color: #19613b;
+  }
+
+  @media (max-width: 1040px) {
+    .topic-hub-grid {
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+  }
+
+  @media (max-width: 680px) {
+    .topic-hub-grid {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+
+    .topic-hub-card {
+      min-height: 160px;
+    }
+  }
+
+  @media (max-width: 460px) {
+    .topic-hub-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

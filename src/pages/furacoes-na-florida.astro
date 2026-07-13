@@ -1,0 +1,625 @@
+---
+import ArticleCard from "../components/ArticleCard.astro";
+import GuideCTA from "../components/guides/GuideCTA.astro";
+import GuideFAQ from "../components/guides/GuideFAQ.astro";
+import GuideHero from "../components/guides/GuideHero.astro";
+import GuideIndex from "../components/guides/GuideIndex.astro";
+import GuideOfficialSources from "../components/guides/GuideOfficialSources.astro";
+import GuideSummary from "../components/guides/GuideSummary.astro";
+import TopicHubPortal from "../components/guides/TopicHubPortal.astro";
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { DEFAULT_IMAGE, SITE_URL } from "../data/pilotContent";
+import { getArticlesForTopicHub, hurricaneHub, topicHubCanonical } from "../data/topicHubs";
+
+const title = "Furacões na Flórida: Guia Completo para Brasileiros (2026)";
+const description = "Guia sobre furacões na Flórida para brasileiros: temporada, categorias, preparação, evacuação, kit de emergência, FEMA, seguros e alertas oficiais.";
+const canonical = topicHubCanonical(hurricaneHub);
+const relatedArticles = getArticlesForTopicHub(hurricaneHub).slice(0, 12);
+
+const tocItems = [
+  { href: "#temporada", label: "Temporada de furacões" },
+  { href: "#como-funciona", label: "Como funciona" },
+  { href: "#preparacao", label: "Preparação" },
+  { href: "#durante", label: "Durante o furacão" },
+  { href: "#depois", label: "Depois do furacão" },
+  { href: "#noticias", label: "Notícias atualizadas" },
+  { href: "#fontes", label: "Fontes oficiais" },
+  { href: "#faq", label: "FAQ" }
+];
+
+const stormStages = [
+  {
+    term: "Tropical Wave",
+    meaning: "Área alongada de baixa pressão que pode organizar chuva e tempestades, mas ainda não é um ciclone tropical fechado.",
+    action: "Acompanhar o NHC, mas sem pânico. Muitas ondas tropicais nunca viram tempestade."
+  },
+  {
+    term: "Tropical Depression",
+    meaning: "Ciclone tropical organizado, com circulação fechada e ventos máximos sustentados de até 38 mph.",
+    action: "Começar a revisar plano, rota, combustível, água e documentos."
+  },
+  {
+    term: "Tropical Storm",
+    meaning: "Ciclone tropical com ventos sustentados de 39 a 73 mph. Recebe nome oficial.",
+    action: "Levar alertas a sério, principalmente em áreas de enchente, costa e casas frágeis."
+  },
+  {
+    term: "Hurricane",
+    meaning: "Ciclone tropical com ventos sustentados de 74 mph ou mais.",
+    action: "Seguir ordens locais, preparar abrigo, energia, comunicação e possível evacuação."
+  },
+  {
+    term: "Major Hurricane",
+    meaning: "Furacão categoria 3, 4 ou 5, com potencial de dano devastador ou catastrófico.",
+    action: "Evacuar se ordenado. Não esperar a última hora para sair de zona de risco."
+  }
+];
+
+const categoryRows = [
+  ["Categoria 1", "74 a 95 mph", "Danos em telhados, árvores, energia e áreas expostas."],
+  ["Categoria 2", "96 a 110 mph", "Danos maiores, quedas de árvores e interrupções prolongadas."],
+  ["Categoria 3", "111 a 129 mph", "Major hurricane. Danos devastadores podem ocorrer."],
+  ["Categoria 4", "130 a 156 mph", "Danos catastróficos em estruturas, energia e infraestrutura."],
+  ["Categoria 5", "157 mph ou mais", "Danos catastróficos extremos. Evacuação deve ser levada muito a sério."]
+];
+
+const preparationChecklist = [
+  "Conhecer sua zona de evacuação e o risco real da sua casa.",
+  "Ter água, alimentos não perecíveis, lanternas, pilhas, carregadores e rádio.",
+  "Guardar documentos em pasta impermeável ou cópia digital segura.",
+  "Separar medicamentos, receitas, óculos, itens de bebê e necessidades especiais.",
+  "Planejar animais de estimação: ração, caixa de transporte, vacina e abrigo pet-friendly.",
+  "Abastecer o carro com antecedência e saber a rota para sair da área.",
+  "Tirar fotos da casa, carro e bens antes da tempestade para eventual seguro.",
+  "Confirmar seguro residencial, flood insurance e seguro de automóvel antes da temporada."
+];
+
+const newsPlaceholders = [
+  "Tempestade Tropical X: impactos possíveis para brasileiros na Flórida",
+  "Furacão Y: o que observar no cone do NHC",
+  "Nova previsão do NHC: como interpretar sem pânico",
+  "Mudanças na temporada: o que muda no planejamento da família"
+];
+
+const faqItems = [
+  {
+    question: "Quando é a temporada de furacões na Flórida?",
+    answer: "A temporada oficial do Atlântico vai de 1º de junho a 30 de novembro. Mesmo assim, sistemas tropicais podem ocorrer fora desse período, então fontes oficiais devem ser acompanhadas quando houver alerta."
+  },
+  {
+    question: "Todo furacão exige evacuação?",
+    answer: "Não. A decisão depende de ordem local, zona de evacuação, risco de inundação, tipo de moradia, intensidade prevista e condições da família. Se autoridades locais mandarem evacuar, não espere."
+  },
+  {
+    question: "Seguro residencial cobre enchente causada por furacão?",
+    answer: "Em geral, danos de enchente não costumam estar cobertos por uma apólice residencial padrão. Flood insurance normalmente precisa ser contratado separadamente ou como endosso, conforme orientação do Florida Office of Insurance Regulation."
+  },
+  {
+    question: "Brasileiros podem pedir ajuda da FEMA depois de furacão?",
+    answer: "A FEMA pode oferecer assistência em desastres declarados, mas elegibilidade depende de critérios oficiais, documentação, tipo de dano e status aplicável. A pessoa deve confirmar diretamente nos canais da FEMA."
+  },
+  {
+    question: "Qual é o erro mais comum antes de um furacão?",
+    answer: "Esperar a última hora. Água, gasolina, pilhas, comida, remédios, abrigos e rotas ficam mais difíceis quando o alerta já está perto. Preparação boa começa antes da temporada."
+  }
+];
+
+const officialSources = [
+  { label: "NOAA - Tropical Cyclone Climatology", href: "https://www.noaa.gov/tropical-cyclone-climatology" },
+  { label: "National Hurricane Center - Glossary", href: "https://www.nhc.noaa.gov/aboutgloss.shtml" },
+  { label: "National Hurricane Center - Saffir-Simpson Hurricane Wind Scale", href: "https://www.nhc.noaa.gov/aboutsshws.php" },
+  { label: "Ready.gov - Hurricanes", href: "https://www.ready.gov/hurricanes" },
+  { label: "Ready.gov - Build a Kit", href: "https://www.ready.gov/kit" },
+  { label: "Florida Disaster - Know Your Zone", href: "https://www.floridadisaster.org/knowyourzone/" },
+  { label: "Florida Disaster - Evacuation Orders", href: "https://www.floridadisaster.org/evacuation-orders/" },
+  { label: "FEMA - Individual Assistance", href: "https://www.fema.gov/assistance/individual" },
+  { label: "Florida Office of Insurance Regulation - Hurricane Season Resources", href: "https://floir.com/consumers/hurricane-season-resources" }
+];
+
+const collectionSchema = {
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  name: title,
+  description,
+  url: canonical,
+  inLanguage: "pt-BR",
+  isPartOf: { "@type": "WebSite", name: "FamiliaUSA1", url: SITE_URL },
+  publisher: { "@type": "Organization", name: "FamiliaUSA1", url: SITE_URL },
+  about: [
+    "Furacões na Flórida",
+    "Temporada de furacões",
+    "Evacuação",
+    "FEMA",
+    "Seguro residencial",
+    "Preparação para emergências"
+  ],
+  hasPart: relatedArticles.map((article) => ({
+    "@type": "Article",
+    headline: article.title,
+    url: article.canonical
+  }))
+};
+
+const breadcrumbSchema = {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  itemListElement: [
+    { "@type": "ListItem", position: 1, name: "Início", item: `${SITE_URL}/` },
+    { "@type": "ListItem", position: 2, name: "Guias Completos", item: `${SITE_URL}/categorias.html` },
+    { "@type": "ListItem", position: 3, name: "Furacões na Flórida", item: canonical }
+  ]
+};
+
+const faqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  mainEntity: faqItems.map((item) => ({
+    "@type": "Question",
+    name: item.question,
+    acceptedAnswer: { "@type": "Answer", text: item.answer }
+  }))
+};
+---
+<BaseLayout title={title} description={description} canonical={canonical} image={DEFAULT_IMAGE} schemas={[collectionSchema, breadcrumbSchema, faqSchema]}>
+  <div class="container">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="/index.html">Início</a>
+      <a href="/categorias.html">Guias Completos</a>
+      <span>Furacões na Flórida</span>
+    </nav>
+
+    <GuideHero
+      eyebrow="Hub permanente"
+      title="Furacões na Flórida: Guia Completo para Brasileiros (2026)"
+      description="Um centro de navegação para brasileiros entenderem a temporada de furacões, se prepararem antes do alerta, acompanharem fontes oficiais e saberem o que fazer antes, durante e depois de uma tempestade."
+      primaryHref="#preparacao"
+      primaryLabel="Ver checklist"
+      secondaryHref="#noticias"
+      secondaryLabel="Ver notícias atualizadas"
+      badges={["NHC", "Evacuação", "FEMA", "Seguros", "Kit de emergência", "Vida na Flórida"]}
+    />
+
+    <GuideSummary
+      items={[
+        { label: "Temporada", value: "1º de junho a 30 de novembro no Atlântico" },
+        { label: "Foco", value: "Preparação prática para famílias brasileiras na Flórida" },
+        { label: "Fontes", value: "NOAA, NHC, Ready.gov, Florida Disaster, FEMA e OIR" },
+        { label: "Atualização", value: "Hub preparado para receber alertas e notícias por tag/categoria" }
+      ]}
+    />
+
+    <section class="hub-alert" aria-label="Aviso importante">
+      <strong>Aviso importante:</strong>
+      <span>este guia e informativo. Em qualquer emergencia, siga as ordens do seu condado, do Florida Division of Emergency Management, do NHC/NOAA e das autoridades locais.</span>
+    </section>
+
+    <TopicHubPortal compact />
+
+    <nav class="hub-toc" aria-label="Sumário da página">
+      <strong>Sumário</strong>
+      <div>
+        {tocItems.map((item) => <a href={item.href}>{item.label}</a>)}
+      </div>
+    </nav>
+
+    <section id="temporada" class="hub-intro" aria-labelledby="temporada-title">
+      <div>
+        <p class="hub-mini">Introdução</p>
+        <h2 id="temporada-title">Por que brasileiros na Flórida precisam entender furacões</h2>
+        <p>Para quem veio do Brasil, a palavra furacão pode soar distante até a primeira temporada na Flórida. O problema é que furacão não é apenas vento forte. Ele pode envolver chuva intensa, enchente, storm surge, queda de energia, falta de gasolina, fechamento de escola, evacuação, seguro, perda de alimentos, danos no carro e dias de incerteza.</p>
+        <p>Este hub foi criado para organizar todo o conteúdo do Família USA1 sobre furacões na Flórida. A página não substitui ordens oficiais, meteorologistas, seguradora, FEMA ou autoridades locais. Ela serve como mapa para brasileiros saberem onde começar, quais fontes acompanhar e quais artigos ler quando novos alertas forem publicados.</p>
+        <p>A temporada oficial de furacões no Atlântico vai de 1º de junho a 30 de novembro, segundo a NOAA. A Flórida precisa de atenção porque fica exposta ao Atlântico, ao Caribe e ao Golfo, e cada região do estado pode sentir impactos diferentes.</p>
+      </div>
+      <aside>
+        <strong>Regra de ouro</strong>
+        <p>Se houver ordem de evacuação da sua região, siga a orientação local. Não use grupo de WhatsApp como fonte principal quando sua segurança, sua família e sua casa estão em risco.</p>
+      </aside>
+    </section>
+
+    <section id="como-funciona" class="guide-block" aria-labelledby="como-funciona-title">
+      <div class="guide-block-header">
+        <p class="guide-mini">Como funciona</p>
+        <h2 id="como-funciona-title">Da onda tropical ao major hurricane</h2>
+        <p>Nem todo sistema tropical vira furacão. O caminho pode começar como uma onda tropical, evoluir para depressão, ganhar nome como tempestade tropical e, em alguns casos, virar furacão. Entender essa diferença ajuda a evitar tanto o pânico quanto a negligência.</p>
+      </div>
+      <div class="storm-stage-grid">
+        {stormStages.map((stage) => (
+          <article class="storm-stage-card">
+            <h3>{stage.term}</h3>
+            <p>{stage.meaning}</p>
+            <strong>{stage.action}</strong>
+          </article>
+        ))}
+      </div>
+    </section>
+
+    <section class="hub-table-section" aria-labelledby="categorias-title">
+      <div class="guide-block-header">
+        <p class="guide-mini">Categorias 1 a 5</p>
+        <h2 id="categorias-title">O que a categoria do furacão realmente mede</h2>
+        <p>A escala Saffir-Simpson mede vento sustentado e estima potencial de dano por vento. Ela não mede tudo: chuva, enchente, storm surge e tornado também podem ser perigosos mesmo em sistemas de categoria menor.</p>
+      </div>
+      <div class="responsive-table">
+        <table>
+          <thead>
+            <tr>
+              <th>Categoria</th>
+              <th>Vento sustentado</th>
+              <th>O que observar</th>
+            </tr>
+          </thead>
+          <tbody>
+            {categoryRows.map((row) => (
+              <tr>
+                {row.map((cell) => <td>{cell}</td>)}
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <GuideIndex
+      title="Mapa permanente do cluster Furacões"
+      description="Cada bloco abaixo representa um subtema que poderá receber dezenas de artigos satélites no futuro, sem perder organização."
+      items={[
+        { title: "Preparação antes da temporada", summary: "Checklist, kit, documentos, remédios, crianças, idosos, pets, carro, água, alimentos e comunicação.", href: "#preparacao", status: "published" },
+        { title: "Alertas e notícias meteorológicas", summary: "Área preparada para artigos sobre tempestades tropicais, furacões nomeados, previsões do NHC e atualizações oficiais.", href: "#noticias", status: "published" },
+        { title: "Evacuação e abrigo", summary: "Como entender zonas, ordens locais, abrigos, rotas, combustível e decisões difíceis para famílias.", href: "#durante", status: "published" },
+        { title: "Seguros, FEMA e retorno para casa", summary: "O que registrar, como lidar com seguradora, FEMA, limpeza, fotos, flood insurance e segurança pós-tempestade.", href: "#depois", status: "published" },
+        { title: "Energia, internet e comunicação", summary: "Como se preparar para dias sem energia, carregar celulares, manter contato e receber alertas.", href: "#durante", status: "published" },
+        { title: "Guias por cidade e região", summary: "Estrutura futura para Orlando, Tampa Bay, Miami, Fort Lauderdale, Jacksonville, Naples e outras regiões.", status: "soon" }
+      ]}
+    />
+
+    <section id="preparacao" class="guide-checklist hurricane-checklist" aria-labelledby="preparacao-title">
+      <h2 id="preparacao-title">Preparação: checklist antes do alerta virar urgência</h2>
+      <div class="guide-checklist-grid">
+        {preparationChecklist.map((item) => (
+          <div class="guide-check-item">
+            <span aria-hidden="true">✓</span>
+            <p>{item}</p>
+          </div>
+        ))}
+      </div>
+    </section>
+
+    <section class="hub-panels" aria-labelledby="kit-title">
+      <div class="hub-panel hub-panel-strong">
+        <p class="hub-mini">Kit de emergência</p>
+        <h2 id="kit-title">Água, alimentos, energia e remédios</h2>
+        <p>O Ready.gov recomenda montar um kit capaz de ajudar a família a se manter por vários dias. Para brasileiros na Flórida, isso significa pensar em água, alimentos fáceis, lanternas, pilhas, power banks, rádio, documentos, remédios, itens de bebê, dinheiro, higiene, saco de lixo, abridor manual e necessidades especiais.</p>
+        <p>Não espere o cone chegar na sua cidade para comprar tudo. Quando a ameaça fica clara, prateleiras esvaziam, filas aumentam e a ansiedade cresce.</p>
+      </div>
+      <div class="hub-panel">
+        <p class="hub-mini">Documentos e veículos</p>
+        <ul>
+          <li>Passaporte, carteira, seguro, lease, documentos do carro e contatos importantes.</li>
+          <li>Fotos da casa, bens, carro e recibos relevantes antes da tempestade.</li>
+          <li>Tanque cheio, pneus calibrados, rota alternativa e carregador veicular.</li>
+          <li>Plano para pets: ração, guia, caixa, vacina e abrigo que aceite animais.</li>
+        </ul>
+      </div>
+    </section>
+
+    <section id="durante" class="hub-panels" aria-labelledby="durante-title">
+      <div class="hub-panel hub-panel-strong">
+        <p class="hub-mini">Durante o furacão</p>
+        <h2 id="durante-title">Abrigo, energia, internet e comunicação</h2>
+        <p>Durante a tempestade, a prioridade é vida. Fique longe de janelas, não saia para “ver como está”, não dirija em água acumulada e acompanhe alertas oficiais. Se estiver em abrigo, siga as regras locais. Se estiver em casa, escolha um cômodo interno, mantenha celulares carregados e economize bateria.</p>
+        <p>Energia e internet podem cair. Tenha formas alternativas de receber alertas, como rádio, app oficial, mensagens de emergência e contatos combinados com família.</p>
+      </div>
+      <div class="hub-panel">
+        <p class="hub-mini">Comunicação</p>
+        <ul>
+          <li>Combine um contato fora da área afetada para centralizar notícias da família.</li>
+          <li>Envie mensagens curtas em vez de ligações longas quando a rede estiver instável.</li>
+          <li>Baixe mapas, documentos e contatos antes da tempestade.</li>
+          <li>Use fontes oficiais: NHC, governo local, Florida Disaster e alertas de emergência.</li>
+        </ul>
+      </div>
+    </section>
+
+    <section id="depois" class="hub-panels" aria-labelledby="depois-title">
+      <div class="hub-panel hub-panel-strong">
+        <p class="hub-mini">Depois do furacão</p>
+        <h2 id="depois-title">Seguros, FEMA, limpeza e retorno para casa</h2>
+        <p>Depois da tempestade, não volte para casa antes de a autoridade local liberar. Cuidado com fios caídos, água contaminada, mofo, animais, objetos cortantes e estruturas instáveis. Tire fotos antes de limpar, guarde recibos e fale com sua seguradora antes de descartar itens importantes.</p>
+        <p>A FEMA pode oferecer assistência em desastres declarados, mas isso depende de elegibilidade e do tipo de dano. Seguro residencial, seguro contra enchente e seguro de automóvel têm regras diferentes. Em muitos casos, flood insurance precisa ser contratado separadamente.</p>
+      </div>
+      <div class="hub-panel">
+        <p class="hub-mini">Links internos úteis</p>
+        <ul>
+          <li><a href="/articles/seguro-saude-familias-brasileiras-eua.html">Seguro saúde para famílias brasileiras nos EUA</a></li>
+          <li><a href="/articles/como-escolher-uma-cidade-para-morar-nos-eua.html">Como escolher uma cidade para morar nos EUA</a></li>
+          <li><a href="/categorias/cidades-da-florida.html">Cidades da Flórida para brasileiros</a></li>
+          <li><a href="/checklist-mudanca-eua.html">Checklist gratuito da mudança para os EUA</a></li>
+        </ul>
+      </div>
+    </section>
+
+    <section id="noticias" class="guide-related" aria-labelledby="noticias-title">
+      <div class="guide-related-header">
+        <p class="guide-mini">Notícias atualizadas</p>
+        <h2 id="noticias-title">Artigos sobre tempestades, alertas e mudanças na temporada</h2>
+        <p>Esta área já está preparada para listar automaticamente artigos relacionados por categoria, tag, título ou descrição. Quando publicarmos notícias como “Tempestade Tropical X”, “Furacão Y” ou “Nova previsão do NHC”, elas poderão alimentar este hub sem reescrever a página.</p>
+      </div>
+      {relatedArticles.length > 0 ? (
+        <div class="article-grid">
+          {relatedArticles.map((article) => <ArticleCard article={article} microcopyLength={95} compact />)}
+        </div>
+      ) : (
+        <div class="planned-news-grid">
+          {newsPlaceholders.map((item) => (
+            <article class="planned-news-card">
+              <span>Em planejamento</span>
+              <h3>{item}</h3>
+              <p>Espaço reservado para cobertura responsável com fontes oficiais, contexto para brasileiros e link de volta para este guia completo.</p>
+            </article>
+          ))}
+        </div>
+      )}
+    </section>
+
+    <section class="hub-note">
+      <strong>Regra editorial para futuros artigos:</strong>
+      <p>Todo artigo sobre furacão, tempestade tropical, evacuação, FEMA, seguro ou clima extremo na Flórida deve conter a frase: “Este artigo faz parte do <a href="/furacoes-na-florida.html">Guia Completo sobre Furacões na Flórida</a>”.</p>
+    </section>
+
+    <div id="fontes">
+      <GuideOfficialSources
+        title="Fontes oficiais para acompanhar furacões"
+        description="Use essas fontes para confirmar previsão, categoria, zona de evacuação, ordem local, assistência pós-desastre e orientações de seguro antes de tomar decisões."
+        sources={officialSources}
+      />
+    </div>
+
+    <div id="faq">
+      <GuideFAQ items={faqItems} />
+    </div>
+
+    <GuideCTA
+      title="Mora ou pretende morar na Flórida?"
+      description="Use este guia como ponto de partida e continue comparando cidades, seguros, saúde, custo de vida e rotina real antes de tomar decisões grandes."
+      primaryHref="/categorias/cidades-da-florida.html"
+      primaryLabel="Ver cidades da Flórida"
+      secondaryHref="/checklist-mudanca-eua.html"
+      secondaryLabel="Baixar checklist"
+    />
+  </div>
+</BaseLayout>
+
+<style>
+  .hub-toc {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    gap: 1rem;
+    align-items: start;
+    margin: 2rem 0;
+    border: 1px solid rgba(16, 24, 39, 0.08);
+    border-radius: 22px;
+    padding: 1rem;
+    background: #fff;
+    box-shadow: 0 12px 32px rgba(16, 24, 39, 0.06);
+  }
+
+  .hub-alert {
+    display: flex;
+    gap: 0.55rem;
+    align-items: flex-start;
+    margin: 1.2rem 0 0;
+    border: 1px solid rgba(200, 101, 27, 0.24);
+    border-radius: 18px;
+    padding: 0.92rem 1rem;
+    background: #fff5e6;
+    color: #4f2e10;
+    line-height: 1.55;
+  }
+
+  .hub-alert strong {
+    color: #8c4612;
+    white-space: nowrap;
+  }
+
+  .hub-toc strong {
+    color: #101827;
+    font-weight: 950;
+  }
+
+  .hub-toc div {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.55rem;
+  }
+
+  .hub-toc a {
+    border-radius: 999px;
+    padding: 0.4rem 0.68rem;
+    background: #fff2db;
+    color: #8a4d11;
+    font-size: 0.86rem;
+    font-weight: 900;
+    text-decoration: none;
+  }
+
+  .hub-intro,
+  .hub-panels {
+    display: grid;
+    grid-template-columns: minmax(0, 1.35fr) minmax(260px, 0.65fr);
+    gap: 1rem;
+    margin: 2rem 0;
+  }
+
+  .hub-intro > div,
+  .hub-intro aside,
+  .hub-panel,
+  .hub-note {
+    border: 1px solid rgba(16, 24, 39, 0.08);
+    border-radius: 24px;
+    padding: clamp(1.2rem, 3vw, 1.8rem);
+    background: #fff;
+    box-shadow: 0 14px 36px rgba(16, 24, 39, 0.06);
+  }
+
+  .hub-intro aside,
+  .hub-panel-strong,
+  .hub-note {
+    background: #fffaf3;
+  }
+
+  .hub-mini {
+    margin: 0 0 0.45rem;
+    color: #c8651b;
+    font-size: 0.78rem;
+    font-weight: 900;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+  }
+
+  .hub-intro h2,
+  .hub-panel h2,
+  .guide-block-header h2 {
+    margin: 0 0 0.8rem;
+    color: #101827;
+    font-size: clamp(1.7rem, 3vw, 2.45rem);
+    line-height: 1.05;
+  }
+
+  .hub-intro p,
+  .hub-panel p,
+  .guide-block-header p,
+  .hub-note p {
+    color: #5b6472;
+    line-height: 1.72;
+  }
+
+  .hub-intro aside strong,
+  .hub-note strong {
+    color: #101827;
+    font-size: 1.05rem;
+  }
+
+  .storm-stage-grid,
+  .planned-news-grid {
+    display: grid;
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+    gap: 0.85rem;
+  }
+
+  .storm-stage-card,
+  .planned-news-card {
+    border: 1px solid rgba(16, 24, 39, 0.08);
+    border-radius: 20px;
+    padding: 1rem;
+    background: #fff;
+    box-shadow: 0 10px 28px rgba(16, 24, 39, 0.05);
+  }
+
+  .storm-stage-card h3,
+  .planned-news-card h3 {
+    margin: 0 0 0.55rem;
+    color: #101827;
+    font-size: 1.05rem;
+    line-height: 1.2;
+  }
+
+  .storm-stage-card p,
+  .planned-news-card p {
+    color: #5b6472;
+    font-size: 0.93rem;
+    line-height: 1.55;
+  }
+
+  .storm-stage-card strong {
+    color: #9a4f18;
+    font-size: 0.88rem;
+    line-height: 1.45;
+  }
+
+  .hub-table-section,
+  .guide-block,
+  .guide-related {
+    margin: 2.5rem 0;
+  }
+
+  .responsive-table {
+    overflow-x: auto;
+    border-radius: 20px;
+    box-shadow: 0 12px 32px rgba(16, 24, 39, 0.06);
+  }
+
+  .responsive-table table {
+    width: 100%;
+    min-width: 720px;
+    border-collapse: collapse;
+    background: #fff;
+  }
+
+  .responsive-table th,
+  .responsive-table td {
+    border-bottom: 1px solid rgba(16, 24, 39, 0.08);
+    padding: 0.95rem;
+    text-align: left;
+    vertical-align: top;
+  }
+
+  .responsive-table th {
+    background: #101827;
+    color: #fffaf1;
+  }
+
+  .hub-panel ul {
+    margin: 0;
+    padding-left: 1.1rem;
+  }
+
+  .hub-panel li + li {
+    margin-top: 0.65rem;
+  }
+
+  .hub-panel a,
+  .hub-note a {
+    color: #9a4f18;
+    font-weight: 900;
+  }
+
+  .planned-news-card span {
+    display: inline-flex;
+    border-radius: 999px;
+    padding: 0.3rem 0.58rem;
+    background: #fff2db;
+    color: #9a5b13;
+    font-size: 0.72rem;
+    font-weight: 900;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+  }
+
+  @media (max-width: 1040px) {
+    .storm-stage-grid,
+    .planned-news-grid {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+  }
+
+  @media (max-width: 820px) {
+    .hub-intro,
+    .hub-panels,
+    .hub-toc {
+      grid-template-columns: 1fr;
+    }
+  }
+
+  @media (max-width: 680px) {
+    .hub-alert {
+      flex-direction: column;
+    }
+  }
+
+  @media (max-width: 560px) {
+    .storm-stage-grid,
+    .planned-news-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

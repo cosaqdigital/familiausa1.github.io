@@ -14,6 +14,20 @@ interface Props {
 
 const { category, posts } = Astro.props;
 const canonical = category.canonical;
+const hubLabels: Record<string, { title: string; description: string }> = {
+  "/furacoes-na-florida.html": {
+    title: "Furacões na Flórida",
+    description: "Guia completo sobre temporada, preparação, evacuação, FEMA, seguros e alertas oficiais."
+  }
+};
+
+function hubInfo(href: string) {
+  return hubLabels[href] ?? {
+    title: href.replace("/categorias/", "").replace(".html", "").replaceAll("-", " "),
+    description: "Abrir guia relacionado no Familia USA 1 para comparar temas próximos."
+  };
+}
+
 const collectionSchema = {
   "@context": "https://schema.org",
   "@type": "CollectionPage",
@@ -41,6 +55,9 @@ const breadcrumbSchema = {
     { "@type": "ListItem", position: 3, name: category.title, item: canonical }
   ]
 };
+const postCountText = posts.length === 1
+  ? "1 conteudo relacionado, organizado para facilitar sua pesquisa e fortalecer a navegacao interna do Familia USA 1."
+  : `${posts.length} conteudos relacionados, organizados para facilitar sua pesquisa e fortalecer a navegacao interna do Familia USA 1.`;
 ---
 <BaseLayout title={`${category.h1} | FamiliaUSA1`} description={category.description} canonical={canonical} schemas={[collectionSchema, breadcrumbSchema]}>
   <header class="narrow-container article-header">
@@ -57,11 +74,19 @@ const breadcrumbSchema = {
   <section class="container section-wide">
     <div class="section-header">
       <h2>Guias desta categoria</h2>
-      <p>{posts.length} conteudos relacionados, organizados para facilitar sua pesquisa e fortalecer a navegacao interna do Familia USA 1.</p>
+      <p>{postCountText}</p>
     </div>
-    <div class="article-grid">
-      {posts.map((post) => <ArticleCard article={post} microcopyLength={110} compact />)}
-    </div>
+    {posts.length > 0 ? (
+      <div class="article-grid">
+        {posts.map((post) => <ArticleCard article={post} microcopyLength={110} compact />)}
+      </div>
+    ) : (
+      <div class="card category-empty-state">
+        <div class="post-category">Categoria em construcao</div>
+        <h3>Estamos organizando os primeiros artigos desta area.</h3>
+        <p>Enquanto isso, use os hubs abaixo para navegar pelos guias permanentes relacionados ao tema.</p>
+      </div>
+    )}
   </section>
 
   {category.hubLinks?.length ? (
@@ -71,16 +96,19 @@ const breadcrumbSchema = {
         <p>Links de apoio para comparar temas proximos antes de tomar decisoes sobre visto, cidade, dinheiro ou mudanca.</p>
       </div>
       <div class="category-grid">
-        {category.hubLinks.map((href) => (
-          <a class="card category-card" href={href}>
-            <div class="category-title">{href.replace("/categorias/", "").replace(".html", "").replaceAll("-", " ")}</div>
-            <p class="card-copy">{truncateText("Abrir guia relacionado no Familia USA 1 para comparar temas proximos.", 90)}</p>
-            <div class="post-meta">
-              <span>Hub</span>
-              <span class="read-more">Explorar tema →</span>
-            </div>
-          </a>
-        ))}
+        {category.hubLinks.map((href) => {
+          const hub = hubInfo(href);
+          return (
+            <a class="card category-card" href={href}>
+              <div class="category-title">{hub.title}</div>
+              <p class="card-copy">{truncateText(hub.description, 90)}</p>
+              <div class="post-meta">
+                <span>Hub</span>
+                <span class="read-more">Explorar tema →</span>
+              </div>
+            </a>
+          );
+        })}
       </div>
     </section>
   ) : null}

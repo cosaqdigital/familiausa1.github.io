@@ -1,6 +1,7 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
 import ChecklistCTA from "../components/ChecklistCTA.astro";
+import TopicHubPortal from "../components/guides/TopicHubPortal.astro";
 import { SITE_URL } from "../data/pilotContent";
 import { getArticlesForCategory, siteCategories, categoryUrl } from "../data/categories";
 import { truncateText } from "../utils/cardText";
@@ -37,6 +38,10 @@ const collectionSchema = {
     <h1>Categorias do blog</h1>
     <p class="lead">Encontre rapidamente os guias certos sobre imigracao, visto, custo de vida, trabalho, cidades da Florida, Orlando, saude, compras e vida real nos Estados Unidos.</p>
   </header>
+
+  <section class="container section-wide">
+    <TopicHubPortal />
+  </section>
 
   <section class="container section-wide">
     <div class="section-header">
