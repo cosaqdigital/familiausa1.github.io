@@ -63,7 +63,7 @@ Este guia é para quem pesquisou se **iPhone americano funciona no Brasil** e qu
 | Tem garantia no Brasil? | Pode variar por modelo, reparo e política da Apple. Confirme diretamente com a Apple. |
 | Vale comprar? | Só vale se a economia compensar imposto, câmbio, acessórios, garantia e risco de troca. |
 
-Se sua dúvida principal é preço, veja o artigo pilar sobre [quanto custa um iPhone nos EUA em 2026](/articles/iphone-nos-eua-vale-a-pena-2026.html). Aqui o foco é compatibilidade técnica para usar no Brasil.
+Se sua dúvida principal é preço, veja o artigo pilar sobre [quanto custa um iPhone nos EUA](/articles/iphone-nos-eua-vale-a-pena-2026.html). Aqui o foco é compatibilidade técnica para usar no Brasil.
 
 <div class="checklist-cta affiliate-cta">
   <h2>Ainda está comparando preço?</h2>
@@ -89,7 +89,7 @@ Um iPhone americano pode funcionar no Brasil quando:
 
 O erro comum é olhar apenas o preço. A pessoa vê um iPhone mais barato nos EUA, compra rápido e depois tenta resolver no Brasil o que deveria ter sido confirmado antes da compra. Para quem está viajando, esse detalhe é ainda mais importante, porque nem sempre há tempo para trocar, devolver ou conversar com a loja com calma.
 
-Se você ainda está na fase de comparação, leia também o guia principal: [veja o guia completo com preço do iPhone nos EUA em 2026](/articles/iphone-nos-eua-vale-a-pena-2026.html).
+Se você ainda está na fase de comparação, leia também o guia principal: [veja o guia completo com preço do iPhone nos EUA](/articles/iphone-nos-eua-vale-a-pena-2026.html).
 
 ## O que verificar antes de comprar
 
@@ -151,7 +151,7 @@ O que você deve perguntar para a operadora:
 
 Essa conversa pode parecer chata, mas evita uma compra cara feita no impulso. Se possível, peça orientação por canal oficial e guarde protocolo, print ou comprovante de atendimento. Isso não garante que tudo será perfeito, mas ajuda a reduzir risco.
 
-Para quem vai viajar para Orlando, Miami ou outros destinos nos EUA, vale organizar isso junto com o planejamento financeiro da viagem. Comprar eletrônico é uma parte da conta; imposto local, câmbio, acessórios, bagagem e alfândega também entram no custo. Se você está montando o roteiro, veja também o guia sobre [quanto custa viajar para Orlando em 2026](/articles/quanto-custa-viajar-orlando-2026.html).
+Para quem vai viajar para Orlando, Miami ou outros destinos nos EUA, vale organizar isso junto com o planejamento financeiro da viagem. Comprar eletrônico é uma parte da conta; imposto local, câmbio, acessórios, bagagem e alfândega também entram no custo. Se você está montando o roteiro, veja também o guia sobre [quanto custa viajar para Orlando](/articles/quanto-custa-viajar-orlando-2026.html).
 
 ## Bandas, rede e homologação: o que olhar no modelo
 
@@ -221,9 +221,9 @@ Na comparação, coloque na conta:
 
 Às vezes a economia é grande. Em outras situações, quando soma imposto, câmbio, acessórios, risco e garantia, a diferença diminui. É por isso que o artigo principal do cluster existe: para ajudar você a comparar preço com mais calma.
 
-Para uma análise mais completa de preço, comparação e custo-benefício, leia o artigo principal: [veja o guia completo com preço do iPhone nos EUA em 2026](/articles/iphone-nos-eua-vale-a-pena-2026.html).
+Para uma análise mais completa de preço, comparação e custo-benefício, leia o artigo principal: [veja o guia completo com preço do iPhone nos EUA](/articles/iphone-nos-eua-vale-a-pena-2026.html).
 
-Se a viagem inclui compras em geral, vale ver também [se ainda vale a pena fazer compras nos EUA em 2026](/articles/vale-a-pena-fazer-compras-nos-eua-2026.html) e [o que não comprar nos EUA em 2026](/articles/o-que-nao-comprar-nos-eua-2026.html).
+Se a viagem inclui compras em geral, vale ver também [se ainda vale a pena fazer compras nos EUA](/articles/vale-a-pena-fazer-compras-nos-eua-2026.html) e [o que não comprar nos EUA](/articles/o-que-nao-comprar-nos-eua-2026.html).
 
 ## Acessórios que você deve comprar junto
 
@@ -259,10 +259,10 @@ Também pense no contexto da viagem. Se você está indo para Orlando, por exemp
 
 Para organizar a viagem, você pode ler:
 
-- [guia completo de Orlando em 2026 para brasileiros](/articles/guia-completo-orlando-2026-brasileiros.html);
+- [guia completo de Orlando para brasileiros](/articles/guia-completo-orlando-2026-brasileiros.html);
 - [Walmart e Target em Orlando: guia de compras para brasileiros](/articles/walmart-target-orlando-compras-brasileiros.html);
-- [melhores outlets de Orlando em 2026](/articles/melhores-outlets-orlando-2026.html);
-- [custo de vida nos EUA em 2026](/articles/custo-de-vida-nos-eua-2026-atualizado.html);
+- [melhores outlets de Orlando](/articles/melhores-outlets-orlando-2026.html);
+- [custo de vida nos EUA](/articles/custo-de-vida-nos-eua-2026-atualizado.html);
 - [checklist gratuito da mudança para os EUA](/checklist-mudanca-eua.html).
 
 ## Perguntas frequentes
@@ -324,4 +324,4 @@ Comprar iPhone nos EUA para usar no Brasil pode funcionar e pode valer a pena. M
 
 O melhor caminho é simples: não compre só porque parece barato. Compare o custo total, confirme com sua operadora, leia a descrição do produto e guarde comprovantes.
 
-Se você ainda está decidindo pelo preço, comece pelo guia principal: [preço do iPhone nos EUA em 2026](/articles/iphone-nos-eua-vale-a-pena-2026.html).
+Se você ainda está decidindo pelo preço, comece pelo guia principal: [preço do iPhone nos EUA](/articles/iphone-nos-eua-vale-a-pena-2026.html).
