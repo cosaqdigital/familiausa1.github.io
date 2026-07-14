@@ -187,21 +187,25 @@ Por fim, não transforme o kit em objeto esquecido no armário. Use uma etiqueta
 
 <h2 id="faq">Perguntas frequentes</h2>
 
-### O que deve ter no kit de emergência para furacão?
+### O que deve ter no kit de emergência para furacão na Flórida?
 
-Água, comida não perecível, lanterna, pilhas, rádio, carregadores, remédios, documentos, dinheiro, higiene, primeiros socorros e itens específicos para crianças, idosos e animais.
+Água, alimentos não perecíveis, lanternas, pilhas, rádio, carregadores, remédios, documentos, dinheiro, itens de higiene, primeiros socorros e itens específicos para crianças, idosos e animais.
 
-### Quando devo montar o kit?
+### Quando devo montar o kit de emergência?
 
-Antes da temporada ou no início dela. Esperar o alerta costuma deixar tudo mais caro, cheio e estressante.
+O ideal é montar antes da temporada ou no começo dela, sem esperar a ameaça chegar. Na véspera de um furacão, itens básicos podem acabar rapidamente.
 
-### Preciso comprar gerador?
+### Quantos dias de suprimentos devo ter?
 
-Nem toda família precisa de gerador. Se comprar, aprenda segurança antes. Gerador usado errado pode causar intoxicação por monóxido de carbono, incêndio ou choque.
+Ready.gov recomenda preparar itens para que a família consiga se manter por vários dias. Ajuste a quantidade conforme número de pessoas, pets, necessidades médicas e risco da região.
 
-### O kit deve ficar no carro ou em casa?
+### Preciso de dinheiro em espécie?
 
-O ideal é ter itens principais em casa e alguns itens de apoio no carro, especialmente carregador, água, documentos essenciais e primeiros socorros.
+Pode ajudar, porque quedas de energia e internet podem afetar pagamentos digitais. Guarde uma quantia segura e compatível com sua realidade.
+
+### O kit de furacão precisa incluir documentos?
+
+Sim. Guarde passaporte, documentos migratórios, seguro, contratos, receitas médicas e contatos importantes em pasta impermeável ou cópia digital segura.
 
 <h2 id="conclusao">Conclusão</h2>
 

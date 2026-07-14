@@ -206,17 +206,21 @@ Se a ordem não incluir sua área, isso não significa ignorar preparação. Pod
 
 Consulte sua zona no Know Your Zone, acompanhe ordens do condado e confirme em fontes oficiais. Se sua área estiver sob ordem de evacuação, siga a orientação.
 
-### Toda zona precisa evacuar em todo furacão?
+### Toda zona de evacuação precisa sair em todo furacão?
 
 Não. As autoridades decidem quais zonas devem evacuar em cada evento, conforme risco de storm surge, enchente, vento e trajetória.
 
-### Posso ir para abrigo com meu pet?
+### Evacuar significa dirigir para outro estado?
+
+Não necessariamente. Muitas vezes, evacuar significa sair da zona de risco e ir para uma área mais segura próxima, fora da ameaça principal.
+
+### Abrigo público aceita animais?
 
 Depende do condado e do abrigo. Confirme antes e prepare caixa, guia, ração, vacina e documentos do animal.
 
-### Evacuar significa sair da Flórida?
+### Qual é o maior erro na evacuação?
 
-Nem sempre. Muitas vezes, basta ir para uma área mais segura próxima, fora da zona de risco.
+Esperar até o último momento. Isso pode aumentar trânsito, reduzir opções de abrigo, dificultar abastecimento e deixar a família com menos tempo para agir.
 
 <h2 id="conclusao">Conclusão</h2>
 

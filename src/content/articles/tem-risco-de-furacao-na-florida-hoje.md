@@ -174,15 +174,18 @@ Watch indica que condições são possíveis. Warning indica que condições sã
 
 ### O cone do NHC mostra exatamente onde o furacão vai passar?
 
-Não. O cone mostra uma área provável para o centro da tempestade, mas impactos podem ocorrer fora dele.
+Não. O cone indica uma área provável para o centro da tempestade, mas impactos como chuva, vento, storm surge e tornados podem ocorrer fora dele.
 
-### Este artigo informa a previsão em tempo real?
+### Devo acompanhar previsão brasileira sobre furacão na Flórida?
 
-Não. Este artigo ensina como acompanhar a previsão oficial. A situação real deve ser verificada diretamente nas fontes oficiais.
+Você pode usar conteúdo em português para entender o assunto, mas a decisão prática deve ser confirmada em fontes oficiais dos EUA e autoridades locais.
+
+### Este artigo informa o risco em tempo real?
+
+Não. Este artigo ensina onde consultar a previsão oficial. O risco real muda rapidamente e deve ser verificado nos canais oficiais no momento da consulta.
 
 <h2 id="conclusao">Conclusão</h2>
 
 Para saber se há risco de furacão na Flórida hoje, a melhor resposta é: **não dependa de previsão fixa**. Abra o NHC, confirme o status do sistema, veja watches e warnings, cheque seu condado e acompanhe atualizações oficiais.
 
 O brasileiro que entende esse processo fica menos vulnerável a boatos e mais preparado para proteger família, documentos, carro, casa e rotina. Informação correta não elimina o risco, mas ajuda a tomar decisões melhores no tempo certo.
-

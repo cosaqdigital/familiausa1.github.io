@@ -198,13 +198,17 @@ Depende da apólice e do tipo de dano. Dano por vento, enchente, carro, mofo e b
 
 Em geral, flood não costuma estar coberto em apólice residencial padrão. Flood insurance precisa ser comprado separadamente ou como endosso, conforme opções disponíveis.
 
+### O que é hurricane deductible?
+
+É uma franquia específica que pode ser aplicada em determinados danos relacionados a furacão. O valor e as condições dependem da apólice, da seguradora e das regras aplicáveis.
+
 ### FEMA substitui seguro?
 
 Não. A FEMA pode oferecer assistência em desastres declarados, mas depende de critérios e não deve ser tratada como substituto de seguro.
 
-### O que devo fazer antes da temporada?
+### O que devo documentar depois do furacão?
 
-Leia apólice, confirme hurricane deductible, verifique flood insurance, fotografe bens, organize documentos e salve contatos da seguradora.
+Fotografe e filme danos, guarde recibos, anote datas, preserve documentos e fale com sua seguradora antes de descartar itens importantes, quando for seguro fazer isso.
 
 <h2 id="conclusao">Conclusão</h2>
 

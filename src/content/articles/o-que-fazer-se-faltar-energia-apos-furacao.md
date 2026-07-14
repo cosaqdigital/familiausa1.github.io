@@ -226,21 +226,25 @@ Se o apagão durar muito e sua casa ficar quente demais, considere ir para local
 
 <h2 id="faq">Perguntas frequentes</h2>
 
-### O que fazer primeiro se faltar energia?
+### O que fazer primeiro se faltar energia após um furacão?
 
 Confirme segurança da família, evite fios caídos, economize bateria, mantenha geladeira fechada e acompanhe comunicados oficiais.
 
-### Posso usar gerador na garagem?
+### Posso usar gerador dentro da garagem?
 
 Não. Gerador deve ficar ao ar livre e longe de janelas, portas e vents. O risco de monóxido de carbono é sério.
 
-### Quanto tempo a geladeira segura comida?
+### Quanto tempo a geladeira segura comida sem energia?
 
 Fontes oficiais indicam cerca de 4 horas se a porta permanecer fechada. Depois disso, avalie perecíveis com cautela.
 
-### Devo tocar em cabo caído?
+### Devo tocar em cabo caído se parecer desligado?
 
 Nunca. Trate todo cabo caído como energizado e perigoso.
+
+### Como carregar celular durante apagão?
+
+Use power banks carregados, carregador veicular quando for seguro, economize bateria, reduza brilho da tela e combine um contato de referência com a família.
 
 <h2 id="conclusao">Conclusão</h2>
 
