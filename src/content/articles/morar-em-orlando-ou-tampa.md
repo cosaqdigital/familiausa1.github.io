@@ -22,6 +22,7 @@ relatedSlugs:
   - "quanto-custa-morar-em-tampa"
   - "melhores-cidades-da-florida-para-brasileiros"
   - "miami-ou-orlando-onde-morar-2026"
+  - "vale-a-pena-morar-em-orlando-ou-tampa-2026"
 faq:
   - question: "É melhor morar em Orlando ou Tampa?"
     answer: "Depende do perfil. Orlando pode ser melhor para turismo, parques, comunidade brasileira e adaptação inicial. Tampa pode ser melhor para quem quer praia por perto, mercado mais diverso e rotina menos turística."
@@ -45,7 +46,7 @@ A resposta curta é: **Orlando tende a fazer mais sentido para quem quer comunid
 
 Não existe vencedora absoluta. A melhor cidade depende de orçamento, inglês, documentação, profissão, filhos, escola, carro, estilo de vida e tolerância a trânsito. Este comparativo ajuda você a escolher por perfil, não por vídeo bonito.
 
-Este artigo faz parte do cluster de [cidades da Flórida para brasileiros](/categorias/cidades-da-florida.html). Para aprofundar, leia também [morar em Tampa vale a pena?](/articles/morar-em-tampa-vale-a-pena.html), [quanto custa morar em Tampa](/articles/quanto-custa-morar-em-tampa.html), [Miami ou Orlando](/articles/miami-ou-orlando-onde-morar-2026.html) e [melhores cidades da Flórida para brasileiros](/articles/melhores-cidades-da-florida-para-brasileiros.html).
+Este artigo é o comparativo permanente por perfil do cluster de [cidades da Flórida para brasileiros](/categorias/cidades-da-florida.html). Para aprofundar, leia também [morar em Tampa vale a pena?](/articles/morar-em-tampa-vale-a-pena.html), [quanto custa morar em Tampa](/articles/quanto-custa-morar-em-tampa.html), [Miami ou Orlando](/articles/miami-ou-orlando-onde-morar-2026.html) e [melhores cidades da Flórida para brasileiros](/articles/melhores-cidades-da-florida-para-brasileiros.html). Para valores e mudanças específicas de 2026, confira a [atualização anual de Orlando e Tampa](/articles/vale-a-pena-morar-em-orlando-ou-tampa-2026.html).
 
 ## Sumário
 

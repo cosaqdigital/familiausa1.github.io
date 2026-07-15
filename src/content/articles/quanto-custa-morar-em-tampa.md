@@ -32,7 +32,7 @@ faq:
   - question: "Dá para morar em Tampa sem carro?"
     answer: "Para a maioria dos brasileiros, é difícil. Tampa Bay é espalhada e a rotina de trabalho, escola, mercado e saúde geralmente exige carro."
   - question: "Os valores deste artigo são exatos?"
-    answer: "Não. São faixas de planejamento, revisadas em julho de 2026, para ajudar brasileiros a montar orçamento. Valores reais mudam por bairro, contrato, família e mercado."
+    answer: "Não. São estimativas editoriais de planejamento, revisadas em 15 de julho de 2026. Referências oficiais e benchmarks ajudam a construir as faixas, mas valores reais mudam por endereço, contrato, família e mercado."
 affiliate:
   enabled: false
 ---
@@ -45,8 +45,20 @@ A resposta direta: **uma pessoa sozinha pode precisar de aproximadamente US$ 3,7
 
 Essas faixas não são promessa nem tabela oficial. São um ponto de partida para planejamento. Se você quer entender se a cidade combina com seu perfil, leia também [morar em Tampa vale a pena?](/articles/morar-em-tampa-vale-a-pena.html). Para comparação, veja [morar em Orlando ou Tampa](/articles/morar-em-orlando-ou-tampa.html) e [melhores cidades da Flórida para brasileiros](/articles/melhores-cidades-da-florida-para-brasileiros.html).
 
+<div class="decision-box">
+<h2 id="metodologia">Como calculamos estas estimativas</h2>
+<p>Esta página foi revisada em <strong>15 de julho de 2026</strong>. O recorte considera a região de Tampa Bay, não apenas os limites administrativos da cidade de Tampa. Por isso, menciona Tampa, Brandon, Riverview, Wesley Chapel, Clearwater e St. Petersburg: o custo e o tempo de deslocamento podem mudar bastante entre essas áreas.</p>
+<ul>
+<li><strong>Dados oficiais:</strong> Census e BLS ajudam a contextualizar população, emprego e região, mas não publicam todos os valores de aluguel, mercado ou orçamento familiar usados aqui.</li>
+<li><strong>Benchmarks e referências de mercado:</strong> HUD Fair Market Rents, Tampa Electric, EIA, USDA e HealthCare.gov ajudam a conferir aluguel de referência, energia, gasolina, alimentação e planos de saúde. Eles não representam uma cotação individual nem o preço de todos os bairros.</li>
+<li><strong>Estimativas editoriais:</strong> as faixas de orçamento mensal, carro, manutenção, childcare e despesas invisíveis são composições de planejamento, arredondadas e ampliadas para refletir perfis diferentes. Não são estatísticas oficiais.</li>
+</ul>
+<p>Os cenários consideram moradia, contas, carro, mercado, saúde e uma margem de emergência. Não incluem necessariamente impostos sobre a renda, dívidas, escola privada, tratamentos médicos específicos, compra à vista de veículo, móveis completos ou despesas extraordinárias. Antes de assinar contrato, faça cotações no ZIP code, confirme taxas e monte uma reserva própria.</p>
+</div>
+
 ## Sumário
 
+- [Como calculamos estas estimativas](#metodologia)
 - [Resumo rápido](#resumo)
 - [Aluguel em Tampa](#aluguel)
 - [Contas mensais](#contas)
@@ -63,6 +75,8 @@ Essas faixas não são promessa nem tabela oficial. São um ponto de partida par
 
 Tampa pode ser mais equilibrada que Miami para alguns perfis, mas não deve ser tratada como cidade barata. O crescimento da região, a demanda por moradia, o custo de seguro e a dependência de carro fazem a conta subir.
 
+<p><strong>Classificação dos valores abaixo:</strong> estimativa editorial de planejamento. Ela combina referências oficiais e benchmarks, mas não deve ser lida como tabela publicada por Census, BLS ou governo local.</p>
+
 | Perfil | Estimativa mensal | Observação |
 | --- | --- | --- |
 | Pessoa sozinha | US$ 3,700 a US$ 6,200 | Divide custos melhor se morar com alguém |
@@ -76,6 +90,8 @@ O valor pode ser menor em situações específicas, como dividir moradia, ter ca
 Aluguel é o item mais visível do orçamento. Mas Tampa não tem um único preço. South Tampa, Downtown, Westchase, New Tampa, Brandon, Riverview, Wesley Chapel, Clearwater e St. Petersburg podem ter realidades diferentes.
 
 Em geral, apartamentos menores em áreas mais simples podem custar menos, enquanto casas, townhomes, imóveis novos, bairros bem localizados e regiões próximas à água custam mais. Além do aluguel, muitos contratos pedem depósito, taxa de aplicação, comprovação de renda, histórico de crédito, pet fee, seguro do inquilino e outras cobranças.
+
+<p><strong>Classificação dos valores abaixo:</strong> faixa editorial de planejamento baseada em referências de aluguel e benchmarks públicos, incluindo o <a href="https://www.huduser.gov/portal/datasets/fmr/fmr2026/FY2026_FMR_Schedule.pdf">Fair Market Rent do HUD para 2026</a>. O HUD não é uma lista de anúncios e os números abaixo não são preço oficial de cada imóvel.</p>
 
 | Tipo de moradia | Faixa mensal aproximada | Atenção |
 | --- | --- | --- |
@@ -101,6 +117,8 @@ Itens para colocar na planilha:
 - lavanderia, se não houver máquina;
 - seguro do inquilino;
 - taxas de condomínio ou HOA, quando aplicável.
+
+<p><strong>Classificação dos valores abaixo:</strong> energia pode ser conferida na página de <a href="https://www.tampaelectric.com/rates/">tarifas da Tampa Electric</a>; internet, celular, água, lixo e seguro do inquilino são referências editoriais e dependem do provedor, endereço, consumo e contrato.</p>
 
 | Conta | Estimativa mensal |
 | --- | --- |
@@ -128,6 +146,8 @@ O orçamento de carro pode incluir:
 - pedágios;
 - limpeza e emergências.
 
+<p><strong>Classificação dos valores abaixo:</strong> gasolina deve ser conferida nos dados semanais da <a href="https://www.eia.gov/dnav/pet/pet_pri_gnd_dcus_sfl_w.htm">EIA para a Flórida</a>; regras e informações de seguro podem ser consultadas na <a href="https://floir.com/">Florida Office of Insurance Regulation</a>. Prestação, manutenção, pneus e estacionamento são estimativas editoriais, porque variam por veículo e uso.</p>
+
 | Item | Estimativa mensal |
 | --- | --- |
 | Prestação/financiamento | US$ 300 a US$ 800+ |
@@ -141,6 +161,8 @@ Seguro pode variar muito por idade, histórico, endereço, carro, cobertura e se
 
 Mercado em Tampa depende do tamanho da família, dieta, frequência em restaurantes e habilidade de cozinhar em casa. Famílias brasileiras costumam sentir diferença em carnes, frutas, produtos importados, itens de bebê, alimentação escolar e compras por impulso.
 
+<p><strong>Classificação dos valores abaixo:</strong> estimativa editorial. O <a href="https://www.fns.usda.gov/research/cnpp/usda-food-plans/cost-food-monthly-reports">USDA Food Plans</a> oferece uma referência nacional de alimentação preparada em casa, mas não é um índice específico de Tampa nem inclui restaurantes, produtos importados ou hábitos individuais.</p>
+
 Como referência:
 
 - pessoa sozinha: US$ 350 a US$ 700 por mês;
@@ -152,6 +174,8 @@ Restaurantes mudam muito a conta. Comer fora com frequência pode transformar um
 <h2 id="saude-escola">Saúde, escola e childcare</h2>
 
 Saúde nos EUA exige atenção. Seguro saúde pode vir do empregador, marketplace, plano privado ou outra situação. O custo depende de renda, família, cobertura, deductible, copay e rede.
+
+<p><strong>Classificação dos valores abaixo:</strong> planos de saúde devem ser simulados no <a href="https://www.healthcare.gov/see-plans/index.html">HealthCare.gov</a>, usando ZIP code, idade, renda e composição familiar. Copays, remédios, atividades e childcare são referências editoriais, não preços oficiais universais.</p>
 
 Mesmo com seguro, consultas, medicamentos, exames e emergência podem gerar custos. Famílias com crianças precisam considerar pediatra, dentista, óculos, vacinas, esportes, material escolar e atividades.
 
@@ -168,7 +192,7 @@ Se a criança vai para escola pública, pesquise escola por endereço antes de a
 
 <h2 id="cenarios">Três cenários de orçamento mensal em Tampa</h2>
 
-Esses cenários ajudam a visualizar. Não são recomendação financeira e não substituem orçamento individual.
+Esses cenários são <strong>estimativas editoriais de planejamento</strong>. A pessoa sozinha considera uma moradia de uma unidade ou compartilhada, um carro e alimentação principalmente em casa; o casal considera uma moradia de dois quartos, um ou dois carros e seguro; a família considera uma moradia maior, carro, saúde e childcare. Em todos os casos há uma margem de emergência, mas não existe garantia de que a renda ou o custo real ficará dentro da faixa.
 
 | Categoria | Pessoa sozinha | Casal | Família com filhos |
 | --- | ---: | ---: | ---: |
@@ -181,7 +205,7 @@ Esses cenários ajudam a visualizar. Não são recomendação financeira e não 
 | Reserva/emergências | US$ 300-600 | US$ 500-900 | US$ 800-1,500 |
 | Total aproximado | US$ 3,700-6,200 | US$ 5,500-8,500 | US$ 7,500-12,500+ |
 
-O total pode ficar abaixo ou acima. O importante é não chegar contando apenas aluguel e mercado.
+O total pode ficar abaixo ou acima. Estes cenários não representam orçamento oficial nem garantia de custo. Não incluem necessariamente impostos sobre a renda, escola privada, dívidas, compra de móveis completos, tratamento médico extraordinário ou mudança de preço depois da revisão.
 
 <h2 id="custos-invisiveis">Custos invisíveis que brasileiros esquecem</h2>
 
@@ -244,7 +268,7 @@ Para a maioria dos brasileiros, é difícil. Tampa Bay é espalhada e a rotina d
 
 ### Os valores deste artigo são exatos?
 
-Não. São faixas de planejamento, revisadas em julho de 2026, para ajudar brasileiros a montar orçamento. Valores reais mudam por bairro, contrato, família e mercado.
+Não. São estimativas editoriais de planejamento, revisadas em 15 de julho de 2026. Referências oficiais e benchmarks ajudam a construir as faixas, mas valores reais mudam por endereço, contrato, família e mercado.
 
 <h2 id="fontes">Fontes oficiais e úteis</h2>
 
@@ -253,6 +277,11 @@ Não. São faixas de planejamento, revisadas em julho de 2026, para ajudar brasi
 - [City of Tampa](https://www.tampa.gov/)
 - [Hillsborough County](https://hcfl.gov/)
 - [Florida Office of Insurance Regulation](https://floir.com/)
+- [HUD - FY 2026 Fair Market Rents](https://www.huduser.gov/portal/datasets/fmr/fmr2026/FY2026_FMR_Schedule.pdf)
+- [Tampa Electric - Rates](https://www.tampaelectric.com/rates/)
+- [U.S. Energy Information Administration - Florida gasoline prices](https://www.eia.gov/dnav/pet/pet_pri_gnd_dcus_sfl_w.htm)
+- [USDA - Monthly Cost of Food Reports](https://www.fns.usda.gov/research/cnpp/usda-food-plans/cost-food-monthly-reports)
+- [HealthCare.gov - Plans and prices](https://www.healthcare.gov/see-plans/index.html)
 - [National Hurricane Center](https://www.nhc.noaa.gov/)
 - [Ready.gov - Hurricanes](https://www.ready.gov/hurricanes)
 
