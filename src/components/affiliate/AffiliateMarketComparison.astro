@@ -18,11 +18,6 @@ const {
 const usProduct = getAffiliateProductById(usProductId);
 const brProduct = getAffiliateProductById(brProductId);
 const hasProducts = Boolean(usProduct || brProduct);
-const sameMarket = Boolean(usProduct && brProduct && usProduct.market === brProduct.market);
-const marketHeading = sameMarket
-  ? (usProduct?.market === "US" ? "Recomendações na Amazon EUA" : "Recomendações na Amazon Brasil")
-  : "Amazon EUA e Amazon Brasil";
-const comparisonLabel = sameMarket ? "Recomendações editoriais" : "Comparação por mercado";
 const modelNotice = comparisonNote ?? (
   sameProductModel
     ? "Compare condições, vendedor e disponibilidade em cada mercado antes da compra."
@@ -33,8 +28,8 @@ const modelNotice = comparisonNote ?? (
 {hasProducts && (
   <section class="affiliate-comparison" aria-labelledby={`affiliate-comparison-${usProductId}-${brProductId}`}>
     <div class="affiliate-comparison-header">
-      <span>{comparisonLabel}</span>
-      <h2 id={`affiliate-comparison-${usProductId}-${brProductId}`}>{marketHeading}</h2>
+      <span>Comparação por mercado</span>
+      <h2 id={`affiliate-comparison-${usProductId}-${brProductId}`}>Amazon EUA e Amazon Brasil</h2>
       <p>{modelNotice}</p>
     </div>
     <div class="affiliate-comparison-grid">
