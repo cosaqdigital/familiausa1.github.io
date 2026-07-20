@@ -33,10 +33,13 @@ export type NewMarkdownArticle = LegacyGeneratedArticle & {
   Content: MarkdownContentComponent;
 };
 
-const markdownModules = import.meta.glob("../content/articles/*.md", { eager: true }) as Record<string, MarkdownModule>;
+const markdownModules = import.meta.glob(
+  ["../content/articles/*.md", "../content/articles/*.mdx"],
+  { eager: true }
+) as Record<string, MarkdownModule>;
 
 function slugFromPath(filePath: string) {
-  return filePath.split("/").pop()?.replace(/\.md$/, "") ?? "";
+  return filePath.split("/").pop()?.replace(/\.mdx?$/, "") ?? "";
 }
 
 function validSlug(value: string) {
