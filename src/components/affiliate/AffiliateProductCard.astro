@@ -1,0 +1,170 @@
+---
+import { getAffiliateProductById } from "../../data/affiliateProducts";
+
+interface Props {
+  productId: string;
+  compact?: boolean;
+}
+
+const { productId, compact = false } = Astro.props;
+const product = getAffiliateProductById(productId);
+const marketLabel = product?.market === "US" ? "Amazon EUA" : "Amazon Brasil";
+const buttonLabel = product?.market === "US" ? "Ver na Amazon dos EUA" : "Ver na Amazon Brasil";
+---
+
+{product && (
+  <article class:list={["affiliate-product-card", compact && "affiliate-product-card--compact"]}>
+    {product.image ? (
+      <img class="affiliate-product-image" src={product.image} alt={`Imagem de ${product.name}`} loading="lazy" />
+    ) : (
+      <div class="affiliate-product-placeholder" aria-hidden="true">
+        <span>Recomendação editorial</span>
+      </div>
+    )}
+
+    <div class="affiliate-product-content">
+      <span class="affiliate-market">{marketLabel}</span>
+      <h3>{product.name}</h3>
+      <p>{product.description}</p>
+      <a
+        class="affiliate-button"
+        href={product.affiliateUrl}
+        rel="sponsored nofollow noopener"
+        target="_blank"
+      >
+        {buttonLabel}
+      </a>
+      <small>Link de afiliado. Confira modelo, disponibilidade e condições diretamente na loja.</small>
+    </div>
+  </article>
+)}
+
+<style>
+  .affiliate-product-card {
+    display: grid;
+    grid-template-columns: minmax(150px, 0.34fr) minmax(0, 1fr);
+    gap: 22px;
+    width: 100%;
+    max-width: 100%;
+    min-width: 0;
+    border: 1px solid var(--line, rgba(30, 26, 20, 0.12));
+    border-radius: 20px;
+    padding: 20px;
+    background: var(--surface, #fff);
+    box-shadow: var(--shadow-soft, 0 12px 38px rgba(22, 18, 12, 0.09));
+  }
+
+  .affiliate-product-card--compact {
+    grid-template-columns: 112px minmax(0, 1fr);
+    padding: 16px;
+  }
+
+  .affiliate-product-image,
+  .affiliate-product-placeholder {
+    width: 100%;
+    max-width: 100%;
+    min-width: 0;
+    min-height: 156px;
+    border-radius: 15px;
+    object-fit: cover;
+  }
+
+  .affiliate-product-placeholder {
+    display: grid;
+    place-items: center;
+    padding: 18px;
+    color: rgba(255, 250, 241, 0.82);
+    background:
+      radial-gradient(circle at 22% 18%, rgba(240, 195, 107, 0.3), transparent 42%),
+      linear-gradient(145deg, var(--navy-soft, #18283f), var(--navy, #111d2e));
+    text-align: center;
+  }
+
+  .affiliate-product-placeholder span {
+    font-size: 0.75rem;
+    font-weight: 800;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+
+  .affiliate-product-content {
+    min-width: 0;
+  }
+
+  .affiliate-market {
+    display: inline-flex;
+    margin-bottom: 7px;
+    border-radius: 999px;
+    padding: 5px 9px;
+    color: var(--green, #2f5c4f);
+    background: rgba(47, 92, 79, 0.1);
+    font-size: 0.72rem;
+    font-weight: 900;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+
+  h3 {
+    margin: 0 0 8px;
+    color: var(--ink, #171512);
+    font-size: clamp(1.18rem, 2vw, 1.45rem);
+    line-height: 1.2;
+    overflow-wrap: anywhere;
+  }
+
+  p {
+    margin: 0 0 16px;
+    color: var(--ink-soft, #4c463d);
+    line-height: 1.55;
+    overflow-wrap: anywhere;
+  }
+
+  .affiliate-button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 44px;
+    border-radius: 999px;
+    padding: 10px 16px;
+    color: #fffaf1;
+    background: var(--terracotta, #9b3d25);
+    font-weight: 900;
+    line-height: 1.2;
+    text-align: center;
+    text-decoration: none;
+    white-space: normal;
+  }
+
+  .affiliate-button:hover,
+  .affiliate-button:focus-visible {
+    color: #fff;
+    background: #7d2f1c;
+  }
+
+  small {
+    display: block;
+    margin-top: 10px;
+    color: var(--muted, #766b5d);
+    font-size: 0.77rem;
+    line-height: 1.45;
+    overflow-wrap: anywhere;
+  }
+
+  @media (max-width: 640px) {
+    .affiliate-product-card,
+    .affiliate-product-card--compact {
+      grid-template-columns: 1fr;
+      gap: 16px;
+      padding: 16px;
+    }
+
+    .affiliate-product-image,
+    .affiliate-product-placeholder {
+      min-height: 132px;
+    }
+
+    .affiliate-button {
+      width: 100%;
+    }
+  }
+</style>

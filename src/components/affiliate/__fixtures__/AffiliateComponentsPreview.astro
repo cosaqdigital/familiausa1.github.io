@@ -1,0 +1,56 @@
+---
+import AffiliateDisclosure from "../AffiliateDisclosure.astro";
+import AffiliateMarketComparison from "../AffiliateMarketComparison.astro";
+import AffiliateProductCard from "../AffiliateProductCard.astro";
+---
+
+<section class="affiliate-preview" aria-labelledby="affiliate-preview-title">
+  <header>
+    <span>Fixture não indexada</span>
+    <h1 id="affiliate-preview-title">Componentes de afiliados</h1>
+    <p>Exemplo técnico para revisão de disclosure, produtos do piloto e comparação entre mercados.</p>
+  </header>
+
+  <AffiliateDisclosure />
+
+  <div class="affiliate-preview-grid">
+    <AffiliateProductCard productId="usb-c-charger-kit-us" />
+    <AffiliateProductCard productId="power-bank-15000mah-us" />
+    <AffiliateProductCard productId="dexnor-iphone-case-us" />
+  </div>
+
+  <AffiliateMarketComparison
+    usProductId="playstation-5-1tb-us"
+    brProductId="playstation-5-digital-br"
+  />
+</section>
+
+<style>
+  .affiliate-preview {
+    width: min(calc(100% - 32px), 1100px);
+    margin: 48px auto;
+  }
+
+  .affiliate-preview > header {
+    max-width: 760px;
+    margin-bottom: 24px;
+  }
+
+  .affiliate-preview > header span {
+    color: var(--terracotta, #9b3d25);
+    font-weight: 900;
+    text-transform: uppercase;
+  }
+
+  .affiliate-preview > header h1 {
+    margin: 6px 0;
+    overflow-wrap: anywhere;
+  }
+
+  .affiliate-preview-grid {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr);
+    gap: 18px;
+    min-width: 0;
+  }
+</style>

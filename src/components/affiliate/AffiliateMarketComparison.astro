@@ -1,0 +1,86 @@
+---
+import AffiliateProductCard from "./AffiliateProductCard.astro";
+import { getAffiliateProductById } from "../../data/affiliateProducts";
+
+interface Props {
+  usProductId: string;
+  brProductId: string;
+  sameProductModel?: boolean;
+  comparisonNote?: string;
+}
+
+const {
+  usProductId,
+  brProductId,
+  sameProductModel = false,
+  comparisonNote
+} = Astro.props;
+const usProduct = getAffiliateProductById(usProductId);
+const brProduct = getAffiliateProductById(brProductId);
+const hasProducts = Boolean(usProduct || brProduct);
+const modelNotice = comparisonNote ?? (
+  sameProductModel
+    ? "Compare condições, vendedor e disponibilidade em cada mercado antes da compra."
+    : "Os produtos abaixo podem ser versões diferentes. Compare modelo, capacidade, acessórios e garantia antes de decidir."
+);
+---
+
+{hasProducts && (
+  <section class="affiliate-comparison" aria-labelledby={`affiliate-comparison-${usProductId}-${brProductId}`}>
+    <div class="affiliate-comparison-header">
+      <span>Comparação por mercado</span>
+      <h2 id={`affiliate-comparison-${usProductId}-${brProductId}`}>Amazon EUA e Amazon Brasil</h2>
+      <p>{modelNotice}</p>
+    </div>
+    <div class="affiliate-comparison-grid">
+      {usProduct && <AffiliateProductCard productId={usProductId} compact />}
+      {brProduct && <AffiliateProductCard productId={brProductId} compact />}
+    </div>
+  </section>
+)}
+
+<style>
+  .affiliate-comparison {
+    margin: 30px 0;
+    border: 1px solid var(--line, rgba(30, 26, 20, 0.12));
+    border-radius: 24px;
+    padding: clamp(18px, 3vw, 28px);
+    background: rgba(255, 250, 241, 0.72);
+  }
+
+  .affiliate-comparison-header {
+    max-width: 760px;
+    margin-bottom: 18px;
+  }
+
+  .affiliate-comparison-header > span {
+    color: var(--terracotta, #9b3d25);
+    font-size: 0.75rem;
+    font-weight: 900;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+  }
+
+  h2 {
+    margin: 4px 0 6px;
+    font-size: clamp(1.35rem, 2.5vw, 1.9rem);
+    line-height: 1.18;
+  }
+
+  p {
+    margin: 0;
+    color: var(--ink-soft, #4c463d);
+  }
+
+  .affiliate-comparison-grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 16px;
+  }
+
+  @media (max-width: 900px) {
+    .affiliate-comparison-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>
