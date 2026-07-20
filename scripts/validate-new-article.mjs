@@ -67,7 +67,7 @@ function markdownFiles() {
   }
 
   return fs.readdirSync(contentDir)
-    .filter((file) => file.endsWith(".md"))
+    .filter((file) => /\.mdx?$/.test(file))
     .sort();
 }
 
@@ -125,7 +125,7 @@ for (const file of publishedFiles) {
   const markdown = fs.readFileSync(filePath, "utf8");
   const frontmatter = frontmatterOf(markdown);
   const body = bodyOf(markdown);
-  const slug = scalar(frontmatter, "slug") || file.replace(/\.md$/, "");
+  const slug = scalar(frontmatter, "slug") || file.replace(/\.mdx?$/, "");
   const title = scalar(frontmatter, "title");
   const description = scalar(frontmatter, "description");
   const category = scalar(frontmatter, "category");
@@ -137,7 +137,7 @@ for (const file of publishedFiles) {
 
   if (!frontmatter) errors.push(`${file}: frontmatter ausente.`);
   if (!/^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(slug)) errors.push(`${file}: slug invalido (${slug}).`);
-  if (file.replace(/\.md$/, "") !== slug) warnings.push(`${file}: nome do arquivo e slug sao diferentes; isso e permitido, mas pode confundir publicacao manual.`);
+  if (file.replace(/\.mdx?$/, "") !== slug) warnings.push(`${file}: nome do arquivo e slug sao diferentes; isso e permitido, mas pode confundir publicacao manual.`);
   if (!title) errors.push(`${file}: title ausente.`);
   if (!description) errors.push(`${file}: description ausente.`);
   if (!category) errors.push(`${file}: category ausente.`);

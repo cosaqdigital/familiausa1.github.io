@@ -131,12 +131,12 @@ function markdownArticleEntries() {
   if (!fs.existsSync(markdownArticlesDir)) return [];
 
   return fs.readdirSync(markdownArticlesDir)
-    .filter((file) => file.endsWith(".md") && !file.startsWith("_"))
+    .filter((file) => /\.mdx?$/.test(file) && !file.startsWith("_"))
     .map((file) => {
       const markdown = fs.readFileSync(path.join(markdownArticlesDir, file), "utf8");
       const frontmatter = markdown.match(/^---\r?\n([\s\S]*?)\r?\n---/)?.[1] ?? "";
       const draft = scalar(frontmatter, "draft");
-      const slug = scalar(frontmatter, "slug") || file.replace(/\.md$/, "");
+      const slug = scalar(frontmatter, "slug") || file.replace(/\.mdx?$/, "");
       return {
         slug,
         path: `articles/${slug}.html`,
