@@ -1,0 +1,259 @@
+import InfoBox from "../../components/editorial/InfoBox.astro";
+import WarningBox from "../../components/editorial/WarningBox.astro";
+import TipBox from "../../components/editorial/TipBox.astro";
+import Checklist from "../../components/editorial/Checklist.astro";
+import ProsCons from "../../components/editorial/ProsCons.astro";
+import FAQAccordion from "../../components/editorial/FAQAccordion.astro";
+import { entrepreneurshipFaq } from "../../data/entrepreneurshipCluster";
+
+Empreender nos Estados Unidos pode significar abrir uma empresa, prestar serviços, vender produtos, construir uma marca local ou transformar uma habilidade em fonte de renda. Para brasileiros, porém, a decisão exige separar quatro assuntos que costumam aparecer misturados: **ser dono de uma empresa, trabalhar ativamente nela, cumprir obrigações fiscais e ter autorização migratória compatível**.
+
+Muitos escolhem esse caminho porque enxergam demanda em limpeza, construção, beleza, alimentação, transporte, tecnologia, consultoria e serviços para comunidades locais. Outros já chegam com experiência profissional e querem adaptar o que faziam no Brasil. O desafio não é apenas registrar uma LLC. É montar uma operação que consiga receber, emitir documentos, pagar impostos, proteger a família e conquistar clientes sem promessas irreais.
+
+Este guia organiza a jornada do começo ao crescimento. Ele explica o papel de cada etapa e conduz aos artigos especializados quando o assunto exige mais profundidade.
+
+<InfoBox title="Navegue pelo guia">
+  <ul>
+    <li><a href="#quem-pode-abrir-empresa">Quem pode abrir empresa</a></li>
+    <li><a href="#tipos-de-empresa">LLC, corporation e sole proprietorship</a></li>
+    <li><a href="#documentacao">EIN, ITIN e SSN</a></li>
+    <li><a href="#abrindo-a-empresa">Abertura, banco, recebimentos, licenças e impostos</a></li>
+    <li><a href="#presenca-digital">Website, Google Business, marketing, anúncios, SEO e IA</a></li>
+    <li><a href="#primeiros-clientes">Primeiros clientes e crescimento</a></li>
+    <li><a href="#checklist-final">Checklist final</a></li>
+    <li><a href="#perguntas-frequentes">Perguntas frequentes</a></li>
+  </ul>
+</InfoBox>
+
+<WarningBox title="Empresa não substitui autorização de trabalho">
+  Abrir LLC, obter EIN, ter conta bancária ou receber pagamentos não cria status migratório nem autorização de trabalho. A possibilidade de trabalhar ativamente depende do status, do visto, de eventual EAD e dos fatos do caso. Decisões migratórias, fiscais, jurídicas e de seguros devem ser confirmadas com profissionais licenciados.
+</WarningBox>
+
+<h2 id="quem-pode-abrir-empresa">Quem pode abrir empresa nos EUA</h2>
+
+O registro de uma empresa e a autorização para trabalhar são análises diferentes. Em muitos cenários, estrangeiros podem participar da propriedade de empresas americanas. Isso não significa que qualquer pessoa presente nos EUA possa executar serviços, atender clientes ou administrar diariamente a operação.
+
+Antes de registrar uma entidade, responda:
+
+- onde o proprietário está fisicamente;
+- qual é seu status migratório;
+- se existe autorização de trabalho válida para a atividade;
+- quem executará o trabalho diário;
+- em qual estado a empresa realmente operará;
+- quais obrigações fiscais, profissionais e locais existirão.
+
+Um turista deve ter atenção especial: atividades permitidas em uma viagem de negócios não são equivalentes a trabalhar nos Estados Unidos. A referência inicial para emprego autorizado é o [USCIS](https://www.uscis.gov/working-in-the-united-states), e situações individuais devem ser avaliadas por advogado de imigração licenciado.
+
+O artigo sobre [abrir empresa nos EUA e status migratório](/articles/abrir-empresa-nos-eua-legaliza-minha-situacao.html) aprofunda essa separação e ajuda a reconhecer promessas de “legalização pela LLC”.
+
+<h2 id="tipos-de-empresa">Tipos de empresa: LLC, corporation e sole proprietorship</h2>
+
+A estrutura influencia responsabilidade, impostos, registros, entrada de sócios e capacidade de captar capital. A [SBA explica as estruturas empresariais](https://www.sba.gov/business-guide/launch-your-business/choose-business-structure), mas a escolha final deve considerar estado, atividade, proprietários e tratamento fiscal.
+
+### LLC
+
+A Limited Liability Company é comum entre pequenos negócios por combinar flexibilidade de gestão com separação jurídica em muitos cenários. Essa proteção não é automática em qualquer situação: misturar contas, ignorar formalidades, cometer fraude ou assumir obrigações pessoalmente pode aumentar a exposição do proprietário.
+
+Uma LLC também pode exigir registered agent, relatório anual, taxa estadual e registros locais. Antes de contratar um pacote, entenda [o papel do registered agent](/articles/registered-agent-nos-eua-brasileiros.html) e quais serviços realmente serão prestados.
+
+### Corporation
+
+Uma corporation tem estrutura mais formal, com regras de governança, registros e separação entre a entidade e seus proprietários. Pode fazer sentido quando há investidores, emissão de ações, vários sócios ou um plano de crescimento que exige uma estrutura corporativa mais rígida.
+
+“S corporation” não é simplesmente um nome comercial alternativo. É uma eleição fiscal com critérios próprios; algumas pessoas estrangeiras podem não ser elegíveis como acionistas. Essa decisão merece revisão com CPA ou advogado tributário.
+
+### Sole proprietorship
+
+É a forma mais simples de operar individualmente quando nenhuma entidade separada foi criada. A simplicidade reduz algumas formalidades, mas não separa automaticamente bens e obrigações pessoais dos riscos do negócio. Licenças, impostos, DBA e autorização de trabalho continuam relevantes.
+
+<ProsCons
+  pros={[
+    "LLC costuma oferecer flexibilidade para pequenos negócios e separação jurídica em muitos cenários.",
+    "Corporation pode acomodar melhor investidores, ações e governança formal."
+  ]}
+  cons={[
+    "LLC exige manutenção, registros e disciplina financeira; não é proteção absoluta.",
+    "Corporation costuma trazer mais formalidades, custos e complexidade administrativa."
+  ]}
+  prosTitle="Quando a estrutura pode ajudar"
+  consTitle="O que precisa ser avaliado"
+/>
+
+<h2 id="documentacao">Documentação: EIN, ITIN e SSN não são a mesma coisa</h2>
+
+### EIN
+
+O Employer Identification Number identifica empresas e outras entidades perante o IRS. Pode ser necessário para conta bancária, folha de pagamento, declarações e formulários. O [IRS orienta obter o EIN depois de formar a entidade](https://www.irs.gov/businesses/employer-identification-number) e alerta para serviços que cobram por um pedido disponível diretamente no órgão.
+
+### ITIN
+
+O Individual Taxpayer Identification Number é emitido pelo IRS para finalidade fiscal federal quando a pessoa precisa de um número tributário e não é elegível ao SSN. O ITIN **não altera status migratório e não autoriza trabalho**. Também não deve ser tratado como um documento criado apenas para abrir empresa ou conta.
+
+### SSN
+
+O Social Security Number é um identificador pessoal administrado pela Social Security Administration em situações de elegibilidade específicas. Ele não é o “EIN do proprietário”, e sua existência não substitui licença, registro empresarial ou análise fiscal.
+
+O guia [preciso de SSN ou ITIN para abrir LLC?](/articles/preciso-de-ssn-para-abrir-llc-nos-eua.html) explica as diferenças e os cuidados no preenchimento de formulários.
+
+<h2 id="abrindo-a-empresa">Abrindo a empresa: a ordem reduz retrabalho</h2>
+
+A sequência muda por estado e atividade, mas uma abertura responsável costuma envolver:
+
+1. definir serviço, cliente, cidade e área de atuação;
+2. confirmar autorização para executar o trabalho;
+3. comparar estrutura, nome e estado de registro;
+4. identificar registered agent e endereço permitidos;
+5. registrar a entidade ou o nome comercial quando necessário;
+6. solicitar identificações fiscais aplicáveis;
+7. verificar licenças estaduais, do condado e da cidade;
+8. organizar banco, recebimentos, contabilidade e seguro;
+9. só então divulgar uma operação coerente com os registros.
+
+A [SBA mantém um roteiro de registro empresarial](https://www.sba.gov/business-guide/launch-your-business/register-your-business). Na Flórida, o Sunbiz é uma referência para registros corporativos, mas não substitui outras autoridades.
+
+<h2 id="conta-bancaria">Conta bancária empresarial</h2>
+
+Separar o dinheiro ajuda a entender caixa, despesas, lucro e impostos. Também cria um histórico mais claro para CPA, auditoria, sócios e pedidos de crédito. Os bancos aplicam políticas próprias de identificação e podem pedir documentos da empresa, EIN, endereço, dados dos responsáveis e comprovação adicional.
+
+Não escolha banco apenas pelo bônus de abertura. Compare manutenção, depósitos, transferências, integração contábil, atendimento, proteção de depósitos aplicável e facilidade para sua operação. O guia sobre [conta bancária empresarial nos EUA](/articles/conta-bancaria-empresarial-eua.html) organiza documentos e perguntas importantes.
+
+<TipBox title="Prática que evita confusão">
+  Defina desde o primeiro recebimento quais despesas pertencem ao negócio. Transferências pessoais devem ter descrição e registro; pagar mercado, aluguel e contas familiares diretamente pela empresa pode destruir a clareza do caixa.
+</TipBox>
+
+<h2 id="recebimentos">Recebimentos, invoices e comprovantes</h2>
+
+Zelle, cheque, cartão, ACH, Stripe, Square e outras ferramentas são meios de pagamento. Nenhuma delas substitui registro de receita, invoice, contrato ou obrigação tributária.
+
+Uma invoice clara informa prestador, cliente, descrição do serviço, data, valor, prazo e condições. Ela ajuda a cobrar e documentar, mas não é licença nem autorização migratória. Veja o passo a passo de [como emitir invoice nos EUA](/articles/como-emitir-invoice-nos-eua-guia-brasileiros.html).
+
+Escolha meios de recebimento considerando taxa, prazo, contestação, integração com bookkeeping e experiência do cliente. Evite contas de terceiros, descrições falsas e mistura de vendas pessoais com receita empresarial.
+
+<h2 id="licencas">Licenças e permissões</h2>
+
+O registro da entidade comprova que uma empresa foi formada ou registrada. A licença permite determinada atividade sob regras específicas. Dependendo do negócio, podem existir exigências estaduais, municipais, do condado, de zoneamento, saúde, construção, transporte ou profissão.
+
+Na Flórida, [Sunbiz não é licença](/articles/sunbiz-nao-e-licenca-erro-brasileiros-florida.html). Uma LLC ativa pode continuar impedida de executar um serviço regulado. Consulte o órgão estadual, a cidade e o condado onde o trabalho acontecerá antes de anunciar ou assinar contratos.
+
+<h2 id="impostos">Impostos e organização financeira</h2>
+
+O tipo de entidade não determina sozinho quanto uma pessoa pagará. Tratamento fiscal, eleição tributária, residência fiscal, folha, renda dos proprietários, estado e natureza da receita interferem na análise.
+
+### Income tax e registros
+
+Guarde invoices, recibos, extratos, contratos, mileage e comprovantes que sustentem receitas e despesas. O [IRS orienta empresas sobre recordkeeping](https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping). Uma rotina semanal simples costuma ser mais segura do que reconstruir o ano inteiro na época da declaração.
+
+O artigo sobre [organização financeira da pequena empresa](/articles/organizar-financas-pequena-empresa-eua.html) mostra como separar dinheiro, 1099, W-9 e documentação para o contador.
+
+### Sales tax
+
+Sales tax não é sinônimo de imposto de renda. A obrigação de registrar, cobrar e repassar varia por estado, localidade, produto e serviço. Não acrescente uma porcentagem à invoice porque outro negócio faz isso. Leia o guia de [sales tax para pequenos negócios](/articles/sales-tax-pequenos-negocios-eua.html) e confirme a regra no departamento de receita do estado.
+
+<h2 id="seguros">Seguros empresariais</h2>
+
+Seguro adequado depende da atividade. General liability, commercial auto, workers’ compensation, professional liability e bonds atendem riscos diferentes. Alguns contratos, condomínios e empresas exigem certificado de seguro antes de permitir o trabalho.
+
+O seguro não substitui licença nem elimina todo risco. Compare exclusões, limites, deductible, território, uso do veículo, empregados e subcontratados. O guia sobre [seguro para pequenos negócios nos EUA](/articles/seguro-para-pequenos-negocios-nos-eua.html) ajuda a preparar perguntas para um corretor licenciado.
+
+<h2 id="presenca-digital">Presença digital: website, Google e aquisição de clientes</h2>
+
+### Website
+
+Um site simples pode explicar serviço, área atendida, diferenciais, contato e provas reais. Ele precisa carregar rápido, funcionar no celular e manter nome, telefone e endereço coerentes com invoices, registros e perfil local.
+
+Evite copiar texto de concorrentes ou publicar páginas vazias para dezenas de cidades. Uma página útil sobre cada serviço, com fotos autorizadas, processo e perguntas reais, costuma construir mais confiança do que volume artificial.
+
+### Google Business Profile
+
+Negócios com local elegível ou que atendem clientes em uma área podem usar o Google Business Profile. Nome, endereço, área de atendimento e categorias precisam representar a operação real. Escritório virtual ou palavras-chave adicionadas ao nome podem causar problemas de política.
+
+O guia de [Google Business Profile para prestadores](/articles/google-business-profile-prestadores-servico-eua.html) explica configuração, verificação, fotos e reviews sem atalhos.
+
+### Marketing
+
+Marketing começa com uma oferta compreensível: qual problema você resolve, para quem, em qual região e por que o cliente deve confiar. Indicação, comunidade local, conteúdo, parcerias e plataformas podem ajudar, mas cada canal precisa ser medido.
+
+Registre origem do contato, orçamento enviado, conversão, valor médio e retorno do cliente. Sem isso, curtidas e mensagens parecem movimento, mas não mostram se o negócio está saudável.
+
+### Google Ads
+
+Anúncios podem acelerar a exposição, mas não corrigem serviço confuso, página fraca ou atendimento lento. Comece com orçamento controlado, segmentação geográfica realista, termos ligados à intenção do cliente e conversões configuradas.
+
+Nunca anuncie serviço que não pode legalmente oferecer. Revise políticas da plataforma e evite promessas absolutas. Se cada cliente custa mais do que a margem gerada, aumentar orçamento apenas amplia o prejuízo.
+
+### SEO local
+
+SEO ajuda o negócio a ser encontrado quando alguém procura uma solução. A base inclui site rastreável, conteúdo original, informações consistentes, páginas úteis, boas avaliações e links conquistados de forma legítima.
+
+Não repita a mesma palavra-chave em todo parágrafo. Responda dúvidas reais, explique o processo e mostre experiência. No SEO local, coerência entre site, Google Business Profile e presença na comunidade pesa mais do que truques rápidos.
+
+### Inteligência Artificial
+
+IA pode ajudar a organizar ideias, resumir anotações, preparar rascunhos, analisar padrões e criar checklists. A [SBA recomenda uso responsável de IA em pequenos negócios](https://www.sba.gov/business-guide/manage-your-business/ai-small-business), com atenção a segurança, qualidade dos dados e revisão humana.
+
+Não envie documentos migratórios, dados bancários, SSNs, informações médicas de clientes ou contratos confidenciais a uma ferramenta sem entender privacidade e retenção. IA também pode inventar regras, preços e fontes. Toda saída relevante precisa de conferência humana.
+
+<h2 id="primeiros-clientes">Primeiros clientes: reputação antes de escala</h2>
+
+Os primeiros clientes costumam vir de indicação, contatos locais, Google, comunidades, plataformas e parcerias. O objetivo inicial não é atender todo mundo; é descobrir qual cliente combina com o serviço, qual preço sustenta a entrega e qual processo gera recomendação.
+
+Responda rápido, confirme escopo por escrito, chegue no horário e documente mudanças. Peça avaliações honestas depois de entregar. O artigo sobre [como conseguir os primeiros clientes nos EUA](/articles/como-conseguir-primeiros-clientes-nos-eua-brasileiro.html) transforma essas ações em processo.
+
+Preço baixo pode gerar movimento e ainda destruir o caixa. Antes de aceitar volume, calcule material, deslocamento, tempo administrativo, imposto, seguro, retrabalho e margem. O guia de [como precificar serviços nos Estados Unidos](/articles/como-precificar-servicos-nos-estados-unidos.html) ajuda a sair do “quanto o concorrente cobra?”.
+
+<h2 id="escalando-o-negocio">Escalando o negócio sem perder controle</h2>
+
+Escala não é apenas faturar mais. É repetir uma entrega lucrativa com qualidade, registros e capacidade operacional. Antes de contratar, abrir outra região ou investir pesado em anúncios, confirme:
+
+- quais serviços realmente dão margem;
+- de onde vêm os melhores clientes;
+- quanto tempo a entrega consome;
+- quais tarefas podem ser padronizadas;
+- se empregados ou contractors estão classificados corretamente;
+- se seguro, licenças e contratos acompanham o crescimento;
+- se o caixa suporta atrasos, chargebacks e sazonalidade.
+
+Contratar alguém muda obrigações de folha, seguro, treinamento e segurança. Não chame automaticamente toda pessoa de contractor para evitar responsabilidades. CPA, profissional de payroll e advogado trabalhista podem ser necessários conforme o caso.
+
+<h2 id="erros-mais-comuns">Erros mais comuns de brasileiros ao empreender</h2>
+
+1. Acreditar que LLC resolve status migratório.
+2. Registrar no estado e ignorar licenças locais ou profissionais.
+3. Confundir EIN, ITIN e SSN.
+4. Misturar conta pessoal e empresarial.
+5. Receber sem invoice, contrato ou comprovante.
+6. Cobrar olhando apenas o preço do concorrente.
+7. Comprar reviews ou usar endereço falso no Google.
+8. Contratar sem entender payroll, seguro e classificação do trabalhador.
+9. Deixar bookkeeping e impostos para o fim do ano.
+10. Usar IA, anúncios ou redes sociais sem revisar dados, políticas e retorno.
+
+<h2 id="checklist-final">Checklist final para começar com base</h2>
+
+<Checklist
+  title="Antes de registrar, anunciar ou aceitar o primeiro cliente"
+  items={[
+    "Definir atividade, cliente, cidade e forma de operação.",
+    "Confirmar status migratório e autorização para executar o trabalho.",
+    "Comparar sole proprietorship, LLC e corporation com orientação adequada.",
+    "Entender EIN, ITIN e SSN antes de preencher formulários.",
+    "Verificar registered agent, endereço, licenças e permissões.",
+    "Separar conta, recebimentos, invoices, comprovantes e bookkeeping.",
+    "Confirmar impostos federais, estaduais, locais e eventual sales tax.",
+    "Avaliar seguros compatíveis com serviço, veículos e equipe.",
+    "Criar website e presença local com informações verdadeiras e coerentes.",
+    "Calcular preço, margem, capacidade e caminho para os primeiros clientes."
+  ]}
+/>
+
+<h2 id="perguntas-frequentes">Perguntas frequentes</h2>
+
+<FAQAccordion items={entrepreneurshipFaq} />
+
+<h2 id="proximos-passos">Próximos passos</h2>
+
+Não tente resolver toda a jornada em um dia. Comece pelo ponto que pode invalidar os demais: autorização para trabalhar e compatibilidade da atividade com seu caso. Depois avance para estrutura, documentos, licenças, banco, impostos e proteção.
+
+Se a base já existe, escolha o gargalo atual. Pode ser cobrança sem invoice, caixa misturado, preço sem margem, perfil local inconsistente ou falta de processo comercial. Os links deste guia levam ao aprofundamento de cada etapa.
+
+Para acompanhar todo o cluster, novos artigos e ferramentas, acesse o [hub de empreendedorismo nos Estados Unidos](/empreendedorismo-nos-estados-unidos.html). O objetivo não é vender a ideia de que empreender é fácil. É ajudar brasileiros a tomar decisões mais conscientes, documentadas e sustentáveis.

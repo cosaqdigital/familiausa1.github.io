@@ -338,8 +338,8 @@ export const officialEntrepreneurshipSources = [
     href: "https://www.fincen.gov/boi"
   },
   {
-    label: "Google Business Profile",
-    href: "https://business.google.com/us/business-profile/"
+    label: "Google Business Profile - Guidelines",
+    href: "https://support.google.com/business/answer/3038177"
   },
   {
     label: "Florida DBPR - Services requiring a license",
@@ -354,6 +354,14 @@ export const officialEntrepreneurshipSources = [
     href: "https://www.sba.gov/business-guide/manage-your-business/marketing-sales"
   },
   {
+    label: "SBA - AI for small business",
+    href: "https://www.sba.gov/business-guide/manage-your-business/ai-small-business"
+  },
+  {
+    label: "Google Search - Search Essentials",
+    href: "https://developers.google.com/search/docs/essentials"
+  },
+  {
     label: "USCIS - Working in the United States",
     href: "https://www.uscis.gov/working-in-the-united-states"
   }
@@ -361,28 +369,36 @@ export const officialEntrepreneurshipSources = [
 
 export const entrepreneurshipFaq = [
   {
-    question: "Abrir empresa nos Estados Unidos legaliza minha situacao migratoria?",
-    answer: "Nao. Abrir empresa pode organizar a atividade comercial, mas nao cria status migratorio nem autorizacao de trabalho por si so. O caso deve ser analisado com advogado de imigracao licenciado."
+    question: "Abrir empresa nos Estados Unidos legaliza minha situação migratória?",
+    answer: "Não. Abrir empresa pode organizar a atividade comercial, mas não cria status migratório nem autorização de trabalho por si só. O caso deve ser analisado com advogado de imigração licenciado."
   },
   {
-    question: "Brasileiro precisa de SSN para abrir LLC nos EUA?",
-    answer: "Nem sempre. Alguns processos permitem alternativas, mas banco, EIN, impostos e operacao podem exigir documentos diferentes conforme o caso. E importante confirmar com IRS, estado, banco e profissional qualificado."
+    question: "Posso ser dono de uma empresa sem poder trabalhar nela?",
+    answer: "Propriedade e trabalho ativo são análises diferentes. Uma pessoa pode ter participação econômica e ainda não estar autorizada a executar serviços ou administrar a operação diariamente nos EUA."
   },
   {
-    question: "Sunbiz e uma licenca para trabalhar na Florida?",
-    answer: "Nao. Sunbiz registra empresas e nomes ficticios na Florida, mas licencas profissionais ou permissoes podem depender de DBPR, cidade, condado ou outro orgao."
+    question: "Brasileiro precisa de SSN ou ITIN para abrir LLC nos EUA?",
+    answer: "Nem sempre. Formação da empresa, EIN, banco, ITIN e impostos podem exigir documentos diferentes. Confirme as regras com o estado, IRS, banco e profissional qualificado para o seu caso."
   },
   {
-    question: "Prestador de servico precisa emitir invoice?",
-    answer: "Invoice nao substitui contabilidade, contrato ou imposto, mas ajuda a registrar servico, valor, prazo, metodo de pagamento e historico de cobranca."
+    question: "LLC ou corporation: qual é melhor para começar?",
+    answer: "Não existe resposta universal. A escolha depende de responsabilidade, impostos, sócios, investimento, estado e plano de crescimento. Para muitos pequenos negócios a LLC é comum, mas isso não a torna ideal para todos."
   },
   {
-    question: "Google Business Profile garante clientes?",
-    answer: "Nao garante. Ele aumenta a presenca local quando bem configurado, mas resultado depende de servico, reputacao, fotos, avaliacoes, concorrencia, atendimento e consistencia."
+    question: "Ter EIN autoriza o brasileiro a trabalhar nos EUA?",
+    answer: "Não. O EIN identifica uma empresa ou entidade para fins fiscais e administrativos. Ele não é visto, status migratório ou autorização de trabalho."
   },
   {
-    question: "Seguro empresarial substitui licenca ou autorizacao de trabalho?",
-    answer: "Nao. Seguro pode proteger o negocio e abrir portas para contratos, mas nao substitui licenca, imposto, registro local, visto ou autorizacao de trabalho."
+    question: "Sunbiz é uma licença para trabalhar na Flórida?",
+    answer: "Não. Sunbiz registra empresas e nomes fictícios na Flórida, mas licenças profissionais e permissões podem depender de DBPR, cidade, condado ou outro órgão."
+  },
+  {
+    question: "Quando devo abrir uma conta bancária empresarial?",
+    answer: "Quando a operação começar a receber ou pagar despesas, separar a conta ajuda no controle e nos registros. A abertura depende dos documentos e das políticas de cada banco."
+  },
+  {
+    question: "Qual é o melhor caminho para conseguir os primeiros clientes?",
+    answer: "Comece com uma oferta clara, indicação, presença local verdadeira, fotos autorizadas, atendimento rápido e acompanhamento dos contatos. O canal ideal depende do serviço, da região e da margem."
   }
 ];
 

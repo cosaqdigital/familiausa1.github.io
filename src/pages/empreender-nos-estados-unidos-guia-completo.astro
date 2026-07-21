@@ -2,36 +2,27 @@
 import BaseLayout from "../layouts/BaseLayout.astro";
 import GuideHero from "../components/guides/GuideHero.astro";
 import GuideSummary from "../components/guides/GuideSummary.astro";
-import GuideIndex from "../components/guides/GuideIndex.astro";
-import GuideChecklist from "../components/guides/GuideChecklist.astro";
 import GuideOfficialSources from "../components/guides/GuideOfficialSources.astro";
-import GuideTools from "../components/guides/GuideTools.astro";
-import GuideDownloads from "../components/guides/GuideDownloads.astro";
-import GuideFAQ from "../components/guides/GuideFAQ.astro";
 import GuideCTA from "../components/guides/GuideCTA.astro";
-import GuideRelatedArticles from "../components/guides/GuideRelatedArticles.astro";
+import PillarContent from "../content/pillars/empreender-nos-estados-unidos-guia-completo.mdx";
 import { DEFAULT_IMAGE, SITE_URL } from "../data/pilotContent";
-import { getArticleBySlug } from "../data/allArticles";
 import {
   ENTREPRENEURSHIP_HUB_PATH,
   ENTREPRENEURSHIP_PILLAR_URL,
-  entrepreneurshipArticleSlugs,
   entrepreneurshipFaq,
-  officialEntrepreneurshipSources,
-  pillarSections
+  officialEntrepreneurshipSources
 } from "../data/entrepreneurshipCluster";
 
 const title = "Como empreender nos Estados Unidos sendo brasileiro: guia completo (2026)";
-const description = "Guia para brasileiros empreenderem nos EUA: empresa, LLC, EIN, invoice, licencas, seguro, financas, preco, Google e clientes.";
-const clusterArticles = entrepreneurshipArticleSlugs
-  .map((slug) => getArticleBySlug(slug))
-  .filter(Boolean);
+const description = "Guia completo para brasileiros empreenderem nos EUA: empresa, LLC, EIN, banco, licenças, impostos, marketing, clientes e crescimento responsável em 2026.";
+const datePublished = "2026-06-26";
+const dateModified = "2026-07-20";
 
 const breadcrumbSchema = {
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
   itemListElement: [
-    { "@type": "ListItem", position: 1, name: "Inicio", item: `${SITE_URL}/` },
+    { "@type": "ListItem", position: 1, name: "Início", item: `${SITE_URL}/` },
     { "@type": "ListItem", position: 2, name: "Empreendedorismo nos Estados Unidos", item: `${SITE_URL}${ENTREPRENEURSHIP_HUB_PATH}` },
     { "@type": "ListItem", position: 3, name: "Guia completo para empreender nos EUA", item: ENTREPRENEURSHIP_PILLAR_URL }
   ]
@@ -43,8 +34,8 @@ const articleSchema = {
   headline: title,
   description,
   url: ENTREPRENEURSHIP_PILLAR_URL,
-  datePublished: "2026-06-26",
-  dateModified: "2026-06-26",
+  datePublished,
+  dateModified,
   inLanguage: "pt-BR",
   author: { "@type": "Organization", name: "FamiliaUSA1" },
   publisher: { "@type": "Organization", name: "FamiliaUSA1", url: SITE_URL },
@@ -62,177 +53,40 @@ const faqSchema = {
   }))
 };
 ---
+
 <BaseLayout title={title} description={description} canonical={ENTREPRENEURSHIP_PILLAR_URL} image={DEFAULT_IMAGE} schemas={[breadcrumbSchema, articleSchema, faqSchema]}>
   <div class="container">
     <GuideHero
-      eyebrow="Pagina pilar"
-      title="Como empreender nos Estados Unidos sendo brasileiro: guia completo (2026)"
-      description="Um mapa honesto para brasileiros que querem abrir, organizar e crescer um pequeno negocio nos EUA sem confundir empresa com status migratorio, sem pular licencas e sem trabalhar no escuro."
-      primaryHref="#mapa"
-      primaryLabel="Ver mapa do guia"
+      eyebrow="Página pilar"
+      title={title}
+      description="Um mapa prático para abrir, organizar e fazer crescer um negócio nos EUA sem confundir empresa com status migratório, licença ou promessa de renda."
+      primaryHref="#quem-pode-abrir-empresa"
+      primaryLabel="Começar pelo essencial"
       secondaryHref={ENTREPRENEURSHIP_HUB_PATH}
-      secondaryLabel="Abrir hub do cluster"
-      badges={["Empresa nao legaliza sozinha", "LLC nao substitui licenca", "Imposto precisa de registro", "Cliente vem de processo"]}
+      secondaryLabel="Explorar o hub"
+      badges={["Empresa não legaliza sozinha", "LLC não substitui licença", "Impostos exigem registros", "Clientes exigem processo"]}
     />
 
     <GuideSummary
       items={[
-        { label: "Para quem", value: "Brasileiros que querem prestar servico, vender, formalizar ou planejar negocio nos EUA" },
-        { label: "Nivel", value: "Intermediario: exige documentos, cuidado fiscal e orientacao profissional" },
-        { label: "Leitura", value: "Guia pilar com links para artigos especificos" },
-        { label: "Aviso", value: "Conteudo informativo, nao juridico, fiscal ou migratorio individual" }
+        { label: "Para quem", value: "Brasileiros planejando, formalizando ou fazendo crescer um negócio nos EUA" },
+        { label: "Escopo", value: "Empresa, documentos, operação, proteção, marketing e crescimento" },
+        { label: "Atualização", value: "Revisado em 20 de julho de 2026" },
+        { label: "Aviso", value: "Conteúdo informativo; não substitui orientação individual" }
       ]}
     />
 
     <section class="narrow-container article-content guide-article">
       <article>
-        <h2>Antes de abrir empresa, entenda a jornada</h2>
-        <p>Muitos brasileiros chegam aos Estados Unidos com uma ideia forte: trabalhar por conta propria, abrir uma LLC, emitir invoice, colocar o negocio no Google e finalmente construir algo da familia. Essa vontade e bonita. Tambem e perigosa quando vem sem mapa. Nos EUA, empreender envolve varias camadas ao mesmo tempo: permissao migratoria, estrutura de empresa, imposto, banco, licenca, seguro, contrato, cobranca, marketing e atendimento.</p>
-        <p>O erro mais comum e tratar tudo como uma unica coisa. A pessoa registra uma LLC e acha que agora esta autorizada a trabalhar. Abre uma ficha no Sunbiz e acredita que tem licenca profissional. Cria um perfil no Google Business e pensa que isso ja prova uma empresa regular. Comeca a receber por Zelle ou Cash App sem separar recibo, imposto e conta. No inicio parece simples. Depois vira bagunca.</p>
-        <p>Este guia existe para organizar a conversa. Ele nao substitui advogado de imigracao, contador, CPA, preparador autorizado, consultor de seguros ou orgao oficial. A proposta e ajudar voce a entender a jornada, saber quais perguntas fazer e abrir os artigos certos na ordem certa.</p>
-        <p>Se voce esta no Brasil planejando vir, use este conteudo para evitar promessa milagrosa. Se voce ja esta nos EUA, use como checklist para profissionalizar o que talvez ja esteja acontecendo de forma improvisada. Se voce tem familia, renda apertada ou status migratorio delicado, redobre o cuidado. Empreender pode ser caminho de crescimento, mas tambem pode expor erros se for feito sem orientacao.</p>
-
-        <div class="guide-warning">
-          <strong>Aviso importante:</strong>
-          <p>Trabalhar legalmente nos Estados Unidos exige autorizacao de trabalho, status migratorio adequado ou visto compatível com a atividade. Abrir empresa, ter EIN, criar LLC ou aparecer no Google nao significa que a pessoa pode trabalhar sem autorizacao. Para decisoes migratorias e fiscais, procure profissionais qualificados.</p>
-        </div>
-
-        <h2>Quem pode empreender nos Estados Unidos?</h2>
-        <p>A pergunta correta nao e apenas "posso abrir empresa?". Em muitos casos, a pergunta real e: posso exercer atividade remunerada, administrar ativamente, prestar servico, receber pagamento, assinar contrato, contratar pessoas e pagar imposto sem violar meu status? A resposta depende do status migratorio, da atividade, da estrutura, da forma de renda e do caso concreto.</p>
-        <p>Uma pessoa pode ser dona de participacao em uma empresa e ainda assim nao ter autorizacao para trabalhar nela. Um investidor pode ter direitos economicos, mas isso nao significa que ele pode operar o negocio diariamente. Um imigrante com autorizacao de trabalho pode ter mais flexibilidade, mas ainda precisa respeitar regras fiscais, licencas e contratos. Um turista, por exemplo, deve ter cuidado extremo com qualquer atividade que pareca trabalho nos EUA.</p>
-        <p>Por isso, a familia que quer empreender precisa separar quatro perguntas: qual e meu status migratorio, qual e minha autorizacao de trabalho, qual estrutura empresarial faz sentido e quais licencas minha atividade exige. Quando essas perguntas ficam misturadas, o risco aumenta. O sonho de abrir negocio pode virar problema migratorio, fiscal ou financeiro.</p>
-
-        <h2>Abrir empresa: o que resolve e o que nao resolve</h2>
-        <p>Abrir empresa pode resolver organizacao. Pode permitir contrato com clientes, conta bancaria empresarial, emissao de invoices, separacao de despesas, cadastro em plataformas, contratacao futura e uma imagem mais profissional. Tambem pode ajudar a construir historico de negocio quando tudo e feito com registro e consistencia.</p>
-        <p>Mas abrir empresa nao resolve status migratorio automaticamente. Tambem nao resolve licenca profissional, autorizacao de trabalho, imposto de vendas, seguro, permissao local ou responsabilidade civil. Essa distincao e a base do cluster inteiro. Empresa e ferramenta. Nao e varinha magica.</p>
-        <p>Se voce quer entender essa diferenca com profundidade, leia o guia especifico sobre <a href="/articles/abrir-empresa-nos-eua-legaliza-minha-situacao.html">abrir empresa nos EUA e status migratorio</a>. Ele e a primeira leitura obrigatoria antes de qualquer decisao.</p>
-
-        <h2>LLC: por que tantos brasileiros escolhem essa estrutura</h2>
-        <p>A LLC aparece muito nas conversas porque costuma ser simples, flexivel e comum para pequenos negocios. Ela pode servir para prestadores de servico, consultores, pequenos operadores, familias que querem separar negocio de vida pessoal e empreendedores que ainda estao testando mercado. Mas "comum" nao significa "sempre ideal".</p>
-        <p>A LLC tem regras de estado, tratamento fiscal, obrigações de relatorio, possivel necessidade de registered agent, annual report e cuidado com mistura de dinheiro pessoal e empresarial. Se a pessoa abre uma LLC e continua pagando tudo na conta pessoal, sem contrato, sem invoice e sem registro, ela perde parte do beneficio de organizacao que buscava.</p>
-        <p>Outro ponto: LLC nao e licenca. Uma LLC de limpeza, pintura, consultoria, transporte ou construcao pode precisar de regras diferentes. Na Florida, muita gente registra no Sunbiz e para ali. Esse e um erro serio. A empresa existe, mas a atividade pode continuar exigindo permissao, seguro ou licenca.</p>
-
-        <h2>Corporation: quando pode fazer sentido</h2>
-        <p>Corporation e uma estrutura mais formal. Pode ser usada em negocios com socios, investimento, planos de crescimento, folha de pagamento, governanca ou estrategia fiscal especifica. Para o pequeno prestador de servico que esta comecando sozinho, pode ser mais complexa do que o necessario. Para uma empresa com ambicao de escala, pode entrar na conversa.</p>
-        <p>A decisao entre LLC, corporation, sole proprietorship ou partnership nao deve ser tomada por video curto. O IRS e a SBA explicam estruturas de negocio, mas a escolha real deve considerar impostos, responsabilidade, socios, renda esperada, estado, contabilidade, plano de contratacao e possiveis impactos migratorios. E exatamente por isso que este guia recomenda orientacao profissional antes de registrar algo que depois sera caro para corrigir.</p>
-
-        <h2>EIN: o numero da empresa nao e o mesmo que SSN</h2>
-        <p>O EIN e um numero de identificacao usado pelo IRS para empresas e algumas entidades. Ele pode ser necessario para abrir conta empresarial, contratar funcionarios, preencher formularios, declarar impostos e operar com mais organizacao. Muita gente chama de "CPF da empresa", mas essa comparacao e limitada. O EIN nao substitui status migratorio, nao autoriza trabalho e nao transforma atividade irregular em atividade permitida.</p>
-        <p>Tambem e comum confundir EIN com SSN ou ITIN. SSN e normalmente ligado a pessoas autorizadas em contextos especificos. ITIN e usado para fins fiscais por pessoas que precisam declarar ou cumprir obrigações fiscais mas nao têm SSN. EIN e da empresa. Misturar esses tres conceitos pode gerar erro em banco, invoice, imposto, formulario W-9 e cadastro em plataformas.</p>
-        <p>Para entender melhor, leia <a href="/articles/preciso-de-ssn-para-abrir-llc-nos-eua.html">se precisa de SSN para abrir LLC nos EUA</a>. Esse artigo ajuda a separar identificacao pessoal, fiscal e empresarial.</p>
-
-        <h2>Invoice: profissionalismo tambem aparece na cobranca</h2>
-        <p>Invoice e mais do que "mandar o valor no WhatsApp". Uma invoice bem feita mostra quem prestou o servico, quem deve pagar, qual foi o servico, data, valor, prazo, metodo de pagamento, termos basicos e numero de referencia. Para pequenos negocios, isso ajuda a cobrar melhor, registrar receita e evitar conversa confusa depois.</p>
-        <p>Uma invoice nao substitui contrato, nao substitui nota fiscal brasileira e nao resolve imposto sozinha. Mas ela cria um rastro organizado. Para quem presta limpeza, pintura, consultoria, manutencao, marketing, fotografia, reparo, atendimento domestico ou servico local, essa organizacao ajuda a ser levado a serio.</p>
-        <p>O artigo <a href="/articles/como-emitir-invoice-nos-eua-guia-brasileiros.html">como emitir invoice nos EUA</a> aprofunda campos, exemplos, cuidados e ferramentas. Ele e uma leitura pratica para quem ja esta cobrando ou quer parar de operar de forma improvisada.</p>
-
-        <h2>Conta bancaria: separar dinheiro muda a maturidade do negocio</h2>
-        <p>Separar conta pessoal e conta empresarial e um divisor de aguas. Isso facilita controle de caixa, comprovantes, impostos, pagamentos de clientes, despesas, reembolsos e leitura real do lucro. Muitos brasileiros acham que estao ganhando bem porque entra dinheiro toda semana. Depois percebem que gasolina, material, ferramenta, seguro, imposto, plataforma, taxa, manutenção e deslocamento comeram o lucro.</p>
-        <p>Conta bancaria tambem envolve identificacao. Bancos podem pedir documentos da empresa, EIN, endereco, responsavel, informacoes pessoais e verificacoes internas. As politicas variam. Nao existe uma resposta unica para todos os bancos e todos os status. O melhor caminho e chegar com documentos organizados, nao mentir, nao usar documento falso e confirmar exigencias antes de tomar decisao.</p>
-        <p>Se o tema ainda e novo para voce, veja tambem nosso guia sobre <a href="/articles/como-abrir-conta-banco-nos-eua-2026.html">como abrir conta em banco nos EUA</a>.</p>
-
-        <h2>Sunbiz nao e licenca</h2>
-        <p>Na Florida, Sunbiz e a porta mais conhecida para registrar empresas, nomes ficticios e filings corporativos. Mas registrar algo no Sunbiz nao significa que voce tem permissao para exercer qualquer atividade. Esse e um dos erros mais caros para brasileiros que trabalham com servicos locais.</p>
-        <p>Algumas atividades podem exigir licenca estadual, licenca local, permissao do condado, regras de zoneamento, seguro, certificacao ou registro adicional. A pessoa pode ter uma LLC ativa e ainda assim estar operando sem a licenca exigida para aquele servico. O risco muda conforme atividade. Pintura, construcao, alimentos, cosmetologia, real estate, cuidados, transporte e servicos regulados merecem atencao especial.</p>
-        <p>O guia <a href="/articles/sunbiz-nao-e-licenca-erro-brasileiros-florida.html">Sunbiz nao e licenca</a> explica essa diferenca de forma direta para quem esta na Florida.</p>
-
-        <h2>Sales tax: nem toda cobranca e igual</h2>
-        <p>Sales tax e um dos temas que mais confundem quem vem do Brasil. Dependendo do estado, do produto, do servico, da cidade e da forma de venda, pode haver obrigacao de coletar e repassar imposto sobre vendas. Em alguns casos, servicos nao seguem a mesma regra de produtos. Em outros, itens fisicos, materiais, revenda ou comercio online mudam a conversa.</p>
-        <p>Nao use a regra do vizinho como regra fiscal. O que vale para uma loja pode nao valer para um prestador de servico. O que vale na Florida pode nao valer em Massachusetts, Texas ou California. O que vale para limpeza pode nao valer para venda de produto. Como esse tema muda por estado e por atividade, ele merece artigo proprio no futuro e, na pratica, conversa com contador.</p>
-
-        <h2>Impostos, bookkeeping, 1099 e W-9</h2>
-        <p>Empreender nos EUA exige registro. Mesmo que o negocio seja pequeno, voce precisa entender receita, despesa, comprovante, mileage, material, taxas, plataforma, pagamento a terceiros e documentos que podem aparecer no fim do ano. Bookkeeping e o habito de registrar a vida financeira do negocio de forma organizada. Sem isso, a pessoa descobre tarde demais que nao sabe quanto ganhou.</p>
-        <p>Formularios como W-9 e 1099 aparecem muito quando ha prestadores independentes, contratantes e pagamentos reportados. Nao e tema para improvisar. Se voce recebe como contractor, contrata alguem, paga ajudante, presta servico para empresa ou recebe formulario no fim do ano, precisa entender o basico e confirmar com profissional.</p>
-        <p>O IRS orienta negocios a manter registros que sustentem renda, despesas e itens reportados em declaracoes. Na vida real, isso significa guardar comprovantes, separar contas, usar planilha ou software, e nao deixar tudo para a semana do imposto.</p>
-
-        <h2>Marketing: primeiros clientes nao chegam por acaso</h2>
-        <p>Depois que a estrutura minima esta organizada, vem uma pergunta simples e dura: como conseguir clientes? Para muitos brasileiros, os primeiros clientes chegam por indicacao, grupos locais, conhecidos, igrejas, comunidade brasileira, Nextdoor, Thumbtack, Yelp, Google Business Profile e redes sociais. O problema e quando a pessoa depende so de favor e nao cria processo.</p>
-        <p>Marketing local nos EUA exige clareza. O cliente quer saber o que voce faz, onde atende, quanto custa aproximadamente, se responde rapido, se tem fotos reais, se tem avaliacao, se chega no horario, se aceita pagamento confiavel e se resolve problema sem drama. Para prestador de servico, reputacao e ativo.</p>
-        <p>O <a href="/articles/google-business-profile-prestadores-servico-eua.html">Google Business Profile para prestadores de servico</a> e uma das primeiras ferramentas para aparecer no mapa e na busca local. Ele nao garante cliente, mas ajuda a construir presenca quando combinado com bom atendimento.</p>
-
-        <h2>Thumbtack, Nextdoor, Google e Yelp</h2>
-        <p>Cada plataforma tem uma logica. Thumbtack pode gerar leads, mas custo e qualidade variam. Nextdoor funciona muito por vizinhanca e confianca local. Google captura demanda ativa de quem pesquisa naquele momento. Yelp pode pesar em restaurantes, servicos e mercados especificos. Redes sociais ajudam na prova social, mas nem sempre convertem sozinhas.</p>
-        <p>O empreendedor iniciante precisa medir. Quantos contatos chegaram? Quantos viraram orcamento? Quantos viraram cliente? Quanto custou cada lead? O cliente voltou? Indicou alguem? Sem esse controle, marketing vira tentativa emocional. Com controle, vira decisao.</p>
-
-        <h2>Seguros: proteger o negocio antes do problema</h2>
-        <p>Seguro parece gasto ate o primeiro acidente, dano, reclamação ou exigencia de cliente. General liability pode ser importante para muitos prestadores. Commercial auto pode entrar se o carro e usado no negocio. Workers compensation pode ser exigido em certos contextos de empregados, obras ou contratos. Bond, professional liability e outras coberturas dependem da atividade.</p>
-        <p>Alguns clientes comerciais nao contratam sem seguro. Alguns condominios, empresas, obras ou property managers pedem certificado. Isso significa que o seguro nao e so protecao; pode ser porta de entrada para contratos melhores. Mas seguro errado tambem da falsa sensacao de protecao. Leia apolice, confirme cobertura e converse com corretor licenciado.</p>
-
-        <h2>Ferramentas: simples e organizado vence bonito e baguncado</h2>
-        <p>Voce nao precisa comecar com uma pilha de sistemas caros. Muitas empresas pequenas começam com planilha, pasta de recibos, modelo de invoice e calendario. Conforme cresce, ferramentas como QuickBooks, Stripe, Square, PayPal Business e Wise podem ajudar em cobranca, organizacao, pagamento e conciliacao.</p>
-        <p>A ferramenta nao conserta desorganizacao sozinha. O que funciona e rotina: registrar recebimentos, guardar comprovantes, revisar lucro, cobrar no prazo, separar imposto, responder cliente, acompanhar leads e rever preco. Negocio pequeno morre menos por falta de logo bonito e mais por falta de caixa, processo e disciplina.</p>
-
-        <h2>Plano de 30, 60 e 90 dias para sair do improviso</h2>
-        <p>Um bom jeito de usar este guia e transformar a leitura em etapas. Nos primeiros 30 dias, o foco nao deve ser parecer grande. O foco deve ser entender risco, organizar documentos e parar de misturar as coisas. Revise seu status migratorio, confirme se voce pode exercer a atividade, liste os servicos que pretende oferecer, pesquise licencas, separe custos basicos e leia os artigos satelites deste cluster. Se voce ja atende clientes, comece criando um modelo de invoice, uma pasta de comprovantes e uma planilha simples de receita e despesa.</p>
-        <p>Entre 30 e 60 dias, a conversa passa para estrutura. Aqui entram perguntas como: preciso de LLC agora ou posso esperar? Preciso de EIN? O banco vai pedir quais documentos? Minha atividade exige licenca local? Estou cobrando um preco que paga gasolina, material, tempo, imposto, seguro e margem? Tenho fotos reais do meu trabalho? Tenho um texto claro para explicar meu servico em ingles simples? Esse periodo e bom para conversar com CPA, contador, advogado ou profissional licenciado quando o tema encostar em imposto, status ou atividade regulada.</p>
-        <p>Entre 60 e 90 dias, o objetivo e criar repeticao. Empreender nao e apenas abrir empresa; e conseguir entregar bem, cobrar bem e ser encontrado de novo. Voce pode melhorar o Google Business Profile, pedir avaliacoes de forma correta, organizar antes e depois dos servicos, medir quais canais trazem contato, revisar orcamentos recusados, ajustar preco e identificar o tipo de cliente que vale mais a pena. Tambem e hora de avaliar se seguro, contrato simples, politica de cancelamento e processo de follow-up ja fazem sentido.</p>
-        <p>Esse plano nao precisa ser perfeito. Ele precisa ser realista. Muitos brasileiros tentam resolver tudo em uma semana porque estao ansiosos para ganhar dinheiro. A pressa e compreensivel, mas pressa sem mapa costuma sair caro. O caminho mais seguro e construir base, testar, medir e profissionalizar. Quando a familia entende que o negocio e um processo, a decisao fica menos emocional e mais inteligente.</p>
-
-        <h2>Como pensar em crescimento sem criar problema</h2>
-        <p>Crescer nos EUA pode significar atender mais clientes, cobrar melhor, contratar ajuda, comprar equipamento, alugar espaco, criar rota, abrir agenda, vender produto ou fechar contrato com empresas. Cada um desses passos traz uma nova camada de responsabilidade. Contratar alguem pode envolver classificacao correta de trabalhador, folha, seguro, imposto e regras trabalhistas. Comprar veiculo para o negocio pode envolver seguro comercial. Atender condominio ou empresa pode exigir certificado de seguro. Vender produto pode puxar sales tax e regras de devolucao.</p>
-        <p>Por isso, crescimento bom nao e apenas "mais dinheiro entrando". Crescimento bom e dinheiro entrando com menos risco escondido. Se o negocio depende de uma pessoa so, sem contrato, sem recibo, sem seguro, sem processo e sem precificacao correta, ele pode ate vender muito, mas continuar fragil. O empreendedor brasileiro que quer ficar anos nos EUA precisa pensar como construtor de reputacao, nao apenas como alguem apagando incendio da semana.</p>
-        <p>Uma pergunta simples ajuda: se eu ficasse doente por duas semanas, meu negocio sobreviveria? Se um cliente questionasse um servico, eu teria documento? Se um banco perguntasse de onde vem a renda, eu teria registros? Se o imposto chegasse, eu saberia explicar receita e despesa? Se a resposta for nao para tudo, o proximo passo nao e vender mais. O proximo passo e organizar melhor.</p>
-
-        <h2>Erros mais comuns de brasileiros ao empreender nos EUA</h2>
-        <p>O primeiro erro e achar que abrir empresa legaliza a pessoa. O segundo e achar que Sunbiz e licenca. O terceiro e misturar conta pessoal com dinheiro do negocio. O quarto e cobrar sem invoice. O quinto e nao guardar comprovantes. O sexto e trabalhar sem entender autorizacao migratoria. O setimo e copiar o modelo de outro brasileiro sem saber se ele esta certo.</p>
-        <p>Tambem vemos erros de precificacao. A pessoa cobra barato porque esta com medo de perder cliente, mas esquece gasolina, seguro, material, ferramenta, deslocamento, imposto, plataforma, tempo de compra, retrabalho e risco. No fim, trabalhou muito e lucrou pouco. Preco precisa considerar custo real, qualidade, regiao e posicionamento.</p>
-        <p>Outro erro e prometer demais. No Google, no Yelp, no contrato ou no WhatsApp, promessa vira expectativa. Se voce promete prazo que nao controla, resultado que nao depende so de voce ou servico que nao domina, cria problema. Profissionalismo tambem e saber dizer nao.</p>
-
-        <h2>Checklist final antes de dar o proximo passo</h2>
-        <p>Antes de abrir, registrar, vender ou anunciar, revise sua base. Qual e seu status? Voce tem autorizacao de trabalho? A atividade exige licenca? A empresa precisa de EIN? O banco pede quais documentos? Voce sabe emitir invoice? Vai separar conta? Tem seguro necessario? Entende impostos? Tem fontes oficiais salvas? Sabe quanto precisa cobrar para valer a pena?</p>
-        <p>Se muitas respostas ainda estao vagas, nao significa que voce deve desistir. Significa que precisa estudar antes de assinar, pagar, registrar ou prometer. Empreender nos EUA pode ser uma bencao para familias brasileiras, mas a construcao precisa ser feita com pe no chao.</p>
+        <PillarContent />
       </article>
     </section>
 
-    <div id="mapa">
-      <GuideIndex
-        title="Escolha a etapa que voce precisa entender agora"
-        description="A pagina pilar mostra o caminho completo. Cada card abaixo aponta para um artigo especifico quando ele ja existe; temas ainda sem artigo ficam marcados como em breve."
-        items={pillarSections}
-      />
-    </div>
-
-    <GuideChecklist
-      title="Checklist do brasileiro que quer empreender nos EUA"
-      items={[
-        "Separar empresa, status migratorio e autorizacao de trabalho.",
-        "Confirmar se a atividade exige licenca estadual, cidade ou condado.",
-        "Entender SSN, ITIN e EIN antes de preencher formularios.",
-        "Criar modelo de invoice e guardar comprovantes desde o primeiro cliente.",
-        "Separar conta pessoal, bookkeeping, recibos, 1099, W-9 e dinheiro do negocio.",
-        "Avaliar seguro empresarial e certificado de seguro antes de contratos maiores.",
-        "Definir preco considerando material, gasolina, imposto, seguro, tempo e margem.",
-        "Configurar presenca local com Google Business Profile quando fizer sentido.",
-        "Conversar com advogado, CPA ou profissional qualificado em decisoes sensiveis."
-      ]}
-    />
-
-    <GuideTools
-      tools={[
-        { name: "QuickBooks", description: "Pode ajudar em invoices, categorias de despesa e relatorios, especialmente quando o negocio cresce." },
-        { name: "Stripe", description: "Opcao comum para pagamentos digitais, links de cobranca e cartoes, com taxas que precisam entrar no preco." },
-        { name: "Square", description: "Muito usado por pequenos negocios presenciais, servicos locais e pagamentos com cartao." },
-        { name: "PayPal Business", description: "Pode funcionar para cobrancas simples, mas exige controle de taxas, recibos e finalidade dos pagamentos." },
-        { name: "Wise", description: "Pode ajudar em transferencias e moedas, mas nao substitui conta empresarial nem orientacao fiscal." },
-        { name: "Planilha simples", description: "Ainda e uma das melhores ferramentas iniciais para controlar receita, despesa, milhas, materiais e lucro." },
-        { name: "Google Business Profile", description: "Base gratuita para aparecer no Google Search e Maps quando o negocio atende clientes locais." },
-        { name: "Pasta de comprovantes", description: "Recibos, invoices, contratos, fotos e mensagens organizadas evitam dor de cabeca no imposto e em disputas." }
-      ]}
-    />
-
-    <GuideRelatedArticles
-      title="Artigos satelites ja publicados"
-      description="Estes guias aprofundam os pontos mais urgentes do cluster: legalizacao, SSN, Registered Agent, Sunbiz, invoice, financas, seguros, preco, Google e clientes."
-      articles={clusterArticles}
-    />
-
     <GuideOfficialSources sources={officialEntrepreneurshipSources} />
 
-    <GuideFAQ items={entrepreneurshipFaq} />
-
     <GuideCTA
-      title="Quer estudar o cluster completo como portal?"
-      description="Acesse a landing page permanente de empreendedorismo nos EUA, com os artigos publicados, fontes oficiais, ferramentas, checklist e proximos temas."
+      title="Continue pelo hub de empreendedorismo"
+      description="Encontre os artigos especializados, a jornada por etapas e os próximos temas do cluster para brasileiros que querem construir negócios nos Estados Unidos."
       primaryHref={ENTREPRENEURSHIP_HUB_PATH}
       primaryLabel="Abrir hub de empreendedorismo"
       secondaryHref="/categorias/trabalho-renda.html"
@@ -244,21 +98,5 @@ const faqSchema = {
 <style>
   .guide-article {
     margin-top: 2rem;
-  }
-
-  .guide-warning {
-    border-left: 5px solid #f28c28;
-    border-radius: 18px;
-    margin: 1.8rem 0;
-    padding: 1rem 1.1rem;
-    background: #fff2db;
-  }
-
-  .guide-warning strong {
-    color: #101827;
-  }
-
-  .guide-warning p {
-    margin-bottom: 0;
   }
 </style>
