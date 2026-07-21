@@ -54,8 +54,8 @@ export const sitePages: SitePage[] = [
   {
     path: "/empreender-nos-estados-unidos-guia-completo.html",
     title: "Como empreender nos Estados Unidos sendo brasileiro: guia completo (2026)",
-    description: "Guia completo para brasileiros empreenderem nos EUA em 2026: empresa, LLC, EIN, SSN, ITIN, invoice, Sunbiz, licenças, impostos, clientes e erros comuns.",
-    lastmod: "2026-06-26",
+    description: "Guia completo para brasileiros empreenderem nos EUA: empresa, LLC, EIN, banco, licenças, impostos, marketing, clientes e crescimento responsável em 2026.",
+    lastmod: "2026-07-20",
     priority: "0.9"
   },
   {
