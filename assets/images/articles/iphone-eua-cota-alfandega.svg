@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="620" viewBox="0 0 800 620" role="img" aria-labelledby="title desc">
+  <title id="title">Cotas de bagagem para entrada no Brasil</title>
+  <desc id="desc">Comparação entre a cota por via aérea ou marítima e a cota por outras vias internacionais.</desc>
+  <defs>
+    <linearGradient id="navy" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#111d2e"/>
+      <stop offset="1" stop-color="#243c5c"/>
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="130%">
+      <feDropShadow dx="0" dy="9" stdDeviation="11" flood-color="#0d1724" flood-opacity="0.18"/>
+    </filter>
+    <style>
+      .display { font-family: "Fraunces", Georgia, serif; }
+      .body { font-family: "Avenir Next", "Trebuchet MS", sans-serif; }
+    </style>
+  </defs>
+
+  <rect width="800" height="620" rx="34" fill="#f6f1e8"/>
+  <rect x="0" y="0" width="800" height="145" rx="34" fill="url(#navy)"/>
+  <text x="48" y="62" class="display" font-size="42" font-weight="800" fill="#fffaf1">Qual é a cota de bagagem?</text>
+  <text x="48" y="104" class="body" font-size="28" font-weight="700" fill="#f0c36b">Para bens tributáveis que não são de uso pessoal</text>
+
+  <g filter="url(#shadow)">
+    <rect x="42" y="184" width="338" height="230" rx="26" fill="#ffffff" stroke="#c28a2c" stroke-width="3"/>
+    <rect x="420" y="184" width="338" height="230" rx="26" fill="#ffffff" stroke="#9b3d25" stroke-width="3"/>
+  </g>
+
+  <circle cx="211" cy="242" r="31" fill="#c28a2c"/>
+  <path d="M195 244 H227 M211 228 V260 M190 254 L181 265 M232 254 L241 265" stroke="#111d2e" stroke-width="5" stroke-linecap="round" fill="none"/>
+  <text x="211" y="313" class="body" text-anchor="middle" font-size="30" font-weight="900" fill="#4c463d">Avião ou navio</text>
+  <text x="211" y="372" class="display" text-anchor="middle" font-size="48" font-weight="900" fill="#111d2e">US$ 1.000</text>
+
+  <circle cx="589" cy="242" r="31" fill="#9b3d25"/>
+  <path d="M572 244 H606 M577 232 L565 244 L577 256 M601 232 L613 244 L601 256" stroke="#fffaf1" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <text x="589" y="313" class="body" text-anchor="middle" font-size="30" font-weight="900" fill="#4c463d">Outras vias</text>
+  <text x="589" y="372" class="display" text-anchor="middle" font-size="48" font-weight="900" fill="#111d2e">US$ 500</text>
+
+  <rect x="42" y="454" width="716" height="118" rx="24" fill="#fff7e8" stroke="#d9c7a5" stroke-width="2"/>
+  <text x="76" y="493" class="body" font-size="22" font-weight="900" fill="#9b3d25">Três cuidados:</text>
+  <text x="76" y="527" class="body" font-size="23" font-weight="700" fill="#4c463d">A cota é individual e intransferível; não cobre finalidade comercial;</text>
+  <text x="76" y="557" class="body" font-size="23" font-weight="700" fill="#4c463d">e não inclui itens corretamente classificados como uso pessoal.</text>
+
+  <text x="400" y="603" class="body" text-anchor="middle" font-size="20" font-weight="800" fill="#766b5d">Fonte editorial: Guia do Viajante da Receita Federal. Revisado em agosto de 2026.</text>
+</svg>

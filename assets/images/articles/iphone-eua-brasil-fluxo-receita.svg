@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1000" viewBox="0 0 800 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Fluxo editorial sobre iPhone trazido dos EUA</title>
+  <desc id="desc">Diagrama para avaliar se o aparelho pode ser de uso pessoal, entrar na cota ou precisar de declaração.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#111d2e"/>
+      <stop offset="1" stop-color="#243c5c"/>
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="130%">
+      <feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#07111f" flood-opacity="0.2"/>
+    </filter>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#c28a2c"/>
+    </marker>
+    <style>
+      .display { font-family: "Fraunces", Georgia, serif; }
+      .body { font-family: "Avenir Next", "Trebuchet MS", sans-serif; }
+      .card-title { font-size: 32px; font-weight: 800; fill: #171512; }
+      .card-copy { font-size: 30px; font-weight: 600; fill: #4c463d; }
+      .label { font-size: 24px; font-weight: 900; letter-spacing: 2px; }
+    </style>
+  </defs>
+
+  <rect width="800" height="1000" rx="34" fill="#f6f1e8"/>
+  <rect width="800" height="172" rx="34" fill="url(#bg)"/>
+  <path d="M0 138 C190 190 575 92 800 145 V172 H0Z" fill="#9b3d25" opacity="0.96"/>
+  <text x="48" y="67" class="display" font-size="42" font-weight="800" fill="#fffaf1">iPhone dos EUA na volta ao Brasil</text>
+  <text x="48" y="112" class="body" font-size="28" font-weight="700" fill="#f0c36b">Um fluxo rápido antes de escolher o canal da alfândega</text>
+
+  <g filter="url(#shadow)">
+    <rect x="70" y="218" width="660" height="126" rx="24" fill="#ffffff" stroke="#d9c7a5" stroke-width="3"/>
+  </g>
+  <circle cx="122" cy="281" r="30" fill="#c28a2c"/>
+  <text x="122" y="291" class="body" text-anchor="middle" font-size="28" font-weight="900" fill="#111d2e">1</text>
+  <text x="174" y="270" class="body card-title">Será o único telefone em uso</text>
+  <text x="174" y="312" class="body card-title">durante a viagem?</text>
+
+  <path d="M250 344 V404" stroke="#c28a2c" stroke-width="6" fill="none" marker-end="url(#arrow)"/>
+  <path d="M550 344 V404" stroke="#c28a2c" stroke-width="6" fill="none" marker-end="url(#arrow)"/>
+  <text x="250" y="384" class="body label" text-anchor="middle" fill="#2f5c4f">SIM</text>
+  <text x="550" y="384" class="body label" text-anchor="middle" fill="#9b3d25">NÃO</text>
+
+  <g filter="url(#shadow)">
+    <rect x="42" y="416" width="338" height="220" rx="24" fill="#edf6f1" stroke="#2f5c4f" stroke-width="3"/>
+    <rect x="420" y="416" width="338" height="220" rx="24" fill="#fff2e9" stroke="#9b3d25" stroke-width="3"/>
+  </g>
+  <text x="70" y="466" class="body card-title">Uso efetivo</text>
+  <text x="70" y="507" class="body card-copy">Comprado no exterior,</text>
+  <text x="70" y="540" class="body card-copy">colocado em uso e</text>
+  <text x="70" y="573" class="body card-copy">compatível com a viagem.</text>
+  <text x="70" y="613" class="body" font-size="27" font-weight="900" fill="#2f5c4f">Pode ser bem pessoal</text>
+
+  <text x="448" y="466" class="body card-title">Outra finalidade</text>
+  <text x="448" y="507" class="body card-copy">Segundo aparelho,</text>
+  <text x="448" y="540" class="body card-copy">presente, mais unidades</text>
+  <text x="448" y="573" class="body card-copy">ou possível revenda.</text>
+  <text x="448" y="613" class="body" font-size="27" font-weight="900" fill="#9b3d25">Verifique a cota</text>
+
+  <path d="M211 636 V704" stroke="#c28a2c" stroke-width="6" fill="none" marker-end="url(#arrow)"/>
+  <path d="M589 636 V704" stroke="#c28a2c" stroke-width="6" fill="none" marker-end="url(#arrow)"/>
+
+  <g filter="url(#shadow)">
+    <rect x="70" y="718" width="660" height="136" rx="24" fill="#111d2e"/>
+  </g>
+  <text x="400" y="762" class="display" text-anchor="middle" font-size="36" font-weight="800" fill="#fffaf1">Se houver bem tributável</text>
+  <text x="400" y="802" class="display" text-anchor="middle" font-size="36" font-weight="800" fill="#fffaf1">acima da cota</text>
+  <text x="400" y="836" class="body" text-anchor="middle" font-size="26" font-weight="900" fill="#f0c36b">Use a e-DBV e o canal Bens a Declarar</text>
+
+  <rect x="42" y="894" width="716" height="70" rx="18" fill="#fff7e8" stroke="#d9c7a5" stroke-width="2"/>
+  <text x="400" y="924" class="body" text-anchor="middle" font-size="24" font-weight="800" fill="#4c463d">Resumo editorial. A Receita analisa quantidade, finalidade</text>
+  <text x="400" y="953" class="body" text-anchor="middle" font-size="24" font-weight="800" fill="#4c463d">e circunstâncias. Consulte a regra atual antes da viagem.</text>
+</svg>
