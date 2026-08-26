@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="900" viewBox="0 0 800 900" role="img" aria-labelledby="title desc">
+  <title id="title">Checklist para trazer iPhone dos Estados Unidos</title>
+  <desc id="desc">Lista de verificações sobre uso pessoal, cota, documentos e declaração antes da volta ao Brasil.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#111d2e"/>
+      <stop offset="1" stop-color="#2f5c4f"/>
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="130%">
+      <feDropShadow dx="0" dy="9" stdDeviation="11" flood-color="#07111f" flood-opacity="0.18"/>
+    </filter>
+    <style>
+      .display { font-family: "Fraunces", Georgia, serif; }
+      .body { font-family: "Avenir Next", "Trebuchet MS", sans-serif; }
+      .item { font-size: 34px; font-weight: 800; fill: #171512; }
+    </style>
+  </defs>
+
+  <rect width="800" height="900" rx="34" fill="#f6f1e8"/>
+  <rect width="800" height="162" rx="34" fill="url(#bg)"/>
+  <text x="48" y="66" class="display" font-size="42" font-weight="800" fill="#fffaf1">Checklist antes da volta</text>
+  <text x="48" y="112" class="body" font-size="28" font-weight="700" fill="#f0c36b">Sete conferências para viajar com mais clareza</text>
+
+  <g filter="url(#shadow)">
+    <rect x="42" y="195" width="716" height="620" rx="28" fill="#ffffff"/>
+  </g>
+
+  <g transform="translate(76 236)">
+    <g>
+      <rect width="42" height="42" rx="12" fill="#edf6f1" stroke="#2f5c4f" stroke-width="3"/>
+      <path d="M11 22 L19 30 L33 12" fill="none" stroke="#2f5c4f" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="62" y="31" class="body item">Uso pessoal</text>
+    </g>
+    <g transform="translate(0 82)">
+      <rect width="42" height="42" rx="12" fill="#edf6f1" stroke="#2f5c4f" stroke-width="3"/>
+      <path d="M11 22 L19 30 L33 12" fill="none" stroke="#2f5c4f" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="62" y="31" class="body item">Telefone anterior</text>
+    </g>
+    <g transform="translate(0 164)">
+      <rect width="42" height="42" rx="12" fill="#fff7e8" stroke="#c28a2c" stroke-width="3"/>
+      <path d="M11 22 L19 30 L33 12" fill="none" stroke="#9b6c20" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="62" y="31" class="body item">Cota disponível</text>
+    </g>
+    <g transform="translate(0 246)">
+      <rect width="42" height="42" rx="12" fill="#fff7e8" stroke="#c28a2c" stroke-width="3"/>
+      <path d="M11 22 L19 30 L33 12" fill="none" stroke="#9b6c20" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="62" y="31" class="body item">Documentos</text>
+    </g>
+    <g transform="translate(0 328)">
+      <rect width="42" height="42" rx="12" fill="#fff2e9" stroke="#9b3d25" stroke-width="3"/>
+      <path d="M11 22 L19 30 L33 12" fill="none" stroke="#9b3d25" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="62" y="31" class="body item">Finalidade</text>
+    </g>
+    <g transform="translate(0 410)">
+      <rect width="42" height="42" rx="12" fill="#fff2e9" stroke="#9b3d25" stroke-width="3"/>
+      <path d="M11 22 L19 30 L33 12" fill="none" stroke="#9b3d25" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="62" y="31" class="body item">Declaração</text>
+    </g>
+    <g transform="translate(0 492)">
+      <rect width="42" height="42" rx="12" fill="#edf2f8" stroke="#243c5c" stroke-width="3"/>
+      <path d="M11 22 L19 30 L33 12" fill="none" stroke="#243c5c" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="62" y="31" class="body item">Regra atual</text>
+    </g>
+  </g>
+
+  <rect x="42" y="842" width="716" height="38" rx="14" fill="#111d2e"/>
+  <text x="400" y="868" class="body" text-anchor="middle" font-size="24" font-weight="900" fill="#fffaf1">Transparência e documentos corretos valem mais do que atalhos.</text>
+</svg>
