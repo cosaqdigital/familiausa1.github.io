@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Principais regiões com comunidades brasileiras na Flórida</title>
+  <desc id="desc">Diagrama esquemático com Central Florida, South Florida, Tampa Bay e North e Southwest Florida.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#082f49"/><stop offset="1" stop-color="#164e63"/></linearGradient></defs>
+  <rect width="1200" height="675" rx="32" fill="url(#bg)"/>
+  <text x="70" y="82" fill="#fff" font-family="Georgia,serif" font-size="42" font-weight="700">Comunidades brasileiras na Flórida</text>
+  <text x="70" y="122" fill="#bae6fd" font-family="Arial,sans-serif" font-size="22">Quatro eixos para começar a pesquisa de moradia</text>
+  <g font-family="Arial,sans-serif">
+    <rect x="70" y="170" width="510" height="180" rx="22" fill="#fff"/>
+    <circle cx="118" cy="221" r="24" fill="#f97316"/><text x="158" y="229" fill="#0f172a" font-size="28" font-weight="700">Central Florida</text>
+    <text x="100" y="278" fill="#334155" font-size="22">Orlando · Horizon West · Kissimmee</text><text x="100" y="315" fill="#64748b" font-size="19">Orange e Osceola formam um corredor regional.</text>
+    <rect x="620" y="170" width="510" height="180" rx="22" fill="#fff"/>
+    <circle cx="668" cy="221" r="24" fill="#0ea5e9"/><text x="708" y="229" fill="#0f172a" font-size="28" font-weight="700">South Florida</text>
+    <text x="650" y="278" fill="#334155" font-size="22">Broward · Miami-Dade · Palm Beach</text><text x="650" y="315" fill="#64748b" font-size="19">Muitos municípios conectados pela mesma rotina.</text>
+    <rect x="70" y="385" width="510" height="180" rx="22" fill="#fff"/>
+    <circle cx="118" cy="436" r="24" fill="#22c55e"/><text x="158" y="444" fill="#0f172a" font-size="28" font-weight="700">Tampa Bay</text>
+    <text x="100" y="493" fill="#334155" font-size="22">Tampa · Hillsborough · Pinellas</text><text x="100" y="530" fill="#64748b" font-size="19">A cidade não representa toda a comunidade regional.</text>
+    <rect x="620" y="385" width="510" height="180" rx="22" fill="#fff"/>
+    <circle cx="668" cy="436" r="24" fill="#eab308"/><text x="708" y="444" fill="#0f172a" font-size="28" font-weight="700">Norte e Sudoeste</text>
+    <text x="650" y="493" fill="#334155" font-size="22">Jacksonville · Fort Myers · Lee County</text><text x="650" y="530" fill="#64748b" font-size="19">Polos menores, com perfis de trabalho distintos.</text>
+    <text x="70" y="628" fill="#bae6fd" font-size="18">Representação esquemática, não em escala. Fonte editorial: FamiliaUSA1.</text>
+  </g>
+</svg>
