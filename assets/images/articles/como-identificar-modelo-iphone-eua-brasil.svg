@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Como identificar a versão regional de um iPhone</title>
+  <desc id="desc">Fluxo em quatro etapas para encontrar o número do modelo iniciado por A e verificar Apple, rede e Anatel.</desc>
+  <rect width="1200" height="675" rx="34" fill="#f7f3eb"/>
+  <text x="70" y="84" fill="#16283f" font-family="Georgia, serif" font-size="43" font-weight="700">Como confirmar a versão do iPhone</text>
+  <text x="70" y="126" fill="#5d5549" font-family="Arial, sans-serif" font-size="22">Não dependa da aparência ou apenas da palavra “americano”.</text>
+
+  <g font-family="Arial, sans-serif">
+    <g transform="translate(70 190)">
+      <rect width="240" height="300" rx="24" fill="#fff" stroke="#d8d0c4"/>
+      <circle cx="52" cy="54" r="28" fill="#17304d"/>
+      <text x="52" y="63" text-anchor="middle" fill="#fff" font-size="25" font-weight="700">1</text>
+      <text x="30" y="120" fill="#16283f" font-size="24" font-weight="700">Abra os Ajustes</text>
+      <text x="30" y="165" fill="#5d5549" font-size="19">Geral</text>
+      <text x="30" y="198" fill="#5d5549" font-size="19">→ Sobre</text>
+      <text x="30" y="245" fill="#5d5549" font-size="18">Localize o campo</text>
+      <text x="30" y="274" fill="#16283f" font-size="19" font-weight="700">Nº do Modelo</text>
+    </g>
+    <path d="M326 340h52" stroke="#c96b3b" stroke-width="5" stroke-linecap="round"/><path d="M366 328l14 12-14 12" fill="none" stroke="#c96b3b" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <g transform="translate(390 190)">
+      <rect width="240" height="300" rx="24" fill="#fff" stroke="#d8d0c4"/>
+      <circle cx="52" cy="54" r="28" fill="#2f5c4f"/>
+      <text x="52" y="63" text-anchor="middle" fill="#fff" font-size="25" font-weight="700">2</text>
+      <text x="30" y="120" fill="#16283f" font-size="24" font-weight="700">Toque no código</text>
+      <text x="30" y="165" fill="#5d5549" font-size="18">O primeiro valor é</text>
+      <text x="30" y="195" fill="#16283f" font-size="19" font-weight="700">o código de peça.</text>
+      <text x="30" y="240" fill="#5d5549" font-size="18">Toque para mostrar</text>
+      <text x="30" y="270" fill="#16283f" font-size="19" font-weight="700">o modelo iniciado por A.</text>
+    </g>
+    <path d="M646 340h52" stroke="#c96b3b" stroke-width="5" stroke-linecap="round"/><path d="M686 328l14 12-14 12" fill="none" stroke="#c96b3b" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <g transform="translate(710 190)">
+      <rect width="240" height="300" rx="24" fill="#fff" stroke="#d8d0c4"/>
+      <circle cx="52" cy="54" r="28" fill="#315b86"/>
+      <text x="52" y="63" text-anchor="middle" fill="#fff" font-size="25" font-weight="700">3</text>
+      <text x="30" y="120" fill="#16283f" font-size="24" font-weight="700">Consulte a Apple</text>
+      <text x="30" y="165" fill="#5d5549" font-size="18">Compare o número A</text>
+      <text x="30" y="195" fill="#5d5549" font-size="18">com a página oficial.</text>
+      <text x="30" y="240" fill="#16283f" font-size="19" font-weight="700">Veja SIM, bandas</text>
+      <text x="30" y="270" fill="#16283f" font-size="19" font-weight="700">e região de venda.</text>
+    </g>
+    <path d="M966 340h42" stroke="#c96b3b" stroke-width="5" stroke-linecap="round"/><path d="M996 328l14 12-14 12" fill="none" stroke="#c96b3b" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <g transform="translate(1020 190)">
+      <rect width="110" height="300" rx="24" fill="#17304d"/>
+      <circle cx="55" cy="54" r="28" fill="#f0c36b"/>
+      <text x="55" y="63" text-anchor="middle" fill="#17304d" font-size="25" font-weight="700">4</text>
+      <text x="55" y="130" text-anchor="middle" fill="#fff" font-size="19" font-weight="700">REDE</text>
+      <text x="55" y="168" text-anchor="middle" fill="#fff" font-size="19" font-weight="700">+</text>
+      <text x="55" y="206" text-anchor="middle" fill="#fff" font-size="19" font-weight="700">ANATEL</text>
+      <text x="55" y="238" text-anchor="middle" fill="#d9e2ef" font-size="15">Confirme</text>
+      <text x="55" y="264" text-anchor="middle" fill="#d9e2ef" font-size="15">antes de</text>
+      <text x="55" y="290" text-anchor="middle" fill="#d9e2ef" font-size="15">comprar</text>
+    </g>
+  </g>
+  <rect x="190" y="550" width="820" height="62" rx="20" fill="#e8f2ed" stroke="#2f5c4f"/>
+  <text x="600" y="589" text-anchor="middle" fill="#17304d" font-family="Arial, sans-serif" font-size="21" font-weight="700">Código de peça e número do modelo são informações diferentes.</text>
+</svg>
