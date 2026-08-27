@@ -2948,29 +2948,29 @@
         "FAQPage existe, mas FAQ visivel nao foi extraido pelo seletor atual."
       ]
     },
-    {
+{
       "originalPath": "articles/cidades-da-florida-com-mais-brasileiros-2026.html",
       "slug": "cidades-da-florida-com-mais-brasileiros-2026",
       "expectedUrl": "https://familiausa1.com/articles/cidades-da-florida-com-mais-brasileiros-2026.html",
-      "title": "Cidades da Flórida com mais brasileiros em 2026",
-      "metaDescription": "Veja quais cidades da Flórida têm mais brasileiros em 2026, como Orlando, Miami, Deerfield Beach, Boca Raton, Tampa e Jacksonville.",
+      "title": "Cidades da Flórida com mais brasileiros em 2026: onde morar e encontrar comunidade | FamiliaUSA1",
+      "metaDescription": "Veja cidades da Flórida com mais brasileiros em 2026: Orlando, Miami, Deerfield Beach, Pompano Beach, Fort Lauderdale, Boca Raton, Jacksonville, Tampa e outras.",
       "canonical": "https://familiausa1.com/articles/cidades-da-florida-com-mais-brasileiros-2026.html",
       "openGraph": {
         "title": "Cidades da Flórida com mais brasileiros em 2026",
-        "description": "Veja quais cidades da Flórida têm mais brasileiros em 2026, como Orlando, Miami, Deerfield Beach, Boca Raton, Tampa e Jacksonville.",
-        "image": "https://familiausa1.com/assets/images/familiausa1-share.svg"
+        "description": "Guia para brasileiros encontrarem comunidade na Flórida, agora com dados oficiais, metodologia e diferenças entre cidade e condado.",
+        "image": "https://familiausa1.com/assets/images/articles/brasileiros-florida-regioes.svg"
       },
       "twitter": {
         "title": "Cidades da Flórida com mais brasileiros em 2026",
-        "description": "Veja quais cidades da Flórida têm mais brasileiros em 2026, como Orlando, Miami, Deerfield Beach, Boca Raton, Tampa e Jacksonville."
+        "description": "Compare comunidades brasileiras da Flórida usando dados oficiais e uma metodologia clara."
       },
-      "h1": "Quais cidades da Flórida têm mais brasileiros em 2026?",
+      "h1": "Cidades da Flórida com mais brasileiros em 2026: onde morar e encontrar comunidade",
       "category": "Guia pilar",
       "datePublished": "2026-06-02",
-      "dateModified": "2026-07-10",
+      "dateModified": "2026-08-27",
       "readingTime": "18 min de leitura",
       "schemas": {
-        "jsonLdBlockCount": 1,
+        "jsonLdBlockCount": 2,
         "invalidJsonLd": [],
         "blogPosting": {
           "@context": "https://schema.org",
@@ -2979,7 +2979,7 @@
           "description": "Veja cidades da Flórida com mais brasileiros em 2026: Orlando, Miami, Deerfield Beach, Pompano Beach, Fort Lauderdale, Boca Raton, Jacksonville, Tampa e outras.",
           "url": "https://familiausa1.com/articles/cidades-da-florida-com-mais-brasileiros-2026.html",
           "datePublished": "2026-06-02",
-          "dateModified": "2026-06-02",
+          "dateModified": "2026-08-27",
           "inLanguage": "pt-BR",
           "author": {
             "@type": "Organization",
@@ -2993,33 +2993,94 @@
             "@type": "WebPage",
             "@id": "https://familiausa1.com/articles/cidades-da-florida-com-mais-brasileiros-2026.html"
           },
-          "image": "https://familiausa1.com/assets/images/familiausa1-share.svg"
+          "image": "https://familiausa1.com/assets/images/articles/brasileiros-florida-regioes.svg"
         },
-        "faqPage": null,
+        "faqPage": {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Qual cidade da Flórida tem mais brasileiros?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Depende da métrica. No ACS 2024 de cinco anos, Orlando tem a maior estimativa pontual de moradores nascidos no Brasil entre os lugares da Flórida, com 10.312, enquanto Deerfield Beach tem 8.376. Por ancestralidade brasileira, Deerfield Beach aparece com 7.869 e Orlando com 7.457. As margens de erro se sobrepõem, portanto os dados não sustentam um vencedor absoluto."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Onde há mais brasileiros na Flórida por região?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Os dados por condado destacam dois grandes eixos: Broward e Palm Beach, no sul da Flórida, e Orange e Osceola, na região de Orlando. Miami-Dade também tem uma comunidade numerosa. Esses condados não devem ser comparados diretamente com cidades."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Orlando tem muitos brasileiros?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sim. O ACS 2024 de cinco anos estima 10.312 moradores nascidos no Brasil em Orlando, com margem de erro de 1.744. Orange County, que inclui Orlando e outras localidades, tem estimativa de 30.773, com margem de erro de 3.086."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Deerfield Beach tem comunidade brasileira?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Sim. Deerfield Beach aparece entre as maiores concentrações municipais nas duas métricas analisadas: nascimento no Brasil e ancestralidade brasileira. A cidade integra o corredor de Broward, condado que lidera a estimativa estadual de moradores nascidos no Brasil por uma pequena diferença sobre Orange County."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Miami é a cidade da Flórida com mais brasileiros?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Não pela estimativa municipal do ACS 2024 de cinco anos. Miami tem estimativa de 5.234 moradores nascidos no Brasil, abaixo de Orlando e Deerfield Beach. Já Miami-Dade County tem 20.911, mas esse número cobre todo o condado, não apenas a cidade de Miami."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Qual é a melhor cidade da Flórida para brasileiros?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Não existe uma única melhor cidade. Comunidade brasileira é apenas um critério. Trabalho, aluguel, escola, transporte, seguro, risco climático e distância da rotina devem pesar mais na decisão final."
+              }
+            }
+          ]
+        },
         "hasBlogPosting": true,
-        "hasFAQPage": false
+        "hasFAQPage": true
       },
       "visibleFaqs": [
         {
           "question": "Qual cidade da Flórida tem mais brasileiros?",
-          "answer": "Orlando, Miami, Deerfield Beach, Pompano Beach, Fort Lauderdale, Boca Raton e Jacksonville costumam aparecer entre as cidades mais lembradas por brasileiros. A presença muda por bairro e região."
+          "answer": "Depende da métrica. No ACS 2024 de cinco anos, Orlando tem a maior estimativa pontual de moradores nascidos no Brasil entre os lugares da Flórida, com 10.312, enquanto Deerfield Beach tem 8.376. Por ancestralidade brasileira, Deerfield Beach aparece com 7.869 e Orlando com 7.457. As margens de erro se sobrepõem, portanto os dados não sustentam um vencedor absoluto."
         },
         {
-          "question": "Qual a melhor cidade da Flórida para brasileiros?",
-          "answer": "Depende do perfil. Orlando costuma ser boa para famílias e recém-chegados; Miami para quem tem renda maior e busca vida latina; Deerfield e Pompano para comunidade em South Florida; Tampa para equilíbrio; Jacksonville para custo e cidade grande."
+          "question": "Onde há mais brasileiros na Flórida por região?",
+          "answer": "Os dados por condado destacam dois grandes eixos: Broward e Palm Beach, no sul da Flórida, e Orange e Osceola, na região de Orlando. Miami-Dade também tem uma comunidade numerosa. Esses condados não devem ser comparados diretamente com cidades."
         },
         {
-          "question": "É melhor morar perto de brasileiros?",
-          "answer": "Pode ajudar muito na adaptação, mas não deve ser o único critério. Trabalho, aluguel, escola, carro, seguro e documentos são mais importantes para a estabilidade da família."
+          "question": "Orlando tem muitos brasileiros?",
+          "answer": "Sim. O ACS 2024 de cinco anos estima 10.312 moradores nascidos no Brasil em Orlando, com margem de erro de 1.744. Orange County, que inclui Orlando e outras localidades, tem estimativa de 30.773, com margem de erro de 3.086."
         },
         {
-          "question": "Qual cidade da Flórida é melhor para começar?",
-          "answer": "Para muitos brasileiros, Orlando, Kissimmee, Tampa, Jacksonville e algumas cidades próximas de Orlando podem ser mais práticas para começar. Mas tudo depende da renda, trabalho, família e reserva financeira."
+          "question": "Deerfield Beach tem comunidade brasileira?",
+          "answer": "Sim. Deerfield Beach aparece entre as maiores concentrações municipais nas duas métricas analisadas: nascimento no Brasil e ancestralidade brasileira. A cidade integra o corredor de Broward, condado que lidera a estimativa estadual de moradores nascidos no Brasil por uma pequena diferença sobre Orange County."
+        },
+        {
+          "question": "Miami é a cidade da Flórida com mais brasileiros?",
+          "answer": "Não pela estimativa municipal do ACS 2024 de cinco anos. Miami tem estimativa de 5.234 moradores nascidos no Brasil, abaixo de Orlando e Deerfield Beach. Já Miami-Dade County tem 20.911, mas esse número cobre todo o condado, não apenas a cidade de Miami."
+        },
+        {
+          "question": "Qual é a melhor cidade da Flórida para brasileiros?",
+          "answer": "Não existe uma única melhor cidade. Comunidade brasileira é apenas um critério. Trabalho, aluguel, escola, transporte, seguro, risco climático e distância da rotina devem pesar mais na decisão final."
         }
       ],
-      "articleContentHtml": "<div class=\"quick-summary\"><strong>Resposta rápida:</strong> As cidades da Flórida com presença brasileira mais lembrada incluem Orlando, Miami, Deerfield Beach, Pompano Beach, Fort Lauderdale, Boca Raton, Tampa e Jacksonville. Mas esta não é uma lista oficial por censo: é um mapa prático para comparar comunidade, custo, trabalho, escola e rotina antes de escolher onde morar.</div>\n        <p>Uma das primeiras perguntas de quem pensa em mudar para os Estados Unidos é: <strong>onde tem mais brasileiros na Flórida?</strong> A pergunta faz sentido. Ter comunidade por perto pode ajudar na adaptação, nos primeiros contatos, na indicação de serviços, na igreja, no mercado, na escola dos filhos e até no emocional da família.</p><p>Mas existe um cuidado importante: comunidade brasileira ajuda, mas não resolve tudo. Morar perto de brasileiros não substitui planejamento financeiro, documentação correta, inglês, trabalho, escola, carro, seguro e reserva de emergência.</p>\n        <div class=\"warning-box\"><strong>Atenção:</strong> este guia não é um ranking oficial por número exato de brasileiros. É um mapa prático das cidades e regiões mais lembradas, pesquisadas e usadas por brasileiros na Flórida, com foco em decisão de moradia.</div>\n        <h2>Lista rápida: cidades da Flórida com presença brasileira relevante</h2><table><thead><tr><th>Cidade/região</th><th>Perfil principal</th><th>Melhor para</th></tr></thead><tbody><tr><td>Orlando</td><td>Comunidade brasileira, turismo, serviços e famílias</td><td>Recém-chegados e famílias</td></tr><tr><td>Miami</td><td>Vida latina, negócios, praia e custo alto</td><td>Renda maior e mercado internacional</td></tr><tr><td>Deerfield Beach</td><td>Comunidade brasileira e praia</td><td>Rede de apoio em South Florida</td></tr><tr><td>Pompano Beach</td><td>Broward, praia e presença brasileira</td><td>Acesso a Fort Lauderdale e Deerfield</td></tr><tr><td>Fort Lauderdale</td><td>Aeroporto, praia e alternativa a Miami</td><td>Trabalho em Broward</td></tr><tr><td>Boca Raton</td><td>Famílias, escolas e custo alto</td><td>Famílias com renda compatível</td></tr><tr><td>Jacksonville</td><td>Custo-benefício, logística e cidade grande</td><td>Trabalho e moradia mais racional</td></tr><tr><td>Tampa</td><td>Trabalho, qualidade de vida e Tampa Bay</td><td>Famílias e profissionais</td></tr></tbody></table>\n        <h2>1. Orlando: a cidade mais lembrada por famílias brasileiras</h2><p>Orlando é uma das cidades mais fortes para brasileiros na Flórida. A comunidade é visível, há muitos serviços em português, igrejas, mercados, restaurantes, escolas procuradas por brasileiros e oportunidades ligadas a turismo, parques, hotelaria, limpeza, construção, manutenção e serviços.</p><p>Orlando costuma ser uma porta de entrada para famílias, mas não deve ser vista como cidade barata. Aluguel, carro, seguro, escola, saúde e distância do trabalho precisam entrar na conta.</p><p><a href=\"quanto-custa-morar-em-orlando-2026.html\">Leia o guia completo de Orlando</a> e compare também <a href=\"kissimmee-ou-orlando-onde-morar-2026.html\">Kissimmee ou Orlando</a>.</p>\n        <h2>2. Miami: brasileiros dentro de uma cidade latina e internacional</h2><p>Miami é muito desejada por brasileiros, especialmente por quem busca vida latina, praia, negócios, comércio internacional, imóveis, turismo, restaurantes, estética e conexão com a América Latina. Mas o custo é alto e a cidade exige renda, planejamento e pesquisa de bairro.</p><p>Para quem está começando com pouca reserva, Miami pode ser pesada. Muitas famílias comparam Miami com Fort Lauderdale, Boca Raton, Deerfield Beach e Pompano Beach.</p><p><a href=\"quanto-custa-morar-em-miami-2026.html\">Leia o guia completo de Miami</a> e veja também <a href=\"miami-ou-fort-lauderdale-onde-morar-2026.html\">Miami ou Fort Lauderdale</a>.</p>\n        <h2>3. Deerfield Beach: comunidade brasileira forte em South Florida</h2><p>Deerfield Beach é frequentemente lembrada quando brasileiros falam sobre comunidade no sul da Flórida. A cidade pode ajudar na adaptação por causa de serviços, restaurantes, igrejas, contatos e rede de apoio em português.</p><p>Ela também fica bem posicionada entre Boca Raton, Pompano Beach e Fort Lauderdale. O cuidado é pesquisar bairro, escola, trabalho, segurança e custo real.</p><p><a href=\"morar-em-deerfield-beach-2026.html\">Leia o guia completo de Deerfield Beach</a> e compare <a href=\"deerfield-beach-ou-pompano-beach-2026.html\">Deerfield Beach ou Pompano Beach</a>.</p>\n        <h2>4. Pompano Beach: praia, Broward e acesso regional</h2><p>Pompano Beach também faz parte do eixo com forte circulação brasileira em Broward. Ela pode interessar quem busca praia, localização entre Fort Lauderdale e Deerfield Beach, serviços, trabalho regional e acesso a outras cidades.</p><p>Como em toda South Florida, o bairro muda tudo. Aluguel, segurança, seguro, carro e distância precisam ser analisados antes de decidir.</p><p><a href=\"morar-em-pompano-beach-2026.html\">Leia o guia completo de Pompano Beach</a>.</p>\n        <h2>5. Fort Lauderdale: alternativa a Miami com aeroporto e praia</h2><p>Fort Lauderdale costuma ser uma alternativa para quem quer South Florida sem morar exatamente em Miami. A cidade tem praia, aeroporto, serviços, turismo, marinas e acesso a Broward e Miami.</p><p>É uma região interessante para quem trabalha em Broward ou precisa circular entre várias cidades, mas o custo continua alto.</p><p><a href=\"quanto-custa-morar-em-fort-lauderdale-2026.html\">Leia o guia completo de Fort Lauderdale</a>.</p>\n        <h2>6. Boca Raton: famílias, escolas e maior poder aquisitivo</h2><p>Boca Raton atrai muitas famílias brasileiras que procuram qualidade de vida, escolas, organização e uma rotina mais residencial. Mas o custo pode ser alto, especialmente para casas e bairros mais desejados.</p><p>É uma cidade que pode funcionar muito bem para o perfil certo, mas não costuma ser a melhor opção para quem chega com pouca reserva.</p><p><a href=\"quanto-custa-morar-em-boca-raton-2026.html\">Leia o guia completo de Boca Raton</a> e veja <a href=\"boca-raton-ou-fort-lauderdale-onde-morar-2026.html\">Boca Raton ou Fort Lauderdale</a>.</p>\n        <h2>7. Jacksonville: cidade grande com custo mais racional</h2><p>Jacksonville nem sempre aparece primeiro no imaginário de quem vem do Brasil, mas pode ser interessante para quem busca cidade grande, logística, saúde, serviços, custo mais racional e rotina menos turística.</p><p>A comunidade brasileira pode ser menos visível que em Orlando ou South Florida, mas a cidade pode fazer sentido para trabalho e moradia.</p><p><a href=\"quanto-custa-morar-em-jacksonville-2026.html\">Leia o guia completo de Jacksonville</a>.</p>\n        <h2>8. Tampa: equilíbrio entre trabalho, família e qualidade de vida</h2><p>Tampa aparece cada vez mais nas pesquisas de brasileiros porque oferece trabalho, aeroporto, baía, praias próximas, vida urbana e custo geralmente mais racional que Miami. A comunidade brasileira existe, mas não tem a mesma visibilidade de Orlando em todas as regiões.</p><p>Para famílias e profissionais, Tampa pode ser uma das cidades mais equilibradas da Flórida.</p><p><a href=\"quanto-custa-morar-em-tampa-2026.html\">Leia o guia completo de Tampa</a> e veja <a href=\"vale-a-pena-morar-em-orlando-ou-tampa-2026.html\">Orlando ou Tampa</a>.</p>\n        <h2>Outras cidades importantes para brasileiros</h2><div class=\"city-hub\"><a href=\"morar-em-west-palm-beach-2026.html\"><strong>West Palm Beach</strong><span>Cidade maior no norte de South Florida, com trabalho, aeroporto e acesso a praias.</span><div class=\"tag-row\"><span>Palm Beach County</span><span>trabalho</span></div></a><a href=\"morar-em-delray-beach-2026.html\"><strong>Delray Beach</strong><span>Praia, lifestyle e conexão com Boca Raton e West Palm Beach.</span><div class=\"tag-row\"><span>praia</span><span>South Florida</span></div></a><a href=\"morar-em-winter-garden-2026.html\"><strong>Winter Garden</strong><span>Famílias, escolas e vida suburbana perto de Orlando.</span><div class=\"tag-row\"><span>família</span><span>Orlando</span></div></a><a href=\"morar-em-davenport-florida-2026.html\"><strong>Davenport</strong><span>Casas maiores, aluguel diferente e distância de Orlando.</span><div class=\"tag-row\"><span>casa</span><span>Central Florida</span></div></a><a href=\"morar-em-clermont-florida-2026.html\"><strong>Clermont</strong><span>Rotina suburbana, espaço e acesso ao oeste de Orlando.</span><div class=\"tag-row\"><span>família</span><span>subúrbio</span></div></a><a href=\"quanto-custa-morar-em-kissimmee-2026.html\"><strong>Kissimmee</strong><span>Porta de entrada perto dos parques e muito pesquisada por recém-chegados.</span><div class=\"tag-row\"><span>parques</span><span>recém-chegados</span></div></a></div>\n        <h2>Regiões da Flórida para entender antes de escolher</h2><table><thead><tr><th>Região</th><th>Cidades principais</th><th>Perfil</th></tr></thead><tbody><tr><td>Central Florida</td><td>Orlando, Kissimmee, Davenport, Winter Garden, Clermont, Lakeland</td><td>Famílias, turismo, comunidade brasileira e custo variado.</td></tr><tr><td>South Florida</td><td>Miami, Fort Lauderdale, Boca Raton, Deerfield, Pompano, Delray, West Palm</td><td>Praia, vida latina, custo alto e presença brasileira.</td></tr><tr><td>Tampa Bay / Gulf Coast</td><td>Tampa, St. Petersburg, Clearwater, Sarasota</td><td>Qualidade de vida, trabalho, praias e custo intermediário.</td></tr><tr><td>Southwest Florida</td><td>Naples, Cape Coral, Fort Myers</td><td>Casas, aposentadoria, praia, custo variado e atenção a furacões.</td></tr></tbody></table>\n        <h2>Como escolher uma cidade com brasileiros sem cair em erro</h2><p>Ter brasileiros por perto pode ser ótimo. Ajuda na adaptação, reduz a solidão, facilita serviços e pode abrir portas. Mas também pode gerar dependência, informações erradas e decisões por emoção.</p><p>Antes de escolher, responda:</p><ul><li>Onde eu provavelmente vou trabalhar?</li><li>Quanto posso pagar de aluguel sem sufocar?</li><li>Quanto custará carro, seguro e gasolina?</li><li>A escola dos meus filhos faz sentido?</li><li>Tenho reserva para os primeiros meses?</li><li>A cidade combina com meu status migratório e plano real?</li></ul>\n        <div class=\"final-article-cta checklist-cta\">\n          <h2>Planejando sua mudança?</h2>\n          <p>Baixe o checklist gratuito da mudança para os EUA e organize documentos, dinheiro, moradia, escola, carro e os primeiros passos.</p>\n          <div class=\"actions\"><a class=\"button primary\" href=\"../checklist-mudanca-eua.html\">Baixar checklist</a></div>\n        </div>\n\n        <div class=\"decision-box\"><h2>Próximo passo</h2><p>Use este artigo como mapa inicial. Depois escolha três cidades finalistas e compare os guias completos.</p><p><a href=\"../categorias/cidades-da-florida.html\">Ver guia central de cidades da Flórida</a> · <a href=\"quanto-custa-morar-em-orlando-2026.html\">Orlando</a> · <a href=\"quanto-custa-morar-em-miami-2026.html\">Miami</a> · <a href=\"morar-em-deerfield-beach-2026.html\">Deerfield Beach</a> · <a href=\"quanto-custa-morar-em-tampa-2026.html\">Tampa</a></p></div>\n        <h2>Perguntas frequentes</h2><h3>Qual cidade da Flórida tem mais brasileiros?</h3><p>Orlando, Miami, Deerfield Beach, Pompano Beach, Fort Lauderdale, Boca Raton e Jacksonville costumam aparecer entre as cidades mais lembradas por brasileiros. A presença muda por bairro e região.</p><h3>Qual a melhor cidade da Flórida para brasileiros?</h3><p>Depende do perfil. Orlando costuma ser boa para famílias e recém-chegados; Miami para quem tem renda maior e busca vida latina; Deerfield e Pompano para comunidade em South Florida; Tampa para equilíbrio; Jacksonville para custo e cidade grande.</p><h3>É melhor morar perto de brasileiros?</h3><p>Pode ajudar muito na adaptação, mas não deve ser o único critério. Trabalho, aluguel, escola, carro, seguro e documentos são mais importantes para a estabilidade da família.</p><h3>Qual cidade da Flórida é melhor para começar?</h3><p>Para muitos brasileiros, Orlando, Kissimmee, Tampa, Jacksonville e algumas cidades próximas de Orlando podem ser mais práticas para começar. Mas tudo depende da renda, trabalho, família e reserva financeira.</p>",
-      "articleContentTextSample": "As cidades da Flórida com mais presença brasileira incluem Orlando, Miami, Deerfield Beach, Pompano Beach, Fort Lauderdale, Boca Raton, Tampa e Jacksonville, mas a melhor escolha depende de custo, trabalho e família.",
-      "articleContentWordCount": 1376,
+      "articleContentHtml": "<div class=\"quick-summary\"><strong>Resposta direta:</strong> no ACS 2024 de cinco anos, Orlando tem a maior estimativa pontual de moradores nascidos no Brasil entre os lugares da Flórida, com 10.312. Deerfield Beach aparece em seguida, com 8.376, e lidera quando a métrica é ancestralidade brasileira. Como as margens de erro se sobrepõem, não é correto declarar uma cidade como vencedora absoluta. Por condado, os maiores eixos são Broward e Orange.</div>\n\n        <nav class=\"article-navigation\" aria-label=\"Sumário do artigo\">\n          <p><strong>Neste guia</strong></p>\n          <ul>\n            <li><a href=\"#como-identificamos\">Como identificamos onde há mais brasileiros</a></li>\n            <li><a href=\"#dados-por-cidade\">O que os dados mostram por cidade</a></li>\n            <li><a href=\"#dados-por-condado\">O que muda quando olhamos condados</a></li>\n            <li><a href=\"#regioes\">Principais regiões e comunidades</a></li>\n            <li><a href=\"#como-escolher\">Como escolher além da comunidade</a></li>\n            <li><a href=\"#faq\">Perguntas frequentes</a></li>\n          </ul>\n        </nav>\n\n        <p>A pergunta “qual cidade da Flórida tem mais brasileiros?” parece simples, mas os bancos de dados não contam uma única população chamada “brasileiros”. O U.S. Census Bureau permite analisar pessoas <strong>nascidas no Brasil</strong> e pessoas que informaram <strong>ancestralidade brasileira</strong>. O Itamaraty produz estimativas de cidadãos brasileiros por jurisdição consular. Esses grupos se cruzam, mas não são idênticos.</p>\n        <p>Além disso, Orlando é uma cidade; Orange é um condado; South Florida é uma região; e a área metropolitana de Miami reúne muitos municípios. Misturar essas unidades cria rankings enganosos. Este guia separa cada nível e usa a comunidade como ponto de partida, não como promessa de que uma cidade será melhor para toda família.</p>\n\n        <figure style=\"margin:2rem 0\"><img src=\"../assets/images/articles/brasileiros-florida-como-ler-dados.svg\" alt=\"Diagrama explicando as diferenças entre nascimento no Brasil, ancestralidade brasileira, estimativa consular e presença comunitária\" width=\"1200\" height=\"675\" loading=\"eager\" decoding=\"async\" style=\"display:block;width:100%;height:auto;border-radius:20px\" /><figcaption style=\"margin-top:.65rem;color:#64748b;font-size:.92rem\">Cada fonte responde a uma pergunta diferente. Não some nem compare essas métricas como se fossem a mesma população.</figcaption></figure>\n\n        <h2 id=\"como-identificamos\">Como identificamos onde há mais brasileiros</h2>\n        <p>A principal base desta revisão é a <strong>American Community Survey 2024 de cinco anos</strong>. Esse produto reúne 60 meses de respostas e oferece estimativas para todas as áreas geográficas. Usamos duas tabelas detalhadas:</p>\n        <ul>\n          <li><strong>B05006:</strong> local de nascimento da população estrangeira, com a linha “Brazil”. É a melhor aproximação disponível aqui para moradores nascidos no Brasil.</li>\n          <li><strong>B04006:</strong> pessoas que declararam ancestralidade brasileira. A resposta é autodeclarada e uma pessoa pode informar mais de uma ancestralidade.</li>\n        </ul>\n        <p>Os números são <strong>estimativas amostrais</strong>, não uma contagem exata. O Census publica uma margem de erro com nível de confiança de 90%. Diferenças pequenas podem não ser estatisticamente significativas, especialmente quando os intervalos se sobrepõem.</p>\n        <div class=\"warning-box\"><strong>Como ler “10.312 ± 1.744”:</strong> 10.312 é a estimativa pontual e 1.744 é a margem de erro publicada pelo ACS. O intervalo ajuda a mostrar a incerteza da pesquisa; ele não deve ser tratado como cadastro individual de residentes.</div>\n\n        <h2 id=\"dados-por-cidade\">O que os dados mostram por cidade</h2>\n        <p>Entre os lugares tabulados pelo Census na Flórida, Orlando apresenta o maior valor pontual para pessoas nascidas no Brasil. Deerfield Beach fica em segundo nessa métrica e passa à frente quando se observa ancestralidade brasileira. Esse contraste explica por que rankings da internet podem apontar cidades diferentes.</p>\n        <table>\n          <caption>Estimativas de presença brasileira em lugares selecionados da Flórida</caption>\n          <thead><tr><th scope=\"col\">Lugar</th><th scope=\"col\">Nascidos no Brasil</th><th scope=\"col\">Ancestralidade brasileira</th></tr></thead>\n          <tbody>\n            <tr><td>Orlando</td><td>10.312 ± 1.744</td><td>7.457 ± 1.698</td></tr>\n            <tr><td>Deerfield Beach</td><td>8.376 ± 1.242</td><td>7.869 ± 1.622</td></tr>\n            <tr><td>Horizon West (CDP)</td><td>6.776 ± 1.819</td><td>4.234 ± 1.477</td></tr>\n            <tr><td>Miami</td><td>5.234 ± 805</td><td>3.618 ± 788</td></tr>\n            <tr><td>Jacksonville</td><td>4.094 ± 1.736</td><td>4.058 ± 1.740</td></tr>\n            <tr><td>Pompano Beach</td><td>4.012 ± 1.110</td><td>3.691 ± 1.287</td></tr>\n            <tr><td>Coconut Creek</td><td>3.480 ± 766</td><td>2.538 ± 891</td></tr>\n            <tr><td>Fort Lauderdale</td><td>1.916 ± 375</td><td>1.141 ± 299</td></tr>\n          </tbody>\n        </table>\n        <p><small><strong>Fonte e período:</strong> U.S. Census Bureau, ACS 2024 5-year, tabelas B05006 e B04006. Geografia: “place”, que inclui cidades incorporadas e census-designated places (CDPs). Métrica: estimativa ± margem de erro de 90%. A seleção acima mostra lugares relevantes para a intenção desta página e não deve ser lida como cadastro de cidadãos brasileiros.</small></p>\n        <p>Horizon West merece uma observação: é um <em>census-designated place</em>, não uma cidade incorporada. Ele faz parte do oeste de Orange County e ajuda a mostrar como a comunidade de Central Florida vai além dos limites municipais de Orlando.</p>\n\n        <h2 id=\"dados-por-condado\">O que muda quando olhamos condados</h2>\n        <p>Para entender a vida regional, o condado muitas vezes é mais útil que a cidade. Pessoas podem morar em um município, trabalhar em outro e usar escolas, serviços e comércio espalhados pelo mesmo corredor urbano.</p>\n        <table>\n          <caption>Condados da Flórida com maiores estimativas de moradores nascidos no Brasil</caption>\n          <thead><tr><th scope=\"col\">Condado</th><th scope=\"col\">Estimativa</th><th scope=\"col\">Região associada</th></tr></thead>\n          <tbody>\n            <tr><td>Broward County</td><td>30.890 ± 2.478</td><td>Fort Lauderdale, Deerfield, Pompano, Coconut Creek e outras</td></tr>\n            <tr><td>Orange County</td><td>30.773 ± 3.086</td><td>Orlando, Horizon West e arredores</td></tr>\n            <tr><td>Miami-Dade County</td><td>20.911 ± 1.436</td><td>Miami e municípios do condado</td></tr>\n            <tr><td>Palm Beach County</td><td>17.895 ± 2.017</td><td>Boca Raton, Delray e West Palm Beach</td></tr>\n            <tr><td>Hillsborough County</td><td>5.603 ± 854</td><td>Tampa e arredores</td></tr>\n            <tr><td>Osceola County</td><td>5.003 ± 1.300</td><td>Kissimmee e parte da Grande Orlando</td></tr>\n          </tbody>\n        </table>\n        <p><small><strong>Fonte e período:</strong> U.S. Census Bureau, ACS 2024 5-year, tabela B05006. Geografia: county. Métrica: pessoas estrangeiras cujo local de nascimento informado foi Brasil, estimativa ± margem de erro de 90%.</small></p>\n        <p>Broward e Orange têm valores pontuais quase iguais e intervalos sobrepostos. A leitura responsável é que ambos formam grandes polos, não que um deles venceu uma disputa por poucas pessoas. Miami-Dade e Palm Beach completam o eixo mais forte do sul da Flórida.</p>\n\n        <figure style=\"margin:2rem 0\"><img src=\"../assets/images/articles/brasileiros-florida-regioes.svg\" alt=\"Representação esquemática das principais regiões com comunidades brasileiras na Flórida\" width=\"1200\" height=\"675\" loading=\"lazy\" decoding=\"async\" style=\"display:block;width:100%;height:auto;border-radius:20px\" /><figcaption style=\"margin-top:.65rem;color:#64748b;font-size:.92rem\">Representação esquemática, não em escala. Os corredores comunitários atravessam limites municipais.</figcaption></figure>\n\n        <h2 id=\"regioes\">Principais regiões com comunidades brasileiras</h2>\n        <h3>Central Florida: Orlando e cidades vizinhas</h3>\n        <p>Orlando é o principal ponto municipal na métrica de nascimento no Brasil, mas a vida brasileira se espalha por Orange e Osceola counties. Horizon West, Kissimmee, Winter Garden, Clermont e Davenport entram nas pesquisas de famílias que buscam moradia perto da economia de Orlando sem necessariamente morar dentro da cidade.</p>\n        <p>Para avaliar rotina e orçamento, consulte <a href=\"quanto-custa-morar-em-orlando-2026.html\">quanto custa morar em Orlando</a>, compare <a href=\"kissimmee-ou-orlando-onde-morar-2026.html\">Kissimmee ou Orlando</a> e conheça os guias de <a href=\"morar-em-winter-garden-2026.html\">Winter Garden</a>, <a href=\"morar-em-clermont-florida-2026.html\">Clermont</a> e <a href=\"morar-em-davenport-florida-2026.html\">Davenport</a>.</p>\n\n        <h3>South Florida: Broward, Miami-Dade e Palm Beach</h3>\n        <p>South Florida não é uma cidade. É um corredor regional no qual Broward se destaca tanto pelo total estimado de nascidos no Brasil quanto por municípios com concentração visível, como Deerfield Beach, Pompano Beach e Coconut Creek. Fort Lauderdale funciona como centro regional e conexão de trabalho, aeroporto e serviços.</p>\n        <p>Ao norte, Palm Beach County inclui Boca Raton, Delray Beach e West Palm Beach. Ao sul, Miami-Dade reúne Miami e muitos outros municípios; por isso, o número do condado é muito maior que o da cidade de Miami.</p>\n        <p>Aprofunde nos guias de <a href=\"morar-em-deerfield-beach-2026.html\">Deerfield Beach</a>, <a href=\"morar-em-pompano-beach-2026.html\">Pompano Beach</a>, <a href=\"quanto-custa-morar-em-fort-lauderdale-2026.html\">Fort Lauderdale</a>, <a href=\"quanto-custa-morar-em-boca-raton-2026.html\">Boca Raton</a> e <a href=\"quanto-custa-morar-em-miami-2026.html\">Miami</a>.</p>\n\n        <h3>Tampa Bay: comunidade menor, mercado regional amplo</h3>\n        <p>Tampa não aparece entre as primeiras cidades nas estimativas municipais: o ACS indica 879 moradores nascidos no Brasil, com margem de erro de 236. Hillsborough County, porém, chega a 5.603 ± 854. Isso mostra por que observar apenas o limite da cidade pode esconder a distribuição regional.</p>\n        <p>Quem considera a costa oeste deve separar presença comunitária de decisão de moradia. Veja <a href=\"quanto-custa-morar-em-tampa-2026.html\">quanto custa morar em Tampa</a> e o comparativo <a href=\"morar-em-orlando-ou-tampa.html\">Orlando ou Tampa para diferentes perfis</a>.</p>\n\n        <h3>North e Southwest Florida</h3>\n        <p>Jacksonville tem estimativa municipal relevante, mas margem de erro ampla. Fort Myers e Lee County também aparecem nos dados, enquanto outras cidades têm grupos menores ou menos visíveis. Nessas regiões, trabalho, distância, transporte e rede de apoio podem pesar mais do que a quantidade estimada de brasileiros.</p>\n        <p>Leia os guias de <a href=\"quanto-custa-morar-em-jacksonville-2026.html\">Jacksonville</a> e <a href=\"morar-em-fort-myers-florida-2026.html\">Fort Myers</a> antes de comparar apenas pelo tamanho da comunidade.</p>\n\n        <h2 id=\"como-escolher\">Como escolher uma cidade além da comunidade brasileira</h2>\n        <p>Rede em português pode facilitar os primeiros meses, mas não compensa um aluguel incompatível, um trajeto inviável ou uma escola que não atende à família. Use a comunidade como um critério entre vários.</p>\n        <ul>\n          <li><strong>Trabalho:</strong> pesquise onde estão as vagas compatíveis e simule o trajeto em horário real.</li>\n          <li><strong>Moradia:</strong> compare aluguel, depósito, utilidades e exigências de crédito por endereço.</li>\n          <li><strong>Filhos:</strong> confirme a escola vinculada ao imóvel diretamente no distrito escolar.</li>\n          <li><strong>Transporte:</strong> calcule carro, seguro, combustível, pedágio e manutenção.</li>\n          <li><strong>Clima e seguro:</strong> verifique risco de enchente, evacuação e custo da cobertura.</li>\n          <li><strong>Vida legal:</strong> comunidade não substitui status migratório ou autorização de trabalho.</li>\n          <li><strong>Rede de apoio:</strong> avalie serviços em português sem deixar de construir autonomia em inglês.</li>\n        </ul>\n        <p>Para uma comparação orientada por perfil, use o guia das <a href=\"melhores-cidades-da-florida-para-brasileiros.html\">melhores cidades da Flórida para brasileiros</a>. Esta página responde onde há concentração; o outro artigo ajuda a decidir qual cidade combina com orçamento e rotina.</p>\n\n        <div class=\"final-article-cta checklist-cta\">\n          <h2>Planejando sua mudança?</h2>\n          <p>Baixe o checklist gratuito da mudança para os EUA e organize documentos, dinheiro, moradia, escola, carro e os primeiros passos.</p>\n          <div class=\"actions\"><a class=\"button primary\" href=\"../checklist-mudanca-eua.html\">Baixar checklist</a></div>\n        </div>\n\n        <div class=\"decision-box\"><h2>Próximo passo</h2><p>Escolha duas regiões, não apenas duas cidades. Depois compare três endereços reais por aluguel, trabalho, escola, carro, seguro e tempo de deslocamento.</p><p><a href=\"../categorias/cidades-da-florida.html\">Explorar o hub de cidades da Flórida</a> · <a href=\"melhores-cidades-da-florida-para-brasileiros.html\">Comparar cidades por perfil</a></p></div>\n\n        <h2 id=\"faq\">Perguntas frequentes</h2>\n        <h3>Qual cidade da Flórida tem mais brasileiros?</h3><p>Depende da métrica. No ACS 2024 de cinco anos, Orlando tem a maior estimativa pontual de moradores nascidos no Brasil entre os lugares da Flórida, com 10.312, enquanto Deerfield Beach tem 8.376. Por ancestralidade brasileira, Deerfield Beach aparece com 7.869 e Orlando com 7.457. As margens de erro se sobrepõem, portanto os dados não sustentam um vencedor absoluto.</p>\n        <h3>Onde há mais brasileiros na Flórida por região?</h3><p>Os dados por condado destacam dois grandes eixos: Broward e Palm Beach, no sul da Flórida, e Orange e Osceola, na região de Orlando. Miami-Dade também tem uma comunidade numerosa. Esses condados não devem ser comparados diretamente com cidades.</p>\n        <h3>Orlando tem muitos brasileiros?</h3><p>Sim. O ACS 2024 de cinco anos estima 10.312 moradores nascidos no Brasil em Orlando, com margem de erro de 1.744. Orange County, que inclui Orlando e outras localidades, tem estimativa de 30.773, com margem de erro de 3.086.</p>\n        <h3>Deerfield Beach tem comunidade brasileira?</h3><p>Sim. Deerfield Beach aparece entre as maiores concentrações municipais nas duas métricas analisadas: nascimento no Brasil e ancestralidade brasileira. A cidade integra o corredor de Broward, condado que lidera a estimativa estadual de moradores nascidos no Brasil por uma pequena diferença sobre Orange County.</p>\n        <h3>Miami é a cidade da Flórida com mais brasileiros?</h3><p>Não pela estimativa municipal do ACS 2024 de cinco anos. Miami tem estimativa de 5.234 moradores nascidos no Brasil, abaixo de Orlando e Deerfield Beach. Já Miami-Dade County tem 20.911, mas esse número cobre todo o condado, não apenas a cidade de Miami.</p>\n        <h3>Qual é a melhor cidade da Flórida para brasileiros?</h3><p>Não existe uma única melhor cidade. Comunidade brasileira é apenas um critério. Trabalho, aluguel, escola, transporte, seguro, risco climático e distância da rotina devem pesar mais na decisão final.</p>\n\n        <h2>Fontes e limitações</h2>\n        <ul>\n          <li><a href=\"https://data.census.gov/table/ACSDT5Y2024.B05006\" target=\"_blank\" rel=\"noopener\">U.S. Census Bureau — ACS 2024 5-year, tabela B05006</a>: local de nascimento da população estrangeira.</li>\n          <li><a href=\"https://data.census.gov/table/ACSDT5Y2024.B04006\" target=\"_blank\" rel=\"noopener\">U.S. Census Bureau — ACS 2024 5-year, tabela B04006</a>: pessoas que declararam ancestralidade.</li>\n          <li><a href=\"https://www.census.gov/programs-surveys/acs/methodology/sample-size-and-data-quality/sample-size-definitions.html\" target=\"_blank\" rel=\"noopener\">U.S. Census Bureau — amostra e margem de erro do ACS</a>: interpretação das estimativas e do nível de confiança de 90%.</li>\n          <li><a href=\"https://www.census.gov/programs-surveys/acs/geography-acs/areas-published.html\" target=\"_blank\" rel=\"noopener\">U.S. Census Bureau — áreas geográficas publicadas</a>: diferenças entre produtos de um e cinco anos.</li>\n          <li><a href=\"https://www.census.gov/topics/population/ancestry/guidance.html\" target=\"_blank\" rel=\"noopener\">U.S. Census Bureau — orientação sobre dados de ancestralidade</a>: escopo e tabelas disponíveis.</li>\n          <li><a href=\"https://www.gov.br/mre/pt-br/assuntos/portal-consular/brasileiros-no-exterior-estimativas-ano-a-ano\" target=\"_blank\" rel=\"noopener\">Ministério das Relações Exteriores — estimativas de brasileiros no exterior</a>: metodologia consular, útil como contexto nacional e por jurisdição, não como ranking municipal do Census.</li>\n        </ul>\n        <div class=\"warning-box\"><strong>Aviso editorial:</strong> este conteúdo interpreta estimativas públicas e não substitui consulta direta às tabelas oficiais. Os números podem mudar em novas edições do ACS. Decisões de moradia exigem pesquisa atual por endereço e orientação profissional quando houver questões imobiliárias, financeiras ou migratórias.</div>",
+      "articleContentTextSample": "Resposta direta: no ACS 2024 de cinco anos, Orlando tem a maior estimativa pontual de moradores nascidos no Brasil entre os lugares da Flórida, com 10.312. Deerfield Beach aparece em seguida, com 8.376, e lidera quando a métrica é ancestralidade brasileira. Como as margens de erro se sobrepõem, não é correto declarar uma cidade como vencedora absoluta. Por condado, os maiores eixos são Broward e Orange. Neste guia Como identificamos onde há mais brasileiros O que os dados mostram por cidade O qu",
+      "articleContentWordCount": 1833,
       "internalLinks": [
         {
           "href": "../index.html",
@@ -3051,79 +3112,63 @@
         },
         {
           "href": "quanto-custa-morar-em-orlando-2026.html",
-          "anchor": "Leia o guia completo de Orlando"
+          "anchor": "quanto custa morar em Orlando"
         },
         {
           "href": "kissimmee-ou-orlando-onde-morar-2026.html",
           "anchor": "Kissimmee ou Orlando"
         },
         {
-          "href": "quanto-custa-morar-em-miami-2026.html",
-          "anchor": "Leia o guia completo de Miami"
-        },
-        {
-          "href": "miami-ou-fort-lauderdale-onde-morar-2026.html",
-          "anchor": "Miami ou Fort Lauderdale"
-        },
-        {
-          "href": "morar-em-deerfield-beach-2026.html",
-          "anchor": "Leia o guia completo de Deerfield Beach"
-        },
-        {
-          "href": "deerfield-beach-ou-pompano-beach-2026.html",
-          "anchor": "Deerfield Beach ou Pompano Beach"
-        },
-        {
-          "href": "morar-em-pompano-beach-2026.html",
-          "anchor": "Leia o guia completo de Pompano Beach"
-        },
-        {
-          "href": "quanto-custa-morar-em-fort-lauderdale-2026.html",
-          "anchor": "Leia o guia completo de Fort Lauderdale"
-        },
-        {
-          "href": "quanto-custa-morar-em-boca-raton-2026.html",
-          "anchor": "Leia o guia completo de Boca Raton"
-        },
-        {
-          "href": "boca-raton-ou-fort-lauderdale-onde-morar-2026.html",
-          "anchor": "Boca Raton ou Fort Lauderdale"
-        },
-        {
-          "href": "quanto-custa-morar-em-jacksonville-2026.html",
-          "anchor": "Leia o guia completo de Jacksonville"
-        },
-        {
-          "href": "quanto-custa-morar-em-tampa-2026.html",
-          "anchor": "Leia o guia completo de Tampa"
-        },
-        {
-          "href": "vale-a-pena-morar-em-orlando-ou-tampa-2026.html",
-          "anchor": "Orlando ou Tampa"
-        },
-        {
-          "href": "morar-em-west-palm-beach-2026.html",
-          "anchor": "West Palm Beach Cidade maior no norte de South Florida, com trabalho, aeroporto e acesso a praias. Palm Beach County trabalho"
-        },
-        {
-          "href": "morar-em-delray-beach-2026.html",
-          "anchor": "Delray Beach Praia, lifestyle e conexão com Boca Raton e West Palm Beach. praia South Florida"
-        },
-        {
           "href": "morar-em-winter-garden-2026.html",
-          "anchor": "Winter Garden Famílias, escolas e vida suburbana perto de Orlando. família Orlando"
-        },
-        {
-          "href": "morar-em-davenport-florida-2026.html",
-          "anchor": "Davenport Casas maiores, aluguel diferente e distância de Orlando. casa Central Florida"
+          "anchor": "Winter Garden"
         },
         {
           "href": "morar-em-clermont-florida-2026.html",
-          "anchor": "Clermont Rotina suburbana, espaço e acesso ao oeste de Orlando. família subúrbio"
+          "anchor": "Clermont"
         },
         {
-          "href": "quanto-custa-morar-em-kissimmee-2026.html",
-          "anchor": "Kissimmee Porta de entrada perto dos parques e muito pesquisada por recém-chegados. parques recém-chegados"
+          "href": "morar-em-davenport-florida-2026.html",
+          "anchor": "Davenport"
+        },
+        {
+          "href": "morar-em-deerfield-beach-2026.html",
+          "anchor": "Deerfield Beach"
+        },
+        {
+          "href": "morar-em-pompano-beach-2026.html",
+          "anchor": "Pompano Beach"
+        },
+        {
+          "href": "quanto-custa-morar-em-fort-lauderdale-2026.html",
+          "anchor": "Fort Lauderdale"
+        },
+        {
+          "href": "quanto-custa-morar-em-boca-raton-2026.html",
+          "anchor": "Boca Raton"
+        },
+        {
+          "href": "quanto-custa-morar-em-miami-2026.html",
+          "anchor": "Miami"
+        },
+        {
+          "href": "quanto-custa-morar-em-tampa-2026.html",
+          "anchor": "quanto custa morar em Tampa"
+        },
+        {
+          "href": "morar-em-orlando-ou-tampa.html",
+          "anchor": "Orlando ou Tampa para diferentes perfis"
+        },
+        {
+          "href": "quanto-custa-morar-em-jacksonville-2026.html",
+          "anchor": "Jacksonville"
+        },
+        {
+          "href": "morar-em-fort-myers-florida-2026.html",
+          "anchor": "Fort Myers"
+        },
+        {
+          "href": "melhores-cidades-da-florida-para-brasileiros.html",
+          "anchor": "melhores cidades da Flórida para brasileiros"
         },
         {
           "href": "../checklist-mudanca-eua.html",
@@ -3131,23 +3176,11 @@
         },
         {
           "href": "../categorias/cidades-da-florida.html",
-          "anchor": "Ver guia central de cidades da Flórida"
+          "anchor": "Explorar o hub de cidades da Flórida"
         },
         {
-          "href": "quanto-custa-morar-em-orlando-2026.html",
-          "anchor": "Orlando"
-        },
-        {
-          "href": "quanto-custa-morar-em-miami-2026.html",
-          "anchor": "Miami"
-        },
-        {
-          "href": "morar-em-deerfield-beach-2026.html",
-          "anchor": "Deerfield Beach"
-        },
-        {
-          "href": "quanto-custa-morar-em-tampa-2026.html",
-          "anchor": "Tampa"
+          "href": "melhores-cidades-da-florida-para-brasileiros.html",
+          "anchor": "Comparar cidades por perfil"
         }
       ],
       "technicalPresence": {
@@ -3155,14 +3188,8 @@
         "hasSiteHeader": true,
         "hasSiteFooter": true
       },
-      "missingFields": [
-        "twitter:title",
-        "twitter:description",
-        "FAQPage schema"
-      ],
-      "risks": [
-        "FAQ visivel sem FAQPage; Astro pode gerar FAQPage automaticamente."
-      ]
+      "missingFields": [],
+      "risks": []
     },
     {
       "originalPath": "articles/coisas-comuns-no-brasil-que-dao-problema-nos-eua.html",
