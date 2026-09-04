@@ -31,3 +31,15 @@ for (const fileName of publicRootFiles) {
   fs.copyFileSync(sourceFile, path.join(root, "dist", fileName));
   console.log(`${fileName} copiado para dist/${fileName}.`);
 }
+
+const adsSource = path.join(root, "public", "ads.txt");
+const adsTarget = path.join(root, "dist", "ads.txt");
+const expectedAds = "google.com, pub-6243391837401331, DIRECT, f08c47fec0942fa0";
+
+if (!fs.existsSync(adsSource)) process.exitCode = 1;
+else {
+  fs.copyFileSync(adsSource, adsTarget);
+  const adsContent = fs.readFileSync(adsTarget, "utf8").trim();
+  if (adsContent !== expectedAds) process.exitCode = 1;
+  else console.log("ads.txt validado em dist/ads.txt.");
+}
