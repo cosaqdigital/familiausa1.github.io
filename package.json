@@ -13,6 +13,7 @@
     "validate:site-structure": "node scripts/validate-astro-site-structure.mjs",
     "validate:new-article": "node scripts/validate-new-article.mjs",
     "validate:affiliates": "node scripts/validate-affiliates.mjs",
+    "audit:internal-links": "node scripts/audit-rendered-internal-links.mjs",
     "qa:batch": "node scripts/qa-astro-rendered-pages.mjs",
     "extract:pilot": "node scripts/extract-legacy-articles.mjs --pilot",
     "extract:all": "node scripts/extract-legacy-articles.mjs --all"
