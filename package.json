@@ -10,7 +10,7 @@
     "validate:poc": "node scripts/validate-astro-poc.mjs",
     "validate:batch": "node scripts/validate-astro-batch.mjs",
     "validate:all-articles": "node scripts/validate-astro-all-articles.mjs",
-    "validate:site-structure": "node scripts/validate-astro-site-structure.mjs",
+    "validate:site-structure": "node scripts/validate-astro-site-structure-active.mjs",
     "validate:new-article": "node scripts/validate-new-article.mjs",
     "validate:affiliates": "node scripts/validate-affiliates.mjs",
     "audit:internal-links": "node scripts/audit-rendered-internal-links.mjs",
