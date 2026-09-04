@@ -4,7 +4,7 @@ slug: "trump-imigracao-eua-impacto-brasileiros-2026"
 title: "Trump e imigração nos EUA em 2026: o que brasileiros devem observar"
 h1: "Trump e imigração nos EUA em 2026: como brasileiros podem ser afetados"
 description: "Entenda quais áreas da política migratória merecem atenção em 2026, como verificar mudanças oficiais e por que o impacto varia conforme o histórico de cada brasileiro."
-category: "Notícias EUA"
+category: "Imigracao e legalizacao"
 tags:
   - "Trump imigração 2026"
   - "imigração EUA"
