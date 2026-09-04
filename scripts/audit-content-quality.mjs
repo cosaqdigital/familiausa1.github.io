@@ -85,12 +85,19 @@ function extract(html, pattern) {
 }
 
 function extractArticleBody(html) {
-  const section = extract(
-    html,
-    /<section\b[^>]*class=["'][^"']*\barticle-content\b[^"']*["'][^>]*>([\s\S]*?)<\/section>/i
-  );
-  if (section) return section;
-  return extract(html, /<article\b[^>]*>([\s\S]*)<\/article>/i);
+  const sectionStart = html.search(/<section\b[^>]*class=["'][^"']*\barticle-content\b[^"']*["'][^>]*>/i);
+  if (sectionStart >= 0) {
+    const mainEnd = html.lastIndexOf("</main>");
+    return html.slice(sectionStart, mainEnd > sectionStart ? mainEnd : undefined);
+  }
+
+  const articleStart = html.search(/<article\b[^>]*>/i);
+  if (articleStart >= 0) {
+    const articleEnd = html.lastIndexOf("</article>");
+    return html.slice(articleStart, articleEnd > articleStart ? articleEnd + 10 : undefined);
+  }
+
+  return "";
 }
 
 function extractTitle(html) {
