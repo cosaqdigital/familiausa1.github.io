@@ -40,6 +40,9 @@ jobs:
       - name: Audit rendered internal links
         run: npm run audit:internal-links
 
+      - name: Audit rendered content quality
+        run: npm run audit:content-quality
+
       - name: Validate generated POC
         run: npm run validate:poc
 
