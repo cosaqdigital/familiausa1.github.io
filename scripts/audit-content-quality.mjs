@@ -85,7 +85,12 @@ function extract(html, pattern) {
 }
 
 function extractArticleBody(html) {
-  return extract(html, /<article\b[^>]*>([\s\S]*?)<\/article>/i);
+  const section = extract(
+    html,
+    /<section\b[^>]*class=["'][^"']*\barticle-content\b[^"']*["'][^>]*>([\s\S]*?)<\/section>/i
+  );
+  if (section) return section;
+  return extract(html, /<article\b[^>]*>([\s\S]*)<\/article>/i);
 }
 
 function extractTitle(html) {
