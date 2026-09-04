@@ -3,8 +3,13 @@ import { newMarkdownArticles, type NewMarkdownArticle } from "./newMarkdownArtic
 
 export type SiteArticle = (LegacyGeneratedArticle & { source?: "legacy" }) | NewMarkdownArticle;
 
+// Quando um artigo legado ganha uma versao editorial nova em Markdown/MDX com
+// o mesmo slug, a versao nova substitui a antiga sem alterar a URL publica.
+const markdownSlugs = new Set(newMarkdownArticles.map((article) => article.slug));
+const activeLegacyArticles = legacyArticles.filter((article) => !markdownSlugs.has(article.slug));
+
 export const allArticles: SiteArticle[] = [
-  ...legacyArticles.map((article) => ({ ...article, source: "legacy" as const })),
+  ...activeLegacyArticles.map((article) => ({ ...article, source: "legacy" as const })),
   ...newMarkdownArticles
 ].sort((left, right) => (right.dateModified || right.datePublished).localeCompare(left.dateModified || left.datePublished));
 
