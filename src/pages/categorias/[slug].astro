@@ -1,11 +1,12 @@
 ---
 import CategoryLayout from "../../layouts/CategoryLayout.astro";
 import { getArticlesForCategory, siteCategories } from "../../data/categories";
+import { focusCategoryPosts } from "../../data/categoryFocus";
 
 export function getStaticPaths() {
   return siteCategories.map((category) => ({
     params: { slug: category.slug },
-    props: { category, posts: getArticlesForCategory(category) }
+    props: { category, posts: focusCategoryPosts(category, getArticlesForCategory(category)) }
   }));
 }
 
