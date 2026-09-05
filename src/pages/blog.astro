@@ -4,12 +4,16 @@ import ArticleCard from "../components/ArticleCard.astro";
 import ChecklistCTA from "../components/ChecklistCTA.astro";
 import { SITE_URL } from "../data/pilotContent";
 import { getCategoryGroups, getFeaturedArticles, categoryUrl } from "../data/categories";
+import { focusCategoryPosts } from "../data/categoryFocus";
 import { truncateText } from "../utils/cardText";
 
 const title = "Artigos sobre brasileiros nos EUA | FamiliaUSA1";
 const description = "Todos os artigos do Familia USA 1 sobre imigracao, visto, custo de vida, trabalho, Orlando, Florida e vida nos EUA.";
 const featuredArticles = getFeaturedArticles(36);
-const allCategoryGroups = getCategoryGroups();
+const allCategoryGroups = getCategoryGroups().map((group) => ({
+  ...group,
+  posts: focusCategoryPosts(group.category, group.posts)
+}));
 const categoryGroups = allCategoryGroups.filter((group) => group.posts.length > 0);
 const priorityGroups = [
   "cidades-da-florida",

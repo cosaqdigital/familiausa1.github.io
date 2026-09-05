@@ -27,7 +27,7 @@ export const sitePages: SitePage[] = [
     path: "/categorias.html",
     title: "Categorias do Família USA 1 | Brasileiros nos EUA",
     description: "Explore os principais hubs do blog: imigração, visto americano, asilo, custo de vida, cidades, Orlando, saúde, trabalho e vida real.",
-    lastmod: "2026-06-06",
+    lastmod: "2026-09-05",
     priority: "0.9"
   },
   {
@@ -69,7 +69,7 @@ export const sitePages: SitePage[] = [
     path: "/sobre.html",
     title: "Sobre o Família USA 1: brasileiros vivendo nos EUA",
     description: "Conheça a família por trás do Família USA 1 e o projeto criado para compartilhar experiências reais sobre a vida nos EUA.",
-    lastmod: "2026-06-17",
+    lastmod: "2026-09-05",
     priority: "0.7"
   },
   {
@@ -83,14 +83,14 @@ export const sitePages: SitePage[] = [
     path: "/politica-de-privacidade.html",
     title: "Política de Privacidade | Família USA 1",
     description: "Entenda como o Família USA 1 trata dados, cookies, Google Analytics, links externos e anúncios no blog.",
-    lastmod: "2026-06-17",
+    lastmod: "2026-09-05",
     priority: "0.4"
   },
   {
     path: "/politica-de-cookies.html",
     title: "Política de Cookies | Família USA 1",
     description: "Saiba como o Família USA 1 usa cookies essenciais, analíticos e de publicidade, e como você pode gerenciar cookies.",
-    lastmod: "2026-06-17",
+    lastmod: "2026-09-05",
     priority: "0.4"
   },
   {

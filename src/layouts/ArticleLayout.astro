@@ -22,6 +22,7 @@ const { article, relatedPosts = [], renderFaqSection = true } = Astro.props;
 const canonical = article.canonical ?? canonicalUrl(articleUrl(article.slug));
 const heading = article.h1 ?? article.title;
 const image = article.image ?? DEFAULT_IMAGE;
+const aboutUrl = `${SITE_URL}/sobre.html`;
 
 const blogPosting = {
   "@context": "https://schema.org",
@@ -32,7 +33,7 @@ const blogPosting = {
   datePublished: article.datePublished,
   dateModified: article.dateModified,
   inLanguage: "pt-BR",
-  author: { "@type": "Organization", name: "FamiliaUSA1" },
+  author: { "@type": "Organization", name: "FamiliaUSA1", url: aboutUrl },
   publisher: { "@type": "Organization", name: "FamiliaUSA1", url: SITE_URL },
   mainEntityOfPage: { "@type": "WebPage", "@id": canonical },
   image
@@ -64,7 +65,7 @@ const showEntrepreneurJourney = entrepreneurshipArticleSlugs.includes(article.sl
     <h1>{heading}</h1>
     <p class="lead">{article.description}</p>
     <div class="article-meta">
-      <span>Por FamiliaUSA1</span>
+      <span>Por <a href="/sobre.html">FamiliaUSA1</a></span>
       <span>Atualizado em {article.dateModified}</span>
       <span>{article.readingTime}</span>
     </div>
