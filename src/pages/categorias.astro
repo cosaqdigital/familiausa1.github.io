@@ -4,13 +4,14 @@ import ChecklistCTA from "../components/ChecklistCTA.astro";
 import TopicHubPortal from "../components/guides/TopicHubPortal.astro";
 import { SITE_URL } from "../data/pilotContent";
 import { getArticlesForCategory, siteCategories, categoryUrl } from "../data/categories";
+import { focusCategoryPosts } from "../data/categoryFocus";
 import { truncateText } from "../utils/cardText";
 
 const title = "Categorias do Familia USA 1 | Brasileiros nos EUA";
 const description = "Explore os principais hubs do Familia USA 1: imigracao, visto americano, asilo, custo de vida, cidades, Orlando, saude, trabalho e vida real.";
 const featuredCategories = siteCategories.map((category) => ({
   category,
-  count: getArticlesForCategory(category).length
+  count: focusCategoryPosts(category, getArticlesForCategory(category)).length
 }));
 const collectionSchema = {
   "@context": "https://schema.org",
