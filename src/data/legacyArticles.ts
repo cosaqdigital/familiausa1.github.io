@@ -49,6 +49,43 @@ export type LegacyGeneratedArticle = {
   h1: string;
 };
 
+type LegacyPresentationOverride = {
+  title?: string;
+  h1?: string;
+  dateModified?: string;
+};
+
+// Ajustes editoriais pontuais para artigos legados cujo corpo ja e distinto,
+// mas cujo titulo ainda pode parecer excessivamente proximo de outro artigo.
+// Mantemos slug, URL e conteudo originais; alteramos apenas a apresentacao.
+const LEGACY_PRESENTATION_OVERRIDES: Record<string, LegacyPresentationOverride> = {
+  "morar-em-pompano-beach-2026": {
+    title: "Pompano Beach em 2026: praia, Broward, deslocamento e perfil de moradia",
+    h1: "Pompano Beach em 2026: como e a rotina para quem pensa em morar na regiao",
+    dateModified: "2026-09-05"
+  },
+  "quanto-custa-morar-em-miami-2026": {
+    title: "Viver em Miami em 2026: aluguel, transporte e orcamento mensal",
+    h1: "Viver em Miami em 2026: quanto pesa aluguel, transporte e rotina",
+    dateModified: "2026-09-05"
+  },
+  "trabalho-nos-eua-para-brasileiros-2026": {
+    title: "Mercado de trabalho americano em 2026: setores, jornada e realidade para brasileiros",
+    h1: "Mercado de trabalho nos EUA em 2026: o que brasileiros encontram na pratica",
+    dateModified: "2026-09-05"
+  },
+  "davenport-ou-orlando-onde-morar-2026": {
+    title: "Davenport ou Orlando em 2026: qual cidade combina com seu deslocamento e familia?",
+    h1: "Davenport ou Orlando em 2026: compare rotina, deslocamento e perfil familiar",
+    dateModified: "2026-09-05"
+  },
+  "vale-a-pena-morar-nos-eua-2026": {
+    title: "Estados Unidos em 2026: para quem a mudanca ainda faz sentido?",
+    h1: "Mudar para os Estados Unidos em 2026: para quais perfis ainda faz sentido?",
+    dateModified: "2026-09-05"
+  }
+};
+
 const rawArticles = (legacyData.articles ?? []) as ExtractedLegacyArticle[];
 const legacySlugSet = new Set(rawArticles.map((article) => article.slug));
 
@@ -58,9 +95,10 @@ function linkToSlug(href: string) {
 }
 
 function toLegacyGeneratedArticle(article: ExtractedLegacyArticle): LegacyGeneratedArticle {
-  const title = article.title ?? article.h1 ?? article.slug;
+  const override = LEGACY_PRESENTATION_OVERRIDES[article.slug];
+  const title = override?.title ?? article.title ?? article.h1 ?? article.slug;
   const description = article.metaDescription ?? article.articleContentTextSample ?? title;
-  const h1 = article.h1 ?? title;
+  const h1 = override?.h1 ?? article.h1 ?? title;
   const relatedSlugs = (article.internalLinks ?? [])
     .map((link) => linkToSlug(link.href))
     .filter((slug): slug is string => Boolean(slug && legacySlugSet.has(slug) && slug !== article.slug))
@@ -73,7 +111,7 @@ function toLegacyGeneratedArticle(article: ExtractedLegacyArticle): LegacyGenera
     description,
     category: article.category ?? "Artigos",
     datePublished: article.datePublished ?? "2026-06-06",
-    dateModified: article.dateModified ?? article.datePublished ?? "2026-06-06",
+    dateModified: override?.dateModified ?? article.dateModified ?? article.datePublished ?? "2026-06-06",
     readingTime: article.readingTime ?? "10 min de leitura",
     image: article.openGraph?.image ?? DEFAULT_IMAGE,
     excerpt: article.articleContentTextSample ?? description,
