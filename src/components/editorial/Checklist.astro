@@ -1,0 +1,76 @@
+---
+interface Props {
+  title?: string;
+  items?: string[];
+}
+
+const { title, items = [] } = Astro.props;
+---
+
+{items.length > 0 && (
+  <section class="editorial-checklist">
+    {title && <p class="editorial-checklist-title"><strong>{title}</strong></p>}
+    <ul>
+      {items.map((item) => (
+        <li>
+          <span class="editorial-checklist-marker" aria-hidden="true">✓</span>
+          <span>{item}</span>
+        </li>
+      ))}
+    </ul>
+  </section>
+)}
+
+<style>
+  .editorial-checklist {
+    width: 100%;
+    max-width: 100%;
+    min-width: 0;
+    margin: 1.75rem 0;
+    border: 1px solid var(--line, rgba(30, 26, 20, 0.12));
+    border-radius: 1rem;
+    padding: clamp(1rem, 2.5vw, 1.35rem);
+    color: var(--ink-soft, #4c463d);
+    background: var(--surface-warm, #fff7e8);
+  }
+
+  .editorial-checklist-title {
+    margin: 0 0 0.9rem;
+    color: var(--ink, #171512);
+    font-size: 1.08rem;
+    line-height: 1.35;
+  }
+
+  ul {
+    display: grid;
+    gap: 0.7rem;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  li {
+    display: grid;
+    grid-template-columns: auto minmax(0, 1fr);
+    gap: 0.7rem;
+    align-items: start;
+    min-width: 0;
+    margin: 0;
+    line-height: 1.55;
+    overflow-wrap: anywhere;
+  }
+
+  .editorial-checklist-marker {
+    display: inline-grid;
+    width: 1.45rem;
+    height: 1.45rem;
+    place-items: center;
+    margin-top: 0.05rem;
+    border-radius: 50%;
+    color: #fff;
+    background: var(--green, #2f5c4f);
+    font-size: 0.8rem;
+    font-weight: 900;
+    line-height: 1;
+  }
+</style>
