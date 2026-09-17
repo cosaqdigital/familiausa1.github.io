@@ -94,11 +94,43 @@ function linkToSlug(href: string) {
   return cleanHref.endsWith(".html") ? cleanHref.replace(/\.html$/, "") : null;
 }
 
+function cleanLegacyText(value: string) {
+  return value
+    .replace(/difífacil/gi, (match) => match[0] === "D" ? "Difícil" : "difícil")
+    .replace(/\bcomnao\b/gi, (match) => match[0] === "C" ? "Como" : "como");
+}
+
+// Em maio de 2026 varios HTMLs legados receberam blocos genericos para
+// "reforco SEO". Esses trechos repetem o mesmo conselho em dezenas de URLs e
+// podem diluir o valor editorial percebido. A fonte legada e preservada no
+// repositorio, mas o site publicado nao renderiza esses blocos.
+function cleanLegacyContent(content: string) {
+  let cleaned = content;
+
+  // Remove o bloco iniciado pelo marcador de reforco ate o proximo bloco
+  // estrutural conhecido. O conteudo editorial original anterior e preservado.
+  cleaned = cleaned.replace(
+    /<!--\s*Reforco editorial SEO 2026-05-22\s*-->[\s\S]*?(?=<section\b[^>]*class=["'][^"']*seo-strengthening-block[^"']*["'][^>]*>|<!--\s*Posts relacionados SEO 2026-05-22\s*-->)/gi,
+    ""
+  );
+
+  // Remove a segunda camada generica criada na mesma rodada de reforco.
+  cleaned = cleaned.replace(
+    /<section\b[^>]*class=["'][^"']*seo-strengthening-block[^"']*["'][^>]*>[\s\S]*?<\/section>\s*/gi,
+    ""
+  );
+
+  return cleanLegacyText(cleaned).trim();
+}
+
 function toLegacyGeneratedArticle(article: ExtractedLegacyArticle): LegacyGeneratedArticle {
   const override = LEGACY_PRESENTATION_OVERRIDES[article.slug];
-  const title = override?.title ?? article.title ?? article.h1 ?? article.slug;
-  const description = article.metaDescription ?? article.articleContentTextSample ?? title;
-  const h1 = override?.h1 ?? article.h1 ?? title;
+  const rawTitle = override?.title ?? article.title ?? article.h1 ?? article.slug;
+  const rawDescription = article.metaDescription ?? article.articleContentTextSample ?? rawTitle;
+  const rawH1 = override?.h1 ?? article.h1 ?? rawTitle;
+  const title = cleanLegacyText(rawTitle);
+  const description = cleanLegacyText(rawDescription);
+  const h1 = cleanLegacyText(rawH1);
   const relatedSlugs = (article.internalLinks ?? [])
     .map((link) => linkToSlug(link.href))
     .filter((slug): slug is string => Boolean(slug && legacySlugSet.has(slug) && slug !== article.slug))
@@ -109,14 +141,17 @@ function toLegacyGeneratedArticle(article: ExtractedLegacyArticle): LegacyGenera
     title,
     cardTitle: h1,
     description,
-    category: article.category ?? "Artigos",
+    category: cleanLegacyText(article.category ?? "Artigos"),
     datePublished: article.datePublished ?? "2026-06-06",
     dateModified: override?.dateModified ?? article.dateModified ?? article.datePublished ?? "2026-06-06",
     readingTime: article.readingTime ?? "10 min de leitura",
     image: article.openGraph?.image ?? DEFAULT_IMAGE,
-    excerpt: article.articleContentTextSample ?? description,
-    content: article.articleContentHtml ?? "",
-    faq: article.visibleFaqs ?? [],
+    excerpt: cleanLegacyText(article.articleContentTextSample ?? description),
+    content: cleanLegacyContent(article.articleContentHtml ?? ""),
+    faq: (article.visibleFaqs ?? []).map((item) => ({
+      question: cleanLegacyText(item.question),
+      answer: cleanLegacyText(item.answer)
+    })),
     relatedSlugs,
     canonical: article.canonical ?? `https://familiausa1.com/articles/${article.slug}.html`,
     h1

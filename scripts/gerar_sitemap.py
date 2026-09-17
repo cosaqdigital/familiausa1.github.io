@@ -1,4 +1,3 @@
-from datetime import UTC, datetime
 from pathlib import Path
 import re
 
@@ -23,6 +22,8 @@ PRIORIDADES = {
     "categorias.html": "0.8",
     "sobre.html": "0.6",
 }
+
+DATA_FALLBACK = "2026-06-06"
 
 
 def calcular_prioridade(caminho):
@@ -81,6 +82,40 @@ def extrair_frontmatter(texto):
     return dados
 
 
+def carregar_lastmods_existentes():
+    arquivo = Path("sitemap.xml")
+    if not arquivo.exists():
+        return {}
+
+    conteudo = arquivo.read_text(encoding="utf-8", errors="ignore")
+    lastmods = {}
+    for bloco in re.findall(r"<url>(.*?)</url>", conteudo, re.DOTALL):
+        loc = re.search(r"<loc>(.*?)</loc>", bloco, re.DOTALL)
+        lastmod = re.search(r"<lastmod>(\d{4}-\d{2}-\d{2})</lastmod>", bloco)
+        if loc and lastmod:
+            lastmods[loc.group(1).strip()] = lastmod.group(1)
+    return lastmods
+
+
+def extrair_data_html(caminho, loc, lastmods_existentes):
+    html = caminho.read_text(encoding="utf-8", errors="ignore")
+
+    # Prioriza datas editoriais declaradas no Article/BlogPosting. Assim o
+    # sitemap reflete a ultima alteracao real, em vez da data de execucao do bot.
+    for campo in ("dateModified", "datePublished"):
+        match = re.search(
+            rf'["\']{campo}["\']\s*:\s*["\'](\d{{4}}-\d{{2}}-\d{{2}})["\']',
+            html,
+            re.IGNORECASE,
+        )
+        if match:
+            return match.group(1)
+
+    # Alguns HTMLs podem nao ter schema de artigo. Nesse caso preservamos a
+    # data que ja existia no sitemap, evitando marcar tudo como atualizado hoje.
+    return lastmods_existentes.get(loc, DATA_FALLBACK)
+
+
 def adicionar_paginas_site_pages(entradas):
     arquivo = Path("src/data/sitePages.ts")
     if not arquivo.exists():
@@ -100,7 +135,7 @@ def adicionar_paginas_site_pages(entradas):
         adicionar_entrada(
             entradas,
             url_para_path(path),
-            lastmod_match.group(1) if lastmod_match else datetime.now(UTC).strftime("%Y-%m-%d"),
+            lastmod_match.group(1) if lastmod_match else DATA_FALLBACK,
             changefreq,
             priority_match.group(1) if priority_match else "0.6",
         )
@@ -124,7 +159,7 @@ def adicionar_artigos_markdown(entradas):
         lastmod = (
             frontmatter.get("dateModified")
             or frontmatter.get("datePublished")
-            or datetime.now(UTC).strftime("%Y-%m-%d")
+            or DATA_FALLBACK
         )
 
         adicionar_entrada(
@@ -145,15 +180,16 @@ def gerar_sitemap():
         and deve_indexar(p)
     )
 
-    hoje = datetime.now(UTC).strftime("%Y-%m-%d")
     entradas = {}
+    lastmods_existentes = carregar_lastmods_existentes()
 
     for arquivo in arquivos_html:
         caminho = arquivo.relative_to(raiz)
+        loc = url_para_arquivo(caminho)
         adicionar_entrada(
             entradas,
-            url_para_arquivo(caminho),
-            hoje,
+            loc,
+            extrair_data_html(arquivo, loc, lastmods_existentes),
             calcular_frequencia(caminho),
             calcular_prioridade(caminho),
         )
@@ -179,7 +215,7 @@ def gerar_sitemap():
     linhas.append("</urlset>")
 
     Path("sitemap.xml").write_text("\n".join(linhas) + "\n", encoding="utf-8")
-    print(f"Sitemap gerado com {len(entradas)} URLs.")
+    print(f"Sitemap gerado com {len(entradas)} URLs, preservando datas editoriais reais.")
 
 
 if __name__ == "__main__":
