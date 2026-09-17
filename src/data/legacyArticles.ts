@@ -1,4 +1,5 @@
 import legacyData from "./legacy-extract/legacy-articles.json";
+import retiredData from "./retired-articles.json";
 import { DEFAULT_IMAGE } from "./pilotContent";
 
 export type LegacyFaq = {
@@ -55,9 +56,6 @@ type LegacyPresentationOverride = {
   dateModified?: string;
 };
 
-// Ajustes editoriais pontuais para artigos legados cujo corpo ja e distinto,
-// mas cujo titulo ainda pode parecer excessivamente proximo de outro artigo.
-// Mantemos slug, URL e conteudo originais; alteramos apenas a apresentacao.
 const LEGACY_PRESENTATION_OVERRIDES: Record<string, LegacyPresentationOverride> = {
   "morar-em-pompano-beach-2026": {
     title: "Pompano Beach em 2026: praia, Broward, deslocamento e perfil de moradia",
@@ -78,16 +76,14 @@ const LEGACY_PRESENTATION_OVERRIDES: Record<string, LegacyPresentationOverride> 
     title: "Davenport ou Orlando em 2026: qual cidade combina com seu deslocamento e familia?",
     h1: "Davenport ou Orlando em 2026: compare rotina, deslocamento e perfil familiar",
     dateModified: "2026-09-05"
-  },
-  "vale-a-pena-morar-nos-eua-2026": {
-    title: "Estados Unidos em 2026: para quem a mudanca ainda faz sentido?",
-    h1: "Mudar para os Estados Unidos em 2026: para quais perfis ainda faz sentido?",
-    dateModified: "2026-09-05"
   }
 };
 
 const rawArticles = (legacyData.articles ?? []) as ExtractedLegacyArticle[];
 const legacySlugSet = new Set(rawArticles.map((article) => article.slug));
+const retiredRedirects = new Map(
+  (retiredData.redirects ?? []).map((item) => [item.slug as string, item.targetSlug as string])
+);
 
 function linkToSlug(href: string) {
   const cleanHref = href.replace(/#.*$/, "").split("/").pop() ?? "";
@@ -100,27 +96,36 @@ function cleanLegacyText(value: string) {
     .replace(/\bcomnao\b/gi, (match) => match[0] === "C" ? "Como" : "como");
 }
 
-// Em maio de 2026 varios HTMLs legados receberam blocos genericos para
-// "reforco SEO". Esses trechos repetem o mesmo conselho em dezenas de URLs e
-// podem diluir o valor editorial percebido. A fonte legada e preservada no
-// repositorio, mas o site publicado nao renderiza esses blocos.
+function rewriteRetiredArticleLinks(content: string) {
+  let rewritten = content;
+  for (const [slug, targetSlug] of retiredRedirects) {
+    const escapedSlug = slug.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+    rewritten = rewritten.replace(
+      new RegExp(`href=(["'])(?:\\.\\./)?articles/${escapedSlug}\\.html([^"']*)\\1`, "gi"),
+      (_match, quote, suffix) => `href=${quote}/articles/${targetSlug}.html${suffix}${quote}`
+    );
+    rewritten = rewritten.replace(
+      new RegExp(`href=(["'])${escapedSlug}\\.html([^"']*)\\1`, "gi"),
+      (_match, quote, suffix) => `href=${quote}/articles/${targetSlug}.html${suffix}${quote}`
+    );
+  }
+  return rewritten;
+}
+
 function cleanLegacyContent(content: string) {
   let cleaned = content;
 
-  // Remove o bloco iniciado pelo marcador de reforco ate o proximo bloco
-  // estrutural conhecido. O conteudo editorial original anterior e preservado.
   cleaned = cleaned.replace(
     /<!--\s*Reforco editorial SEO 2026-05-22\s*-->[\s\S]*?(?=<section\b[^>]*class=["'][^"']*seo-strengthening-block[^"']*["'][^>]*>|<!--\s*Posts relacionados SEO 2026-05-22\s*-->)/gi,
     ""
   );
 
-  // Remove a segunda camada generica criada na mesma rodada de reforco.
   cleaned = cleaned.replace(
     /<section\b[^>]*class=["'][^"']*seo-strengthening-block[^"']*["'][^>]*>[\s\S]*?<\/section>\s*/gi,
     ""
   );
 
-  return cleanLegacyText(cleaned).trim();
+  return cleanLegacyText(rewriteRetiredArticleLinks(cleaned)).trim();
 }
 
 function toLegacyGeneratedArticle(article: ExtractedLegacyArticle): LegacyGeneratedArticle {
@@ -133,7 +138,8 @@ function toLegacyGeneratedArticle(article: ExtractedLegacyArticle): LegacyGenera
   const h1 = cleanLegacyText(rawH1);
   const relatedSlugs = (article.internalLinks ?? [])
     .map((link) => linkToSlug(link.href))
-    .filter((slug): slug is string => Boolean(slug && legacySlugSet.has(slug) && slug !== article.slug))
+    .map((slug) => (slug ? retiredRedirects.get(slug) ?? slug : null))
+    .filter((slug): slug is string => Boolean(slug && slug !== article.slug))
     .slice(0, 3);
 
   return {
