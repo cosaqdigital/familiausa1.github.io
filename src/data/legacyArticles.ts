@@ -94,6 +94,29 @@ function linkToSlug(href: string) {
   return cleanHref.endsWith(".html") ? cleanHref.replace(/\.html$/, "") : null;
 }
 
+// Em maio de 2026 varios HTMLs legados receberam blocos genericos para
+// "reforco SEO". Esses trechos repetem o mesmo conselho em dezenas de URLs e
+// podem diluir o valor editorial percebido. A fonte legada e preservada no
+// repositorio, mas o site publicado nao renderiza esses blocos.
+function cleanLegacyContent(content: string) {
+  let cleaned = content;
+
+  // Remove o bloco iniciado pelo marcador de reforco ate o proximo bloco
+  // estrutural conhecido. O conteudo editorial original anterior e preservado.
+  cleaned = cleaned.replace(
+    /<!--\s*Reforco editorial SEO 2026-05-22\s*-->[\s\S]*?(?=<section\b[^>]*class=["'][^"']*seo-strengthening-block[^"']*["'][^>]*>|<!--\s*Posts relacionados SEO 2026-05-22\s*-->)/gi,
+    ""
+  );
+
+  // Remove a segunda camada generica criada na mesma rodada de reforco.
+  cleaned = cleaned.replace(
+    /<section\b[^>]*class=["'][^"']*seo-strengthening-block[^"']*["'][^>]*>[\s\S]*?<\/section>\s*/gi,
+    ""
+  );
+
+  return cleaned.trim();
+}
+
 function toLegacyGeneratedArticle(article: ExtractedLegacyArticle): LegacyGeneratedArticle {
   const override = LEGACY_PRESENTATION_OVERRIDES[article.slug];
   const title = override?.title ?? article.title ?? article.h1 ?? article.slug;
@@ -115,7 +138,7 @@ function toLegacyGeneratedArticle(article: ExtractedLegacyArticle): LegacyGenera
     readingTime: article.readingTime ?? "10 min de leitura",
     image: article.openGraph?.image ?? DEFAULT_IMAGE,
     excerpt: article.articleContentTextSample ?? description,
-    content: article.articleContentHtml ?? "",
+    content: cleanLegacyContent(article.articleContentHtml ?? ""),
     faq: article.visibleFaqs ?? [],
     relatedSlugs,
     canonical: article.canonical ?? `https://familiausa1.com/articles/${article.slug}.html`,
