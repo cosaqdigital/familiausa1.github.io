@@ -5,6 +5,12 @@
       "targetSlug": "vale-a-pena-morar-nos-eua-em-2026-a-verdade-sem-filtro",
       "dateRetired": "2026-09-17",
       "reason": "Consolidacao de duas URLs com a mesma intencao de busca sobre morar nos EUA em 2026."
+    },
+    {
+      "slug": "quanto-custa-viver-nos-eua",
+      "targetSlug": "custo-de-vida-nos-eua-2026-atualizado",
+      "dateRetired": "2026-09-17",
+      "reason": "Consolidacao da URL nacional mais curta no artigo pilar de custo de vida nos EUA em 2026."
     }
   ]
 }
