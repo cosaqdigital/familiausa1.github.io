@@ -1,12 +1,25 @@
 import { legacyArticles, type LegacyGeneratedArticle } from "./legacyArticles";
 import { newMarkdownArticles, type NewMarkdownArticle } from "./newMarkdownArticles";
+import retiredData from "./retired-articles.json";
 
 export type SiteArticle = (LegacyGeneratedArticle & { source?: "legacy" }) | NewMarkdownArticle;
+
+type RetiredArticle = {
+  slug: string;
+  targetSlug: string;
+  dateRetired: string;
+  reason: string;
+};
+
+export const retiredArticles = (retiredData.redirects ?? []) as RetiredArticle[];
+export const retiredArticleSlugs = new Set(retiredArticles.map((item) => item.slug));
 
 // Quando um artigo legado ganha uma versao editorial nova em Markdown/MDX com
 // o mesmo slug, a versao nova substitui a antiga sem alterar a URL publica.
 const markdownSlugs = new Set(newMarkdownArticles.map((article) => article.slug));
-const activeLegacyArticles = legacyArticles.filter((article) => !markdownSlugs.has(article.slug));
+const activeLegacyArticles = legacyArticles.filter(
+  (article) => !markdownSlugs.has(article.slug) && !retiredArticleSlugs.has(article.slug)
+);
 
 export const allArticles: SiteArticle[] = [
   ...activeLegacyArticles.map((article) => ({ ...article, source: "legacy" as const })),
