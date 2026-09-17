@@ -17,6 +17,12 @@
       "targetSlug": "primeiros-30-dias-nos-eua",
       "dateRetired": "2026-09-17",
       "reason": "Consolidacao de dois guias com a mesma intencao para brasileiros recem-chegados, preservando a estrutura cronologica de 30 dias como pagina principal."
+    },
+    {
+      "slug": "5-habitos-comuns-no-brasil-problemas-eua",
+      "targetSlug": "coisas-comuns-no-brasil-que-dao-problema-nos-eua",
+      "dateRetired": "2026-09-17",
+      "reason": "Consolidacao de dois artigos com a mesma intencao sobre adaptacao cultural e comportamentos que podem gerar problemas nos EUA."
     }
   ]
 }
