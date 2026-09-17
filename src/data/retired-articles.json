@@ -23,6 +23,12 @@
       "targetSlug": "coisas-comuns-no-brasil-que-dao-problema-nos-eua",
       "dateRetired": "2026-09-17",
       "reason": "Consolidacao de dois artigos com a mesma intencao sobre adaptacao cultural e comportamentos que podem gerar problemas nos EUA."
+    },
+    {
+      "slug": "adjustment-of-status-ou-processo-consular-green-card-2026",
+      "targetSlug": "pedido-green-card-dentro-ou-fora-dos-eua-riscos",
+      "dateRetired": "2026-09-17",
+      "reason": "Consolidacao de duas paginas com a mesma intencao sobre adjustment of status, processamento consular e riscos de sair dos EUA."
     }
   ]
 }
