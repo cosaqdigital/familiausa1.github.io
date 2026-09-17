@@ -29,6 +29,18 @@
       "targetSlug": "pedido-green-card-dentro-ou-fora-dos-eua-riscos",
       "dateRetired": "2026-09-17",
       "reason": "Consolidacao de duas paginas com a mesma intencao sobre adjustment of status, processamento consular e riscos de sair dos EUA."
+    },
+    {
+      "slug": "oms-monitora-casos-em-navio",
+      "targetSlug": "cruzeiro-ainda-e-seguro-em-2026",
+      "dateRetired": "2026-09-17",
+      "reason": "Consolidacao de noticia temporal sobre o surto do MV Hondius em um guia evergreen atualizado de seguranca e saude em cruzeiros."
+    },
+    {
+      "slug": "novo-virus-em-cruzeiros-o-que-e-verdade",
+      "targetSlug": "cruzeiro-ainda-e-seguro-em-2026",
+      "dateRetired": "2026-09-17",
+      "reason": "Consolidacao de noticia temporal sobre o mesmo evento do MV Hondius em um guia evergreen atualizado de seguranca e saude em cruzeiros."
     }
   ]
 }
