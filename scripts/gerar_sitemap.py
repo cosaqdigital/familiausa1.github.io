@@ -1,4 +1,5 @@
 from pathlib import Path
+import json
 import re
 
 BASE_URL = "https://familiausa1.com"
@@ -24,6 +25,23 @@ PRIORIDADES = {
 }
 
 DATA_FALLBACK = "2026-06-06"
+
+
+def carregar_artigos_aposentados():
+    arquivo = Path("src/data/retired-articles.json")
+    if not arquivo.exists():
+        return set()
+
+    try:
+        dados = json.loads(arquivo.read_text(encoding="utf-8"))
+    except (json.JSONDecodeError, OSError):
+        return set()
+
+    return {
+        f"{item.get('slug')}.html"
+        for item in dados.get("redirects", [])
+        if item.get("slug")
+    }
 
 
 def calcular_prioridade(caminho):
@@ -100,8 +118,6 @@ def carregar_lastmods_existentes():
 def extrair_data_html(caminho, loc, lastmods_existentes):
     html = caminho.read_text(encoding="utf-8", errors="ignore")
 
-    # Prioriza datas editoriais declaradas no Article/BlogPosting. Assim o
-    # sitemap reflete a ultima alteracao real, em vez da data de execucao do bot.
     for campo in ("dateModified", "datePublished"):
         match = re.search(
             rf'["\']{campo}["\']\s*:\s*["\'](\d{{4}}-\d{{2}}-\d{{2}})["\']',
@@ -111,8 +127,6 @@ def extrair_data_html(caminho, loc, lastmods_existentes):
         if match:
             return match.group(1)
 
-    # Alguns HTMLs podem nao ter schema de artigo. Nesse caso preservamos a
-    # data que ja existia no sitemap, evitando marcar tudo como atualizado hoje.
     return lastmods_existentes.get(loc, DATA_FALLBACK)
 
 
@@ -173,10 +187,12 @@ def adicionar_artigos_markdown(entradas):
 
 def gerar_sitemap():
     raiz = Path(".")
+    artigos_aposentados = carregar_artigos_aposentados()
     arquivos_html = sorted(
         p for p in raiz.rglob("*.html")
         if not any(parte in IGNORAR_DIRETORIOS for parte in p.parts)
         and p.name not in IGNORAR
+        and not (p.parts and p.parts[0] == "articles" and p.name in artigos_aposentados)
         and deve_indexar(p)
     )
 
