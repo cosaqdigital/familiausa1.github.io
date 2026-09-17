@@ -1,0 +1,28 @@
+---
+const target = "/articles/pedido-green-card-dentro-ou-fora-dos-eua-riscos.html";
+const canonical = `https://familiausa1.com${target}`;
+---
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Conteúdo consolidado | FamiliaUSA1</title>
+    <meta name="description" content="Este conteúdo foi consolidado em um guia mais completo sobre ajuste de status, processamento consular e riscos de sair dos Estados Unidos." />
+    <meta name="robots" content="noindex, follow" />
+    <link rel="canonical" href={canonical} />
+    <meta http-equiv="refresh" content={`0; url=${target}`} />
+    <script is:inline define:vars={{ target }}>
+      window.location.replace(target);
+    </script>
+  </head>
+  <body>
+    <main>
+      <h1>Este artigo foi atualizado e consolidado</h1>
+      <p>
+        Para evitar conteúdo duplicado, este tema agora está reunido em um único guia sobre green card dentro ou fora dos Estados Unidos, ajuste de status e processamento consular.
+      </p>
+      <p><a href={target}>Abrir o guia atualizado</a></p>
+    </main>
+  </body>
+</html>
