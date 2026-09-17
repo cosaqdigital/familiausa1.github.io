@@ -13,6 +13,7 @@ type RetiredArticle = {
 
 export const retiredArticles = (retiredData.redirects ?? []) as RetiredArticle[];
 export const retiredArticleSlugs = new Set(retiredArticles.map((item) => item.slug));
+const retiredArticleTargets = new Map(retiredArticles.map((item) => [item.slug, item.targetSlug]));
 
 // Quando um artigo legado ganha uma versao editorial nova em Markdown/MDX com
 // o mesmo slug, a versao nova substitui a antiga sem alterar a URL publica.
@@ -48,8 +49,13 @@ export function getFeaturedArticles(limit = 3) {
     .slice(0, limit);
 }
 
+function resolveRelatedSlug(slug: string) {
+  return retiredArticleTargets.get(slug) ?? slug;
+}
+
 function getBaseRelatedArticles(article: SiteArticle) {
   const linked = article.relatedSlugs
+    .map(resolveRelatedSlug)
     .map((slug) => articlesBySlug.get(slug))
     .filter((post): post is SiteArticle => Boolean(post && post.slug !== article.slug));
 
