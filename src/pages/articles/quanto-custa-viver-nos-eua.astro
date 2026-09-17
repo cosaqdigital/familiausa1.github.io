@@ -1,0 +1,29 @@
+---
+const target = "/articles/custo-de-vida-nos-eua-2026-atualizado.html";
+const canonical = `https://familiausa1.com${target}`;
+---
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Conteúdo atualizado | FamiliaUSA1</title>
+    <meta name="description" content="Este conteúdo foi consolidado no guia completo e atualizado sobre custo de vida nos Estados Unidos em 2026." />
+    <meta name="robots" content="noindex, follow" />
+    <link rel="canonical" href={canonical} />
+    <meta http-equiv="refresh" content={`0; url=${target}`} />
+    <script is:inline define:vars={{ target }}>
+      window.location.replace(target);
+    </script>
+  </head>
+  <body>
+    <main>
+      <h1>Este artigo foi atualizado e consolidado</h1>
+      <p>
+        Para evitar conteúdo duplicado, este guia agora faz parte da página principal sobre custo de vida
+        nos Estados Unidos em 2026.
+      </p>
+      <p><a href={target}>Abrir o guia atualizado</a></p>
+    </main>
+  </body>
+</html>
