@@ -11,14 +11,14 @@ tags:
   - "processamento consular"
   - "imigração EUA"
 datePublished: "2026-05-25"
-dateModified: "2026-09-04"
+dateModified: "2026-09-17"
 readingTime: "12 min de leitura"
 image: "https://familiausa1.com/assets/images/familiausa1-share.svg"
 excerpt: "Ajuste de status e processamento consular não são a mesma coisa. Veja quais fatores mudam o risco e o planejamento do processo."
 relatedSlugs:
   - "formas-legais-conseguir-green-card-eua-2026"
   - "uscis-2026-atualizacoes-green-card-brasileiros"
-  - "adjustment-of-status-ou-processo-consular-green-card-2026"
+  - "morar-legalmente-nos-eua-caminhos-possiveis-2026"
 faq:
   - question: "Quem está nos EUA sempre pode fazer ajuste de status?"
     answer: "Não. A elegibilidade depende da categoria do pedido, forma de entrada, histórico migratório e outras regras aplicáveis ao caso."
@@ -199,7 +199,7 @@ A diferença entre green card dentro ou fora dos Estados Unidos não é apenas b
 
 Antes de escolher estratégia, confirme sua base migratória, revise seu histórico e verifique se existe qualquer fator de inadmissibilidade ou presença irregular. O custo de uma análise cuidadosa costuma ser muito menor do que o custo de descobrir um problema depois de sair dos EUA.
 
-Para aprofundar, veja [formas legais de conseguir green card](/articles/formas-legais-conseguir-green-card-eua-2026.html), nosso guia sobre [atualizações do USCIS](/articles/uscis-2026-atualizacoes-green-card-brasileiros.html) e a comparação específica entre [adjustment of status e processo consular](/articles/adjustment-of-status-ou-processo-consular-green-card-2026.html).
+Para aprofundar, veja [formas legais de conseguir green card](/articles/formas-legais-conseguir-green-card-eua-2026.html), nosso guia sobre [atualizações do USCIS](/articles/uscis-2026-atualizacoes-green-card-brasileiros.html) e [caminhos para morar legalmente nos EUA](/articles/morar-legalmente-nos-eua-caminhos-possiveis-2026.html).
 
 ## Fontes oficiais úteis
 
