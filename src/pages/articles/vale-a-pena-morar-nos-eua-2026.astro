@@ -1,0 +1,29 @@
+---
+const target = "/articles/vale-a-pena-morar-nos-eua-em-2026-a-verdade-sem-filtro.html";
+const canonical = `https://familiausa1.com${target}`;
+---
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Conteúdo atualizado | FamiliaUSA1</title>
+    <meta name="description" content="Este conteúdo foi consolidado em um guia mais completo e atualizado sobre morar nos Estados Unidos em 2026." />
+    <meta name="robots" content="noindex, follow" />
+    <link rel="canonical" href={canonical} />
+    <meta http-equiv="refresh" content={`0; url=${target}`} />
+    <script is:inline define:vars={{ target }}>
+      window.location.replace(target);
+    </script>
+  </head>
+  <body>
+    <main>
+      <h1>Este artigo foi atualizado e consolidado</h1>
+      <p>
+        Para evitar conteúdo duplicado, este guia agora faz parte de uma versão mais completa sobre
+        morar nos Estados Unidos em 2026.
+      </p>
+      <p><a href={target}>Abrir o guia atualizado</a></p>
+    </main>
+  </body>
+</html>
