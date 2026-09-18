@@ -6,6 +6,7 @@ const dist = path.join(root, "dist");
 const legacyPath = path.join(root, "src", "data", "legacy-extract", "legacy-articles.json");
 const reportsDir = path.join(root, "src", "data", "legacy-extract");
 const currentSitemapPath = path.join(root, "sitemap.xml");
+const retiredPath = path.join(root, "src", "data", "retired-articles.json");
 const astroSitemapPath = path.join(dist, "sitemap.xml");
 const categoriesDir = path.join(root, "categorias");
 const markdownArticlesDir = path.join(root, "src", "content", "articles");
@@ -73,6 +74,18 @@ function parseSitemap(filePath) {
     duplicates: [...counts.entries()].filter(([, count]) => count > 1).map(([url, count]) => ({ url, count })),
     set: new Set(urls)
   };
+}
+
+function retiredCanonicalUrls() {
+  if (!fs.existsSync(retiredPath)) return new Set();
+
+  const parsed = JSON.parse(fs.readFileSync(retiredPath, "utf8"));
+  return new Set(
+    (parsed.redirects ?? [])
+      .map((item) => item.slug)
+      .filter(Boolean)
+      .map((slug) => `${siteUrl}/articles/${slug}.html`)
+  );
 }
 
 function normalizeUrlToPath(value = "") {
@@ -191,6 +204,7 @@ const generatedHtml = listGeneratedHtml();
 const generatedPathSet = new Set(generatedHtml);
 const currentSitemap = parseSitemap(currentSitemapPath);
 const astroSitemap = parseSitemap(astroSitemapPath);
+const retiredCanonicalSet = retiredCanonicalUrls();
 const currentSitemapPathSet = new Set(currentSitemap.urls.map(normalizeUrlToPath));
 const astroSitemapPathSet = new Set(astroSitemap.urls.map(normalizeUrlToPath));
 
@@ -321,7 +335,8 @@ for (const relativePath of expectedPaths) {
 errors.push(...linkErrors);
 warnings.push(...linkWarnings);
 
-const currentOnlyUrls = currentSitemap.urls.filter((url) => !astroSitemap.set.has(url));
+const retiredCurrentOnlyUrls = currentSitemap.urls.filter((url) => retiredCanonicalSet.has(url) && !astroSitemap.set.has(url));
+const currentOnlyUrls = currentSitemap.urls.filter((url) => !astroSitemap.set.has(url) && !retiredCanonicalSet.has(url));
 const astroOnlyUrls = astroSitemap.urls.filter((url) => !currentSitemap.set.has(url));
 const allowedNewMarkdownUrls = astroOnlyUrls.filter((url) => markdownCanonicalSet.has(url));
 const rootPageCanonicalSet = new Set(rootPages.map(canonicalForPath));
@@ -379,6 +394,7 @@ Data da validacao: ${new Date().toISOString()}
 - Duplicatas no sitemap atual: ${currentSitemap.duplicates.length}
 - Duplicatas no sitemap Astro: ${astroSitemap.duplicates.length}
 - URL set atual preservado no Astro: ${currentOnlyUrls.length === 0 ? "sim" : "nao"}
+- URLs aposentadas do sitemap atual ignoradas: ${retiredCurrentOnlyUrls.length}
 - URLs extras permitidas por Markdown: ${allowedNewMarkdownUrls.length}
 - URLs extras permitidas por paginas principais: ${allowedNewRootPageUrls.length}
 - URLs extras permitidas por categorias: ${allowedNewCategoryUrls.length}
@@ -386,6 +402,10 @@ Data da validacao: ${new Date().toISOString()}
 ## URLs faltando no Astro
 
 ${bulletList(currentOnlyUrls)}
+
+## URLs aposentadas do sitemap atual ignoradas
+
+${bulletList(retiredCurrentOnlyUrls)}
 
 ## URLs extras no Astro
 

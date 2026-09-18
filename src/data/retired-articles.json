@@ -41,6 +41,12 @@
       "targetSlug": "cruzeiro-ainda-e-seguro-em-2026",
       "dateRetired": "2026-09-17",
       "reason": "Consolidacao de noticia temporal sobre o mesmo evento do MV Hondius em um guia evergreen atualizado de seguranca e saude em cruzeiros."
+    },
+    {
+      "slug": "vale-a-pena-pedir-asilo-nos-eua-em-2026",
+      "targetSlug": "asilo-nos-eua-nao-e-atalho-migratorio",
+      "dateRetired": "2026-09-18",
+      "reason": "Consolidacao de artigo curto e sobreposto sobre se vale a pena pedir asilo no guia mais completo sobre riscos, criterios e por que asilo nao deve ser tratado como atalho migratorio."
     }
   ]
 }
