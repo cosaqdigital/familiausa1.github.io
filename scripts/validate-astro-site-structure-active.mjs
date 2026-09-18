@@ -4,6 +4,7 @@ import { spawnSync } from "node:child_process";
 
 const root = process.cwd();
 const legacyPath = path.join(root, "src", "data", "legacy-extract", "legacy-articles.json");
+const retiredPath = path.join(root, "src", "data", "retired-articles.json");
 const markdownDir = path.join(root, "src", "content", "articles");
 const validatorPath = path.join(root, "scripts", "validate-astro-site-structure.mjs");
 
@@ -26,17 +27,34 @@ function activeMarkdownSlugs() {
   return slugs;
 }
 
+function retiredArticleSlugs() {
+  if (!fs.existsSync(retiredPath)) return new Set();
+
+  const parsed = JSON.parse(fs.readFileSync(retiredPath, "utf8"));
+  return new Set(
+    (parsed.redirects ?? [])
+      .map((item) => item.slug)
+      .filter(Boolean)
+  );
+}
+
 const original = fs.readFileSync(legacyPath, "utf8");
 const parsed = JSON.parse(original);
 const markdownSlugs = activeMarkdownSlugs();
-const originalCount = Array.isArray(parsed.articles) ? parsed.articles.length : 0;
+const retiredSlugs = retiredArticleSlugs();
+const originalArticles = Array.isArray(parsed.articles) ? parsed.articles : [];
+const markdownReplacements = originalArticles.filter((article) => markdownSlugs.has(article.slug)).length;
+const retiredArticles = originalArticles.filter((article) => retiredSlugs.has(article.slug)).length;
 
-parsed.articles = (parsed.articles ?? []).filter((article) => !markdownSlugs.has(article.slug));
-const replacements = originalCount - parsed.articles.length;
+parsed.articles = originalArticles.filter(
+  (article) => !markdownSlugs.has(article.slug) && !retiredSlugs.has(article.slug)
+);
 
 try {
   fs.writeFileSync(legacyPath, `${JSON.stringify(parsed, null, 2)}\n`, "utf8");
-  console.log(`Validacao estrutural: ${replacements} artigo(s) legado(s) substituido(s) por Markdown foram deduplicados temporariamente.`);
+  console.log(
+    `Validacao estrutural: ${markdownReplacements} artigo(s) legado(s) substituido(s) por Markdown e ${retiredArticles} URL(s) aposentada(s) foram removidos temporariamente do inventario ativo.`
+  );
 
   const result = spawnSync(process.execPath, [validatorPath], {
     cwd: root,

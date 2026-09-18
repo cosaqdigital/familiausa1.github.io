@@ -29,12 +29,15 @@ function readCategories() {
   }
 
   const source = fs.readFileSync(categoriesPath, "utf8");
-  const values = [
+  const scalarValues = [
     ...source.matchAll(/\btitle:\s*"([^"]+)"/g),
     ...source.matchAll(/\bh1:\s*"([^"]+)"/g)
-  ].map((match) => normalize(match[1]));
+  ].map((match) => match[1]);
 
-  return new Set(values);
+  const matchCategoryValues = [...source.matchAll(/\bmatchCategories:\s*\[([\s\S]*?)\]/g)]
+    .flatMap((match) => [...match[1].matchAll(/"([^"]+)"/g)].map((item) => item[1]));
+
+  return new Set([...scalarValues, ...matchCategoryValues].map(normalize));
 }
 
 function frontmatterOf(markdown) {
