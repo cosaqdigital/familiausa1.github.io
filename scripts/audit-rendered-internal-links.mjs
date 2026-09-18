@@ -3,6 +3,7 @@ import path from "node:path";
 
 const ROOT = process.cwd();
 const DIST = path.join(ROOT, "dist");
+const RETIRED_PATH = path.join(ROOT, "src", "data", "retired-articles.json");
 const SITE_URL = "https://familiausa1.com";
 
 function walk(dir) {
@@ -36,6 +37,12 @@ function pageUrl(relativePath) {
   return new URL(pathname, SITE_URL).href;
 }
 
+function retiredArticleSlugs() {
+  if (!fs.existsSync(RETIRED_PATH)) return new Set();
+  const parsed = JSON.parse(fs.readFileSync(RETIRED_PATH, "utf8"));
+  return new Set((parsed.redirects ?? []).map((item) => item.slug).filter(Boolean));
+}
+
 function internalArticleTargets(html, relativePath) {
   const targets = new Set();
   const hrefPattern = /\bhref=["']([^"']+)["']/gi;
@@ -63,10 +70,11 @@ if (!fs.existsSync(DIST)) {
 
 const htmlFiles = walk(DIST);
 const articleFiles = htmlFiles.filter((file) => rel(file).startsWith("articles/"));
+const retiredSlugs = retiredArticleSlugs();
 const articleSlugs = new Set(
   articleFiles
     .map((file) => articleSlugFromPathname(new URL(pageUrl(rel(file))).pathname))
-    .filter(Boolean)
+    .filter((slug) => slug && !retiredSlugs.has(slug))
 );
 
 const inbound = Object.fromEntries(
@@ -78,6 +86,7 @@ for (const file of htmlFiles) {
   const html = fs.readFileSync(file, "utf8");
   const kind = sourceKind(relativePath);
   const sourceSlug = kind === "article" ? articleSlugFromPathname(new URL(pageUrl(relativePath)).pathname) : null;
+  if (sourceSlug && retiredSlugs.has(sourceSlug)) continue;
 
   for (const targetSlug of internalArticleTargets(html, relativePath)) {
     if (!articleSlugs.has(targetSlug) || targetSlug === sourceSlug) continue;
@@ -105,7 +114,7 @@ const trueOrphans = rows.filter((row) => row.totalIn === 0);
 const noContextualInbound = rows.filter((row) => row.articleIn === 0 && row.categoryIn === 0);
 const weakArticleInbound = rows.filter((row) => row.articleIn === 0 && row.categoryIn > 0);
 
-console.log(`Auditoria de links renderizados: ${htmlFiles.length} paginas HTML, ${rows.length} artigos.`);
+console.log(`Auditoria de links renderizados: ${htmlFiles.length} paginas HTML, ${rows.length} artigos ativos (${retiredSlugs.size} URL(s) aposentada(s) ignorada(s)).`);
 console.log(`Orfaos reais (nenhum link interno): ${trueOrphans.length}.`);
 console.log(`Sem link de artigo nem categoria: ${noContextualInbound.length}.`);
 console.log(`Somente hub/categoria, sem link contextual de outro artigo: ${weakArticleInbound.length}.`);

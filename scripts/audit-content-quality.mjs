@@ -5,6 +5,7 @@ const ROOT = process.cwd();
 const DIST = path.join(ROOT, "dist");
 const ARTICLES_DIR = path.join(DIST, "articles");
 const REPORT_DIR = path.join(DIST, "reports");
+const RETIRED_PATH = path.join(ROOT, "src", "data", "retired-articles.json");
 
 const STOPWORDS = new Set([
   "a", "as", "ao", "aos", "aquela", "aquele", "aqueles", "aqui", "com", "como", "da", "das", "de", "do", "dos",
@@ -19,6 +20,12 @@ function htmlFiles(dir) {
   return fs.readdirSync(dir)
     .filter((name) => name.endsWith(".html"))
     .map((name) => path.join(dir, name));
+}
+
+function retiredArticleSlugs() {
+  if (!fs.existsSync(RETIRED_PATH)) return new Set();
+  const parsed = JSON.parse(fs.readFileSync(RETIRED_PATH, "utf8"));
+  return new Set((parsed.redirects ?? []).map((item) => item.slug).filter(Boolean));
 }
 
 function decodeEntities(value = "") {
@@ -112,7 +119,10 @@ if (!fs.existsSync(ARTICLES_DIR)) {
   throw new Error("dist/articles nao encontrado. Execute npm run build antes da auditoria.");
 }
 
-const articles = htmlFiles(ARTICLES_DIR).map((file) => {
+const retiredSlugs = retiredArticleSlugs();
+const articles = htmlFiles(ARTICLES_DIR)
+  .filter((file) => !retiredSlugs.has(path.basename(file, ".html")))
+  .map((file) => {
   const html = fs.readFileSync(file, "utf8");
   const bodyHtml = extractArticleBody(html);
   const text = stripHtml(bodyHtml);
@@ -206,7 +216,7 @@ const highBodyPairs = pairs.filter((pair) => pair.bodySimilarity >= 0.28);
 const mediumBodyPairs = pairs.filter((pair) => pair.bodySimilarity >= 0.16 && pair.bodySimilarity < 0.28);
 const highTitlePairs = pairs.filter((pair) => pair.titleSimilarity >= 0.65);
 
-console.log(`Auditoria de qualidade: ${articles.length} artigos renderizados.`);
+console.log(`Auditoria de qualidade: ${articles.length} artigos ativos renderizados (${retiredSlugs.size} URL(s) aposentada(s) ignorada(s)).`);
 console.log(`Risco alto: ${highRisk.length}.`);
 console.log(`Risco medio: ${mediumRisk.length}.`);
 console.log(`Abaixo de 900 palavras: ${thin.length}.`);
