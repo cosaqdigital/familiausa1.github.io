@@ -20,7 +20,7 @@ excerpt: "Sem histórico de crédito americano, o aluguel pode exigir mais docum
 relatedSlugs:
   - "quanto-custa-alugar-casa-nos-eua-2026"
   - "como-funciona-o-credito-nos-eua"
-  - "primeiros-passos-para-quem-chega-nos-eua"
+  - "primeiros-30-dias-nos-eua"
   - "como-escolher-uma-cidade-para-morar-nos-eua"
 faq:
   - question: "É possível alugar casa nos EUA sem credit score?"
@@ -210,7 +210,7 @@ Em vez de escolher imóvel apenas pelas fotos, separe as opções em três grupo
 
 Essa triagem poupa dinheiro e transforma a busca em processo, não em tentativa aleatória.
 
-Se você ainda está organizando toda a chegada, o guia [primeiros passos para quem chega aos EUA](/articles/primeiros-passos-para-quem-chega-nos-eua.html) ajuda a colocar moradia junto com banco, transporte, documentos e rotina.
+Se você ainda está organizando toda a chegada, o guia [primeiros passos para quem chega aos EUA](/articles/primeiros-30-dias-nos-eua.html) ajuda a colocar moradia junto com banco, transporte, documentos e rotina.
 
 ## Depois de conseguir o imóvel: comece a criar histórico
 
