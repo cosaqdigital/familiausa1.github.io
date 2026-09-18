@@ -168,7 +168,7 @@ Se a família tem filhos, vale pesquisar:
 - [Seguro saúde nos EUA para brasileiros](/articles/seguro-saude-nos-eua-para-brasileiros.html)
 - [O que fazer se passar mal nos EUA durante viagem](/articles/o-que-fazer-se-passar-mal-nos-eua-viagem-2026.html)
 - [Custo de vida nos EUA](/articles/custo-de-vida-nos-eua-2026-atualizado.html)
-- [Primeiros passos para quem chega nos EUA](/articles/primeiros-passos-para-quem-chega-nos-eua.html)
+- [Primeiros passos para quem chega nos EUA](/articles/primeiros-30-dias-nos-eua.html)
 
 ## Perguntas frequentes
 
