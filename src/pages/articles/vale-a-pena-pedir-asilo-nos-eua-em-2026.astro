@@ -1,0 +1,28 @@
+---
+const target = "/articles/asilo-nos-eua-nao-e-atalho-migratorio.html";
+const canonical = `https://familiausa1.com${target}`;
+---
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Conteúdo atualizado | FamiliaUSA1</title>
+    <meta name="description" content="Este conteúdo foi consolidado no guia atualizado sobre riscos, critérios e cuidados antes de considerar um pedido de asilo nos Estados Unidos." />
+    <meta name="robots" content="noindex, follow" />
+    <link rel="canonical" href={canonical} />
+    <meta http-equiv="refresh" content={`0; url=${target}`} />
+    <script is:inline define:vars={{ target }}>
+      window.location.replace(target);
+    </script>
+  </head>
+  <body>
+    <main>
+      <h1>Este artigo foi atualizado e consolidado</h1>
+      <p>
+        Para evitar conteúdo sobreposto, este tema agora faz parte do guia sobre riscos, critérios e erros ao considerar asilo nos Estados Unidos.
+      </p>
+      <p><a href={target}>Abrir o guia atualizado</a></p>
+    </main>
+  </body>
+</html>
