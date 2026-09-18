@@ -24,7 +24,6 @@ image: "https://familiausa1.com/assets/images/familiausa1-share.svg"
 excerpt: "O visto B1/B2 pode ser válido por anos, mas quem define quanto tempo você pode permanecer em cada entrada é o CBP. A data que precisa ser conferida é a do I-94."
 relatedSlugs:
   - "posso-trabalhar-nos-estados-unidos-com-visto-de-turista"
-  - "visto-de-turista-nos-eua-quando-existe-caminho-legal"
   - "se-legalizar-nos-eua-com-visto-de-turista-2026"
   - "morar-legalmente-nos-eua-caminhos-possiveis-2026"
   - "visto-temporario-nos-eua-ainda-posso-tentar-green-card-2026"
@@ -391,7 +390,7 @@ Uma coisa é estar nos Estados Unidos durante um período autorizado como visita
 - obter um visto em outra categoria;
 - conseguir residência permanente.
 
-Se o seu objetivo deixou de ser apenas turismo, leia [visto de turista nos EUA: quando existe caminho legal?](/articles/visto-de-turista-nos-eua-quando-existe-caminho-legal.html) e [morar legalmente nos EUA: caminhos possíveis em 2026](/articles/morar-legalmente-nos-eua-caminhos-possiveis-2026.html).
+Se o seu objetivo deixou de ser apenas turismo, leia [visto de turista nos EUA: quando existe caminho legal?](/articles/se-legalizar-nos-eua-com-visto-de-turista-2026.html) e [morar legalmente nos EUA: caminhos possíveis em 2026](/articles/morar-legalmente-nos-eua-caminhos-possiveis-2026.html).
 
 ## Perguntas frequentes
 
