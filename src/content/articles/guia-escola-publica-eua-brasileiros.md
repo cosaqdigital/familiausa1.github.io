@@ -19,7 +19,7 @@ excerpt: "A escola pública nos EUA envolve distrito, documentos, inglês, comun
 relatedSlugs:
   - "como-matricular-filho-na-escola-nos-eua"
   - "ano-escolar-nos-eua-guia-pais-brasileiros"
-  - "primeiros-passos-para-quem-chega-nos-eua"
+  - "primeiros-30-dias-nos-eua"
   - "morar-legalmente-nos-eua-caminhos-possiveis-2026"
   - "custo-de-vida-nos-eua-2026-atualizado"
 faq:
@@ -177,7 +177,7 @@ Ajuda muito manter rotina em casa, perguntar como foi o dia, validar sentimentos
 9. Salvar contatos importantes.
 10. Observar sinais emocionais do filho.
 
-Para rotina geral de chegada, leia [primeiros passos para quem chega nos EUA](/articles/primeiros-passos-para-quem-chega-nos-eua.html).
+Para rotina geral de chegada, leia [primeiros passos para quem chega nos EUA](/articles/primeiros-30-dias-nos-eua.html).
 
 ## Links internos úteis
 
