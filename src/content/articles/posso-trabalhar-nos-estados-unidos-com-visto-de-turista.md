@@ -20,7 +20,7 @@ readingTime: "11 min de leitura"
 image: "https://familiausa1.com/assets/images/familiausa1-share.svg"
 excerpt: "Visto B1/B2 permite visitar e realizar algumas atividades de negócios, mas não funciona como autorização geral de trabalho nos Estados Unidos."
 relatedSlugs:
-  - "visto-de-turista-nos-eua-quando-existe-caminho-legal"
+  - "se-legalizar-nos-eua-com-visto-de-turista-2026"
   - "trabalhar-sem-autorizacao-nos-eua-riscos-2026"
   - "abrir-empresa-nos-eua-legaliza-minha-situacao"
   - "morar-legalmente-nos-eua-caminhos-possiveis-2026"
@@ -70,7 +70,7 @@ Fontes oficiais: [Visitor Visa - U.S. Department of State](https://travel.state.
 | Posso abrir LLC? | Abrir empresa e ter autorização de trabalho são assuntos diferentes. |
 | Posso mudar para visto de trabalho? | Pode existir caminho, mas não comece a trabalhar antes da autorização aplicável. |
 
-Se sua dúvida é mais ampla do que trabalho, veja também [visto de turista nos EUA: quando existe caminho legal?](/articles/visto-de-turista-nos-eua-quando-existe-caminho-legal.html) e [morar legalmente nos EUA: caminhos possíveis em 2026](/articles/morar-legalmente-nos-eua-caminhos-possiveis-2026.html).
+Se sua dúvida é mais ampla do que trabalho, veja também [visto de turista nos EUA: quando existe caminho legal?](/articles/se-legalizar-nos-eua-com-visto-de-turista-2026.html) e [morar legalmente nos EUA: caminhos possíveis em 2026](/articles/morar-legalmente-nos-eua-caminhos-possiveis-2026.html).
 
 ## Qual é a diferença entre B1 e B2?
 
