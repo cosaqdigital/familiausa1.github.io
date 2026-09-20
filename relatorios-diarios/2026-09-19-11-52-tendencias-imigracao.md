@@ -1,8 +1,8 @@
 # Relatório diário — Imigração e brasileiros nos EUA
 
-Gerado em: 2026-09-19 16:38 EDT
+Gerado em: 2026-09-19 11:52 EDT
 
-Arquivo original: `2026-09-19-16-38-tendencias-imigracao.md`
+Arquivo original: `2026-09-19-11-52-tendencias-imigracao.md`
 
 ## Objetivo
 
@@ -21,17 +21,17 @@ Este relatório serve como base para criação de artigos atualizados para o blo
    - Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxNaFYxcnV0bWpQeE1qZWcwM0RwSjBkdHdsTTRQQUJtam9DbWR3ZjFMeXIyLWRRaGpZNjRwR0tEWnhuSWItWS1Qcmw0NnNSMHdxZy1NVUU5YkdzNEZ5SzF3RWZlYktsQVBLSmxOdjk3a2JBd2tFQlRQdG5Mc1RwcmJoWGN4VWsyNk5SR25sN1ctb05zWUNKdWtpUXVKR05tY2J2NTZ1OV9Sa2Vwc3JGTlFrVXpiRU0td9IBuwFBVV95cUxPXy0xX2JOMFE4a181VFZuQXFrcHNxNWNoWlA2SXhtcFpjd3kzM3ZXZ2daSEJ2LXc5bWNrVnhIZnlTWkJVajlTampzT3AwQk5Na2lDS2FyaUhyUDdocTI1ZlZERUx6UnRvREx3VWREZmhzQzhtOFMzV3MtSmZKNDlNVjE1cENaRnMxX0huWlczQndzWFYyY3pPYTNBUlZNbURQeldyeUM5UVFNYW01Y3JpM1paRTh3MUFrOS1B?oc=5
 
 3. **Juiz derruba regra de Trump que reduzia prazo de permanência de estudantes e jornalistas estrangeiros nos EUA**
-   - Fonte: g1.globo.com
+   - Fonte: G1
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMi8wFBVV95cUxObHQ0QkZsSjk5a0F0T0dQWmltWjVYUFJKODhtR2ZGc2NqNk1XY1RONG1oemVJS0FhNjZ6bWtGcmk4b3FsdmMtUi0tQUxWa2YzRkxFREdGX2RZN3piVWF6Yk1qRVctZEQzLW0zWFFka3dVc05oS3BGWmpiUGtUMEtjV01JbVRXOTZ1S2tSSjNPQmpBZ0ExdXJPYkU4X1JBbXlnVDJwejZvZkZ6U004andiWC1lSngxTDAyZGpldldHbVJ0Qm9wZmZqdVltdk44YmxSQ0l0OWQ1X0czM3VZRjd2bkZHbnRsODNQZTV6Qm1wRDNsTG_SAYICQVVfeXFMUDhjYWQxLWVxZlNGdVBlT19aWVNaYlV6Q0pwTWN0T0VCUmNNeFpTUFYxaF9OOXhvX0xGd0lxNjcydEZ3bXM0RUlrY1VtSVZmLWFkMTZsNjZJdGc4V1p2dTZuYjdwUDNPY3pJY19abHdsS0dyMFVteXpnbEFxSi0tT1hNVVZsLWM2azU4bGFpcXhnM3IxRUFNVVQ1SEZiN1JyQnprbWRwc3VISTdCcnpicl9VcGVhZWZVZ0ZnelJpNDZGNUxCanF0NU92bFNEQ3VZSmQ0LWJwT0otcnc5a2FqQTl5UFNhN25XN1VKZnNQSTFDQmwtaG1wY0F6eFBsR1hHNm5B?oc=5
 
-4. **Vai viajar para os EUA? Confira 6 perguntas da imigração que vale a pena treinar em inglês**
-   - Fonte: VOENEWS
+4. **Brasileiros estão entre migrantes que mudaram o mapa de cidades dos EUA**
+   - Fonte: Jovem Pan
    - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxPX3owWnlGejgybXdfaUdEem45ek85WEE1ZUlEME9aUHBmczhLcmpBc3UwZFlmR2t5RThpWmY3UUZ5REJRRjNDWVI5c1FaMy1PNXdEMk9DSmRoUFVqSExWM1Vpajd4MkRMdjUzdV90U25MVXF0Y3JXRGtjbnpzbHRSekd6UGRwanVzU0VSNW9ERWJxbU9hZ2dkbUVKNzRXVi1kSUpVcVhYbkFtNDJycjRRVVJENUE5dw?oc=5
+   - Link: https://news.google.com/rss/articles/CBMivwFBVV95cUxPUkt1clRfbWxDYnprbldvMURiVXpwZzVBNXJFM3FFdFhIVWFKN3I0eV9wX0R4djF4NzBHZHlnWnR6T1l6UEt3NGxJUGVwWGVpTXA5VUFFV1FsQ1BNUkpiWHlqTEpUaWpHOTZZZWRZNWwwbzhqUDc3Y1I4bHpIUGFUWDhXb0oxN2pZT2xneWhQM2RQcG9LaFVvU3BqTVo2Vll6dEV0ZkJjTC1vUjJ1VzB1T05QbkxNWGUydVJ4Mm5JUQ?oc=5
 
 5. **Amaury Jr - USCIS publica diretrizes atualizadas sobre encargo público**
-   - Fonte: uol.com.br
+   - Fonte: UOL
    - Termo monitorado: USCIS
    - Link: https://news.google.com/rss/articles/CBMivgFBVV95cUxOdVBHN0NzaUlpSHp2bjk5T21Qd0xNZWliSXFiM1ZPVDNmbHYyWFdCUDE1REktUDhqalIxaWhZTWl5S1FtellyVlM2aXhKZ0Q2ZDlkV19rMW40UjRTVXVOOWpITlVjVjZncHFFOEp4V21wLURsTHV4X05sa0VZdE9OSEdBN0RRVmwwQlVMYTlvZDNKLVZyY2R3ODN1RGZsck9UZDZ6TGlaY3BaSmhRYlVKMVpFVVZFdEJEby1oN3Nn?oc=5
 
@@ -58,7 +58,7 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 ### USCIS
 
 - **Amaury Jr - USCIS publica diretrizes atualizadas sobre encargo público**
-  - Fonte: uol.com.br
+  - Fonte: UOL
   - Link: https://news.google.com/rss/articles/CBMivgFBVV95cUxOdVBHN0NzaUlpSHp2bjk5T21Qd0xNZWliSXFiM1ZPVDNmbHYyWFdCUDE1REktUDhqalIxaWhZTWl5S1FtellyVlM2aXhKZ0Q2ZDlkV19rMW40UjRTVXVOOWpITlVjVjZncHFFOEp4V21wLURsTHV4X05sa0VZdE9OSEdBN0RRVmwwQlVMYTlvZDNKLVZyY2R3ODN1RGZsck9UZDZ6TGlaY3BaSmhRYlVKMVpFVVZFdEJEby1oN3Nn?oc=5
 - **USCIS exigirá novos formulários I-765 e I-539 a partir de 15 de setembro**
   - Fonte: Gazeta Brazilian News
@@ -79,7 +79,7 @@ Este relatório serve como base para criação de artigos atualizados para o blo
   - Fonte: Mercado e Eventos
   - Link: https://news.google.com/rss/articles/CBMi4gFBVV95cUxOelZPU3FpZGIyR2ZFbmtSZlZRbXhqUUpEbGoybWhHUUdTUkYzazl0TjR3bWV4a3hXX29aS3FlWW8wZ0NGNGFUQUlIZ2lQUHNJSUMyU3d3MUEwTDlDQVY0VXVlSWZ4RTRodFJqRVlNNkstSTJvcG11UkJwN3YtbG5KMVdSVVRGbW5pblE5SG9RV2o4dm9ISU5aRERCYnNpcG8xSDRYS0pFc0ZaT0k1V1psQzRIVE5YUjFEcE1JbllGWk96ck9QVkJsM1VuTGZHVmJHWTNVTTV3VmhRSkhpTlYtUnh3?oc=5
 - **EUA concedem vistos a delegação do Irã para ONU, mas proíbem compra de artigos de luxo**
-  - Fonte: g1.globo.com
+  - Fonte: G1
   - Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxNTlppbU9PdjFucURlNkdRUjJCUlNMV0s4bndmckN6V01FOXQ2dWgzMUN2eC1heGZGWlFlTHgwXzZPdlJsd01FbFlEdXFaeEhPQWZMOG85Vy1OSHRIbmdhWG5IakJSckxISmlxdl9mMWJsTXRVRmRlLXozT3M4a1ZNY0NzYXNCQVViRGdRQXppSHFxZHBBd2pUel94b2Vlc1pjMDZ0MTNCZEo0YVlPb0dNNG1HWFl3LXZDZHfSAcgBQVVfeXFMT091VE95YndIQ1hvUnFGNGF3R3dDeno0MWlRMmE5R1RvbWdLRXJWazc1Z0ZSNk8zdEdhZVcwYnlGUWZpcjRJUXRxM254eU9aWkttaHg2VDEtQ0ZkY3JWTEFPMkZZc3NxUDdGNlFlbHpmWWlEcDMta0I4bkxuclVLcGROdU9HR01DaGdnNWtZUlM3UC1YbnJlYThfVlFRRDBnN3EwczduZldHYUVwZWpJNDFONnpfdnlyTkJjZmxmTFhSU08ySGpLOFE?oc=5
 
 ### brasileiros nos Estados Unidos
@@ -88,7 +88,7 @@ Este relatório serve como base para criação de artigos atualizados para o blo
   - Fonte: Folha de S.Paulo
   - Link: https://news.google.com/rss/articles/CBMizgFBVV95cUxQVEhpNmFOajB2Nk9XX1o0RExxVGg1a3o5Xy1rTjkwZ1ptUzRtTVpTSVRXa1BJMElrWWJMakFIbXVrVTc4SG1jNmlTc25MbWFSZkdoUUZtOFZyNy1MWVk5MGhjaWJVOUg3ck1rOWZlMDN2Y3VMRXFMa2gxRW1EM0JrazdZNThELVdocklzWmkxaGl3a3RNU1VXWi1GRVlfNFBfamxvLWdzb29heGo2MXFIRk9KdHpxTzRJclpuVnhSR2lTNGJScTUxTzYwcWNiZw?oc=5
 - **Exigências dos EUA ao Brasil vêm à tona e incluem etanol e questões políticas**
-  - Fonte: NovaCana
+  - Fonte: novacana.com
   - Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxPQVluSmNHY3pGdkdDeUV5UzBvOTZBcmY3cGhfYnVCdDExZ0dSRzBUOEFuOTNUemhZalhrcnp0ZTkwalVRcFJwNk5IWHFrcWFhQkIxeEhMX19xLWVZeWNLbm9zTVhnN2xpUkxYaWZUeHJpY1FwWmkzMy1TX2JnZFpJdUs1aW9DTFNhTmNaZDYzSVc1engxc1p3dEZXRVFaaExKZDlHTFlVdzV1czlEYmw2NQ?oc=5
 
 ### asilo nos EUA
@@ -103,7 +103,7 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 ### ICE immigration
 
 - **Imigrantes detidos na 'Alcatraz dos Jacarés' do ICE, na Flórida, ficavam em celas do tamanho de uma cabine telefônica**
-  - Fonte: g1.globo.com
+  - Fonte: G1
   - Link: https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTXN1OV85aS1VMVhpTFdVZmxYdnNYVGFadkRsV3oyTlJ2c2xmcDIxbWlGMFpWY1ZLM3FOUmU4V05zUElVOGtWN0NTcDU2SnBSaXpScDhwQmhLZk1VTDY0c3hUNnA5bUdiM3R0ZVF0TlE4U3hCSXZMM2I5RlY2Y3lWaFVLSV9sMUREcmtQUVVEVjNlVjI0dWU0RUptVEZfQ0kybk1qYlZLbXZGWnV2eVQ2QXBVRTBTUi1fck84cVdWS091eEpzRVhhRWxETzQ0bFlwX0HSAeABQVVfeXFMTXlJVDl1ZHR3UnRyRGpPenR0Vjc1R1NCSlYtbTlETTlGeDE4YkppVjVJWFdOd2hTNnJucVVrdG9XLVFFZkFXMDFWVG9kdEdYQmpFSzZXM1ZDX0NKdzVTZUxNSnZWbk9VOUdTU1NPcFhfNVA1TW54am9tLUQ1SURQZGUzNzdmaDlHeXNfUXR4VnFPTVZsYk5UMEFESzN2MndtaGFoTmFYbVl5dUhqZXhGcURuREtmeGRObmthTjI0aE9Qdm40NHZ5dTFHcFJOSVFZZkx0OElvNEhvYXlFdHJqejE?oc=5
 - **Preocupação com cerco do ICE ronda eleitores brasileiros nos Estados Unidos**
   - Fonte: Estado de Minas
