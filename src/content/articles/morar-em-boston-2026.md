@@ -43,6 +43,10 @@ affiliate:
 
 > Este conteúdo é informativo e não substitui orientação financeira, imobiliária, escolar, migratória ou jurídica. Aluguel, transporte, escolas e regras podem mudar. Confirme os dados para o endereço e a data da sua decisão.
 
+<div class="quick-summary">
+<strong>Resposta direta:</strong> Boston pode fazer sentido para quem tem renda compatível com o aluguel, trabalha ou estuda na região e consegue aproveitar a MBTA para reduzir carro e deslocamento. Em setembro de 2026, o aluguel médio pedido estava em US$ 3.300; por isso, a decisão deve considerar custo total, não apenas salário ou localização.
+</div>
+
 Boston é uma das cidades mais conhecidas dos Estados Unidos para quem pensa em:
 
 - estudar;
