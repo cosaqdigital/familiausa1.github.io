@@ -160,7 +160,13 @@ def adicionar_artigos_markdown(entradas):
     if not pasta.exists():
         return
 
-    for arquivo in sorted(pasta.glob("*.md")):
+    arquivos_conteudo = sorted(
+        arquivo
+        for arquivo in pasta.iterdir()
+        if arquivo.is_file() and arquivo.suffix.lower() in {".md", ".mdx"}
+    )
+
+    for arquivo in arquivos_conteudo:
         if arquivo.name.startswith("_"):
             continue
 
