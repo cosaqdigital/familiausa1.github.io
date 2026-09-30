@@ -1,0 +1,29 @@
+---
+const target = "/articles/quanto-custa-morar-em-tampa-2026.html";
+const canonical = `https://familiausa1.com${target}`;
+---
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Conteúdo atualizado | FamiliaUSA1</title>
+    <meta name="description" content="O guia de custos de Tampa foi consolidado na página principal e atualizada sobre morar em Tampa em 2026." />
+    <meta name="robots" content="noindex, follow" />
+    <link rel="canonical" href={canonical} />
+    <meta http-equiv="refresh" content={`0; url=${target}`} />
+    <script is:inline define:vars={{ target }}>
+      window.location.replace(target);
+    </script>
+  </head>
+  <body>
+    <main>
+      <h1>Este artigo foi atualizado e consolidado</h1>
+      <p>
+        Para evitar conteúdo sobreposto, o orçamento detalhado de Tampa agora faz parte do guia principal
+        sobre morar em Tampa em 2026.
+      </p>
+      <p><a href={target}>Abrir o guia atualizado</a></p>
+    </main>
+  </body>
+</html>
