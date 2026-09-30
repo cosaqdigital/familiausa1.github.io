@@ -43,9 +43,9 @@ Morar em Tampa vale a pena para muitos brasileiros, mas não para todo mundo. A 
 
 A resposta direta é esta: **Tampa vale a pena quando o orçamento comporta aluguel, carro, seguro e deslocamento, e quando a pessoa quer viver em uma região urbana com oportunidades variadas em Tampa Bay**. Talvez não valha tanto para quem quer depender de transporte público, precisa de aluguel muito barato ou espera encontrar a mesma rede brasileira que existe em algumas áreas de Orlando, Miami ou Deerfield Beach.
 
-O foco deste guia é decisão por perfil, rotina, vantagens e desvantagens. Ele não substitui a planilha detalhada de custos: para faixas mensais, premissas e metodologia, consulte [quanto custa morar em Tampa](/articles/quanto-custa-morar-em-tampa.html).
+O foco deste guia é decisão por perfil, rotina, vantagens e desvantagens. Ele não substitui a planilha detalhada de custos: para faixas mensais, premissas e metodologia, consulte [quanto custa morar em Tampa](/articles/quanto-custa-morar-em-tampa-2026.html).
 
-Este artigo faz parte do cluster de [cidades da Flórida para brasileiros](/categorias/cidades-da-florida.html). Se sua dúvida principal for orçamento mensal, leia também [quanto custa morar em Tampa](/articles/quanto-custa-morar-em-tampa.html). Se você está comparando cidades, veja [morar em Orlando ou Tampa](/articles/morar-em-orlando-ou-tampa.html) e [melhores cidades da Flórida para brasileiros](/articles/melhores-cidades-da-florida-para-brasileiros.html).
+Este artigo faz parte do cluster de [cidades da Flórida para brasileiros](/categorias/cidades-da-florida.html). Se sua dúvida principal for orçamento mensal, leia também [quanto custa morar em Tampa](/articles/quanto-custa-morar-em-tampa-2026.html). Se você está comparando cidades, veja [morar em Orlando ou Tampa](/articles/morar-em-orlando-ou-tampa.html) e [melhores cidades da Flórida para brasileiros](/articles/melhores-cidades-da-florida-para-brasileiros.html).
 
 ## Sumário
 
@@ -104,7 +104,7 @@ Não olhe apenas o valor do aluguel. Compare também:
 - pedágio, gasolina e tempo no trânsito;
 - risco de enchente e custo de seguro em algumas áreas.
 
-Para orçamento detalhado, use o artigo complementar [quanto custa morar em Tampa](/articles/quanto-custa-morar-em-tampa.html). Ele separa cenários para pessoa sozinha, casal e família com filhos.
+Para orçamento detalhado, use o artigo complementar [quanto custa morar em Tampa](/articles/quanto-custa-morar-em-tampa-2026.html). Ele separa cenários para pessoa sozinha, casal e família com filhos.
 
 <h2 id="bairros">Bairros e regiões: Tampa não é uma cidade só</h2>
 

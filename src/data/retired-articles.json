@@ -47,6 +47,12 @@
       "targetSlug": "asilo-nos-eua-nao-e-atalho-migratorio",
       "dateRetired": "2026-09-18",
       "reason": "Consolidacao de artigo curto e sobreposto sobre se vale a pena pedir asilo no guia mais completo sobre riscos, criterios e por que asilo nao deve ser tratado como atalho migratorio."
+    },
+    {
+      "slug": "quanto-custa-morar-em-tampa",
+      "targetSlug": "quanto-custa-morar-em-tampa-2026",
+      "dateRetired": "2026-09-30",
+      "reason": "Consolidacao do guia permanente de custos de Tampa na URL principal de 2026, preservando as estimativas e metodologia de orcamento dentro do artigo atualizado."
     }
   ]
 }
