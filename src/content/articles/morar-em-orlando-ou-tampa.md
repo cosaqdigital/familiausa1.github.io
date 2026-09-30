@@ -46,7 +46,7 @@ A resposta curta é: **Orlando tende a fazer mais sentido para quem quer comunid
 
 Não existe vencedora absoluta. A melhor cidade depende de orçamento, inglês, documentação, profissão, filhos, escola, carro, estilo de vida e tolerância a trânsito. Este comparativo ajuda você a escolher por perfil, não por vídeo bonito.
 
-Este artigo é o comparativo permanente por perfil do cluster de [cidades da Flórida para brasileiros](/categorias/cidades-da-florida.html). Para aprofundar, leia também [morar em Tampa vale a pena?](/articles/morar-em-tampa-vale-a-pena.html), [quanto custa morar em Tampa](/articles/quanto-custa-morar-em-tampa.html), [Miami ou Orlando](/articles/miami-ou-orlando-onde-morar-2026.html) e [melhores cidades da Flórida para brasileiros](/articles/melhores-cidades-da-florida-para-brasileiros.html). Para valores e mudanças específicas de 2026, confira a [atualização anual de Orlando e Tampa](/articles/vale-a-pena-morar-em-orlando-ou-tampa-2026.html).
+Este artigo é o comparativo permanente por perfil do cluster de [cidades da Flórida para brasileiros](/categorias/cidades-da-florida.html). Para aprofundar, leia também [morar em Tampa vale a pena?](/articles/morar-em-tampa-vale-a-pena.html), [quanto custa morar em Tampa](/articles/quanto-custa-morar-em-tampa-2026.html), [Miami ou Orlando](/articles/miami-ou-orlando-onde-morar-2026.html) e [melhores cidades da Flórida para brasileiros](/articles/melhores-cidades-da-florida-para-brasileiros.html). Para valores e mudanças específicas de 2026, confira a [atualização anual de Orlando e Tampa](/articles/vale-a-pena-morar-em-orlando-ou-tampa-2026.html).
 
 ## Sumário
 
@@ -100,7 +100,7 @@ O erro é perguntar "qual é mais barata?" como se cada cidade tivesse um preço
 | Alimentação | Similar à média de grandes áreas da Flórida | Similar, variando por bairro e estilo |
 | Lazer | Parques podem ser caros | Praia pode ser mais acessível, mas há outros custos |
 
-Se a sua dúvida central é Tampa, veja [quanto custa morar em Tampa](/articles/quanto-custa-morar-em-tampa.html). Para Orlando, leia [quanto custa morar em Orlando](/articles/quanto-custa-morar-em-orlando-2026.html).
+Se a sua dúvida central é Tampa, veja [quanto custa morar em Tampa](/articles/quanto-custa-morar-em-tampa-2026.html). Para Orlando, leia [quanto custa morar em Orlando](/articles/quanto-custa-morar-em-orlando-2026.html).
 
 <h2 id="trabalho">Trabalho e oportunidades</h2>
 
