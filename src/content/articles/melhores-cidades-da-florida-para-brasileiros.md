@@ -128,7 +128,7 @@ Tampa é uma alternativa forte para quem quer Flórida com praia por perto, econ
 
 **Talvez não seja ideal para:** quem precisa de transporte público ou aluguel muito baixo.
 
-Leia também: [morar em Tampa vale a pena?](/articles/morar-em-tampa-vale-a-pena.html) e [quanto custa morar em Tampa](/articles/quanto-custa-morar-em-tampa.html).
+Leia também: [morar em Tampa vale a pena?](/articles/morar-em-tampa-vale-a-pena.html) e [quanto custa morar em Tampa](/articles/quanto-custa-morar-em-tampa-2026.html).
 
 <h2 id="miami">Miami</h2>
 
