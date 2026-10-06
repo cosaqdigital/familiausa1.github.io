@@ -1,0 +1,395 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { SITE_URL } from "../data/pilotContent";
+
+const title = "Eleições Brasil 2026 ao vivo: 2º turno | FamiliaUSA1";
+const description = "Acompanhe a apuração oficial do 2º turno das eleições brasileiras de 2026, com dados do TSE, atualização automática e resultados para presidente e governos estaduais.";
+const canonical = `${SITE_URL}/eleicoes-brasil-2026.html`;
+const apiBase = import.meta.env.PUBLIC_ELECTIONS_API_BASE_URL || "https://familiausa1-elections-api.vercel.app";
+---
+
+<BaseLayout title={title} description={description} canonical={canonical}>
+  <section class="election-hero">
+    <div class="container election-hero-inner">
+      <span class="eyebrow">Eleições Brasil 2026</span>
+      <h1>2º turno: acompanhe a apuração oficial</h1>
+      <p>
+        Resultados atualizados a partir da fonte oficial do Tribunal Superior Eleitoral (TSE).
+        A página se atualiza automaticamente durante a apuração.
+      </p>
+      <div class="election-meta">
+        <span>Data do 2º turno: 25 de outubro de 2026</span>
+        <span>Fonte: TSE</span>
+      </div>
+    </div>
+  </section>
+
+  <section class="container election-section">
+    <div class="election-status-card" id="election-status" data-api-base={apiBase}>
+      <div>
+        <span class="status-dot" aria-hidden="true"></span>
+        <strong id="status-title">Conectando à apuração oficial...</strong>
+      </div>
+      <p id="status-message">Buscando a situação atual da eleição.</p>
+      <small id="status-updated"></small>
+    </div>
+
+    <div id="election-results" class="election-results" aria-live="polite"></div>
+
+    <div class="election-note">
+      <strong>Importante:</strong>
+      <span>
+        Os números exibidos nesta página são informativos e vêm da API preparada para consultar os
+        dados oficiais do TSE. Em caso de divergência, prevalece sempre a publicação oficial do TSE.
+      </span>
+    </div>
+  </section>
+
+  <script define:vars={{ apiBase }}>
+    const endpoint = `${apiBase.replace(/\/$/, "")}/api/eleicoes/2026/segundo-turno`;
+    const statusCard = document.getElementById("election-status");
+    const statusTitle = document.getElementById("status-title");
+    const statusMessage = document.getElementById("status-message");
+    const statusUpdated = document.getElementById("status-updated");
+    const results = document.getElementById("election-results");
+
+    const number = (value) => Number.isFinite(Number(value)) ? Number(value) : 0;
+    const escapeHtml = (value) => String(value ?? "")
+      .replaceAll("&", "&amp;")
+      .replaceAll("<", "&lt;")
+      .replaceAll(">", "&gt;")
+      .replaceAll('"', "&quot;")
+      .replaceAll("'", "&#039;");
+
+    function candidateGroups(payload) {
+      const groups = [];
+      const seen = new Set();
+
+      function walk(value) {
+        if (!value || typeof value !== "object") return;
+        if (Array.isArray(value)) {
+          value.forEach(walk);
+          return;
+        }
+
+        if (Array.isArray(value.candidates) && value.candidates.length) {
+          const key = [value.scope, value.officeCode, value.officeName, value.electionId].filter(Boolean).join("|");
+          if (!seen.has(key)) {
+            seen.add(key);
+            groups.push(value);
+          }
+        }
+
+        Object.values(value).forEach(walk);
+      }
+
+      walk(payload);
+      return groups;
+    }
+
+    function renderGroup(group) {
+      const candidates = [...group.candidates].sort((a, b) => number(b.votes) - number(a.votes));
+      const counting = group.sections?.percentageDisplay || "";
+      const title = group.officeName || (group.officeCode === "0001" ? "Presidente" : "Resultado");
+      const scope = group.scope && group.scope.toLowerCase() !== "br" ? group.scope.toUpperCase() : "Brasil";
+
+      return `
+        <article class="election-card">
+          <header class="election-card-header">
+            <div>
+              <span class="election-scope">${escapeHtml(scope)}</span>
+              <h2>${escapeHtml(title)}</h2>
+            </div>
+            ${counting ? `<span class="counting-badge">${escapeHtml(counting)} apurado</span>` : ""}
+          </header>
+          <div class="candidate-list">
+            ${candidates.map((candidate) => `
+              <div class="candidate-row">
+                <div class="candidate-main">
+                  <strong>${escapeHtml(candidate.ballotName || candidate.name)}</strong>
+                  <span>${escapeHtml(candidate.party || "")}${candidate.number ? ` · ${escapeHtml(candidate.number)}` : ""}</span>
+                </div>
+                <div class="candidate-score">
+                  <strong>${escapeHtml(candidate.percentageDisplay || `${number(candidate.percentage).toFixed(2)}%`)}</strong>
+                  <span>${number(candidate.votes).toLocaleString("pt-BR")} votos</span>
+                </div>
+              </div>
+            `).join("")}
+          </div>
+        </article>
+      `;
+    }
+
+    function render(payload) {
+      const timeline = payload?.timeline || {};
+      const status = payload?.status || "temporarily-unavailable";
+      const message = payload?.message || timeline.message || "Aguardando dados oficiais do TSE.";
+      const title = timeline.title || (
+        status === "counting" ? "Apuração em andamento" :
+        status === "finalized" ? "Apuração finalizada" :
+        status === "voting" ? "Votação em andamento" :
+        status === "ready" ? "Dados oficiais disponíveis" :
+        "Aguardando atualização oficial"
+      );
+
+      statusCard.dataset.status = status;
+      statusTitle.textContent = title;
+      statusMessage.textContent = message;
+      statusUpdated.textContent = payload?.snapshotAt
+        ? `Última consulta: ${new Date(payload.snapshotAt).toLocaleString("pt-BR")}`
+        : "";
+
+      const groups = candidateGroups(payload);
+      results.innerHTML = groups.length
+        ? groups.map(renderGroup).join("")
+        : `
+          <div class="waiting-card">
+            <h2>Ainda não há resultados para exibir</h2>
+            <p>${escapeHtml(message)}</p>
+            <p>Esta página continuará consultando a fonte oficial automaticamente.</p>
+          </div>
+        `;
+
+      const shouldPoll = timeline.shouldPoll ?? ["voting", "waiting-results", "counting"].includes(status);
+      return shouldPoll;
+    }
+
+    async function refresh() {
+      try {
+        const response = await fetch(endpoint, {
+          headers: { Accept: "application/json" },
+          cache: "no-store"
+        });
+
+        if (!response.ok) {
+          throw new Error(`Resposta HTTP ${response.status}`);
+        }
+
+        const payload = await response.json();
+        const shouldPoll = render(payload);
+
+        if (shouldPoll) {
+          window.setTimeout(refresh, 15000);
+        } else {
+          window.setTimeout(refresh, 60000);
+        }
+      } catch (error) {
+        statusCard.dataset.status = "temporarily-unavailable";
+        statusTitle.textContent = "Consulta temporariamente indisponível";
+        statusMessage.textContent = "Não foi possível consultar a apuração agora. Tentaremos novamente automaticamente.";
+        statusUpdated.textContent = "";
+        results.innerHTML = `
+          <div class="waiting-card">
+            <h2>Estamos tentando reconectar</h2>
+            <p>Os dados oficiais permanecem sob responsabilidade do TSE.</p>
+          </div>
+        `;
+        window.setTimeout(refresh, 30000);
+      }
+    }
+
+    refresh();
+  </script>
+
+  <style>
+    .election-hero {
+      padding: clamp(88px, 10vw, 132px) 0 clamp(42px, 7vw, 76px);
+      color: #fffaf1;
+      background:
+        radial-gradient(circle at 82% 30%, rgba(47, 92, 79, 0.42), transparent 26rem),
+        linear-gradient(120deg, #0d1725 0%, #111d2e 56%, #263b59 100%);
+    }
+
+    .election-hero-inner {
+      max-width: 980px;
+    }
+
+    .election-hero h1 {
+      max-width: 850px;
+      margin: 14px 0 18px;
+      font-family: var(--font-display);
+      font-size: clamp(2.35rem, 6vw, 5rem);
+      line-height: .98;
+      letter-spacing: -.055em;
+    }
+
+    .election-hero p {
+      max-width: 780px;
+      margin: 0;
+      color: rgba(255, 250, 241, .84);
+      font-size: clamp(1.04rem, 2vw, 1.3rem);
+      line-height: 1.65;
+    }
+
+    .election-meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px 18px;
+      margin-top: 24px;
+      color: #ffe2a8;
+      font-size: .92rem;
+      font-weight: 800;
+    }
+
+    .election-section {
+      padding-top: 34px;
+    }
+
+    .election-status-card,
+    .waiting-card,
+    .election-card,
+    .election-note {
+      border: 1px solid var(--line);
+      border-radius: var(--radius-lg);
+      background: rgba(255, 255, 255, .92);
+      box-shadow: var(--shadow-soft);
+    }
+
+    .election-status-card {
+      padding: 22px 24px;
+    }
+
+    .election-status-card > div {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .election-status-card p {
+      margin: 8px 0 5px;
+      color: var(--ink-soft);
+    }
+
+    .election-status-card small {
+      color: var(--muted);
+      font-weight: 700;
+    }
+
+    .status-dot {
+      width: 11px;
+      height: 11px;
+      border-radius: 999px;
+      background: #c28a2c;
+      box-shadow: 0 0 0 6px rgba(194, 138, 44, .14);
+    }
+
+    .election-status-card[data-status="counting"] .status-dot,
+    .election-status-card[data-status="voting"] .status-dot,
+    .election-status-card[data-status="ready"] .status-dot {
+      background: #2f5c4f;
+      box-shadow: 0 0 0 6px rgba(47, 92, 79, .14);
+    }
+
+    .election-results {
+      display: grid;
+      gap: 20px;
+      margin-top: 22px;
+    }
+
+    .waiting-card,
+    .election-card {
+      padding: clamp(22px, 4vw, 34px);
+    }
+
+    .waiting-card h2,
+    .election-card h2 {
+      margin: 0;
+      color: var(--navy);
+      font-family: var(--font-display);
+    }
+
+    .waiting-card p {
+      color: var(--ink-soft);
+    }
+
+    .election-card-header {
+      display: flex;
+      align-items: flex-start;
+      justify-content: space-between;
+      gap: 18px;
+      margin-bottom: 18px;
+    }
+
+    .election-scope {
+      color: var(--terracotta);
+      font-size: .78rem;
+      font-weight: 950;
+      letter-spacing: .11em;
+      text-transform: uppercase;
+    }
+
+    .counting-badge {
+      border-radius: 999px;
+      padding: 8px 11px;
+      color: #225146;
+      background: #edf6f1;
+      font-size: .82rem;
+      font-weight: 900;
+      white-space: nowrap;
+    }
+
+    .candidate-list {
+      display: grid;
+      gap: 10px;
+    }
+
+    .candidate-row {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 18px;
+      border: 1px solid rgba(30, 26, 20, .1);
+      border-radius: 18px;
+      padding: 15px 17px;
+      background: #fffdf8;
+    }
+
+    .candidate-main,
+    .candidate-score {
+      display: grid;
+      gap: 3px;
+    }
+
+    .candidate-main span,
+    .candidate-score span {
+      color: var(--muted);
+      font-size: .86rem;
+      font-weight: 700;
+    }
+
+    .candidate-score {
+      text-align: right;
+    }
+
+    .candidate-score strong {
+      color: var(--navy);
+      font-size: 1.25rem;
+    }
+
+    .election-note {
+      display: flex;
+      gap: 10px;
+      margin-top: 22px;
+      padding: 18px 20px;
+      color: var(--ink-soft);
+      background: var(--surface-warm);
+    }
+
+    @media (max-width: 640px) {
+      .election-card-header,
+      .candidate-row,
+      .election-note {
+        align-items: flex-start;
+        flex-direction: column;
+      }
+
+      .candidate-score {
+        text-align: left;
+      }
+
+      .counting-badge {
+        white-space: normal;
+      }
+    }
+  </style>
+</BaseLayout>
