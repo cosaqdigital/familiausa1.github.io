@@ -66,6 +66,13 @@ export const sitePages: SitePage[] = [
     priority: "0.9"
   },
   {
+    path: "/eleicoes-brasil-2026.html",
+    title: "Eleições Brasil 2026 ao vivo: 2º turno | FamiliaUSA1",
+    description: "Acompanhe a apuração oficial do 2º turno das eleições brasileiras de 2026 com dados do TSE e atualização automática.",
+    lastmod: "2026-10-06",
+    priority: "0.9"
+  },
+  {
     path: "/sobre.html",
     title: "Sobre o Família USA 1: brasileiros vivendo nos EUA",
     description: "Conheça a família por trás do Família USA 1 e o projeto criado para compartilhar experiências reais sobre a vida nos EUA.",
