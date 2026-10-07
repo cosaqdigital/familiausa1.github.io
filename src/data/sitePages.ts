@@ -73,6 +73,13 @@ export const sitePages: SitePage[] = [
     priority: "0.9"
   },
   {
+    path: "/eleicoes-eua-2026.html",
+    title: "Eleições EUA 2026 ao vivo: Midterms | FamiliaUSA1",
+    description: "Acompanhe as eleições de meio de mandato dos Estados Unidos em 2026: Câmara, Senado, governadores e destaques da Flórida.",
+    lastmod: "2026-10-06",
+    priority: "0.9"
+  },
+  {
     path: "/sobre.html",
     title: "Sobre o Família USA 1: brasileiros vivendo nos EUA",
     description: "Conheça a família por trás do Família USA 1 e o projeto criado para compartilhar experiências reais sobre a vida nos EUA.",
