@@ -25,6 +25,7 @@ const rootPages = [
   "empreender-nos-estados-unidos-guia-completo.html",
   "furacoes-na-florida.html",
   "eleicoes-brasil-2026.html",
+  "eleicoes-eua-2026.html",
   "sobre.html",
   "contato.html",
   "politica-de-privacidade.html",
