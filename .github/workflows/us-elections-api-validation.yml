@@ -1,0 +1,40 @@
+name: US Elections API Validation
+
+on:
+  pull_request:
+    branches:
+      - main
+    paths:
+      - "services/elections-us-api/**"
+      - ".github/workflows/us-elections-api-validation.yml"
+  push:
+    branches:
+      - feature/eleicoes-eua-2026
+    paths:
+      - "services/elections-us-api/**"
+      - ".github/workflows/us-elections-api-validation.yml"
+
+permissions:
+  contents: read
+
+jobs:
+  typecheck:
+    name: Typecheck US elections API
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 24
+
+      - name: Install dependencies
+        working-directory: services/elections-us-api
+        run: npm install
+
+      - name: Typecheck
+        working-directory: services/elections-us-api
+        run: npm run typecheck
