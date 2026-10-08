@@ -1243,6 +1243,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://familiausa1.com/eleicoes-2026.html</loc>
+    <lastmod>2026-10-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://familiausa1.com/eleicoes-brasil-2026.html</loc>
     <lastmod>2026-10-06</lastmod>
     <changefreq>monthly</changefreq>
