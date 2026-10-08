@@ -2,8 +2,8 @@
 import EnglishElectionLayout from "../layouts/EnglishElectionLayout.astro";
 import { SITE_URL } from "../data/pilotContent";
 
-const title = "Brazil Election 2026 Live Results: Presidential Runoff | FamiliaUSA1";
-const description = "Follow Brazil's 2026 presidential runoff live with official TSE vote totals, percentages, counting progress and automatic updates in English.";
+const title = "Brazil Election 2026 Live Results: Bolsonaro vs. Lula";
+const description = "Follow Brazil's Oct. 25 presidential runoff live in English: Flávio Bolsonaro vs. Lula, with official TSE vote totals, percentages and counting progress.";
 const canonical = `${SITE_URL}/brazil-election-2026.html`;
 const portugueseUrl = `${SITE_URL}/eleicoes-brasil-2026.html`;
 const apiBase = import.meta.env.PUBLIC_ELECTIONS_API_BASE_URL || "https://familiausa1-elections-api.vercel.app";
@@ -16,7 +16,7 @@ const alternates = [
 const schema = {
   "@context": "https://schema.org",
   "@type": "WebPage",
-  name: "Brazil Election 2026 Live Results",
+  name: "Brazil Election 2026 Live Results: Bolsonaro vs. Lula",
   description,
   url: canonical,
   inLanguage: "en-US",
@@ -42,10 +42,10 @@ const schema = {
   <section class="brazil-hero">
     <div class="container hero-inner">
       <div class="hero-kicker">BRAZIL PRESIDENTIAL ELECTION 2026</div>
-      <h1>Live Presidential Runoff Results</h1>
+      <h1>Brazil Election 2026 Live Results: Bolsonaro vs. Lula</h1>
       <p class="hero-lede">
-        Follow Brazil's October 25 presidential runoff with official vote data from the
-        Superior Electoral Court (TSE). This page updates automatically as results are released.
+        Follow Brazil's October 25 presidential runoff between Flávio Bolsonaro and Luiz Inácio Lula da Silva
+        with official vote data from the Superior Electoral Court (TSE). This page updates automatically as results are released.
       </p>
       <div class="hero-meta">
         <span>Runoff: October 25, 2026</span>
