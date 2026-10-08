@@ -18,7 +18,7 @@ image: "https://familiausa1.com/assets/images/familiausa1-share.svg"
 excerpt: "Entenda a apuração brasileira sem linguagem técnica e saiba como o painel do FamiliaUSA1 acompanha os dados oficiais do TSE."
 relatedSlugs:
   - "eleicoes-brasil-2026-como-acompanhar-segundo-turno"
-  - "eleicoes-eua-2026-o-que-sao-midterms"
+  - "o-que-sao-eleicoes-meio-de-mandato-eua-midterms-2026"
 faq:
   - question: "Que horas começa a apuração das eleições brasileiras?"
     answer: "A divulgação de resultados ocorre após o encerramento da votação, seguindo os procedimentos e horários definidos pela Justiça Eleitoral."
