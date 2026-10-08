@@ -18,7 +18,7 @@ tags:
   - "eleição americana 2026"
 featured: false
 datePublished: "2026-09-06"
-dateModified: "2026-09-06"
+dateModified: "2026-10-08"
 readingTime: "14 min de leitura"
 image: "https://familiausa1.com/assets/images/familiausa1-share.svg"
 excerpt: "As midterms são eleições para o Congresso realizadas no meio do mandato presidencial. Em 2026, toda a Câmara e aproximadamente um terço do Senado estarão em disputa."
@@ -55,6 +55,8 @@ Se você é brasileiro e sempre ouve frases como “o presidente perdeu o Congre
 A lógica é mais simples do que parece: o presidente tem mandato de quatro anos, os deputados federais têm mandato de dois anos e os senadores têm mandato de seis anos com eleições escalonadas. Por isso existe uma grande eleição para o Congresso entre uma eleição presidencial e outra.
 
 > **Este artigo é informativo e apartidário.** O objetivo é explicar como o sistema funciona, sem recomendar partido, candidato ou voto.
+
+> **Acompanhe os resultados de 2026:** o FamiliaUSA1 já publicou a [Central Eleições 2026](/eleicoes-2026.html) e o [painel das Eleições EUA 2026](/eleicoes-eua-2026.html), preparados para atualizar durante a apuração.
 
 Se você quer primeiro uma visão geral da eleição de 2026, leia [Eleições nos Estados Unidos 2026: quando serão e o que está em jogo?](/articles/eleicoes-nos-estados-unidos-2026-quando-serao-o-que-esta-em-jogo.html).
 
