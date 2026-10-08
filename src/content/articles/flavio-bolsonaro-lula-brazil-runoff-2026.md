@@ -4,7 +4,7 @@ slug: "flavio-bolsonaro-lula-brazil-runoff-2026"
 title: "Flávio Bolsonaro vs. Lula: Brazil's 2026 Presidential Runoff"
 h1: "Flávio Bolsonaro vs. Lula: Brazil's 2026 Presidential Runoff Explained"
 description: "Who is running in Brazil's 2026 presidential runoff? See the official first-round vote totals for Flávio Bolsonaro and Lula and what happens next."
-category: "Brazil Election 2026"
+category: "Noticias dos EUA"
 language: "en-US"
 tags:
   - "Flavio Bolsonaro Lula 2026"
