@@ -4,7 +4,7 @@ slug: "brazil-election-2026-results-time-us"
 title: "What Time Will Brazil Election Results Start in the U.S.? 2026 Guide"
 h1: "What Time Will Brazil's 2026 Runoff Results Start in the United States?"
 description: "Find out when Brazil's October 25 presidential runoff closes in Brasília and what time Americans can expect the official count to begin."
-category: "Brazil Election 2026"
+category: "Noticias dos EUA"
 language: "en-US"
 tags:
   - "Brazil election results time"
