@@ -6,9 +6,15 @@ const title = "Eleições Brasil 2026 ao vivo: 2º turno | FamiliaUSA1";
 const description = "Acompanhe a apuração oficial do 2º turno das eleições brasileiras de 2026, com dados do TSE, atualização automática e resultados para presidente e governos estaduais.";
 const canonical = `${SITE_URL}/eleicoes-brasil-2026.html`;
 const apiBase = import.meta.env.PUBLIC_ELECTIONS_API_BASE_URL || "https://familiausa1-elections-api.vercel.app";
+const englishUrl = `${SITE_URL}/brazil-election-2026.html`;
+const alternates = [
+  { hreflang: "pt-BR", href: canonical },
+  { hreflang: "en-US", href: englishUrl },
+  { hreflang: "x-default", href: canonical }
+];
 ---
 
-<BaseLayout title={title} description={description} canonical={canonical}>
+<BaseLayout title={title} description={description} canonical={canonical} alternates={alternates}>
   <section class="election-hero">
     <div class="container election-hero-inner">
       <span class="eyebrow">Eleições Brasil 2026</span>
@@ -25,7 +31,7 @@ const apiBase = import.meta.env.PUBLIC_ELECTIONS_API_BASE_URL || "https://famili
   </section>
 
   <section class="container election-section">
-    <p class="election-hub-link"><a href="/eleicoes-2026.html">← Ver a central Eleições 2026 (Brasil e EUA)</a></p>
+    <div class="election-language-links"><a href="/eleicoes-2026.html">← Ver a central Eleições 2026 (Brasil e EUA)</a><a href="/brazil-election-2026.html" lang="en-US">View this election in English →</a></div>
     <div class="election-status-card" id="election-status" data-api-base={apiBase}>
       <div>
         <span class="status-dot" aria-hidden="true"></span>
@@ -235,9 +241,9 @@ const apiBase = import.meta.env.PUBLIC_ELECTIONS_API_BASE_URL || "https://famili
     }
 
     .election-section { padding-top: 34px; }
-    .election-hub-link { margin: 0 0 18px; font-weight: 850; }
-    .election-hub-link a { color: var(--terracotta); text-decoration: none; }
-    .election-hub-link a:hover { text-decoration: underline; }
+    .election-language-links { display:flex; justify-content:space-between; gap:18px; flex-wrap:wrap; margin:0 0 18px; font-weight:850; }
+    .election-language-links a { color: var(--terracotta); text-decoration:none; }
+    .election-language-links a:hover { text-decoration:underline; }
 
     .election-status-card,
     .waiting-card,
