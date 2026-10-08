@@ -17,7 +17,7 @@ readingTime: "9 min de leitura"
 image: "https://familiausa1.com/assets/images/familiausa1-share.svg"
 excerpt: "Guia para brasileiros entenderem a cobertura eleitoral da Flórida em 2026 e acompanharem as principais disputas pelo FamiliaUSA1."
 relatedSlugs:
-  - "eleicoes-eua-2026-o-que-sao-midterms"
+  - "o-que-sao-eleicoes-meio-de-mandato-eua-midterms-2026"
   - "eleicoes-brasil-2026-como-acompanhar-segundo-turno"
 faq:
   - question: "Quando será a eleição geral da Flórida em 2026?"
@@ -143,7 +143,7 @@ Se quiser alternar entre a eleição americana e o segundo turno brasileiro, use
 
 [**Central Eleições 2026**](/eleicoes-2026.html)
 
-Também publicamos um guia explicando [o que são as Midterms de 2026](./eleicoes-eua-2026-o-que-sao-midterms.html).
+Também publicamos um guia explicando [o que são as Midterms de 2026](./o-que-sao-eleicoes-meio-de-mandato-eua-midterms-2026.html).
 
 ## Onde verificar a fonte oficial da Flórida?
 

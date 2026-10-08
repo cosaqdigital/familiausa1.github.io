@@ -1,0 +1,28 @@
+---
+const target = "/articles/o-que-sao-eleicoes-meio-de-mandato-eua-midterms-2026.html";
+const canonical = `https://familiausa1.com${target}`;
+---
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Conteúdo consolidado | FamiliaUSA1</title>
+    <meta name="description" content="Este conteúdo foi consolidado no guia principal sobre as Midterms e as eleições de meio de mandato nos Estados Unidos em 2026." />
+    <meta name="robots" content="noindex, follow" />
+    <link rel="canonical" href={canonical} />
+    <meta http-equiv="refresh" content={`0; url=${target}`} />
+    <script is:inline define:vars={{ target }}>
+      window.location.replace(target);
+    </script>
+  </head>
+  <body>
+    <main>
+      <h1>Este artigo foi consolidado</h1>
+      <p>
+        Para evitar conteúdo duplicado, este conteúdo agora faz parte do guia principal sobre as Midterms 2026.
+      </p>
+      <p><a href={target}>Abrir o guia principal sobre as Midterms 2026</a></p>
+    </main>
+  </body>
+</html>

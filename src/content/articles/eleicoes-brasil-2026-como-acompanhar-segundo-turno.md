@@ -18,7 +18,7 @@ image: "https://familiausa1.com/assets/images/familiausa1-share.svg"
 excerpt: "Guia para brasileiros nos EUA acompanharem o 2º turno das eleições brasileiras de 2026 com data, horários, cargos e painel ao vivo."
 relatedSlugs:
   - "como-funciona-apuracao-eleicoes-brasil-2026"
-  - "eleicoes-eua-2026-o-que-sao-midterms"
+  - "o-que-sao-eleicoes-meio-de-mandato-eua-midterms-2026"
 faq:
   - question: "Quando será o segundo turno das eleições de 2026?"
     answer: "O segundo turno está marcado para 25 de outubro de 2026, onde houver necessidade, para presidente e governador."

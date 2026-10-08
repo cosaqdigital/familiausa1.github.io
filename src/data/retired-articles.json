@@ -53,6 +53,12 @@
       "targetSlug": "quanto-custa-morar-em-tampa-2026",
       "dateRetired": "2026-09-30",
       "reason": "Consolidacao do guia permanente de custos de Tampa na URL principal de 2026, preservando as estimativas e metodologia de orcamento dentro do artigo atualizado."
+    },
+    {
+      "slug": "eleicoes-eua-2026-o-que-sao-midterms",
+      "targetSlug": "o-que-sao-eleicoes-meio-de-mandato-eua-midterms-2026",
+      "dateRetired": "2026-10-08",
+      "reason": "Consolidacao de duas URLs com a mesma intencao de busca sobre o que sao as Midterms 2026, preservando como principal a URL ja indexada pelo Google."
     }
   ]
 }
