@@ -1,0 +1,73 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { SITE_URL } from "../data/pilotContent";
+
+const title = "Eleições 2026: Brasil e Estados Unidos ao vivo | FamiliaUSA1";
+const description = "Central do FamiliaUSA1 para acompanhar as eleições de 2026 no Brasil e nos Estados Unidos, com apuração, datas, contexto e links para os painéis ao vivo.";
+const canonical = `${SITE_URL}/eleicoes-2026.html`;
+
+const schema = {
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  name: "Eleições 2026",
+  description,
+  url: canonical,
+  inLanguage: "pt-BR",
+  hasPart: [
+    { "@type": "WebPage", name: "Eleições Brasil 2026 ao vivo", url: `${SITE_URL}/eleicoes-brasil-2026.html` },
+    { "@type": "WebPage", name: "Eleições EUA 2026 ao vivo", url: `${SITE_URL}/eleicoes-eua-2026.html` }
+  ]
+};
+---
+
+<BaseLayout title={title} description={description} canonical={canonical} schemas={[schema]}>
+  <section class="elections-hub-hero">
+    <div class="container hub-hero-inner">
+      <span class="eyebrow">Central eleitoral</span>
+      <h1>Eleições 2026: Brasil e Estados Unidos</h1>
+      <p>Acompanhe em português os dois calendários eleitorais mais importantes para nossa comunidade: o 2º turno no Brasil e as Midterms nos Estados Unidos.</p>
+    </div>
+  </section>
+
+  <section class="container hub-section">
+    <div class="hub-intro">
+      <h2>Escolha qual eleição acompanhar</h2>
+      <p>Os painéis abaixo foram preparados para atualizar automaticamente quando os resultados começarem a ser divulgados.</p>
+    </div>
+
+    <div class="election-hub-grid">
+      <article class="election-hub-card">
+        <span class="country-tag">🇧🇷 Brasil</span>
+        <h2>2º turno — Eleições Brasil 2026</h2>
+        <p>Acompanhe a apuração para presidente e governos estaduais com dados da fonte oficial do TSE.</p>
+        <div class="hub-meta"><span>25 de outubro de 2026</span><span>Fonte: TSE</span></div>
+        <a class="button primary" href="/eleicoes-brasil-2026.html">Acompanhar Brasil</a>
+      </article>
+
+      <article class="election-hub-card">
+        <span class="country-tag">🇺🇸 Estados Unidos</span>
+        <h2>Midterms — Eleições EUA 2026</h2>
+        <p>Acompanhe Câmara, Senado, governadores e os principais resultados da Flórida em uma página feita para brasileiros.</p>
+        <div class="hub-meta"><span>3 de novembro de 2026</span><span>Resultados preliminares</span></div>
+        <a class="button primary" href="/eleicoes-eua-2026.html">Acompanhar EUA</a>
+      </article>
+    </div>
+
+    <div class="hub-explainer">
+      <div>
+        <span class="eyebrow">Por que esta central existe</span>
+        <h2>Resultados sem complicação, em português</h2>
+      </div>
+      <p>No Brasil, a apuração é centralizada pelo TSE. Nos Estados Unidos, os resultados da noite eleitoral são preliminares e dependem de autoridades estaduais e locais até a certificação. O FamiliaUSA1 organiza essas informações em páginas separadas para facilitar o acompanhamento.</p>
+    </div>
+  </section>
+
+  <style>
+    .elections-hub-hero{padding:clamp(90px,11vw,145px) 0 clamp(50px,7vw,85px);color:#fffaf1;background:radial-gradient(circle at 82% 30%,rgba(54,101,152,.45),transparent 27rem),linear-gradient(120deg,#0d1725 0%,#14263d 62%,#263f60 100%)}
+    .hub-hero-inner{max-width:950px}.elections-hub-hero h1{max-width:900px;margin:14px 0 18px;color:#fffaf1;font-family:var(--font-display);font-size:clamp(2.5rem,6vw,5rem);line-height:1;letter-spacing:-.055em}.elections-hub-hero p{max-width:780px;color:rgba(255,250,241,.84);font-size:clamp(1.05rem,2vw,1.28rem);line-height:1.65}
+    .hub-section{padding-top:42px}.hub-intro{max-width:760px;margin-bottom:24px}.hub-intro h2,.hub-explainer h2{color:var(--navy);font-family:var(--font-display);font-size:clamp(2rem,4vw,3.2rem);letter-spacing:-.04em;margin:0 0 10px}.hub-intro p,.hub-explainer p{color:var(--ink-soft)}
+    .election-hub-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:22px}.election-hub-card{display:flex;flex-direction:column;align-items:flex-start;border:1px solid var(--line);border-radius:var(--radius-lg);padding:clamp(24px,4vw,36px);background:#fff;box-shadow:var(--shadow-soft)}.country-tag{font-weight:900;color:var(--terracotta)}.election-hub-card h2{margin:12px 0;color:var(--navy);font-family:var(--font-display);font-size:clamp(1.7rem,3vw,2.5rem);line-height:1.05}.election-hub-card p{color:var(--ink-soft);line-height:1.65}.hub-meta{display:flex;flex-wrap:wrap;gap:8px 14px;margin:10px 0 22px;color:var(--muted);font-size:.88rem;font-weight:800}
+    .hub-explainer{display:grid;grid-template-columns:.8fr 1.2fr;gap:28px;margin:38px 0 18px;border:1px solid var(--line);border-radius:var(--radius-lg);padding:clamp(24px,4vw,36px);background:var(--surface-warm)}
+    @media(max-width:760px){.election-hub-grid,.hub-explainer{grid-template-columns:1fr}}
+  </style>
+</BaseLayout>
