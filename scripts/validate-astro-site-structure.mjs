@@ -26,6 +26,7 @@ const rootPages = [
   "furacoes-na-florida.html",
   "eleicoes-2026.html",
   "eleicoes-brasil-2026.html",
+  "brazil-election-2026.html",
   "eleicoes-eua-2026.html",
   "sobre.html",
   "contato.html",
@@ -270,7 +271,9 @@ for (const relativePath of expectedPaths) {
   const mainTextLength = stripTags(extractMainContent(html)).length;
 
   if (!/^<!doctype html>/i.test(html.trim())) localErrors.push("DOCTYPE ausente.");
-  if (!/<html lang=["']pt-BR["']>/i.test(html)) localErrors.push("html lang pt-BR ausente.");
+  const expectedLang = relativePath === "brazil-election-2026.html" ? "en-US" : "pt-BR";
+  const langPattern = new RegExp(`<html lang=["\']${expectedLang}["\']>`, "i");
+  if (!langPattern.test(html)) localErrors.push(`html lang ${expectedLang} ausente.`);
   if (!titleOf(html)) localErrors.push("title ausente.");
   if (!metaDescriptionOf(html)) localErrors.push("meta description ausente.");
   if (!canonical) localErrors.push("canonical ausente.");

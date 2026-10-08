@@ -2,6 +2,7 @@
 import { DEFAULT_IMAGE } from "../data/pilotContent";
 
 type SchemaObject = Record<string, unknown>;
+type AlternateLink = { hreflang: string; href: string };
 
 interface Props {
   title: string;
@@ -10,6 +11,8 @@ interface Props {
   image?: string;
   type?: "website" | "article";
   schemas?: SchemaObject[];
+  locale?: string;
+  alternates?: AlternateLink[];
 }
 
 const {
@@ -18,7 +21,9 @@ const {
   canonical,
   image = DEFAULT_IMAGE,
   type = "website",
-  schemas = []
+  schemas = [],
+  locale = "pt_BR",
+  alternates = []
 } = Astro.props;
 ---
 <!-- Google tag (gtag.js) -->
@@ -42,12 +47,16 @@ const {
 <meta name="author" content="FamiliaUSA1" />
 <meta name="robots" content="index, follow" />
 <link rel="canonical" href={canonical} />
+{alternates.map((alternate) => (
+  <link rel="alternate" hreflang={alternate.hreflang} href={alternate.href} />
+))}
 <meta property="og:type" content={type} />
 <meta property="og:title" content={title} />
 <meta property="og:description" content={description} />
 <meta property="og:url" content={canonical} />
 <meta property="og:image" content={image} />
 <meta property="og:site_name" content="FamiliaUSA1" />
+<meta property="og:locale" content={locale} />
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:title" content={title} />
 <meta name="twitter:description" content={description} />

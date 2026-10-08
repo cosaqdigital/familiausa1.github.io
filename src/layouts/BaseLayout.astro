@@ -4,6 +4,8 @@ import Footer from "../components/Footer.astro";
 import SeoHead from "../components/SeoHead.astro";
 import globalStyles from "../styles/global.css?raw";
 
+type AlternateLink = { hreflang: string; href: string };
+
 interface Props {
   title: string;
   description: string;
@@ -11,14 +13,17 @@ interface Props {
   image?: string;
   type?: "website" | "article";
   schemas?: Record<string, unknown>[];
+  lang?: string;
+  locale?: string;
+  alternates?: AlternateLink[];
 }
 
-const { title, description, canonical, image, type = "website", schemas = [] } = Astro.props;
+const { title, description, canonical, image, type = "website", schemas = [], lang = "pt-BR", locale = "pt_BR", alternates = [] } = Astro.props;
 ---
 <!doctype html>
-<html lang="pt-BR">
+<html lang={lang}>
   <head>
-    <SeoHead title={title} description={description} canonical={canonical} image={image} type={type} schemas={schemas} />
+    <SeoHead title={title} description={description} canonical={canonical} image={image} type={type} schemas={schemas} locale={locale} alternates={alternates} />
     <style set:html={globalStyles}></style>
   </head>
   <body>
