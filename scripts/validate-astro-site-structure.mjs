@@ -26,6 +26,7 @@ const rootPages = [
   "furacoes-na-florida.html",
   "eleicoes-2026.html",
   "eleicoes-brasil-2026.html",
+  "brazil-election-2026.html",
   "eleicoes-eua-2026.html",
   "sobre.html",
   "contato.html",
