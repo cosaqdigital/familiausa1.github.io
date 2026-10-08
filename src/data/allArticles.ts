@@ -64,7 +64,7 @@ function getBaseRelatedArticles(article: SiteArticle) {
   }
 
   const sameCategory = allArticles
-    .filter((post) => post.slug !== article.slug && post.category === article.category && !linked.some((item) => item.slug === post.slug))
+    .filter((post) => post.slug !== article.slug && post.category === article.category && (!article.language || post.language === article.language) && !linked.some((item) => item.slug === post.slug))
     .slice(0, 3 - linked.length);
 
   return [...linked, ...sameCategory];
