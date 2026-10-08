@@ -81,8 +81,8 @@ export const sitePages: SitePage[] = [
   },
   {
     path: "/brazil-election-2026.html",
-    title: "Brazil Election 2026 Live Results: Presidential Runoff | FamiliaUSA1",
-    description: "Follow Brazil's 2026 presidential runoff live with official TSE vote totals, percentages, counting progress and automatic updates in English.",
+    title: "Brazil Election 2026 Live Results: Bolsonaro vs. Lula",
+    description: "Follow Brazil's Oct. 25 presidential runoff live in English: Flávio Bolsonaro vs. Lula, with official TSE vote totals, percentages and counting progress.",
     lastmod: "2026-10-08",
     priority: "0.9"
   },
