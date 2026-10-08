@@ -1,0 +1,65 @@
+---
+import SeoHead from "../components/SeoHead.astro";
+import globalStyles from "../styles/global.css?raw";
+
+type AlternateLink = { hreflang: string; href: string };
+
+interface Props {
+  title: string;
+  description: string;
+  canonical: string;
+  image?: string;
+  schemas?: Record<string, unknown>[];
+  alternates?: AlternateLink[];
+}
+
+const { title, description, canonical, image, schemas = [], alternates = [] } = Astro.props;
+---
+<!doctype html>
+<html lang="en-US">
+  <head>
+    <SeoHead
+      title={title}
+      description={description}
+      canonical={canonical}
+      image={image}
+      schemas={schemas}
+      locale="en_US"
+      alternates={alternates}
+    />
+    <style set:html={globalStyles}></style>
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container header-inner">
+        <a href="/brazil-election-2026.html" aria-label="FamiliaUSA1 Brazil Election 2026 home">
+          <div class="brand">FamiliaUSA1</div>
+          <div class="tagline">Brazil Election 2026 · English coverage</div>
+        </a>
+        <nav class="nav" aria-label="Brazil election navigation">
+          <a href="#live-results">Live results</a>
+          <a href="#first-round">First round</a>
+          <a href="#how-it-works">How it works</a>
+          <a href="/eleicoes-brasil-2026.html" lang="pt-BR">Português</a>
+        </nav>
+      </div>
+    </header>
+    <main>
+      <slot />
+    </main>
+    <footer class="site-footer">
+      <div class="container footer-inner">
+        <div class="footer-brand">
+          <strong>FamiliaUSA1 · Brazil Election 2026</strong>
+          <p>Neutral, informational election coverage for international readers. Official vote data is sourced from Brazil's Superior Electoral Court (TSE).</p>
+          <a href="/eleicoes-brasil-2026.html" lang="pt-BR">Ver cobertura em português</a>
+        </div>
+        <div class="footer-links">
+          <a href="#live-results">Live results</a>
+          <a href="#first-round">First round</a>
+          <a href="#how-it-works">How Brazil counts votes</a>
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>
