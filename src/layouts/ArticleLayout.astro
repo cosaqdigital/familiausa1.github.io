@@ -1,5 +1,6 @@
 ---
 import BaseLayout from "./BaseLayout.astro";
+import EnglishElectionLayout from "./EnglishElectionLayout.astro";
 import ChecklistCTA from "../components/ChecklistCTA.astro";
 import GuideProgress from "../components/guides/GuideProgress.astro";
 import RelatedPosts from "../components/RelatedPosts.astro";
@@ -10,6 +11,7 @@ import { entrepreneurshipArticleSlugs } from "../data/entrepreneurshipCluster";
 type ArticleForLayout = PilotArticle & {
   canonical?: string;
   h1?: string;
+  language?: "pt-BR" | "en-US";
 };
 
 interface Props {
@@ -53,21 +55,47 @@ const faqSchema = article.faq?.length
 
 const schemas = faqSchema ? [blogPosting, faqSchema] : [blogPosting];
 const showEntrepreneurJourney = entrepreneurshipArticleSlugs.includes(article.slug);
+const isEnglish = article.language === "en-US";
+const displayCategory = isEnglish ? "Brazil Election 2026" : article.category;
+const PageLayout = isEnglish ? EnglishElectionLayout : BaseLayout;
+const aboutUrlForSchema = isEnglish ? `${SITE_URL}/brazil-election-2026.html` : aboutUrl;
+blogPosting.inLanguage = isEnglish ? "en-US" : "pt-BR";
+blogPosting.author.url = aboutUrlForSchema;
 ---
-<BaseLayout title={article.title} description={article.description} canonical={canonical} image={image} type="article" schemas={schemas}>
+<PageLayout title={article.title} description={article.description} canonical={canonical} image={image} type="article" schemas={schemas}>
   <header class="narrow-container article-header">
     <nav class="breadcrumb" aria-label="Breadcrumb">
-      <a href="/index.html">Início</a>
-      <span><a href="/blog.html">Artigos</a></span>
-      <span>{article.category}</span>
+      {isEnglish ? (
+        <>
+          <a href="/brazil-election-2026.html">Brazil Election 2026</a>
+          <span>English guides</span>
+          <span>{displayCategory}</span>
+        </>
+      ) : (
+        <>
+          <a href="/index.html">Início</a>
+          <span><a href="/blog.html">Artigos</a></span>
+          <span>{article.category}</span>
+        </>
+      )}
     </nav>
-    <div class="eyebrow">{article.category}</div>
+    <div class="eyebrow">{displayCategory}</div>
     <h1>{heading}</h1>
     <p class="lead">{article.description}</p>
     <div class="article-meta">
-      <span>Por <a href="/sobre.html">FamiliaUSA1</a></span>
-      <span>Atualizado em {article.dateModified}</span>
-      <span>{article.readingTime}</span>
+      {isEnglish ? (
+        <>
+          <span>By FamiliaUSA1</span>
+          <span>Updated {article.dateModified}</span>
+          <span>{article.readingTime}</span>
+        </>
+      ) : (
+        <>
+          <span>Por <a href="/sobre.html">FamiliaUSA1</a></span>
+          <span>Atualizado em {article.dateModified}</span>
+          <span>{article.readingTime}</span>
+        </>
+      )}
     </div>
   </header>
 
@@ -79,7 +107,7 @@ const showEntrepreneurJourney = entrepreneurshipArticleSlugs.includes(article.sl
 
   {renderFaqSection && article.faq?.length && (
     <section class="narrow-container article-content" aria-labelledby="faq">
-      <h2 id="faq">Perguntas frequentes</h2>
+      <h2 id="faq">{isEnglish ? "Frequently asked questions" : "Perguntas frequentes"}</h2>
       {article.faq.map((item) => (
         <details class="faq-item">
           <summary>{item.question}</summary>
@@ -95,6 +123,6 @@ const showEntrepreneurJourney = entrepreneurshipArticleSlugs.includes(article.sl
     </section>
   )}
 
-  <RelatedPosts posts={relatedPosts} />
-  <ChecklistCTA />
-</BaseLayout>
+  <RelatedPosts posts={relatedPosts} language={isEnglish ? "en-US" : "pt-BR"} />
+  {!isEnglish && <ChecklistCTA />}
+</PageLayout>

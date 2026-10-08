@@ -11,9 +11,10 @@ interface Props {
   image?: string;
   schemas?: Record<string, unknown>[];
   alternates?: AlternateLink[];
+  type?: "website" | "article";
 }
 
-const { title, description, canonical, image, schemas = [], alternates = [] } = Astro.props;
+const { title, description, canonical, image, schemas = [], alternates = [], type = "website" } = Astro.props;
 ---
 <!doctype html>
 <html lang="en-US">
@@ -24,6 +25,7 @@ const { title, description, canonical, image, schemas = [], alternates = [] } = 
       canonical={canonical}
       image={image}
       schemas={schemas}
+      type={type}
       locale="en_US"
       alternates={alternates}
     />
@@ -37,9 +39,9 @@ const { title, description, canonical, image, schemas = [], alternates = [] } = 
           <div class="tagline">Brazil Election 2026 · English coverage</div>
         </a>
         <nav class="nav" aria-label="Brazil election navigation">
-          <a href="#live-results">Live results</a>
-          <a href="#first-round">First round</a>
-          <a href="#how-it-works">How it works</a>
+          <a href="/brazil-election-2026.html#live-results">Live results</a>
+          <a href="/brazil-election-2026.html#first-round">First round</a>
+          <a href="/brazil-election-2026.html#how-it-works">How it works</a>
           <a href="/eleicoes-brasil-2026.html" lang="pt-BR">Português</a>
         </nav>
       </div>
@@ -55,9 +57,9 @@ const { title, description, canonical, image, schemas = [], alternates = [] } = 
           <a href="/eleicoes-brasil-2026.html" lang="pt-BR">Ver cobertura em português</a>
         </div>
         <div class="footer-links">
-          <a href="#live-results">Live results</a>
-          <a href="#first-round">First round</a>
-          <a href="#how-it-works">How Brazil counts votes</a>
+          <a href="/brazil-election-2026.html#live-results">Live results</a>
+          <a href="/brazil-election-2026.html#first-round">First round</a>
+          <a href="/brazil-election-2026.html#how-it-works">How Brazil counts votes</a>
         </div>
       </div>
     </footer>

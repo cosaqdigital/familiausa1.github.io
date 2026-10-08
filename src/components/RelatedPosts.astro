@@ -4,18 +4,20 @@ import type { SiteArticle } from "../data/allArticles";
 
 interface Props {
   posts?: SiteArticle[];
+  language?: "pt-BR" | "en-US";
 }
 
-const { posts = [] } = Astro.props;
+const { posts = [], language = "pt-BR" } = Astro.props;
+const isEnglish = language === "en-US";
 ---
 {posts.length > 0 && (
   <section class="container section-wide" aria-labelledby="posts-relacionados">
     <div class="section-header">
-      <h2 id="posts-relacionados">Continue lendo</h2>
-      <p>Guias relacionados para aprofundar sua pesquisa sem sair do Família USA 1.</p>
+      <h2 id="posts-relacionados">{isEnglish ? "Keep reading" : "Continue lendo"}</h2>
+      <p>{isEnglish ? "Related guides to understand Brazil's 2026 election and follow the official count." : "Guias relacionados para aprofundar sua pesquisa sem sair do Família USA 1."}</p>
     </div>
     <div class="article-grid">
-      {posts.map((post) => <ArticleCard article={post} microcopyLength={90} compact />)}
+      {posts.map((post) => <ArticleCard article={post} microcopyLength={90} compact cta={isEnglish ? "Read guide" : undefined} />)}
     </div>
   </section>
 )}
