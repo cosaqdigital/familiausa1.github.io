@@ -80,6 +80,13 @@ export const sitePages: SitePage[] = [
     priority: "0.9"
   },
   {
+    path: "/brazil-election-2026.html",
+    title: "Brazil Election 2026 Live Results: Presidential Runoff | FamiliaUSA1",
+    description: "Follow Brazil's 2026 presidential runoff live with official TSE vote totals, percentages, counting progress and automatic updates in English.",
+    lastmod: "2026-10-08",
+    priority: "0.9"
+  },
+  {
     path: "/eleicoes-eua-2026.html",
     title: "Eleições EUA 2026 ao vivo: Midterms | FamiliaUSA1",
     description: "Acompanhe as eleições de meio de mandato dos Estados Unidos em 2026: Câmara, Senado, governadores e destaques da Flórida.",
