@@ -271,7 +271,13 @@ for (const relativePath of expectedPaths) {
   const mainTextLength = stripTags(extractMainContent(html)).length;
 
   if (!/^<!doctype html>/i.test(html.trim())) localErrors.push("DOCTYPE ausente.");
-  const expectedLang = relativePath === "brazil-election-2026.html" ? "en-US" : "pt-BR";
+  const englishElectionPaths = new Set([
+    "brazil-election-2026.html",
+    "articles/how-brazil-presidential-runoff-election-works-2026.html",
+    "articles/brazil-election-2026-results-time-us.html",
+    "articles/flavio-bolsonaro-lula-brazil-runoff-2026.html"
+  ]);
+  const expectedLang = englishElectionPaths.has(relativePath) ? "en-US" : "pt-BR";
   const langPattern = new RegExp(`<html lang=["\']${expectedLang}["\']>`, "i");
   if (!langPattern.test(html)) localErrors.push(`html lang ${expectedLang} ausente.`);
   if (!titleOf(html)) localErrors.push("title ausente.");
