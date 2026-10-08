@@ -66,6 +66,13 @@ export const sitePages: SitePage[] = [
     priority: "0.9"
   },
   {
+    path: "/eleicoes-2026.html",
+    title: "Eleições 2026: Brasil e Estados Unidos ao vivo | FamiliaUSA1",
+    description: "Central do FamiliaUSA1 para acompanhar as eleições de 2026 no Brasil e nos Estados Unidos, com apuração, datas e contexto em português.",
+    lastmod: "2026-10-07",
+    priority: "1.0"
+  },
+  {
     path: "/eleicoes-brasil-2026.html",
     title: "Eleições Brasil 2026 ao vivo: 2º turno | FamiliaUSA1",
     description: "Acompanhe a apuração oficial do 2º turno das eleições brasileiras de 2026 com dados do TSE e atualização automática.",
