@@ -18,7 +18,7 @@ tags:
   - "Senado americano"
 featured: false
 datePublished: "2026-09-06"
-dateModified: "2026-09-06"
+dateModified: "2026-10-08"
 readingTime: "13 min de leitura"
 image: "https://familiausa1.com/assets/images/familiausa1-share.svg"
 excerpt: "Em 3 de novembro de 2026, os americanos voltarão às urnas para escolher toda a Câmara dos Representantes e aproximadamente um terço do Senado. Entenda por que essa eleição de meio de mandato importa também para brasileiros."
@@ -45,6 +45,8 @@ faq:
 affiliate:
   enabled: false
 ---
+
+Para acompanhar a apuração em português, use a [Central Eleições 2026](/eleicoes-2026.html) e o [painel das Eleições EUA 2026](/eleicoes-eua-2026.html).
 
 As **eleições nos Estados Unidos em 2026** serão realizadas em **3 de novembro de 2026**. Mas, ao contrário de uma eleição presidencial, os americanos não estarão escolhendo um novo presidente. O principal foco federal será o **Congresso dos Estados Unidos**.
 
