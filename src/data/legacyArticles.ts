@@ -35,6 +35,7 @@ export type LegacyGeneratedArticle = {
   cardTitle: string;
   description: string;
   category: string;
+  language?: "pt-BR" | "en-US";
   featured?: boolean;
   featuredOrder?: number;
   featuredLabel?: string;
