@@ -25,6 +25,7 @@ const apiBase = import.meta.env.PUBLIC_US_ELECTIONS_API_BASE_URL || "https://fam
   </section>
 
   <section class="container us-election-section">
+    <p class="us-hub-link"><a href="/eleicoes-2026.html">← Ver a central Eleições 2026 (Brasil e EUA)</a></p>
     <div class="us-status-card" id="us-election-status" data-api-base={apiBase}>
       <div>
         <span class="status-dot" aria-hidden="true"></span>
@@ -262,6 +263,9 @@ const apiBase = import.meta.env.PUBLIC_US_ELECTIONS_API_BASE_URL || "https://fam
     }
 
     .us-election-section { padding-top: 34px; }
+    .us-hub-link { margin: 0 0 18px; font-weight: 850; }
+    .us-hub-link a { color: var(--terracotta); text-decoration: none; }
+    .us-hub-link a:hover { text-decoration: underline; }
 
     .us-status-card, .balance-card, .race-card, .us-election-note {
       border: 1px solid var(--line);
