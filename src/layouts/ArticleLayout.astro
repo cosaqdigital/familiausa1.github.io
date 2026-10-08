@@ -56,6 +56,7 @@ const faqSchema = article.faq?.length
 const schemas = faqSchema ? [blogPosting, faqSchema] : [blogPosting];
 const showEntrepreneurJourney = entrepreneurshipArticleSlugs.includes(article.slug);
 const isEnglish = article.language === "en-US";
+const displayCategory = isEnglish ? "Brazil Election 2026" : article.category;
 const PageLayout = isEnglish ? EnglishElectionLayout : BaseLayout;
 const aboutUrlForSchema = isEnglish ? `${SITE_URL}/brazil-election-2026.html` : aboutUrl;
 blogPosting.inLanguage = isEnglish ? "en-US" : "pt-BR";
@@ -68,7 +69,7 @@ blogPosting.author.url = aboutUrlForSchema;
         <>
           <a href="/brazil-election-2026.html">Brazil Election 2026</a>
           <span>English guides</span>
-          <span>{article.category}</span>
+          <span>{displayCategory}</span>
         </>
       ) : (
         <>
@@ -78,7 +79,7 @@ blogPosting.author.url = aboutUrlForSchema;
         </>
       )}
     </nav>
-    <div class="eyebrow">{article.category}</div>
+    <div class="eyebrow">{displayCategory}</div>
     <h1>{heading}</h1>
     <p class="lead">{article.description}</p>
     <div class="article-meta">
