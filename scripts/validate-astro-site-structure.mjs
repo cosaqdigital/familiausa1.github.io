@@ -24,6 +24,7 @@ const rootPages = [
   "empreendedorismo-nos-estados-unidos.html",
   "empreender-nos-estados-unidos-guia-completo.html",
   "furacoes-na-florida.html",
+  "eleicoes-2026.html",
   "eleicoes-brasil-2026.html",
   "eleicoes-eua-2026.html",
   "sobre.html",
