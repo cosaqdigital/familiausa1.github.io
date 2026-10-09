@@ -32,7 +32,7 @@ faq:
   - question: "Qual é o furacão que está atingindo a Flórida hoje?"
     answer: "É o furacão Isaias. Na atualização das 17h CDT de 9 de outubro de 2026, o NHC o classificava como categoria 3, com ventos sustentados de 115 mph (185 km/h), perto de Pensacola."
   - question: "O furacão Isaias já tocou terra na Flórida?"
-    answer: "Na última atualização oficial incorporada nesta reportagem, às 17h CDT de 9 de outubro, o centro ainda estava no Golfo, cerca de 60 milhas ao sul-sudeste de Pensacola. As bandas externas já afetavam a costa. Consulte o NHC para confirmar o landfall após esse horário."
+    answer: "Na última atualização oficial incorporada nesta reportagem, às 17h CDT de 9 de outubro, o centro ainda estava no Golfo, cerca de 70 milhas ao sul-sudeste de Pensacola. As bandas externas já afetavam a costa. Consulte o NHC para confirmar o landfall após esse horário."
   - question: "Quais cidades da Flórida estão em maior risco com Isaias?"
     answer: "O risco mais elevado está no noroeste da Flórida, especialmente em áreas do Panhandle próximas a Pensacola, Navarre, Santa Rosa, Okaloosa, Fort Walton Beach e Destin. O risco muda por endereço e conforme o tipo de alerta."
   - question: "Há ordens de evacuação para o furacão Isaias?"
@@ -60,7 +60,7 @@ O [National Hurricane Center (NHC)](https://www.nhc.noaa.gov/) alerta para uma c
 | Nome | **Isaias** |
 | Categoria | **3**, considerado furacão de grande intensidade na escala Saffir-Simpson |
 | Ventos sustentados | **115 mph (185 km/h)** na atualização das 17h CDT |
-| Posição | Aproximadamente **60 milhas (100 km) ao sul-sudeste de Pensacola**, no Golfo |
+| Posição | Aproximadamente **70 milhas (110 km) ao sul-sudeste de Pensacola**, no Golfo |
 | Deslocamento | Para o **norte**, a cerca de **17 mph (28 km/h)** |
 | Pressão central | **958 hPa (mb)** |
 | Área de maior preocupação | **Panhandle da Flórida**, sul do Alabama e trechos do litoral do Mississippi |
@@ -69,11 +69,11 @@ O [National Hurricane Center (NHC)](https://www.nhc.noaa.gov/) alerta para uma c
 | Chuvas previstas | **4 a 8 polegadas** em parte do Panhandle, Big Bend e áreas vizinhas; máximos localizados de até **15 polegadas** eram possíveis nos boletins oficiais |
 | Evacuações | Ordens específicas em áreas de **Santa Rosa e Okaloosa**, além de outras localidades sob decisões próprias dos condados |
 
-**Fonte para posição e intensidade:** [atualização de 17h CDT do NHC em 9 de outubro](https://www.nhc.noaa.gov/text/refresh/MIATCUAT4+shtml/092157.shtml) e [boletim técnico das 16h CDT](https://www.nhc.noaa.gov/archive/2026/al09/al092026.fstadv.013.shtml). A previsão de chuva está no [boletim público nº 12 do NHC](https://www.nhc.noaa.gov/archive/2026/al09/al092026.public.012.shtml). Os valores apresentados são estimativas e não representam medições verificadas em todas as cidades.
+**Fonte para posição e intensidade:** [atualização de 17h CDT do NHC em 9 de outubro](https://www.nhc.noaa.gov/mobile/) e [boletim técnico das 16h CDT](https://www.nhc.noaa.gov/archive/2026/al09/al092026.fstadv.013.shtml). A previsão de chuva está no [boletim público nº 12 do NHC](https://www.nhc.noaa.gov/archive/2026/al09/al092026.public.012.shtml). Os valores apresentados são estimativas e não representam medições verificadas em todas as cidades.
 
 ## Onde está o furacão Isaias e qual é o caminho previsto?
 
-Às **17h no horário central (CDT)**, o [NHC](https://www.nhc.noaa.gov/mobile/) localizava o centro de Isaias perto das coordenadas **29,5° N e 86,9° O**, a aproximadamente **100 km de Pensacola**, movendo-se para o norte. Pouco antes, o boletim nº 13 já destacava que as condições estavam se deteriorando rapidamente nas áreas sob avisos de furacão e inundação costeira.
+Às **17h no horário central (CDT)**, o [NHC](https://www.nhc.noaa.gov/mobile/) localizava o centro de Isaias perto das coordenadas **29,5° N e 86,9° O**, a aproximadamente **110 km de Pensacola**, movendo-se para o norte. Pouco antes, o boletim nº 13 já destacava que as condições estavam se deteriorando rapidamente nas áreas sob avisos de furacão e inundação costeira.
 
 O avanço apontava para uma chegada à costa na região do **extremo noroeste da Flórida**, nas proximidades da divisa com o Alabama, **ainda na noite desta sexta-feira**. A área exata do olho, a intensidade no momento do contato com o continente e a direção posterior podem sofrer ajustes.
 
