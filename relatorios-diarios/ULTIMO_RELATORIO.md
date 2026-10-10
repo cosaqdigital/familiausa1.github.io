@@ -1,8 +1,8 @@
 # Relatório diário — Imigração e brasileiros nos EUA
 
-Gerado em: 2026-10-10 13:20 EDT
+Gerado em: 2026-10-10 17:42 EDT
 
-Arquivo original: `2026-10-10-13-20-tendencias-imigracao.md`
+Arquivo original: `2026-10-10-17-42-tendencias-imigracao.md`
 
 ## Objetivo
 
@@ -15,25 +15,25 @@ Este relatório serve como base para criação de artigos atualizados para o blo
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMi5wFBVV95cUxOYmRsRGF6emhUQUxuNUtGX0N0M3lYUjRIUTZTRi13eUY4S09Da0V6WnRZNmRiMDZKVnlHeWdZT0EzZTNzSjRaNldkX3VsM0hPNEdyVjdRZmVhOGxsMENDbkpLbzBvNVUyR2hnMkZNSTFxRGJ2TTEyUzBvbFJBaG1QWHhZN1ZUZWU3dFc4NE1ob2VvNFU5NTRZd1RkNmpTLWhvbE1SSTRoSlNKWTRPMFJxcUV6SkVQYVJwYWtXV1FRX1ItVDczWGVseUthRnBKN05XbXI2ZEVmRDhKeGEyWmpYbUlTbkxkTWvSAfYBQVVfeXFMUGNndXhGOTZVSjEwZ1I5ZWM4ajV4R3JRZ21ld1RDOGlnSDM2WHh1dlBCTS1pTC16V0ZTMFpJTWZlVzZfekR0dVZ1MTVuZ2EzOFQ1cS1wU28xZXQwT1lpLVdGOE1qb3JnZEpKRUVjVEhCcE8xY0pyVEloX013MUxCOEU4ekpKRWJmelV4d191MTFfVXJIc2dYeGlSakYxdDZUZ0hfUUpyZG0ybGMzQzV5WnJIWW5QZC1GUm9iS3NERENfbXRMMHBES0lud1hFME00MlBMTk00TGlQdW9abHhIdHlaUVRJN05zekRzTVJYbHNrOHMzRTR3?oc=5
 
-2. **Agentes da polícia de imigração dos EUA atiram contra dominicano em Nova York**
-   - Fonte: Estadão
-   - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMiywFBVV95cUxPOURFanZvT1hmUzN1YnM4QnkxbXNLS01xRnhiaGpJWjZUQlgwTi04VExMTXFpek5YeGxvNWtGaGFMM2NrVHVTZk1DYW5JTENKcmpmTEM1U1h5YkgzWmJHb3FkYW9STkFDSnJVSDRUZmxUckVJeDAzcVVxc0pZQi1LNlIxSjUwTVJET3MxaWJjVlhqM2tpZ1JQNlI3dVlNakpndDBTUWluMUEzUVI0U09CR0swcHNoY1M1czJoZjNyejVBeTlMaC05ZEllYw?oc=5
-
-3. **Trump suspende Microsoft de programa que contrata estrangeiros nos EUA**
+2. **Trump suspende Microsoft de programa que contrata estrangeiros nos EUA**
    - Fonte: Tecnoblog
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMipAFBVV95cUxPOTFqY1JlWXRiSUxDc25NTzYtczYxMUtHNktmd0JzZ1psemUtV2tlMGpFQW5wazZheGZsSWVNbHlFdEZrb2NCampZR0JPUElyNUp5YU9EMUpjZEIzTVBhS0FIU0o3bEpCZTU0U2FjcTVGZlRqa05NZWI5YU9QUnhiR3BkeDFqSXFsM0dMM0tncGFndlpfRVNNcWF3V2JEXzR5NEVWag?oc=5
 
-4. **Trump propõe cobrança de até $ 100 mil para estudantes estrangeiros trabalharem nos EUA**
+3. **Trump propõe cobrança de até $ 100 mil para estudantes estrangeiros trabalharem nos EUA**
    - Fonte: AcheiUSA
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMnY4cHlweEJ2eHFsNnQ5V2hMb0tCWXlhc3J5M0M3elVXal9uNnI1dWg0cER2Y0JyQUlXR3pkN2g4ZW5McER3R2tieXFzbUo5T2tiRU82UWJQR0M5bHE5M0FvUnI4NkNTaDRQQ1Faa3F6WmMwd1p2R212MFN2RkIzTWRmTFQzUGI4anVRSTZ6aXlFamlDdnY3NS1USFMySXN6ZnJDdklVX0lWOXNWUjI4eFM1VXZqVm1IVHcwZmo1NzhvZWppZEk5Tw?oc=5
 
+4. **ICE retoma meta de 3 mil prisões de imigrantes por dia nos EUA**
+   - Fonte: CNN Brasil
+   - Termo monitorado: imigração EUA
+   - Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbTlEenZxZ1JZRzFMLXc1M21CczgxdmRHNlZkazNXNnhPQ3d0OW9YZS1nVWktRXBCWU9BbHNaSFBWMlhScWtpSDd4dkt0NnhYWkZFYUxjSHhvNDZDS0dhMDhqZ0dKQmNZbzRsZi1XNnBrRC0zaXk2NWxtS0E0UjV4QThwak5mN3JQRkl2LVhxVFc3Wk5XOU9IeEZVaXVSMERZNVZQdXR6d3B2Zw?oc=5
+
 5. **Grupos processam governo Trump por mudanças nas regras do green card**
    - Fonte: Gazeta Brazilian News
    - Termo monitorado: USCIS
-   - Link: https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMzdhaEFpV1M5X1lxSlVhU2ZmbHhJRlJyTDFaVEF0ZHl1dU8xcktlSmluSkdZSWhEbGxfTFNBcFd5QkpzbnBGZTJlYVdNX1ZpVno3RUlBdUhGajFvbFR0bDRtSk42WUE5VlFpUXRSeEdWS25hMzdodFZuNDA2LXNuVWxHU1pWQUh0R2NvSTBySzBicEdSRU1yV0Z1OGFvSk9ocHVwR2dpTkxVdXo5U29WMl9fQTVlM2NOQTVkWXBHOGRFTmV1T0UyWQ?oc=5
+   - Link: https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUmlmc2R3b0xqZlN2N19LTTZobDVteWstX05jc1ktTGlxZ0lsZVprUi1GaUxkZTFaLUlQdF95WFM1bTFrVXkzMkRXSnktbkJEbHBGODFDeTgxSlZOZ3ZxTFpZY3N0Mk8zbjVGd1RpS3hXM1VCN1JkZm43Wi1Zb3VyX3RTSFprYU5yM3RnTVFmS0tWRUZzaVNHRHNYXzlYemUxOU1hbFVJRmZrMlRhd1h5ejhtS2FUUERGeXNQNXVqa1Q3b3M?oc=5
 
 
 ## Sugestões de artigos para publicar
@@ -51,15 +51,15 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 - **Após crítica de Mamdani, Imigração dos EUA defende ação violenta contra homem em carro com criança**
   - Fonte: Valor Econômico
   - Link: https://news.google.com/rss/articles/CBMi5wFBVV95cUxOYmRsRGF6emhUQUxuNUtGX0N0M3lYUjRIUTZTRi13eUY4S09Da0V6WnRZNmRiMDZKVnlHeWdZT0EzZTNzSjRaNldkX3VsM0hPNEdyVjdRZmVhOGxsMENDbkpLbzBvNVUyR2hnMkZNSTFxRGJ2TTEyUzBvbFJBaG1QWHhZN1ZUZWU3dFc4NE1ob2VvNFU5NTRZd1RkNmpTLWhvbE1SSTRoSlNKWTRPMFJxcUV6SkVQYVJwYWtXV1FRX1ItVDczWGVseUthRnBKN05XbXI2ZEVmRDhKeGEyWmpYbUlTbkxkTWvSAfYBQVVfeXFMUGNndXhGOTZVSjEwZ1I5ZWM4ajV4R3JRZ21ld1RDOGlnSDM2WHh1dlBCTS1pTC16V0ZTMFpJTWZlVzZfekR0dVZ1MTVuZ2EzOFQ1cS1wU28xZXQwT1lpLVdGOE1qb3JnZEpKRUVjVEhCcE8xY0pyVEloX013MUxCOEU4ekpKRWJmelV4d191MTFfVXJIc2dYeGlSakYxdDZUZ0hfUUpyZG0ybGMzQzV5WnJIWW5QZC1GUm9iS3NERENfbXRMMHBES0lud1hFME00MlBMTk00TGlQdW9abHhIdHlaUVRJN05zekRzTVJYbHNrOHMzRTR3?oc=5
-- **Agentes da polícia de imigração dos EUA atiram contra dominicano em Nova York**
-  - Fonte: Estadão
-  - Link: https://news.google.com/rss/articles/CBMiywFBVV95cUxPOURFanZvT1hmUzN1YnM4QnkxbXNLS01xRnhiaGpJWjZUQlgwTi04VExMTXFpek5YeGxvNWtGaGFMM2NrVHVTZk1DYW5JTENKcmpmTEM1U1h5YkgzWmJHb3FkYW9STkFDSnJVSDRUZmxUckVJeDAzcVVxc0pZQi1LNlIxSjUwTVJET3MxaWJjVlhqM2tpZ1JQNlI3dVlNakpndDBTUWluMUEzUVI0U09CR0swcHNoY1M1czJoZjNyejVBeTlMaC05ZEllYw?oc=5
+- **Trump suspende Microsoft de programa que contrata estrangeiros nos EUA**
+  - Fonte: Tecnoblog
+  - Link: https://news.google.com/rss/articles/CBMipAFBVV95cUxPOTFqY1JlWXRiSUxDc25NTzYtczYxMUtHNktmd0JzZ1psemUtV2tlMGpFQW5wazZheGZsSWVNbHlFdEZrb2NCampZR0JPUElyNUp5YU9EMUpjZEIzTVBhS0FIU0o3bEpCZTU0U2FjcTVGZlRqa05NZWI5YU9QUnhiR3BkeDFqSXFsM0dMM0tncGFndlpfRVNNcWF3V2JEXzR5NEVWag?oc=5
 
 ### USCIS
 
 - **Grupos processam governo Trump por mudanças nas regras do green card**
   - Fonte: Gazeta Brazilian News
-  - Link: https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMzdhaEFpV1M5X1lxSlVhU2ZmbHhJRlJyTDFaVEF0ZHl1dU8xcktlSmluSkdZSWhEbGxfTFNBcFd5QkpzbnBGZTJlYVdNX1ZpVno3RUlBdUhGajFvbFR0bDRtSk42WUE5VlFpUXRSeEdWS25hMzdodFZuNDA2LXNuVWxHU1pWQUh0R2NvSTBySzBicEdSRU1yV0Z1OGFvSk9ocHVwR2dpTkxVdXo5U29WMl9fQTVlM2NOQTVkWXBHOGRFTmV1T0UyWQ?oc=5
+  - Link: https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUmlmc2R3b0xqZlN2N19LTTZobDVteWstX05jc1ktTGlxZ0lsZVprUi1GaUxkZTFaLUlQdF95WFM1bTFrVXkzMkRXSnktbkJEbHBGODFDeTgxSlZOZ3ZxTFpZY3N0Mk8zbjVGd1RpS3hXM1VCN1JkZm43Wi1Zb3VyX3RTSFprYU5yM3RnTVFmS0tWRUZzaVNHRHNYXzlYemUxOU1hbFVJRmZrMlRhd1h5ejhtS2FUUERGeXNQNXVqa1Q3b3M?oc=5
 - **Do papel ao digital: USCIS exige e-filing obrigatório**
   - Fonte: Migalhas
   - Link: https://news.google.com/rss/articles/CBMimgFBVV95cUxPU3lXOWsxRDdlbEh4anpHUmp2amh5SHpCaUlWVmtIa3VqWFpYTWZ0Ujh1NlV0d1N4TUw1cmN6cG5UdWZ1c0ZZdG1hMGV6eWY3STQ5SldkTmpudHhCcHlaZXZoTFRIdkdXRm5Za1NPRkd3LWs5dl93N1poWmZ3cm1fTFA1NHN4SllBWGlRRk12WTNtM2djNGw3VWtB?oc=5
@@ -69,18 +69,18 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 - **Eduardo Bolsonaro teve 'green card' concedido pelo governo Trump; relembre**
   - Fonte: G1
   - Link: https://news.google.com/rss/articles/CBMiwAFBVV95cUxORmEtVDMwUHpDQTRoQ2NUM0txX2Y3dExXUEo1N2Vmd1pvWkR5VjNDUDVzWkNVV1RDYmYxOGlQSVR6a2k4dU1BSElDQWdfdmtUUUp4QkVJLUZ4NlZDbllwU2ZYTWw5a3NIT2l5MGZUVlVMekRBMHl6SWRhRTFubGFtc2l5UU8zZ3gyTTBZMzh4dXBBWHpmelIxVzlUM2dEaWd4N1pYVGZxZ0RZYlRQRGQwUm43RE5lanB3cmVHN05sUlPSAc8BQVVfeXFMTTdvSVRSbEY3bTk0Rm1NRUZpaTBMMk83Q2FsbWFYWUhfdlY4Si04ZXJnNmJBOUd6SjJDQWRpaWgza1ZhbFo4b2dyOUpIU2NMVjZ6U0dJcVEtMmhISmpVajhaQjlzbnB2WDJUMVBEU1hfZ2o4bXJqYVBTRWx5MWtBWGhfbWNMa1Z4WlZsYmlKTDJWWnRxaTlmZ25wQWUycUdZRGhXb3BkOGhxNHN1MjAyT0lsbG5NQWRuLUZ6ZS1uR0R5VklIczdKdHVOd0t0RkZR?oc=5
-- **'Green card' na mira: EUA suspendem programa de vistos da Microsoft e outras big techs, diz vice de Trump**
-  - Fonte: G1
-  - Link: https://news.google.com/rss/articles/CBMi5AFBVV95cUxObjhDYTA5aEZrSC1KQktFSnpGNVBhaXFLV1N5U3FheVloV2ZDc2k0SHNaeGNYQUFGeF9NdW5Cdml6VXF6a1N3WjZvQWs5Z00tM1JMUm15Y3F5Y0sxdVQwWXZCN2E4SnFrbVRUbE9Nczd4V1FPeWNpdDg5SGE4anJITG9QNVVIdHRZMlZVd0N5OTZ1YkVCbmlqdDgwMjBVVWpabUJoVUJiUHZKSDl1bDB2ZUJ5NWRtR0JhaTIzdjNmcFhLN2ZxaVk2OVR6YXRpODRoUlVDWnpoWlZmR2tmTHB0UklNaVnSAfMBQVVfeXFMTnV6VFB3TXBJdF9reUZGOGowMmZKUEZ6UVVXa2hfNmRyNzgtVTJFSzZrSGhfU3JmUVRqMlkzR1VUS2dGTDlkSlllbVRoVG93QmRfdF9PRHBrV3hjcGhfQ0FmRzl1UjdVNTBjU0lBaEM0ak1RdldiSDlWdjBwcDFLZHZYelZnTTZDWS1vbGVRRUpab2IxTjUxdjN1OExxZHRJd1hpV3ZHNlRGckdmYWVuMVJFWlhJQXJ0LTU4V0NUNTRzbS1PdnlZMnRhR2ZQaVNDbE1NZHhJNEVMUUxBazVTY2dkV2FiWlJCZzczQnY3NUpPMUVv?oc=5
+- **Governo Trump restringe Microsoft e outras big techs de contratar estrangeiros via green card**
+  - Fonte: Folha de S.Paulo
+  - Link: https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcHVhS1VkdGtQWlJUSjVNZ2ZLS2FwRmtRa0MwYTl2OUpYYjI2bGdmUnZVa2VudmZYbTM5NE1nNEI5THBXaEl3ZDBkZTB3ZzQ2ajU3UnIzekE1LWp5aHkyQ3B6YnhfajI1Zm40ZlAwSjRpWldmSm1pZUdmX3FPOFIwX1FGS0xCOFRQb25OZV8ySGVIMWF6SFU2NW9iVzV0UXk5RllLRmMwcjlIMjN2Tk5yckVFLWxDTjN3WEk0d0J5Rkx2S2hLVWhhcnZRSjFFTXM2ZXJOYmx0d3U?oc=5
 
 ### visto americano
 
-- **Convite de Karol G a voo quase perdido: Juliano Floss relembra viagem aos EUA após visto negado 4 vezes**
+- **Vai pedir visto para os EUA? Veja quem precisa deixar as redes sociais públicas**
+  - Fonte: Folha Vitória
+  - Link: https://news.google.com/rss/articles/CBMiuAFBVV95cUxORFhqWkQ1SU1oLVNsdTROMk9MNjNJRGxPTHBrYzBOX3hIQVBOR0hXZFJOZk8xaWF0bXpDX0d2U19ZLTREdmZnYlVUakVQajJDMlZKMENXN015S29VS0JUU3VrNzdtRVNwNjh5RnE3cWQtbTNEMk9SWmduMnpSZmxaNGNKbmU1YVYwTmlCRUlMeUpxYzVwTmZ0dHNMVFJBQk5mWkdFYnUwdnlLUUFnb21KaGg0Q3BPOGlO?oc=5
+- **De convite de Karol G a voo quase perdido: Juliano Floss relembra viagem aos EUA após visto negado 4 vezes**
   - Fonte: Gshow
   - Link: https://news.google.com/rss/articles/CBMi_AFBVV95cUxOWDB2M2RKUnVVUTZFWFVQV1BsZ1lCd2hjSUhLUkpLelZTV0Z0YlJYdDczR2JESnVhdnRDNXpJZE1NcHV1TkNaSmo5dFJZREctcEpvdVlDRkdwNzJEODZFX01qd0J6LWFoMXE5T2ZjVTh0bndCOFFGUmxQRmx6Qm0tUEM3WGpHNWlmamsya2EwSHByc2VXUWNZRGZTN2FQeFZLQVhNX1A3NzBqd1BpTkpuckFnOWtBV2EzMlNmVnFEeTJiNkxVWlpNSjNxbGMxQUpvUU1rbGM1LWVWVm12YVlXZ2FpWTQzck8waVdLWE8zdl9YaUM0UldieVMzQ2zSAYsCQVVfeXFMUFRvcjBZUVV2UVg2OW00UHRicURaNTVXTzVUaDV2c0xGWXJfMzA3NXNCdzJMMHZkOU9nX2xNd1VEUjE3eDB4Qk1FRGhDQTdST1FlMWhDTlRBcHM1R0kzcnB2amFOWF9DMVdKY0lLM0RtNjlhWjNod0M4SF9yR092SWl0dmZOMmdlUWJfWHhiWEx3d0JmUkJDOTBtOThsdUduWmpyQVAtZmttMFhINEoxNzFJNUluUlloTU5FLTVkWUVpTExtTzN4VHZWY1l0SHRBNnJYRlhySGp5V2MwV2RRRkZCYlZwN1pFLW5TeVFpY01JRWVhU0xBTDBVODYtck9tb0k5WEtWenJWRHlj?oc=5
-- **Nova mudança para o visto americano**
-  - Fonte: iG Turismo
-  - Link: https://news.google.com/rss/articles/CBMinwFBVV95cUxNZkNHRjg0MkZ0VGVVZ3BEbFA4RFRMaXdTR0dmajRGdmRwSjU2Y3YzUVo5Y2pRM0NNYXEybllKcEhiYUo5eUhoWEY2Y2JDRTM3NlExLVJpRl9zVnMyRW9lVzdEa2RvUjZyMXIzSm9wZUJRcFBWVElMUy0za21EV1ZxYTlpc0tIanlkckJsUU9ObVU0dHYwNHpNbUd4STgxMzjSAaQBQVVfeXFMTmo0QzNTRkhNdzBKdXV5ZXhOSVJqeFNMRWlCMXUwV0xfcUVIQ2JOOFBlQll1UDcycXZoMERCdS1iVnpXWVFLVkJxQmMzM1JRbUtVczlZLUN4YW91VXFPY0xjbnRzOUZmTnE3bFljbEpWZjFTb1R0S013SUhhbi1odDgwVVp0TXhuZGloSERVYnNKYWFSLV92WkhmQXhYeUpodnBpSm0?oc=5
 
 ### brasileiros nos Estados Unidos
 
@@ -105,9 +105,9 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 - **Homem é baleado em Nova York dentro de carro por agentes do ICE**
   - Fonte: Agência Brasil
   - Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxOcmtmc3VDU1poSF9CajNHYm9fbnFSSlNCZHNOZlhZV2VVc2NFVFZJYjZZajNDd3ZSRlZXNjJkTWZ3cy1HVFdibV9ZUnM3OUk5MjlJUDM1QVVxNWlGVDhjQlpRa0NzbV9fRDR6QTFMVGUzRWlsSDNUSjhHTWtjTUdabjVOV2pUaVZPTmVLTjFJZl8yZk9JNkhhYVhqQ1Rld2tzR2hobTJOcmNETVJjREFuYXNzSU9FU3JPYW5XZzcxUDZ1RUp3?oc=5
-- **ICE retoma meta de 3 mil prisões de imigrantes por dia nos EUA**
-  - Fonte: CNN Brasil
-  - Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbTlEenZxZ1JZRzFMLXc1M21CczgxdmRHNlZkazNXNnhPQ3d0OW9YZS1nVWktRXBCWU9BbHNaSFBWMlhScWtpSDd4dkt0NnhYWkZFYUxjSHhvNDZDS0dhMDhqZ0dKQmNZbzRsZi1XNnBrRC0zaXk2NWxtS0E0UjV4QThwak5mN3JQRkl2LVhxVFc3Wk5XOU9IeEZVaXVSMERZNVZQdXR6d3B2Zw?oc=5
+- **Homem é baleado por agente do ICE em Nova York dentro de carro com criança**
+  - Fonte: G1
+  - Link: https://news.google.com/rss/articles/CBMimAFBVV95cUxNem44el8xekFjc3NUb0JlWlQ5cmkybHk4RHhPejhacHJKdzNZdngxOWkwX1BlNGpMZkd6dTdZdjR3VU1nbkJRN21NUGU0ZWF1RUZwcTFVcE9ZTV9IZVlpVHZ4aTU5bUVnTnRNdHdYbUp2QnhSU1JTSVN2cG5DTFNsWnBFdUNENG15RTdhVllGMTdzdVZkMXlJONIBpwFBVV95cUxOMDkwYV9NN1c1M3hWZk16d25tdEhQV01maG1zVGF0TkpTMzRWejd5Nm5ZUlczcG83RUJrWVJxc2JZVGJZWkpPSERwTVVQSy1LZEhJbXo2eFFsUV9NeVNlSW1yVEpsRFR0a2xza1E2M3pIbktTeWJ0MzRSY0gxX2Y4UEdFYW9XVjRkOXE4Rm15UTRnYi1LUWZVbGR0VE4zRndlQnJqbHlJVQ?oc=5
 
 
 ## Termos monitorados
