@@ -1,8 +1,8 @@
 # Relatório diário — Imigração e brasileiros nos EUA
 
-Gerado em: 2026-10-11 13:40 EDT
+Gerado em: 2026-10-11 17:56 EDT
 
-Arquivo original: `2026-10-11-13-40-tendencias-imigracao.md`
+Arquivo original: `2026-10-11-17-56-tendencias-imigracao.md`
 
 ## Objetivo
 
@@ -20,10 +20,10 @@ Este relatório serve como base para criação de artigos atualizados para o blo
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMiywFBVV95cUxPOURFanZvT1hmUzN1YnM4QnkxbXNLS01xRnhiaGpJWjZUQlgwTi04VExMTXFpek5YeGxvNWtGaGFMM2NrVHVTZk1DYW5JTENKcmpmTEM1U1h5YkgzWmJHb3FkYW9STkFDSnJVSDRUZmxUckVJeDAzcVVxc0pZQi1LNlIxSjUwTVJET3MxaWJjVlhqM2tpZ1JQNlI3dVlNakpndDBTUWluMUEzUVI0U09CR0swcHNoY1M1czJoZjNyejVBeTlMaC05ZEllYw?oc=5
 
-3. **ICE retoma meta de 3 mil prisões de imigrantes por dia nos EUA**
+3. **Homem é atingido por veículo do ICE ao fugir de abordagem nos EUA**
    - Fonte: CNN Brasil
    - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbTlEenZxZ1JZRzFMLXc1M21CczgxdmRHNlZkazNXNnhPQ3d0OW9YZS1nVWktRXBCWU9BbHNaSFBWMlhScWtpSDd4dkt0NnhYWkZFYUxjSHhvNDZDS0dhMDhqZ0dKQmNZbzRsZi1XNnBrRC0zaXk2NWxtS0E0UjV4QThwak5mN3JQRkl2LVhxVFc3Wk5XOU9IeEZVaXVSMERZNVZQdXR6d3B2Zw?oc=5
+   - Link: https://news.google.com/rss/articles/CBMirgFBVV95cUxORllqcFdiakt0dXZaZ0o2a3RDQnQzRmtRU3NtSGkzOE5kVzhnZDFhS1RLbzlNWFZBbnp5aXdtaFhyMUJOUFJGNUlHMnBDaWdIN2dveUhoWW5DTWZEdWxUVkhadmpSUjQ2a2MxRFhPM2VPUVRPZXF6V3lVUkJxUWl0MjJoeEhWLUVjT3JUYWdmSWN3OFhpUncxRHVBV1JNajFtVEh5RXYteEp1NFo2TGc?oc=5
 
 4. **Trump propõe cobrança de até $ 100 mil para estudantes estrangeiros trabalharem nos EUA**
    - Fonte: AcheiUSA
@@ -84,8 +84,12 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### brasileiros nos Estados Unidos
 
-- **Erro ao buscar notícias para: brasileiros nos Estados Unidos**
-  - Fonte: Sistema
+- **O que uma eventual vitória de Flávio significaria para China, EUA e o Mercosul**
+  - Fonte: Gazeta do Povo
+  - Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxOS1VXTEt4TjNVbHozc05PeGd4TndvY2k1YkhETlJCNGJZV0ZRcHdVTFRzejJlWkR1VDRMOG9GNkpDTktQZ2xiYUMyb2haQnQ3ekFhNmFyWXZOWkpiUlE5TFlqYXU0THZiZWhqYUdrUEh1MDZoRVlySTh3Mm5HZjBrX2Y1TU50b0J6RDlfQkU1V3MtcW1QNnFlWkRDeE1DTlRzT2w3LUpnODJsazdBRlh3ZDd5emlvbHM?oc=5
+- **Brasileiros repatriados dos Estados Unidos chegam a Confins (MG) nessa sexta-feira (9)**
+  - Fonte: www.gov.br
+  - Link: https://news.google.com/rss/articles/CBMi8AFBVV95cUxQcEFtRDRYTzBJSTU0WG03UmJyaktXS3NrV3ZhY1pxMml5T1JuUFp5UGxVNzVSVWpVa2hodkx2VVFUUU1iWjI3d3hWVnFYbUNManZOdzV4Q0lIci1QOExSTEJkZGE1cVFLSVFtNUNsRWg0UzBHYjFXdElmYmJOVTVfeThyTjNMdGx6SGVDTHc5a2xkZjF3djZlcEdnNnVBdlJJcF9renY4RXFWM01wOTZPY0dFMWs5RERoT3JTY29EbDFtempBbjctd1c3TTlDY1ota3JVV3pldUxtV0xYNEVpSE9LdHJkbGRNbWs5UXdQb0g?oc=5
 
 ### asilo nos EUA
 
@@ -101,9 +105,9 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 - **Homem é baleado em Nova York dentro de carro por agentes do ICE**
   - Fonte: Agência Brasil
   - Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxOcmtmc3VDU1poSF9CajNHYm9fbnFSSlNCZHNOZlhZV2VVc2NFVFZJYjZZajNDd3ZSRlZXNjJkTWZ3cy1HVFdibV9ZUnM3OUk5MjlJUDM1QVVxNWlGVDhjQlpRa0NzbV9fRDR6QTFMVGUzRWlsSDNUSjhHTWtjTUdabjVOV2pUaVZPTmVLTjFJZl8yZk9JNkhhYVhqQ1Rld2tzR2hobTJOcmNETVJjREFuYXNzSU9FU3JPYW5XZzcxUDZ1RUp3?oc=5
-- **Homem é baleado por agente do ICE em Nova York dentro de carro com criança**
-  - Fonte: G1
-  - Link: https://news.google.com/rss/articles/CBMimAFBVV95cUxNem44el8xekFjc3NUb0JlWlQ5cmkybHk4RHhPejhacHJKdzNZdngxOWkwX1BlNGpMZkd6dTdZdjR3VU1nbkJRN21NUGU0ZWF1RUZwcTFVcE9ZTV9IZVlpVHZ4aTU5bUVnTnRNdHdYbUp2QnhSU1JTSVN2cG5DTFNsWnBFdUNENG15RTdhVllGMTdzdVZkMXlJONIBpwFBVV95cUxOMDkwYV9NN1c1M3hWZk16d25tdEhQV01maG1zVGF0TkpTMzRWejd5Nm5ZUlczcG83RUJrWVJxc2JZVGJZWkpPSERwTVVQSy1LZEhJbXo2eFFsUV9NeVNlSW1yVEpsRFR0a2xza1E2M3pIbktTeWJ0MzRSY0gxX2Y4UEdFYW9XVjRkOXE4Rm15UTRnYi1LUWZVbGR0VE4zRndlQnJqbHlJVQ?oc=5
+- **ICE retoma meta de 3 mil prisões de imigrantes por dia nos EUA**
+  - Fonte: CNN Brasil
+  - Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbTlEenZxZ1JZRzFMLXc1M21CczgxdmRHNlZkazNXNnhPQ3d0OW9YZS1nVWktRXBCWU9BbHNaSFBWMlhScWtpSDd4dkt0NnhYWkZFYUxjSHhvNDZDS0dhMDhqZ0dKQmNZbzRsZi1XNnBrRC0zaXk2NWxtS0E0UjV4QThwak5mN3JQRkl2LVhxVFc3Wk5XOU9IeEZVaXVSMERZNVZQdXR6d3B2Zw?oc=5
 
 
 ## Termos monitorados
