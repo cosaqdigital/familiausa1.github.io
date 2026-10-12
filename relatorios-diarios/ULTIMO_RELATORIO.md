@@ -1,8 +1,8 @@
 # Relatório diário — Imigração e brasileiros nos EUA
 
-Gerado em: 2026-10-11 17:56 EDT
+Gerado em: 2026-10-12 01:53 EDT
 
-Arquivo original: `2026-10-11-17-56-tendencias-imigracao.md`
+Arquivo original: `2026-10-12-01-53-tendencias-imigracao.md`
 
 ## Objetivo
 
@@ -10,25 +10,25 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ## Principais assuntos do dia
 
-1. **Após crítica de Mamdani, Imigração dos EUA defende ação violenta contra homem em carro com criança**
-   - Fonte: Valor Econômico
-   - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMi5wFBVV95cUxOYmRsRGF6emhUQUxuNUtGX0N0M3lYUjRIUTZTRi13eUY4S09Da0V6WnRZNmRiMDZKVnlHeWdZT0EzZTNzSjRaNldkX3VsM0hPNEdyVjdRZmVhOGxsMENDbkpLbzBvNVUyR2hnMkZNSTFxRGJ2TTEyUzBvbFJBaG1QWHhZN1ZUZWU3dFc4NE1ob2VvNFU5NTRZd1RkNmpTLWhvbE1SSTRoSlNKWTRPMFJxcUV6SkVQYVJwYWtXV1FRX1ItVDczWGVseUthRnBKN05XbXI2ZEVmRDhKeGEyWmpYbUlTbkxkTWvSAfYBQVVfeXFMUGNndXhGOTZVSjEwZ1I5ZWM4ajV4R3JRZ21ld1RDOGlnSDM2WHh1dlBCTS1pTC16V0ZTMFpJTWZlVzZfekR0dVZ1MTVuZ2EzOFQ1cS1wU28xZXQwT1lpLVdGOE1qb3JnZEpKRUVjVEhCcE8xY0pyVEloX013MUxCOEU4ekpKRWJmelV4d191MTFfVXJIc2dYeGlSakYxdDZUZ0hfUUpyZG0ybGMzQzV5WnJIWW5QZC1GUm9iS3NERENfbXRMMHBES0lud1hFME00MlBMTk00TGlQdW9abHhIdHlaUVRJN05zekRzTVJYbHNrOHMzRTR3?oc=5
-
-2. **Agentes da polícia de imigração dos EUA atiram contra dominicano em Nova York**
-   - Fonte: Estadão
-   - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMiywFBVV95cUxPOURFanZvT1hmUzN1YnM4QnkxbXNLS01xRnhiaGpJWjZUQlgwTi04VExMTXFpek5YeGxvNWtGaGFMM2NrVHVTZk1DYW5JTENKcmpmTEM1U1h5YkgzWmJHb3FkYW9STkFDSnJVSDRUZmxUckVJeDAzcVVxc0pZQi1LNlIxSjUwTVJET3MxaWJjVlhqM2tpZ1JQNlI3dVlNakpndDBTUWluMUEzUVI0U09CR0swcHNoY1M1czJoZjNyejVBeTlMaC05ZEllYw?oc=5
-
-3. **Homem é atingido por veículo do ICE ao fugir de abordagem nos EUA**
+1. **Homem é atingido por veículo do ICE ao fugir de abordagem nos EUA**
    - Fonte: CNN Brasil
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMirgFBVV95cUxORllqcFdiakt0dXZaZ0o2a3RDQnQzRmtRU3NtSGkzOE5kVzhnZDFhS1RLbzlNWFZBbnp5aXdtaFhyMUJOUFJGNUlHMnBDaWdIN2dveUhoWW5DTWZEdWxUVkhadmpSUjQ2a2MxRFhPM2VPUVRPZXF6V3lVUkJxUWl0MjJoeEhWLUVjT3JUYWdmSWN3OFhpUncxRHVBV1JNajFtVEh5RXYteEp1NFo2TGc?oc=5
 
-4. **Trump propõe cobrança de até $ 100 mil para estudantes estrangeiros trabalharem nos EUA**
-   - Fonte: AcheiUSA
+2. **Homem é baleado em Nova York dentro de carro por agentes do ICE**
+   - Fonte: Agência Brasil
    - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMnY4cHlweEJ2eHFsNnQ5V2hMb0tCWXlhc3J5M0M3elVXal9uNnI1dWg0cER2Y0JyQUlXR3pkN2g4ZW5McER3R2tieXFzbUo5T2tiRU82UWJQR0M5bHE5M0FvUnI4NkNTaDRQQ1Faa3F6WmMwd1p2R212MFN2RkIzTWRmTFQzUGI4anVRSTZ6aXlFamlDdnY3NS1USFMySXN6ZnJDdklVX0lWOXNWUjI4eFM1VXZqVm1IVHcwZmo1NzhvZWppZEk5Tw?oc=5
+   - Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxOcmtmc3VDU1poSF9CajNHYm9fbnFSSlNCZHNOZlhZV2VVc2NFVFZJYjZZajNDd3ZSRlZXNjJkTWZ3cy1HVFdibV9ZUnM3OUk5MjlJUDM1QVVxNWlGVDhjQlpRa0NzbV9fRDR6QTFMVGUzRWlsSDNUSjhHTWtjTUdabjVOV2pUaVZPTmVLTjFJZl8yZk9JNkhhYVhqQ1Rld2tzR2hobTJOcmNETVJjREFuYXNzSU9FU3JPYW5XZzcxUDZ1RUp3?oc=5
+
+3. **Agentes da polícia de imigração dos EUA atiram contra dominicano em Nova York**
+   - Fonte: Estadão
+   - Termo monitorado: imigração EUA
+   - Link: https://news.google.com/rss/articles/CBMiwAFBVV95cUxON20wX180VFhXVFJIMnhCWG8zQmRFYnZkdk5jTG9nTkV1SXpUenFHLUU3U2p0UHpBdnl5MkMyNjktdnBFUGRYNWg2d1AteWlxZndNLVJqZTJ6Z0xhLWhwaHlONElwYkNNcWRjU1F0eVhOTFRaZXFHem1TWmlKUnJZcUJTN0UzVFdjd29NNzVZYlZqcVhqVTdBckFfdWtTajV6eTUwSXdoSEZ2c25FMjFXZmcwNFVaMnhHN0NRWVBrRXHSAcYBQVVfeXFMTWMzYjZxZGluUlBIOHpHXzFXTUk3Q3YzemJ6cHpTeEIxX0NvMi1FMUdpVENsem5FeGpWUUpxb092aXVfUVdUN3Z6dUJFUTlyWllxTDRsbjlZLUVWTUo3UUVFdWpLVXJWNExNY25iUGNEWnpEWFRyaFJjeTdZR0pJNjIwd256cEdyNFRVVUZ1ZUJKMWtKVWQ1VTNpVnJCaEFCTXpVaWpieUtoQ2swOWo1amRWVWVPcGNzZXY5RGQ2ZUFtX0V4bVdn?oc=5
+
+4. **Governo Trump deporta migrantes LGBT para países onde enfrentam perseguição**
+   - Fonte: Valor Econômico
+   - Termo monitorado: imigração EUA
+   - Link: https://news.google.com/rss/articles/CBMixgFBVV95cUxNU3V1UlBEN2cxVGtGTllxVzlHUGtRYWxqZXhzNmttN3BZc3dVVmh6NE9wSnJvRHFBeEh0TnE0NmdRdjZyUXlyRm56akpJRHczME9yb24wQ2NTbnExd1ktdURzWnEzOHg3d3VjeTEzVFpEY3BuTzZad0xnLWxHNXFrUFpEbEZuMVBxZkNXX2JIdVZVQWVNenVGdkV1Rm5rcDE3SnkzSjhGTDNXZXBzbTgybUY4VV8wUDIxRm5QRllwRVNzckY5U0HSAdQBQVVfeXFMT1lfZlJXR0UtYlBubVVlZkJycXh0bjAwaWswdDE4cFQtaFpEdk5qS2pDOUxudGNDMHV5WThLUjFNM1o2alAwVGljbUhXVV9Tc1E3VTBJODRTYjVXdDZ6cWZ0WER2Z3BrWXotbWNOTlVHcUZnSklhR2I5VWxaTzdmZF8xVmFxSXVMbzJjd2lDNGY3YzhGWGFsTVRZWHZMYm1sU3Y0NjlGbFhxMEw5WFhnYzJrZV9SMG1ENk4zcW54dWxPYUJHVzgxUFh0TWlLLUZERnk0U28?oc=5
 
 5. **Grupos processam governo Trump por mudanças nas regras do green card**
    - Fonte: Gazeta Brazilian News
@@ -48,12 +48,12 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### imigração EUA
 
-- **Após crítica de Mamdani, Imigração dos EUA defende ação violenta contra homem em carro com criança**
-  - Fonte: Valor Econômico
-  - Link: https://news.google.com/rss/articles/CBMi5wFBVV95cUxOYmRsRGF6emhUQUxuNUtGX0N0M3lYUjRIUTZTRi13eUY4S09Da0V6WnRZNmRiMDZKVnlHeWdZT0EzZTNzSjRaNldkX3VsM0hPNEdyVjdRZmVhOGxsMENDbkpLbzBvNVUyR2hnMkZNSTFxRGJ2TTEyUzBvbFJBaG1QWHhZN1ZUZWU3dFc4NE1ob2VvNFU5NTRZd1RkNmpTLWhvbE1SSTRoSlNKWTRPMFJxcUV6SkVQYVJwYWtXV1FRX1ItVDczWGVseUthRnBKN05XbXI2ZEVmRDhKeGEyWmpYbUlTbkxkTWvSAfYBQVVfeXFMUGNndXhGOTZVSjEwZ1I5ZWM4ajV4R3JRZ21ld1RDOGlnSDM2WHh1dlBCTS1pTC16V0ZTMFpJTWZlVzZfekR0dVZ1MTVuZ2EzOFQ1cS1wU28xZXQwT1lpLVdGOE1qb3JnZEpKRUVjVEhCcE8xY0pyVEloX013MUxCOEU4ekpKRWJmelV4d191MTFfVXJIc2dYeGlSakYxdDZUZ0hfUUpyZG0ybGMzQzV5WnJIWW5QZC1GUm9iS3NERENfbXRMMHBES0lud1hFME00MlBMTk00TGlQdW9abHhIdHlaUVRJN05zekRzTVJYbHNrOHMzRTR3?oc=5
-- **Agentes da polícia de imigração dos EUA atiram contra dominicano em Nova York**
-  - Fonte: Estadão
-  - Link: https://news.google.com/rss/articles/CBMiywFBVV95cUxPOURFanZvT1hmUzN1YnM4QnkxbXNLS01xRnhiaGpJWjZUQlgwTi04VExMTXFpek5YeGxvNWtGaGFMM2NrVHVTZk1DYW5JTENKcmpmTEM1U1h5YkgzWmJHb3FkYW9STkFDSnJVSDRUZmxUckVJeDAzcVVxc0pZQi1LNlIxSjUwTVJET3MxaWJjVlhqM2tpZ1JQNlI3dVlNakpndDBTUWluMUEzUVI0U09CR0swcHNoY1M1czJoZjNyejVBeTlMaC05ZEllYw?oc=5
+- **Homem é atingido por veículo do ICE ao fugir de abordagem nos EUA**
+  - Fonte: CNN Brasil
+  - Link: https://news.google.com/rss/articles/CBMirgFBVV95cUxORllqcFdiakt0dXZaZ0o2a3RDQnQzRmtRU3NtSGkzOE5kVzhnZDFhS1RLbzlNWFZBbnp5aXdtaFhyMUJOUFJGNUlHMnBDaWdIN2dveUhoWW5DTWZEdWxUVkhadmpSUjQ2a2MxRFhPM2VPUVRPZXF6V3lVUkJxUWl0MjJoeEhWLUVjT3JUYWdmSWN3OFhpUncxRHVBV1JNajFtVEh5RXYteEp1NFo2TGc?oc=5
+- **Homem é baleado em Nova York dentro de carro por agentes do ICE**
+  - Fonte: Agência Brasil
+  - Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxOcmtmc3VDU1poSF9CajNHYm9fbnFSSlNCZHNOZlhZV2VVc2NFVFZJYjZZajNDd3ZSRlZXNjJkTWZ3cy1HVFdibV9ZUnM3OUk5MjlJUDM1QVVxNWlGVDhjQlpRa0NzbV9fRDR6QTFMVGUzRWlsSDNUSjhHTWtjTUdabjVOV2pUaVZPTmVLTjFJZl8yZk9JNkhhYVhqQ1Rld2tzR2hobTJOcmNETVJjREFuYXNzSU9FU3JPYW5XZzcxUDZ1RUp3?oc=5
 
 ### USCIS
 
@@ -75,12 +75,12 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### visto americano
 
-- **De convite de Karol G a voo quase perdido: Juliano Floss relembra viagem aos EUA após visto negado 4 vezes**
-  - Fonte: Gshow
-  - Link: https://news.google.com/rss/articles/CBMi_AFBVV95cUxOWDB2M2RKUnVVUTZFWFVQV1BsZ1lCd2hjSUhLUkpLelZTV0Z0YlJYdDczR2JESnVhdnRDNXpJZE1NcHV1TkNaSmo5dFJZREctcEpvdVlDRkdwNzJEODZFX01qd0J6LWFoMXE5T2ZjVTh0bndCOFFGUmxQRmx6Qm0tUEM3WGpHNWlmamsya2EwSHByc2VXUWNZRGZTN2FQeFZLQVhNX1A3NzBqd1BpTkpuckFnOWtBV2EzMlNmVnFEeTJiNkxVWlpNSjNxbGMxQUpvUU1rbGM1LWVWVm12YVlXZ2FpWTQzck8waVdLWE8zdl9YaUM0UldieVMzQ2zSAYsCQVVfeXFMUFRvcjBZUVV2UVg2OW00UHRicURaNTVXTzVUaDV2c0xGWXJfMzA3NXNCdzJMMHZkOU9nX2xNd1VEUjE3eDB4Qk1FRGhDQTdST1FlMWhDTlRBcHM1R0kzcnB2amFOWF9DMVdKY0lLM0RtNjlhWjNod0M4SF9yR092SWl0dmZOMmdlUWJfWHhiWEx3d0JmUkJDOTBtOThsdUduWmpyQVAtZmttMFhINEoxNzFJNUluUlloTU5FLTVkWUVpTExtTzN4VHZWY1l0SHRBNnJYRlhySGp5V2MwV2RRRkZCYlZwN1pFLW5TeVFpY01JRWVhU0xBTDBVODYtck9tb0k5WEtWenJWRHlj?oc=5
-- **Nova mudança para o visto americano**
-  - Fonte: iG Turismo
-  - Link: https://news.google.com/rss/articles/CBMinwFBVV95cUxNZkNHRjg0MkZ0VGVVZ3BEbFA4RFRMaXdTR0dmajRGdmRwSjU2Y3YzUVo5Y2pRM0NNYXEybllKcEhiYUo5eUhoWEY2Y2JDRTM3NlExLVJpRl9zVnMyRW9lVzdEa2RvUjZyMXIzSm9wZUJRcFBWVElMUy0za21EV1ZxYTlpc0tIanlkckJsUU9ObVU0dHYwNHpNbUd4STgxMzjSAaQBQVVfeXFMTmo0QzNTRkhNdzBKdXV5ZXhOSVJqeFNMRWlCMXUwV0xfcUVIQ2JOOFBlQll1UDcycXZoMERCdS1iVnpXWVFLVkJxQmMzM1JRbUtVczlZLUN4YW91VXFPY0xjbnRzOUZmTnE3bFljbEpWZjFTb1R0S013SUhhbi1odDgwVVp0TXhuZGloSERVYnNKYWFSLV92WkhmQXhYeUpodnBpSm0?oc=5
+- **Embaixada e consulados dos EUA passam a limitar reagendamento de vistos no Brasil**
+  - Fonte: Panrotas
+  - Link: https://news.google.com/rss/articles/CBMizAFBVV95cUxPRk9xcjRKVU9VenFBcGMxaFNHWWl3UFJwSjdyT0tqVHNuNXhZOUpkMmJaLTBlbEY0VC05NmZsZl80b2xkNXh5NUFBYkU4ZkdSTlhHR2FIQ0pWcHIyLURHdnRzWUpDeGtVMG9yeUotb0p4TG5aLVBLYml6YV9RXzlRYkt4Mm53WmVxQjlyaFJEXzVyRDFuN0JsUmxqX3RLOGl3Umc3SjhTYkE0dHRQNzFEU3RfVF9lUVZ1MzNpM0FTbENvUFpWU2hsOFlraGk?oc=5
+- **'Green card' na mira: EUA suspendem programa de vistos da Microsoft e outras big techs, diz vice de Trump**
+  - Fonte: G1
+  - Link: https://news.google.com/rss/articles/CBMi5AFBVV95cUxObjhDYTA5aEZrSC1KQktFSnpGNVBhaXFLV1N5U3FheVloV2ZDc2k0SHNaeGNYQUFGeF9NdW5Cdml6VXF6a1N3WjZvQWs5Z00tM1JMUm15Y3F5Y0sxdVQwWXZCN2E4SnFrbVRUbE9Nczd4V1FPeWNpdDg5SGE4anJITG9QNVVIdHRZMlZVd0N5OTZ1YkVCbmlqdDgwMjBVVWpabUJoVUJiUHZKSDl1bDB2ZUJ5NWRtR0JhaTIzdjNmcFhLN2ZxaVk2OVR6YXRpODRoUlVDWnpoWlZmR2tmTHB0UklNaVnSAfMBQVVfeXFMTnV6VFB3TXBJdF9reUZGOGowMmZKUEZ6UVVXa2hfNmRyNzgtVTJFSzZrSGhfU3JmUVRqMlkzR1VUS2dGTDlkSlllbVRoVG93QmRfdF9PRHBrV3hjcGhfQ0FmRzl1UjdVNTBjU0lBaEM0ak1RdldiSDlWdjBwcDFLZHZYelZnTTZDWS1vbGVRRUpab2IxTjUxdjN1OExxZHRJd1hpV3ZHNlRGckdmYWVuMVJFWlhJQXJ0LTU4V0NUNTRzbS1PdnlZMnRhR2ZQaVNDbE1NZHhJNEVMUUxBazVTY2dkV2FiWlJCZzczQnY3NUpPMUVv?oc=5
 
 ### brasileiros nos Estados Unidos
 
@@ -96,18 +96,18 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 - **EUA anunciam revogação de milhares de vistos de cidadãos em busca de asilo**
   - Fonte: O GLOBO
   - Link: https://news.google.com/rss/articles/CBMiygFBVV95cUxOSWMwZU9TR0FMT28xcVpiOFc2RzhZdU5sNE5MM1ZQa1F0c0RiZEM5SjJRbTc3eG1CRnFzZlc4U2QtUXRiTUhkLWx1dm1PUkVuVnZrdXdwZDZxVThZTFV4OFhMSTBWTjFWVS1tWmpXYnhSa0RtRE1JYi1iTWRQMVdJN2JqQlkzMENYUngxUl9ieEdlazNHYnUzcW53SGJZdEtPMlVJMU5NUTdyMVFzSDQwZ1VuazNqS1NLamdhT1JhQVBHMU1HUmZPNVl30gHYAUFVX3lxTE9hdTBxZEhOQVhkd2x2U2VxNmdhbkt0ZFhWY19yM0FJMGxWMGtHXzRiV0diYUJQQTY4cGlSMmlxaWFRT2lWZmh2SUs3YW5DRzNoS3JjdVFXX2F6VUV4OE9PVFZvSUVQcG0wZEN0SkNsV3JLOGNIYXJQQWltU0lzM2pKbFZJbkhsS0trX2pSUHF0eXRWYnlmUk9OdnJPUzZZZThTdXV3WnJxTGtUM25mNzZrRjZrcV93bWUwNjNBUk5NRjFvcDV5bzJ6UTg2amcxaTJfQVRwNEpZcg?oc=5
-- **Oposição vai pedir asilo político para Ramagem ao governo dos EUA**
-  - Fonte: CNN Brasil
-  - Link: https://news.google.com/rss/articles/CBMipwFBVV95cUxNbXZZSXBOUzh5MDcwVFZ3bG13T3VadjE2RzdKUjVQdE5HYjhXd0kyS3hMUGxzSzRCanZqZngwTndDU3NhNGVDS2YxMkxHaDIxZ2Q5a1p4SEJFRXh1V2xRQkNEM2RCMVo2UmR6N3BNUDI2SEVKX0VYa0pyTzczUG45MlFjWXJEVmhMNFZKSVRhMVhQOEQ4QXNMVGhXWGFjbF96QmxPaXY5Yw?oc=5
+- **Ramagem é solto nos EUA e espera resposta a pedido de asilo**
+  - Fonte: BBC
+  - Link: https://news.google.com/rss/articles/CBMiYkFVX3lxTE9EMUFBNkc3X2ZsVFVkMFAyY0JkZTE0MjZLZWlJQ2YwNk9fWk9ma3QxdFRtaE1xcWVmRDFTS1huRDZ6UGFnX3YyRzJqVWl2YzVhVmxZWnVyLTk3TE4zNnFOd1NR0gFnQVVfeXFMTlZaZVR4Mlk5SWxIS0xiWHJoc0ZvTmZhMmstNE13Yk84Yi1UYkZ1TzBPY01GS3dVOWpZYW5CbWJUclVXX1I5clFTSUQ5VER4ZXZQSEswN3pNcVVpUGhmUUV4OVJuVkRZVQ?oc=5
 
 ### ICE immigration
 
-- **Homem é baleado em Nova York dentro de carro por agentes do ICE**
-  - Fonte: Agência Brasil
-  - Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxOcmtmc3VDU1poSF9CajNHYm9fbnFSSlNCZHNOZlhZV2VVc2NFVFZJYjZZajNDd3ZSRlZXNjJkTWZ3cy1HVFdibV9ZUnM3OUk5MjlJUDM1QVVxNWlGVDhjQlpRa0NzbV9fRDR6QTFMVGUzRWlsSDNUSjhHTWtjTUdabjVOV2pUaVZPTmVLTjFJZl8yZk9JNkhhYVhqQ1Rld2tzR2hobTJOcmNETVJjREFuYXNzSU9FU3JPYW5XZzcxUDZ1RUp3?oc=5
 - **ICE retoma meta de 3 mil prisões de imigrantes por dia nos EUA**
   - Fonte: CNN Brasil
   - Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbTlEenZxZ1JZRzFMLXc1M21CczgxdmRHNlZkazNXNnhPQ3d0OW9YZS1nVWktRXBCWU9BbHNaSFBWMlhScWtpSDd4dkt0NnhYWkZFYUxjSHhvNDZDS0dhMDhqZ0dKQmNZbzRsZi1XNnBrRC0zaXk2NWxtS0E0UjV4QThwak5mN3JQRkl2LVhxVFc3Wk5XOU9IeEZVaXVSMERZNVZQdXR6d3B2Zw?oc=5
+- **Homem é baleado por agente do ICE em Nova York dentro de carro com criança**
+  - Fonte: G1
+  - Link: https://news.google.com/rss/articles/CBMimAFBVV95cUxNem44el8xekFjc3NUb0JlWlQ5cmkybHk4RHhPejhacHJKdzNZdngxOWkwX1BlNGpMZkd6dTdZdjR3VU1nbkJRN21NUGU0ZWF1RUZwcTFVcE9ZTV9IZVlpVHZ4aTU5bUVnTnRNdHdYbUp2QnhSU1JTSVN2cG5DTFNsWnBFdUNENG15RTdhVllGMTdzdVZkMXlJONIBpwFBVV95cUxOMDkwYV9NN1c1M3hWZk16d25tdEhQV01maG1zVGF0TkpTMzRWejd5Nm5ZUlczcG83RUJrWVJxc2JZVGJZWkpPSERwTVVQSy1LZEhJbXo2eFFsUV9NeVNlSW1yVEpsRFR0a2xza1E2M3pIbktTeWJ0MzRSY0gxX2Y4UEdFYW9XVjRkOXE4Rm15UTRnYi1LUWZVbGR0VE4zRndlQnJqbHlJVQ?oc=5
 
 
 ## Termos monitorados
