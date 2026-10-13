@@ -1,8 +1,8 @@
 # Relatório diário — Imigração e brasileiros nos EUA
 
-Gerado em: 2026-10-12 20:38 EDT
+Gerado em: 2026-10-13 02:45 EDT
 
-Arquivo original: `2026-10-12-20-38-tendencias-imigracao.md`
+Arquivo original: `2026-10-13-02-45-tendencias-imigracao.md`
 
 ## Objetivo
 
@@ -25,10 +25,10 @@ Este relatório serve como base para criação de artigos atualizados para o blo
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxOcmtmc3VDU1poSF9CajNHYm9fbnFSSlNCZHNOZlhZV2VVc2NFVFZJYjZZajNDd3ZSRlZXNjJkTWZ3cy1HVFdibV9ZUnM3OUk5MjlJUDM1QVVxNWlGVDhjQlpRa0NzbV9fRDR6QTFMVGUzRWlsSDNUSjhHTWtjTUdabjVOV2pUaVZPTmVLTjFJZl8yZk9JNkhhYVhqQ1Rld2tzR2hobTJOcmNETVJjREFuYXNzSU9FU3JPYW5XZzcxUDZ1RUp3?oc=5
 
-4. **Governo dos EUA lança operação de imigração em casa de deputada democrata**
-   - Fonte: Brasil 247
+4. **Agentes da polícia de imigração dos EUA atiram contra dominicano em Nova York**
+   - Fonte: Estadão
    - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZlVzdEl5R1ozbzlXLUdUY2Y4ZWZweU56cVdEMjItcnZxelBzMzBBNzFjX3ZJYXBvdlFEREc3YklKc1hHampnWnRidThUeV9Ec0t0bmRVMlNEX0VVWGI5U0MwdXNjN0pPVm5mSDFIX1duVVFGREtRLWloNkRMZmNzSVRVZ1Z4M0NCcEpJSUl0cEdYNjBBRmhReEpxQjhjRGktUGs0UTFNMy1Edw?oc=5
+   - Link: https://news.google.com/rss/articles/CBMiwAFBVV95cUxON20wX180VFhXVFJIMnhCWG8zQmRFYnZkdk5jTG9nTkV1SXpUenFHLUU3U2p0UHpBdnl5MkMyNjktdnBFUGRYNWg2d1AteWlxZndNLVJqZTJ6Z0xhLWhwaHlONElwYkNNcWRjU1F0eVhOTFRaZXFHem1TWmlKUnJZcUJTN0UzVFdjd29NNzVZYlZqcVhqVTdBckFfdWtTajV6eTUwSXdoSEZ2c25FMjFXZmcwNFVaMnhHN0NRWVBrRXHSAcYBQVVfeXFMTWMzYjZxZGluUlBIOHpHXzFXTUk3Q3YzemJ6cHpTeEIxX0NvMi1FMUdpVENsem5FeGpWUUpxb092aXVfUVdUN3Z6dUJFUTlyWllxTDRsbjlZLUVWTUo3UUVFdWpLVXJWNExNY25iUGNEWnpEWFRyaFJjeTdZR0pJNjIwd256cEdyNFRVVUZ1ZUJKMWtKVWQ1VTNpVnJCaEFCTXpVaWpieUtoQ2swOWo1amRWVWVPcGNzZXY5RGQ2ZUFtX0V4bVdn?oc=5
 
 5. **Grupos processam governo Trump por mudanças nas regras do green card**
    - Fonte: Gazeta Brazilian News
@@ -69,9 +69,9 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 - **Eduardo Bolsonaro teve 'green card' concedido pelo governo Trump; relembre**
   - Fonte: G1
   - Link: https://news.google.com/rss/articles/CBMiwAFBVV95cUxORmEtVDMwUHpDQTRoQ2NUM0txX2Y3dExXUEo1N2Vmd1pvWkR5VjNDUDVzWkNVV1RDYmYxOGlQSVR6a2k4dU1BSElDQWdfdmtUUUp4QkVJLUZ4NlZDbllwU2ZYTWw5a3NIT2l5MGZUVlVMekRBMHl6SWRhRTFubGFtc2l5UU8zZ3gyTTBZMzh4dXBBWHpmelIxVzlUM2dEaWd4N1pYVGZxZ0RZYlRQRGQwUm43RE5lanB3cmVHN05sUlPSAc8BQVVfeXFMTTdvSVRSbEY3bTk0Rm1NRUZpaTBMMk83Q2FsbWFYWUhfdlY4Si04ZXJnNmJBOUd6SjJDQWRpaWgza1ZhbFo4b2dyOUpIU2NMVjZ6U0dJcVEtMmhISmpVajhaQjlzbnB2WDJUMVBEU1hfZ2o4bXJqYVBTRWx5MWtBWGhfbWNMa1Z4WlZsYmlKTDJWWnRxaTlmZ25wQWUycUdZRGhXb3BkOGhxNHN1MjAyT0lsbG5NQWRuLUZ6ZS1uR0R5VklIczdKdHVOd0t0RkZR?oc=5
-- **Governo Trump suspende processos de green card da Microsoft e outras empresas de tecnologia**
-  - Fonte: Cyber Security Brazil
-  - Link: https://news.google.com/rss/articles/CBMiygFBVV95cUxNX25LYV9QS2s5NHAwemlwV0NTREdYUk5MSmxUeVE1THVmWmJ6UHU5YmlqNkp3SkgtWUpmUmJYaDFXQ2hEVVlLaXpuaHZTVEt5ZUpncnlGN1I1NkV3S2hLUzRvSjhBWVdXVjIwaXdWd3dabUhsbFl3cDR2OWZVMmpTUzJTdFo3SE53YldPZkZXQzJWWU5ycXFIbjN3cWthelkxVkZodElZdkw5N09IdjNraHQ1UTktOWIxQzQzbGxjblBJc21LcVBjd1hR?oc=5
+- **Trump suspende Microsoft de programa de green cards por suposta fraude**
+  - Fonte: CNN Brasil
+  - Link: https://news.google.com/rss/articles/CBMiyAFBVV95cUxNc2Z5QWxSbHFWcHNYY1picmR3ampJS0tLOE1tRTRmZjM5cnNHNTNsQWY5TlBMR3FVX1RTRGJva2NqV0FfVGhxWWRGN1VQcFo2dTJJYVlrVHdCVjRNbUF2RmFZM1RxMmtHcTE2VUc4WHNVU3dDUDMtS2pBMVN0OW5ldTQyM0RrNXU3TzZOenFiZmV3am5NblljN2p3T01LUzl0cnBYRTRCV1hpRmE2ZlB5T2R0VE5sNy1ocXdzNjAxTU4xLWxYbmtUbQ?oc=5
 
 ### visto americano
 
@@ -84,12 +84,12 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### brasileiros nos Estados Unidos
 
-- **Nelson de Sá: Brasil está prestes a passar os EUA como maior superpotência agrícola**
-  - Fonte: UOL Notícias
-  - Link: https://news.google.com/rss/articles/CBMizgFBVV95cUxOeFFvZHRWQWRNdlpaelRQVkNXSkRtcmlBM2pkZEItNjdiYUJyQUdqZVF4YUYxemVlX0lqdDloeFRwcm1FdVRMNFFzMnBsU1hQTVFSZm1jS0ctTm1XQ3E0SjlvRVVvNGVhWXBtVGIzMGlzTUVZcGdma1RjWlpsN3BqR2lDOGdNcG0tREx6aV8yaUYxU3hUYXBWUk5HTFF6My1mNGZ0c01yOVdJZ3poek9xanRfaWJZYkduSjJxbFVqQ0hyRXFDXzBHTnFab2Nudw?oc=5
 - **Brasileiros vão às urnas em 134 países; EUA concentram eleitores**
   - Fonte: Valor Econômico
   - Link: https://news.google.com/rss/articles/CBMizAFBVV95cUxQUlZIdzFYZ00xd21sUWU3MU9wRnVUV185NEs2Q3VsNE5PZE5uZ1JYOU15ZkMyLTZlWENnQmZwOHp4QnN1djZnbFFQLXdzSUhubEdrLXhVZ0h3aWFYUUNJaDZjamdpZmVQck11dmQ0NWlfbmh5NXFmay10OGMxZDI0RHppNUlxWnNNUG0tanFmUDVVWklPdjc5RWZoc1pWdjFRX2tEekZlNG95Y3Zzbno1V015THJxM280cjB6UWJsMEF4YW95SVZzV2NoWkbSAdsBQVVfeXFMUGZQd0lXM0FRZzZndDcwQlhWTEZ6N2tuSGN0TTJzRXBaY1htNmQ1Y2djTXhQQkdQeW9FQ2tJSmtnS3hMLVc1TFBDTU83QzRvbzMzdkdBa2FvclVtUkh5VV8wWnhVYUdXcnE5dVhOcTVZTnpkbG1FQzJNX1lyNXRvWm5FQjBJaWlKeWVGa2dwWU15V0pqcFFhR2NkU1d4LW51ZGFLblEyX0sxSHdLRDYzZG1hYzBHYnFLcHIxZTVwejRnQXE1REV6MHctQV8xMExraVB5aEwwV3ZvbjRj?oc=5
+- **Nelson de Sá: Brasil está prestes a passar os EUA como maior superpotência agrícola**
+  - Fonte: UOL Notícias
+  - Link: https://news.google.com/rss/articles/CBMizgFBVV95cUxOeFFvZHRWQWRNdlpaelRQVkNXSkRtcmlBM2pkZEItNjdiYUJyQUdqZVF4YUYxemVlX0lqdDloeFRwcm1FdVRMNFFzMnBsU1hQTVFSZm1jS0ctTm1XQ3E0SjlvRVVvNGVhWXBtVGIzMGlzTUVZcGdma1RjWlpsN3BqR2lDOGdNcG0tREx6aV8yaUYxU3hUYXBWUk5HTFF6My1mNGZ0c01yOVdJZ3poek9xanRfaWJZYkduSjJxbFVqQ0hyRXFDXzBHTnFab2Nudw?oc=5
 
 ### asilo nos EUA
 
