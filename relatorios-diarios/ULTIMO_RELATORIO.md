@@ -1,8 +1,8 @@
 # Relatório diário — Imigração e brasileiros nos EUA
 
-Gerado em: 2026-10-12 17:15 EDT
+Gerado em: 2026-10-12 20:38 EDT
 
-Arquivo original: `2026-10-12-17-15-tendencias-imigracao.md`
+Arquivo original: `2026-10-12-20-38-tendencias-imigracao.md`
 
 ## Objetivo
 
@@ -10,25 +10,25 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ## Principais assuntos do dia
 
-1. **Autoridades de imigração dos EUA fazem operação em casa de democrata Ilhan Omar**
-   - Fonte: InfoMoney
-   - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxPaFVLMHVDWC1HM1BVV0VZVjNvNE5rR2R3Mm1VblIxMnRNTnRId1U1UkxJZmNwRThvUFlDRE1vU0diLU0wUUVubGVOVW01ZFhWMTkzcFA0ZGwyLWZRNFFGc1MzTU9paGpkMFJVYkJrQ0dRMTRmR3FYbjZTd3pjSFZjeTFoeUd5ZFlLckZQMW1TbUdXeE51TE1lOWo4SlRTaFI2Y0ZhdS01eUV3LS1mZGdRdmotMlNGd9IBuwFBVV95cUxQT0tSUXlockVYczZTaEI4SERnSnZiQ2ZrN0k3V3B3REV1RDBIOUdrMFBtNGFkTjhMUUFIbG5Hc3BONFREUDNFUlZtMENoMnhuenBRM005b3VGLTg3NmJpTXFjbnZSaHJBSk54Y0dvRGp2R1hzcXh3N1N4YmhxMC1vMHQ2OG9VWW4xSHQ4amlCMXFnNlA4bDNJSFpBZXZJRFd5eWkzd3VqZ2M0U1Y1RWtqaUxWQlowS1RtSU4w?oc=5
-
-2. **Governo dos EUA lança operação de imigração em casa de deputada democrata, diz Fox News**
+1. **Governo dos EUA lança operação de imigração em casa de deputada democrata, diz Fox News**
    - Fonte: UOL Notícias
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMi6AFBVV95cUxQck5maFZTZWZEUVlGVTAyYnhNY3B2ejEyUDQzMUZwR05URU5LdWE4Q1RaNlRhSXdBUHFHMDF5VjFSaHhOTjZLa2lxai00dDJPbE9ZdWVrR3o2djdrNE83aHV1cnppQTVzVEN2dmRUQnZsU3JhWkR2MUhsTVZrUkNLVVhuS2NNYXlxMVJrVXZZQ3ZyYV9WNlE2OENtU2RhblVqUlI1aDBfbl9adFpaUDNwU1JjODBCYkNVdlV5Q3YycGVKQ0xGa1BPbE1CVHlMZGQ2dWtBd0ctYzZ5aHpkX21iOXZxLWR5QXNK?oc=5
 
-3. **ICE retoma meta de 3 mil prisões de imigrantes por dia nos EUA**
+2. **ICE retoma meta de 3 mil prisões de imigrantes por dia nos EUA**
    - Fonte: CNN Brasil
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbTlEenZxZ1JZRzFMLXc1M21CczgxdmRHNlZkazNXNnhPQ3d0OW9YZS1nVWktRXBCWU9BbHNaSFBWMlhScWtpSDd4dkt0NnhYWkZFYUxjSHhvNDZDS0dhMDhqZ0dKQmNZbzRsZi1XNnBrRC0zaXk2NWxtS0E0UjV4QThwak5mN3JQRkl2LVhxVFc3Wk5XOU9IeEZVaXVSMERZNVZQdXR6d3B2Zw?oc=5
 
-4. **Homem é baleado em Nova York dentro de carro por agentes do ICE**
+3. **Homem é baleado em Nova York dentro de carro por agentes do ICE**
    - Fonte: Agência Brasil
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxOcmtmc3VDU1poSF9CajNHYm9fbnFSSlNCZHNOZlhZV2VVc2NFVFZJYjZZajNDd3ZSRlZXNjJkTWZ3cy1HVFdibV9ZUnM3OUk5MjlJUDM1QVVxNWlGVDhjQlpRa0NzbV9fRDR6QTFMVGUzRWlsSDNUSjhHTWtjTUdabjVOV2pUaVZPTmVLTjFJZl8yZk9JNkhhYVhqQ1Rld2tzR2hobTJOcmNETVJjREFuYXNzSU9FU3JPYW5XZzcxUDZ1RUp3?oc=5
+
+4. **Governo dos EUA lança operação de imigração em casa de deputada democrata**
+   - Fonte: Brasil 247
+   - Termo monitorado: imigração EUA
+   - Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZlVzdEl5R1ozbzlXLUdUY2Y4ZWZweU56cVdEMjItcnZxelBzMzBBNzFjX3ZJYXBvdlFEREc3YklKc1hHampnWnRidThUeV9Ec0t0bmRVMlNEX0VVWGI5U0MwdXNjN0pPVm5mSDFIX1duVVFGREtRLWloNkRMZmNzSVRVZ1Z4M0NCcEpJSUl0cEdYNjBBRmhReEpxQjhjRGktUGs0UTFNMy1Edw?oc=5
 
 5. **Grupos processam governo Trump por mudanças nas regras do green card**
    - Fonte: Gazeta Brazilian News
@@ -48,12 +48,12 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### imigração EUA
 
-- **Autoridades de imigração dos EUA fazem operação em casa de democrata Ilhan Omar**
-  - Fonte: InfoMoney
-  - Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxPaFVLMHVDWC1HM1BVV0VZVjNvNE5rR2R3Mm1VblIxMnRNTnRId1U1UkxJZmNwRThvUFlDRE1vU0diLU0wUUVubGVOVW01ZFhWMTkzcFA0ZGwyLWZRNFFGc1MzTU9paGpkMFJVYkJrQ0dRMTRmR3FYbjZTd3pjSFZjeTFoeUd5ZFlLckZQMW1TbUdXeE51TE1lOWo4SlRTaFI2Y0ZhdS01eUV3LS1mZGdRdmotMlNGd9IBuwFBVV95cUxQT0tSUXlockVYczZTaEI4SERnSnZiQ2ZrN0k3V3B3REV1RDBIOUdrMFBtNGFkTjhMUUFIbG5Hc3BONFREUDNFUlZtMENoMnhuenBRM005b3VGLTg3NmJpTXFjbnZSaHJBSk54Y0dvRGp2R1hzcXh3N1N4YmhxMC1vMHQ2OG9VWW4xSHQ4amlCMXFnNlA4bDNJSFpBZXZJRFd5eWkzd3VqZ2M0U1Y1RWtqaUxWQlowS1RtSU4w?oc=5
 - **Governo dos EUA lança operação de imigração em casa de deputada democrata, diz Fox News**
   - Fonte: UOL Notícias
   - Link: https://news.google.com/rss/articles/CBMi6AFBVV95cUxQck5maFZTZWZEUVlGVTAyYnhNY3B2ejEyUDQzMUZwR05URU5LdWE4Q1RaNlRhSXdBUHFHMDF5VjFSaHhOTjZLa2lxai00dDJPbE9ZdWVrR3o2djdrNE83aHV1cnppQTVzVEN2dmRUQnZsU3JhWkR2MUhsTVZrUkNLVVhuS2NNYXlxMVJrVXZZQ3ZyYV9WNlE2OENtU2RhblVqUlI1aDBfbl9adFpaUDNwU1JjODBCYkNVdlV5Q3YycGVKQ0xGa1BPbE1CVHlMZGQ2dWtBd0ctYzZ5aHpkX21iOXZxLWR5QXNK?oc=5
+- **ICE retoma meta de 3 mil prisões de imigrantes por dia nos EUA**
+  - Fonte: CNN Brasil
+  - Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbTlEenZxZ1JZRzFMLXc1M21CczgxdmRHNlZkazNXNnhPQ3d0OW9YZS1nVWktRXBCWU9BbHNaSFBWMlhScWtpSDd4dkt0NnhYWkZFYUxjSHhvNDZDS0dhMDhqZ0dKQmNZbzRsZi1XNnBrRC0zaXk2NWxtS0E0UjV4QThwak5mN3JQRkl2LVhxVFc3Wk5XOU9IeEZVaXVSMERZNVZQdXR6d3B2Zw?oc=5
 
 ### USCIS
 
@@ -96,9 +96,9 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 - **EUA anunciam revogação de milhares de vistos de cidadãos em busca de asilo**
   - Fonte: O GLOBO
   - Link: https://news.google.com/rss/articles/CBMiygFBVV95cUxOSWMwZU9TR0FMT28xcVpiOFc2RzhZdU5sNE5MM1ZQa1F0c0RiZEM5SjJRbTc3eG1CRnFzZlc4U2QtUXRiTUhkLWx1dm1PUkVuVnZrdXdwZDZxVThZTFV4OFhMSTBWTjFWVS1tWmpXYnhSa0RtRE1JYi1iTWRQMVdJN2JqQlkzMENYUngxUl9ieEdlazNHYnUzcW53SGJZdEtPMlVJMU5NUTdyMVFzSDQwZ1VuazNqS1NLamdhT1JhQVBHMU1HUmZPNVl30gHYAUFVX3lxTE9hdTBxZEhOQVhkd2x2U2VxNmdhbkt0ZFhWY19yM0FJMGxWMGtHXzRiV0diYUJQQTY4cGlSMmlxaWFRT2lWZmh2SUs3YW5DRzNoS3JjdVFXX2F6VUV4OE9PVFZvSUVQcG0wZEN0SkNsV3JLOGNIYXJQQWltU0lzM2pKbFZJbkhsS0trX2pSUHF0eXRWYnlmUk9OdnJPUzZZZThTdXV3WnJxTGtUM25mNzZrRjZrcV93bWUwNjNBUk5NRjFvcDV5bzJ6UTg2amcxaTJfQVRwNEpZcg?oc=5
-- **Ramagem é solto nos EUA e espera resposta a pedido de asilo**
-  - Fonte: BBC
-  - Link: https://news.google.com/rss/articles/CBMiYkFVX3lxTE9EMUFBNkc3X2ZsVFVkMFAyY0JkZTE0MjZLZWlJQ2YwNk9fWk9ma3QxdFRtaE1xcWVmRDFTS1huRDZ6UGFnX3YyRzJqVWl2YzVhVmxZWnVyLTk3TE4zNnFOd1NR0gFnQVVfeXFMTlZaZVR4Mlk5SWxIS0xiWHJoc0ZvTmZhMmstNE13Yk84Yi1UYkZ1TzBPY01GS3dVOWpZYW5CbWJUclVXX1I5clFTSUQ5VER4ZXZQSEswN3pNcVVpUGhmUUV4OVJuVkRZVQ?oc=5
+- **EUA preparam revogação em massa de vistos de estrangeiros**
+  - Fonte: DW.com
+  - Link: https://news.google.com/rss/articles/CBMiygFBVV95cUxPdjFUa01aRlBvQjdGWDB2LUFMYllFdnpqVmFuYS1yd254NHB6cUY0ZUhPNDlJbzR4Sk1TY3hveG03eXlGTXFVOFJjVS1sdlRxNzVSZUsxcklGZm9sY3pHX25nQzh6S3dkODZCWl9YRjhJOGJvb3VvR3JWUURQMUlUV1hzTkN5VUR5NTJOZklmdU9GUU0wWFg0N180bTNaM1pQWFFHQi1RTWJ1SlhkVndfMXZQSjVja2U1YUMtYWg2R3NHbmpYYThmbUJR0gHKAUFVX3lxTE84Z2JzY2RRYTNUanJCMkNwSkVsZkFCNUdHRmF3UVVITUk0dHRRQXgwS1R1SXVoaHJZY2U3OTRHR0xBZW5XNDF6TXgwY1pMbjR3U3l5anVlVGdTQzFlOGwwRTB3Mi1JU3ByU1dMRmtFT2plOUEtX2FVUFlMeVBodVp3YVV6WFloX1VpaHRKVUVtUjlxWnVYOEo1RUlDN1VmU0hTSFg4a2pJUW52SjRPOTNfc1Q1ZU1Idm5scnFlSnVaTzlxdWpneDk0MGc?oc=5
 
 ### ICE immigration
 
