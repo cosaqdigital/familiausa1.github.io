@@ -1,8 +1,8 @@
 # Relatório diário — Imigração e brasileiros nos EUA
 
-Gerado em: 2026-10-13 15:16 EDT
+Gerado em: 2026-10-13 18:43 EDT
 
-Arquivo original: `2026-10-13-15-16-tendencias-imigracao.md`
+Arquivo original: `2026-10-13-18-43-tendencias-imigracao.md`
 
 ## Objetivo
 
@@ -10,25 +10,25 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ## Principais assuntos do dia
 
-1. **Taxas de imigração sobem nos EUA a partir de 16 de outubro**
+1. **Operação anti-imigração em residência de deputada democrata vira tema na reta final das eleições legislativas nos EUA**
+   - Fonte: O GLOBO
+   - Termo monitorado: imigração EUA
+   - Link: https://news.google.com/rss/articles/CBMi_AFBVV95cUxPUzREeS1GbGZyUUx6SG1DemY4bGlCcnFSUHpTUGkxT0xfZEhOVjNhcFpPWHVzRUZrenhCRGZ6dlgtVlVGQXc2MTR3anFmaUI0MzZuM3IzR0REOTRobEVIYk1uZDhrWEdnckl0djdpZ3J5c1hkdHZzbExLZE1aUlJUNnRsWkhfT09fVmRzSDItdW1HNEllZ0FJVU10RThCLU1BcUI5Z19hMmJ0YWlZdzhoQTlWNWJJN2RPa1g4XzAyazFQMUZFaG52NkpXQ3F6UEtaMzRxVDBfazRwOVBEZ1lHbkZHRjQxWGRFUDNyVUZfX3NMUXo2NGZ4bzQxalXSAYsCQVVfeXFMT0hFX2dRZjhvaDZwaV9XWTVKLThWTHJBejYweEpFdjkyUjJXbkJhbTJ4MEkySWpDVDlCMmY4US05d3VUa0Q5dmtvd21TSFFkUzFuUFRhNTFCdzJDdHBRZERIc3E1dkJ5Ni1SeTlFbkNDOG5SUjM4R1g3Z0tMNm51M2l2MElnU2Jtem9zUVR2SlhBVnRfNTAxdHZ3NlNrS2k4U0x4TkJNRWk3WUhnVkFJS2RkdV8yTGhvbUlESkFnMl9Wb2h1VUR5UVc3ZGVoZHc3X2R4QkpQV2NRZ1hnT254T29PYXBhZXBjQVplQ2FEZ3hFMFlUcnFHZUxNVU1JLWhuTFlJNTZIX19kM3NF?oc=5
+
+2. **6 em cada 10 imigrantes brasileiros detidos nos EUA pelo ICE são deportados**
+   - Fonte: Folha de S.Paulo
+   - Termo monitorado: imigração EUA
+   - Link: https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSktGcEdYbmZ6SUUzOHRSdWNOazg0VUZTRGFlTUFGSDEtd1NEQkg2WGJHek1ib1pNUWE3R29GYXV6ODNZZnJpQ3J6R0F6QU9LWTlCTktUc016eS1IcV9BeG15andyOEpnTEh5WGtsakpGbTllZmN2MGpsOTJVcUFXQ2Q5S19ZWkYwMDFodldaT0RhMWpfczZZUlhfa0FDd0Rtbm16WG5BTWxwb3dpbjZpOEsxUVoxdHljYlJ2OG1pOTRMODQ?oc=5
+
+3. **Taxas de imigração sobem nos EUA a partir de 16 de outubro**
    - Fonte: AcheiUSA
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMioAFBVV95cUxQQlJlYUo2NFlpS2JUQjFacE9MSllUV3FGSFlfaWMxbG55NXZxdHpxVkt3VjVMbjhvU09QcW1sVGVzeGxZMGFUMEVwN3kwV0ZMOERKRGlTNEtkRUdiOHdJX201Z1hBSjJtdWF3MjFqZ3M1VDQxVVhrVm92bGxLdE5JVkRON0hXd0VmU0s3Z1dDZTFEc0dpaGFFZ3VMLWd6YnFF?oc=5
 
-2. **ICE retoma meta de 3 mil prisões de imigrantes por dia nos EUA**
+4. **ICE retoma meta de 3 mil prisões de imigrantes por dia nos EUA**
    - Fonte: CNN Brasil
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbTlEenZxZ1JZRzFMLXc1M21CczgxdmRHNlZkazNXNnhPQ3d0OW9YZS1nVWktRXBCWU9BbHNaSFBWMlhScWtpSDd4dkt0NnhYWkZFYUxjSHhvNDZDS0dhMDhqZ0dKQmNZbzRsZi1XNnBrRC0zaXk2NWxtS0E0UjV4QThwak5mN3JQRkl2LVhxVFc3Wk5XOU9IeEZVaXVSMERZNVZQdXR6d3B2Zw?oc=5
-
-3. **Homem é baleado em Nova York dentro de carro por agentes do ICE**
-   - Fonte: Agência Brasil
-   - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxOcmtmc3VDU1poSF9CajNHYm9fbnFSSlNCZHNOZlhZV2VVc2NFVFZJYjZZajNDd3ZSRlZXNjJkTWZ3cy1HVFdibV9ZUnM3OUk5MjlJUDM1QVVxNWlGVDhjQlpRa0NzbV9fRDR6QTFMVGUzRWlsSDNUSjhHTWtjTUdabjVOV2pUaVZPTmVLTjFJZl8yZk9JNkhhYVhqQ1Rld2tzR2hobTJOcmNETVJjREFuYXNzSU9FU3JPYW5XZzcxUDZ1RUp3?oc=5
-
-4. **Governo Trump faz operação de imigração em casa da deputada democrata**
-   - Fonte: Valor Econômico
-   - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQVMtWE93NVNIVFNaWHB2ZlFNSUpnXzg0RjJsbzJJS1NzUEZzM0ZyM1d1R1VOVWtrMks2THVHWllaLXJ6ZGhwMkNhRVRUOHNzU1A5Y1YtY2hGRlVzOVhVWFZINWkxUENhYjJ4R281VXZqRmFKanRFQXphb3ZReGRmcm5oY3o4ek5nRUFmX2lDTHpmY0VHY0VSSGllcGwwdlZmN0JaV3NOSS1TVnJoRGd1aXMwcXpkZ2Y3VGpFajJSbHBBd9IB0AFBVV95cUxNTXNoVk53ZzE3bUxZZmNNOXM2V3Y5Szk0RUZLYk5FN0JpVDdnUldGS21CVEQ4YmRERGxHSzlVd29TWl9FaEFlM3pqSkpITTh4QURpX2hKQUxBVTAzOUNuSEx0VllkQVc0VkpXME94MFduSDRXMVRIMEItWTV4VjNIVHlvT0dKZUszSWtmQndTc3lTTVc0a19PMHZEUEcxenM0VmlOWjJpLUEwM29XdmJuaHV5SUJSWTE1YXFVbDlUUDlXM3ZxenpUU3p6SUNXMVpN?oc=5
 
 5. **Grupos processam governo Trump por mudanças nas regras do green card**
    - Fonte: Gazeta Brazilian News
@@ -48,12 +48,12 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### imigração EUA
 
-- **Taxas de imigração sobem nos EUA a partir de 16 de outubro**
-  - Fonte: AcheiUSA
-  - Link: https://news.google.com/rss/articles/CBMioAFBVV95cUxQQlJlYUo2NFlpS2JUQjFacE9MSllUV3FGSFlfaWMxbG55NXZxdHpxVkt3VjVMbjhvU09QcW1sVGVzeGxZMGFUMEVwN3kwV0ZMOERKRGlTNEtkRUdiOHdJX201Z1hBSjJtdWF3MjFqZ3M1VDQxVVhrVm92bGxLdE5JVkRON0hXd0VmU0s3Z1dDZTFEc0dpaGFFZ3VMLWd6YnFF?oc=5
-- **ICE retoma meta de 3 mil prisões de imigrantes por dia nos EUA**
-  - Fonte: CNN Brasil
-  - Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbTlEenZxZ1JZRzFMLXc1M21CczgxdmRHNlZkazNXNnhPQ3d0OW9YZS1nVWktRXBCWU9BbHNaSFBWMlhScWtpSDd4dkt0NnhYWkZFYUxjSHhvNDZDS0dhMDhqZ0dKQmNZbzRsZi1XNnBrRC0zaXk2NWxtS0E0UjV4QThwak5mN3JQRkl2LVhxVFc3Wk5XOU9IeEZVaXVSMERZNVZQdXR6d3B2Zw?oc=5
+- **Operação anti-imigração em residência de deputada democrata vira tema na reta final das eleições legislativas nos EUA**
+  - Fonte: O GLOBO
+  - Link: https://news.google.com/rss/articles/CBMi_AFBVV95cUxPUzREeS1GbGZyUUx6SG1DemY4bGlCcnFSUHpTUGkxT0xfZEhOVjNhcFpPWHVzRUZrenhCRGZ6dlgtVlVGQXc2MTR3anFmaUI0MzZuM3IzR0REOTRobEVIYk1uZDhrWEdnckl0djdpZ3J5c1hkdHZzbExLZE1aUlJUNnRsWkhfT09fVmRzSDItdW1HNEllZ0FJVU10RThCLU1BcUI5Z19hMmJ0YWlZdzhoQTlWNWJJN2RPa1g4XzAyazFQMUZFaG52NkpXQ3F6UEtaMzRxVDBfazRwOVBEZ1lHbkZHRjQxWGRFUDNyVUZfX3NMUXo2NGZ4bzQxalXSAYsCQVVfeXFMT0hFX2dRZjhvaDZwaV9XWTVKLThWTHJBejYweEpFdjkyUjJXbkJhbTJ4MEkySWpDVDlCMmY4US05d3VUa0Q5dmtvd21TSFFkUzFuUFRhNTFCdzJDdHBRZERIc3E1dkJ5Ni1SeTlFbkNDOG5SUjM4R1g3Z0tMNm51M2l2MElnU2Jtem9zUVR2SlhBVnRfNTAxdHZ3NlNrS2k4U0x4TkJNRWk3WUhnVkFJS2RkdV8yTGhvbUlESkFnMl9Wb2h1VUR5UVc3ZGVoZHc3X2R4QkpQV2NRZ1hnT254T29PYXBhZXBjQVplQ2FEZ3hFMFlUcnFHZUxNVU1JLWhuTFlJNTZIX19kM3NF?oc=5
+- **6 em cada 10 imigrantes brasileiros detidos nos EUA pelo ICE são deportados**
+  - Fonte: Folha de S.Paulo
+  - Link: https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSktGcEdYbmZ6SUUzOHRSdWNOazg0VUZTRGFlTUFGSDEtd1NEQkg2WGJHek1ib1pNUWE3R29GYXV6ODNZZnJpQ3J6R0F6QU9LWTlCTktUc016eS1IcV9BeG15andyOEpnTEh5WGtsakpGbTllZmN2MGpsOTJVcUFXQ2Q5S19ZWkYwMDFodldaT0RhMWpfczZZUlhfa0FDd0Rtbm16WG5BTWxwb3dpbjZpOEsxUVoxdHljYlJ2OG1pOTRMODQ?oc=5
 
 ### USCIS
 
@@ -78,18 +78,18 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 - **Embaixada e consulados dos EUA passam a limitar reagendamento de vistos no Brasil**
   - Fonte: Panrotas
   - Link: https://news.google.com/rss/articles/CBMizAFBVV95cUxPRk9xcjRKVU9VenFBcGMxaFNHWWl3UFJwSjdyT0tqVHNuNXhZOUpkMmJaLTBlbEY0VC05NmZsZl80b2xkNXh5NUFBYkU4ZkdSTlhHR2FIQ0pWcHIyLURHdnRzWUpDeGtVMG9yeUotb0p4TG5aLVBLYml6YV9RXzlRYkt4Mm53WmVxQjlyaFJEXzVyRDFuN0JsUmxqX3RLOGl3Umc3SjhTYkE0dHRQNzFEU3RfVF9lUVZ1MzNpM0FTbENvUFpWU2hsOFlraGk?oc=5
-- **O que muda com suspensão de entrevistas para vistos dos EUA**
-  - Fonte: DW.com
-  - Link: https://news.google.com/rss/articles/CBMiogFBVV95cUxNWExnY0ZuNjU3X19taW90c0FCNXMyaS1QVEJ5dmdicGlCUXdjSmxsVkM0QjEtOE5yYUV3MmxycExlODg0S3hoLUxUUnJDN2NJVjVxc2cyZjBXcVZvZzlzOC1Oa3hsR21odWNja1lpU3Z3OWRuSE1JZkY2MWxYbWhxNnBjVmUwY0c0ZHlkMVRiYU9nOURqUldFWXJOWEJMXzFoUnfSAaIBQVVfeXFMTkIxdkc1WjgyZmRtNFJMV3RvQzJVeG9lb3RfcmJHdTRBRjNGQm5JNFljcUt2ZWItUGtCakZKT1B5emZhdE1IelZEb3ZKRFZZWUFSd1dQQkhKTmVTVTV5NTNLRDExZ2JIZmRBbGg0N0NLRi1naXJXbmFNSjJBZzdkbjQtd1RxUGhFUXBzX0RYUnRsejJscE5aS0JtOXFMc1R1VWRB?oc=5
+- **Brasileiros podem ter que pagar nova taxa ao remarcar entrevista para visto americano**
+  - Fonte: AcheiUSA
+  - Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxPalhDTnh2M3hIRjh0bmwxN21RbGtPQ2FMU29ROHlVWjBzN3lPNnFLWWhEeVdaSGZLYXFBVDJRdmN4M1k3XzhybEZwcWE5T3RVSHFobTAteDB3UDlOX0M4NnNHTk00eHVYR3pnUjlRRVZYd3Y0MmxQZFNESUFtM184S1lfREVza3N5T3J1czVqa3BENEt2MEdpaWZkWE83QWdhQTYtUHAxSzZULVZ2b2ZrSzF6bmltdEk0ZndrMmJZRWU3M08t?oc=5
 
 ### brasileiros nos Estados Unidos
 
-- **Brasileiros vão às urnas em 134 países; EUA concentram eleitores**
-  - Fonte: Valor Econômico
-  - Link: https://news.google.com/rss/articles/CBMizAFBVV95cUxQUlZIdzFYZ00xd21sUWU3MU9wRnVUV185NEs2Q3VsNE5PZE5uZ1JYOU15ZkMyLTZlWENnQmZwOHp4QnN1djZnbFFQLXdzSUhubEdrLXhVZ0h3aWFYUUNJaDZjamdpZmVQck11dmQ0NWlfbmh5NXFmay10OGMxZDI0RHppNUlxWnNNUG0tanFmUDVVWklPdjc5RWZoc1pWdjFRX2tEekZlNG95Y3Zzbno1V015THJxM280cjB6UWJsMEF4YW95SVZzV2NoWkbSAdsBQVVfeXFMUGZQd0lXM0FRZzZndDcwQlhWTEZ6N2tuSGN0TTJzRXBaY1htNmQ1Y2djTXhQQkdQeW9FQ2tJSmtnS3hMLVc1TFBDTU83QzRvbzMzdkdBa2FvclVtUkh5VV8wWnhVYUdXcnE5dVhOcTVZTnpkbG1FQzJNX1lyNXRvWm5FQjBJaWlKeWVGa2dwWU15V0pqcFFhR2NkU1d4LW51ZGFLblEyX0sxSHdLRDYzZG1hYzBHYnFLcHIxZTVwejRnQXE1REV6MHctQV8xMExraVB5aEwwV3ZvbjRj?oc=5
-- **Apenas 13% dos brasileiros que vivem nos EUA estão registrados para votar**
-  - Fonte: CNN Brasil
-  - Link: https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNkFiTkoyZjlkNW4ydkdwRGM1M0tfUDFHVTlEdG8zbWRUX0Q1VTk1eWFUNGNoVDNMTXQtcFZjYTVhNWRCNkNJdDg5OUttWUNYMzQ1RS1uVFp0TjVtWk5GVG94LWZTTTQ2UDIwLUJydlhpcVh1c2FzVXE2c2VKdUtic2xqYWwyZ0FrTXVvcGk1RW1CNEtYSTFwMDN6T21YcUw4bVJodUVHdGwyQTNoYS1iM3RJSl9saUhfTXVuN3I1X2ROazJYeE5NMGVtQjlRaFM3VC1McQ?oc=5
+- **Lula defende Sul Global; Flávio quer proximidade com EUA e Israel**
+  - Fonte: Agência Brasil
+  - Link: https://news.google.com/rss/articles/CBMixgFBVV95cUxOT0ZvTXIteXBBOEZBNUctVkptUWlnNEhPN0R0cG9OV0x4aV9vcGFtdjI2aTh1Z3FyS1VIdms0d1NNQjVBSTRzTEhQSW5kTWoxQUNyYi1sdTZkOERCZXlpekhfa2hpSzdkdzRtZzBRd2FfR1VuRnhUT2htMnhxSE4xdWhDVGN0Q2JkZktkVTdLTFlvQzgwN2JYUnVTSVBsRFdpamZzRF91QzhIYUtsTzdSVmNyNmRXanRfS0VWb3pvTk9OUGtjT2c?oc=5
+- **Alinhamento com Trump não garante vantagens comerciais ao Brasil, diz especialista**
+  - Fonte: Canal Rural
+  - Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxOM2VGTXhXS1pKZUpTTlRuYVlsYzZkRElydHlLYzZJajhsX3ZybTYxV2JLZm5ZMG41QVlXUVV6OHNFeFR4c0pieHZWV3dqUnZ5RFhMN1Y4aUNGUVpZWnF2WU55S3Vmak9PSVNQZ21ERDlOakNsbUlpWERET0NhVzMxZUNqTVBDS2hLbzh5eWVsb0lOT0V5ejZvTm1welpsTEE4Rk9CRFFaM01TOTZIRDljZ3k0cEIyNjc4YTFPNzg0SkJUUEFJ?oc=5
 
 ### asilo nos EUA
 
@@ -102,12 +102,12 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### ICE immigration
 
-- **Polícia Civil de Santa Catarina, em cooperação como ICE, prende foragido da Justiça brasileira em Orlando, nos EUA**
+- **Polícia Civil de Santa Catarina, em cooperação com o ICE, prende foragido da Justiça brasileira em Orlando, nos EUA**
   - Fonte: Polícia Civil de Santa Catarina
   - Link: https://news.google.com/rss/articles/CBMiQ0FVX3lxTE93VDJmeTk1LUFsYTJqOEZTM1FZcmJmSXB5UEdnNzB3SklGcUtzMGFXYjRmZzVCZjhLS3k1Z1NMZXktVjg?oc=5
-- **Homem é baleado por agente do ICE em Nova York dentro de carro com criança**
+- **Brasileiro que estava legalmente nos EUA é preso acusado de dirigir bêbado, entregue ao ICE e levado para prisão de imigrantes ilegais**
   - Fonte: G1
-  - Link: https://news.google.com/rss/articles/CBMimAFBVV95cUxNem44el8xekFjc3NUb0JlWlQ5cmkybHk4RHhPejhacHJKdzNZdngxOWkwX1BlNGpMZkd6dTdZdjR3VU1nbkJRN21NUGU0ZWF1RUZwcTFVcE9ZTV9IZVlpVHZ4aTU5bUVnTnRNdHdYbUp2QnhSU1JTSVN2cG5DTFNsWnBFdUNENG15RTdhVllGMTdzdVZkMXlJONIBpwFBVV95cUxOMDkwYV9NN1c1M3hWZk16d25tdEhQV01maG1zVGF0TkpTMzRWejd5Nm5ZUlczcG83RUJrWVJxc2JZVGJZWkpPSERwTVVQSy1LZEhJbXo2eFFsUV9NeVNlSW1yVEpsRFR0a2xza1E2M3pIbktTeWJ0MzRSY0gxX2Y4UEdFYW9XVjRkOXE4Rm15UTRnYi1LUWZVbGR0VE4zRndlQnJqbHlJVQ?oc=5
+  - Link: https://news.google.com/rss/articles/CBMinAJBVV95cUxQYThGdkl6RVI1NTFiZXNnR2xxcVk0V3dhQmlPRzZ5ZDgxei1tdGNiaER3UXpZUU95bTVoVEFTNVVYQ0VBbmdIYWdhVlJxZUF3bVZGclh3bDhJVjVmLTE3VWJDNWYwZWpKc0lXaXpsVXRXMk90VXN6VTFnTW9Bb1RGY2xqellPZzd5ekN0U29qbElRRHZMS0pRTEg3cl9FV1l1b1pmX0xLVGtsc3huYm1CalprVURXNWVJODNVS3JVSG84U09MYXVPajYweGlwb2xvdnlkT0hDMmZEcHJ6LUNaR2ppMnRQSS05WmN5TnFZYk40eFg1dC1GU0w4djdBRi1OREZheWotYkZRUXYyNGx2WnRUUEZwVWdGUkJraNIBqwJBVV95cUxORGRaVGVyekxwNWhxRkt4aFh2M3lxNEVTUTZnellnb2I5eEVBSzluSnRqVzdJRWlnaS14WS1QTktRNmNDal92MEZ2SHNjQVdxcllOQkllWnFvaEt3dVE5UEJ3NkpTSWY2WHdNWTN3dlI1aTRieW95SnA1eWpzZHFvZ0xaWkZIb0RuYlF1V1hmbk9MWThtZ0lqVXRERmRMUFBmYU8wak85ZXVIWndDZW9XdmlIaHpFZTBwVjBpQ3RqUW1BSjJRYWlYS0RzNlVkRWpJd1NkdWoxY0p5UU50ZlhCS1hFczlka3N5aTB4ZGxSdlZUalFGTjJ4c1VLODRGYnRTNHQxVWk3Q1VKTFFfTEZLNHRSMldybkltNTgxaXRRWENPMzl1SEhpaXU3aw?oc=5
 
 
 ## Termos monitorados
