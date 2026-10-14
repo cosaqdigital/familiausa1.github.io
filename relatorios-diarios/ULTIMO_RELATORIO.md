@@ -1,8 +1,8 @@
 # Relatório diário — Imigração e brasileiros nos EUA
 
-Gerado em: 2026-10-13 18:43 EDT
+Gerado em: 2026-10-14 00:49 EDT
 
-Arquivo original: `2026-10-13-18-43-tendencias-imigracao.md`
+Arquivo original: `2026-10-14-00-49-tendencias-imigracao.md`
 
 ## Objetivo
 
@@ -10,25 +10,25 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ## Principais assuntos do dia
 
-1. **Operação anti-imigração em residência de deputada democrata vira tema na reta final das eleições legislativas nos EUA**
-   - Fonte: O GLOBO
-   - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMi_AFBVV95cUxPUzREeS1GbGZyUUx6SG1DemY4bGlCcnFSUHpTUGkxT0xfZEhOVjNhcFpPWHVzRUZrenhCRGZ6dlgtVlVGQXc2MTR3anFmaUI0MzZuM3IzR0REOTRobEVIYk1uZDhrWEdnckl0djdpZ3J5c1hkdHZzbExLZE1aUlJUNnRsWkhfT09fVmRzSDItdW1HNEllZ0FJVU10RThCLU1BcUI5Z19hMmJ0YWlZdzhoQTlWNWJJN2RPa1g4XzAyazFQMUZFaG52NkpXQ3F6UEtaMzRxVDBfazRwOVBEZ1lHbkZHRjQxWGRFUDNyVUZfX3NMUXo2NGZ4bzQxalXSAYsCQVVfeXFMT0hFX2dRZjhvaDZwaV9XWTVKLThWTHJBejYweEpFdjkyUjJXbkJhbTJ4MEkySWpDVDlCMmY4US05d3VUa0Q5dmtvd21TSFFkUzFuUFRhNTFCdzJDdHBRZERIc3E1dkJ5Ni1SeTlFbkNDOG5SUjM4R1g3Z0tMNm51M2l2MElnU2Jtem9zUVR2SlhBVnRfNTAxdHZ3NlNrS2k4U0x4TkJNRWk3WUhnVkFJS2RkdV8yTGhvbUlESkFnMl9Wb2h1VUR5UVc3ZGVoZHc3X2R4QkpQV2NRZ1hnT254T29PYXBhZXBjQVplQ2FEZ3hFMFlUcnFHZUxNVU1JLWhuTFlJNTZIX19kM3NF?oc=5
-
-2. **6 em cada 10 imigrantes brasileiros detidos nos EUA pelo ICE são deportados**
+1. **6 em cada 10 imigrantes brasileiros detidos nos EUA pelo ICE são deportados**
    - Fonte: Folha de S.Paulo
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSktGcEdYbmZ6SUUzOHRSdWNOazg0VUZTRGFlTUFGSDEtd1NEQkg2WGJHek1ib1pNUWE3R29GYXV6ODNZZnJpQ3J6R0F6QU9LWTlCTktUc016eS1IcV9BeG15andyOEpnTEh5WGtsakpGbTllZmN2MGpsOTJVcUFXQ2Q5S19ZWkYwMDFodldaT0RhMWpfczZZUlhfa0FDd0Rtbm16WG5BTWxwb3dpbjZpOEsxUVoxdHljYlJ2OG1pOTRMODQ?oc=5
 
-3. **Taxas de imigração sobem nos EUA a partir de 16 de outubro**
+2. **Taxas de imigração sobem nos EUA a partir de 16 de outubro**
    - Fonte: AcheiUSA
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMioAFBVV95cUxQQlJlYUo2NFlpS2JUQjFacE9MSllUV3FGSFlfaWMxbG55NXZxdHpxVkt3VjVMbjhvU09QcW1sVGVzeGxZMGFUMEVwN3kwV0ZMOERKRGlTNEtkRUdiOHdJX201Z1hBSjJtdWF3MjFqZ3M1VDQxVVhrVm92bGxLdE5JVkRON0hXd0VmU0s3Z1dDZTFEc0dpaGFFZ3VMLWd6YnFF?oc=5
 
-4. **ICE retoma meta de 3 mil prisões de imigrantes por dia nos EUA**
+3. **Autoridades de imigração dos EUA fazem operação em casa de democrata Ilhan Omar**
+   - Fonte: InfoMoney
+   - Termo monitorado: imigração EUA
+   - Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxPaFVLMHVDWC1HM1BVV0VZVjNvNE5rR2R3Mm1VblIxMnRNTnRId1U1UkxJZmNwRThvUFlDRE1vU0diLU0wUUVubGVOVW01ZFhWMTkzcFA0ZGwyLWZRNFFGc1MzTU9paGpkMFJVYkJrQ0dRMTRmR3FYbjZTd3pjSFZjeTFoeUd5ZFlLckZQMW1TbUdXeE51TE1lOWo4SlRTaFI2Y0ZhdS01eUV3LS1mZGdRdmotMlNGd9IBuwFBVV95cUxQT0tSUXlockVYczZTaEI4SERnSnZiQ2ZrN0k3V3B3REV1RDBIOUdrMFBtNGFkTjhMUUFIbG5Hc3BONFREUDNFUlZtMENoMnhuenBRM005b3VGLTg3NmJpTXFjbnZSaHJBSk54Y0dvRGp2R1hzcXh3N1N4YmhxMC1vMHQ2OG9VWW4xSHQ4amlCMXFnNlA4bDNJSFpBZXZJRFd5eWkzd3VqZ2M0U1Y1RWtqaUxWQlowS1RtSU4w?oc=5
+
+4. **Tudo sobre ICE (Agência de Imigração dos EUA)**
    - Fonte: CNN Brasil
    - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbTlEenZxZ1JZRzFMLXc1M21CczgxdmRHNlZkazNXNnhPQ3d0OW9YZS1nVWktRXBCWU9BbHNaSFBWMlhScWtpSDd4dkt0NnhYWkZFYUxjSHhvNDZDS0dhMDhqZ0dKQmNZbzRsZi1XNnBrRC0zaXk2NWxtS0E0UjV4QThwak5mN3JQRkl2LVhxVFc3Wk5XOU9IeEZVaXVSMERZNVZQdXR6d3B2Zw?oc=5
+   - Link: https://news.google.com/rss/articles/CBMiigFBVV95cUxQelJZaHJ1eGRsZVNFZU5TSWtoVU1ncy1XMllzUmFhU3F4dVlUT0YzZDVMc2tWdVZncHhwaDZKNFhMenByN3ZpNWVfazVrNExJeThjUlo1UW9VYnVjVnR4djBlYjljWUJVRFkxVVdGeWlKR2N0N2VTdXhFbWhEajhxdVZKV20xem9mRHc?oc=5
 
 5. **Grupos processam governo Trump por mudanças nas regras do green card**
    - Fonte: Gazeta Brazilian News
@@ -48,12 +48,12 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### imigração EUA
 
-- **Operação anti-imigração em residência de deputada democrata vira tema na reta final das eleições legislativas nos EUA**
-  - Fonte: O GLOBO
-  - Link: https://news.google.com/rss/articles/CBMi_AFBVV95cUxPUzREeS1GbGZyUUx6SG1DemY4bGlCcnFSUHpTUGkxT0xfZEhOVjNhcFpPWHVzRUZrenhCRGZ6dlgtVlVGQXc2MTR3anFmaUI0MzZuM3IzR0REOTRobEVIYk1uZDhrWEdnckl0djdpZ3J5c1hkdHZzbExLZE1aUlJUNnRsWkhfT09fVmRzSDItdW1HNEllZ0FJVU10RThCLU1BcUI5Z19hMmJ0YWlZdzhoQTlWNWJJN2RPa1g4XzAyazFQMUZFaG52NkpXQ3F6UEtaMzRxVDBfazRwOVBEZ1lHbkZHRjQxWGRFUDNyVUZfX3NMUXo2NGZ4bzQxalXSAYsCQVVfeXFMT0hFX2dRZjhvaDZwaV9XWTVKLThWTHJBejYweEpFdjkyUjJXbkJhbTJ4MEkySWpDVDlCMmY4US05d3VUa0Q5dmtvd21TSFFkUzFuUFRhNTFCdzJDdHBRZERIc3E1dkJ5Ni1SeTlFbkNDOG5SUjM4R1g3Z0tMNm51M2l2MElnU2Jtem9zUVR2SlhBVnRfNTAxdHZ3NlNrS2k4U0x4TkJNRWk3WUhnVkFJS2RkdV8yTGhvbUlESkFnMl9Wb2h1VUR5UVc3ZGVoZHc3X2R4QkpQV2NRZ1hnT254T29PYXBhZXBjQVplQ2FEZ3hFMFlUcnFHZUxNVU1JLWhuTFlJNTZIX19kM3NF?oc=5
 - **6 em cada 10 imigrantes brasileiros detidos nos EUA pelo ICE são deportados**
   - Fonte: Folha de S.Paulo
   - Link: https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSktGcEdYbmZ6SUUzOHRSdWNOazg0VUZTRGFlTUFGSDEtd1NEQkg2WGJHek1ib1pNUWE3R29GYXV6ODNZZnJpQ3J6R0F6QU9LWTlCTktUc016eS1IcV9BeG15andyOEpnTEh5WGtsakpGbTllZmN2MGpsOTJVcUFXQ2Q5S19ZWkYwMDFodldaT0RhMWpfczZZUlhfa0FDd0Rtbm16WG5BTWxwb3dpbjZpOEsxUVoxdHljYlJ2OG1pOTRMODQ?oc=5
+- **Taxas de imigração sobem nos EUA a partir de 16 de outubro**
+  - Fonte: AcheiUSA
+  - Link: https://news.google.com/rss/articles/CBMioAFBVV95cUxQQlJlYUo2NFlpS2JUQjFacE9MSllUV3FGSFlfaWMxbG55NXZxdHpxVkt3VjVMbjhvU09QcW1sVGVzeGxZMGFUMEVwN3kwV0ZMOERKRGlTNEtkRUdiOHdJX201Z1hBSjJtdWF3MjFqZ3M1VDQxVVhrVm92bGxLdE5JVkRON0hXd0VmU0s3Z1dDZTFEc0dpaGFFZ3VMLWd6YnFF?oc=5
 
 ### USCIS
 
@@ -105,7 +105,7 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 - **Polícia Civil de Santa Catarina, em cooperação com o ICE, prende foragido da Justiça brasileira em Orlando, nos EUA**
   - Fonte: Polícia Civil de Santa Catarina
   - Link: https://news.google.com/rss/articles/CBMiQ0FVX3lxTE93VDJmeTk1LUFsYTJqOEZTM1FZcmJmSXB5UEdnNzB3SklGcUtzMGFXYjRmZzVCZjhLS3k1Z1NMZXktVjg?oc=5
-- **Brasileiro que estava legalmente nos EUA é preso acusado de dirigir bêbado, entregue ao ICE e levado para prisão de imigrantes ilegais**
+- **Executivo de SP que está legalmente nos EUA é preso acusado de dirigir bêbado, entregue ao ICE e levado para prisão de imigrantes ilegais**
   - Fonte: G1
   - Link: https://news.google.com/rss/articles/CBMinAJBVV95cUxQYThGdkl6RVI1NTFiZXNnR2xxcVk0V3dhQmlPRzZ5ZDgxei1tdGNiaER3UXpZUU95bTVoVEFTNVVYQ0VBbmdIYWdhVlJxZUF3bVZGclh3bDhJVjVmLTE3VWJDNWYwZWpKc0lXaXpsVXRXMk90VXN6VTFnTW9Bb1RGY2xqellPZzd5ekN0U29qbElRRHZMS0pRTEg3cl9FV1l1b1pmX0xLVGtsc3huYm1CalprVURXNWVJODNVS3JVSG84U09MYXVPajYweGlwb2xvdnlkT0hDMmZEcHJ6LUNaR2ppMnRQSS05WmN5TnFZYk40eFg1dC1GU0w4djdBRi1OREZheWotYkZRUXYyNGx2WnRUUEZwVWdGUkJraNIBqwJBVV95cUxORGRaVGVyekxwNWhxRkt4aFh2M3lxNEVTUTZnellnb2I5eEVBSzluSnRqVzdJRWlnaS14WS1QTktRNmNDal92MEZ2SHNjQVdxcllOQkllWnFvaEt3dVE5UEJ3NkpTSWY2WHdNWTN3dlI1aTRieW95SnA1eWpzZHFvZ0xaWkZIb0RuYlF1V1hmbk9MWThtZ0lqVXRERmRMUFBmYU8wak85ZXVIWndDZW9XdmlIaHpFZTBwVjBpQ3RqUW1BSjJRYWlYS0RzNlVkRWpJd1NkdWoxY0p5UU50ZlhCS1hFczlka3N5aTB4ZGxSdlZUalFGTjJ4c1VLODRGYnRTNHQxVWk3Q1VKTFFfTEZLNHRSMldybkltNTgxaXRRWENPMzl1SEhpaXU3aw?oc=5
 
