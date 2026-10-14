@@ -1,8 +1,8 @@
 # Relatório diário — Imigração e brasileiros nos EUA
 
-Gerado em: 2026-10-14 13:09 EDT
+Gerado em: 2026-10-14 17:39 EDT
 
-Arquivo original: `2026-10-14-13-09-tendencias-imigracao.md`
+Arquivo original: `2026-10-14-17-39-tendencias-imigracao.md`
 
 ## Objetivo
 
@@ -10,25 +10,25 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ## Principais assuntos do dia
 
-1. **Operação anti-imigração em residência de deputada democrata vira tema na reta final das eleições legislativas nos EUA**
-   - Fonte: O GLOBO
-   - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMi_AFBVV95cUxPUzREeS1GbGZyUUx6SG1DemY4bGlCcnFSUHpTUGkxT0xfZEhOVjNhcFpPWHVzRUZrenhCRGZ6dlgtVlVGQXc2MTR3anFmaUI0MzZuM3IzR0REOTRobEVIYk1uZDhrWEdnckl0djdpZ3J5c1hkdHZzbExLZE1aUlJUNnRsWkhfT09fVmRzSDItdW1HNEllZ0FJVU10RThCLU1BcUI5Z19hMmJ0YWlZdzhoQTlWNWJJN2RPa1g4XzAyazFQMUZFaG52NkpXQ3F6UEtaMzRxVDBfazRwOVBEZ1lHbkZHRjQxWGRFUDNyVUZfX3NMUXo2NGZ4bzQxalXSAYsCQVVfeXFMT0hFX2dRZjhvaDZwaV9XWTVKLThWTHJBejYweEpFdjkyUjJXbkJhbTJ4MEkySWpDVDlCMmY4US05d3VUa0Q5dmtvd21TSFFkUzFuUFRhNTFCdzJDdHBRZERIc3E1dkJ5Ni1SeTlFbkNDOG5SUjM4R1g3Z0tMNm51M2l2MElnU2Jtem9zUVR2SlhBVnRfNTAxdHZ3NlNrS2k4U0x4TkJNRWk3WUhnVkFJS2RkdV8yTGhvbUlESkFnMl9Wb2h1VUR5UVc3ZGVoZHc3X2R4QkpQV2NRZ1hnT254T29PYXBhZXBjQVplQ2FEZ3hFMFlUcnFHZUxNVU1JLWhuTFlJNTZIX19kM3NF?oc=5
-
-2. **Estados Unidos, católicos e evangélicos pedem tratamento humano para migrantes**
+1. **EUA: católicos e evangélicos pedem tratamento humano para migrantes**
    - Fonte: Vatican News
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUnA2QnlxVlg4VWQ1SWxfNGJVTE92ejcwSlFfTzgwU0tta1dVLXY4VjUxV21GdFZJYmhILUVwSFU4V2pFQ1c0ZUxISF9HOGhZMUNFYVBsZEtRcG96a2hQbnI1Q1hoOEtpLVBZNlo4LUc0Mi1FeUlZUWV3cW95eUlqd1JDRUNWRVdJdzEyV2k2dTF1dTFneEI5dUZFZ2RaeW9QNl9EMnVDemotUUs4d3JXc21lS0pleFh6eEdn?oc=5
 
-3. **ICE retoma meta de 3 mil prisões de imigrantes por dia nos EUA**
-   - Fonte: CNN Brasil
+2. **Extensão de visto de trabalho temporário nos EUA vai ficar mais burocrática (e cara)**
+   - Fonte: InfoMoney
    - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbTlEenZxZ1JZRzFMLXc1M21CczgxdmRHNlZkazNXNnhPQ3d0OW9YZS1nVWktRXBCWU9BbHNaSFBWMlhScWtpSDd4dkt0NnhYWkZFYUxjSHhvNDZDS0dhMDhqZ0dKQmNZbzRsZi1XNnBrRC0zaXk2NWxtS0E0UjV4QThwak5mN3JQRkl2LVhxVFc3Wk5XOU9IeEZVaXVSMERZNVZQdXR6d3B2Zw?oc=5
+   - Link: https://news.google.com/rss/articles/CBMixwFBVV95cUxNUXRWSGNiUnNOeGxOVUR1REZiNmxlRGkwTGExSjFOd2g5dGNraHFfS1lKM0JYOHVUUV91Unlxd00tMHhKOWJ3Wm1Cc3NlQkt4NlJxbVZHQ1NQRUowbkVlZnNJWm0yLWV1SWs3R2JydnR2SmxBaXZGQ1VzRjNsakU3WFhWYmZyWDRKb3NUMkY0NDJtS0J2Wlk2QU9iVW5MUUdXQWFRZ2UydWJjV1lCNjBXVkFad2gydWFzWE9hWFh1aGxIWWs3UUJz0gHMAUFVX3lxTE85RmlHMGpfb0RMZmxkWU0xUldJRHlDSlE2UF92SVk5dk1Qc2RJSHhrcDlnNkF1TzRtWlJwLWNvY1VqTWtQY25uMG9tdXFLOFJ6MHhxSlM1Zi1ldzUzSlVJNWxVMWN6akptSnVyU2g4UmpJVG1YdDVsSHNZNzA4c0JQRldJdnRKMERndVRyakRVUnhhcjFUSDU0Uk1OOElwT292cXRXeG9Wa09xakRpdVEtZFRVU3ctLTNLR3lFbVhPcEdMdXlhZmJEV2tQYg?oc=5
 
-4. **Homem é baleado em Nova York dentro de carro por agentes do ICE**
-   - Fonte: Agência Brasil
+3. **Operação anti-imigração em residência de deputada democrata vira tema na reta final das eleições legislativas nos EUA**
+   - Fonte: O GLOBO
    - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxOcmtmc3VDU1poSF9CajNHYm9fbnFSSlNCZHNOZlhZV2VVc2NFVFZJYjZZajNDd3ZSRlZXNjJkTWZ3cy1HVFdibV9ZUnM3OUk5MjlJUDM1QVVxNWlGVDhjQlpRa0NzbV9fRDR6QTFMVGUzRWlsSDNUSjhHTWtjTUdabjVOV2pUaVZPTmVLTjFJZl8yZk9JNkhhYVhqQ1Rld2tzR2hobTJOcmNETVJjREFuYXNzSU9FU3JPYW5XZzcxUDZ1RUp3?oc=5
+   - Link: https://news.google.com/rss/articles/CBMi_AFBVV95cUxPUzREeS1GbGZyUUx6SG1DemY4bGlCcnFSUHpTUGkxT0xfZEhOVjNhcFpPWHVzRUZrenhCRGZ6dlgtVlVGQXc2MTR3anFmaUI0MzZuM3IzR0REOTRobEVIYk1uZDhrWEdnckl0djdpZ3J5c1hkdHZzbExLZE1aUlJUNnRsWkhfT09fVmRzSDItdW1HNEllZ0FJVU10RThCLU1BcUI5Z19hMmJ0YWlZdzhoQTlWNWJJN2RPa1g4XzAyazFQMUZFaG52NkpXQ3F6UEtaMzRxVDBfazRwOVBEZ1lHbkZHRjQxWGRFUDNyVUZfX3NMUXo2NGZ4bzQxalXSAYsCQVVfeXFMT0hFX2dRZjhvaDZwaV9XWTVKLThWTHJBejYweEpFdjkyUjJXbkJhbTJ4MEkySWpDVDlCMmY4US05d3VUa0Q5dmtvd21TSFFkUzFuUFRhNTFCdzJDdHBRZERIc3E1dkJ5Ni1SeTlFbkNDOG5SUjM4R1g3Z0tMNm51M2l2MElnU2Jtem9zUVR2SlhBVnRfNTAxdHZ3NlNrS2k4U0x4TkJNRWk3WUhnVkFJS2RkdV8yTGhvbUlESkFnMl9Wb2h1VUR5UVc3ZGVoZHc3X2R4QkpQV2NRZ1hnT254T29PYXBhZXBjQVplQ2FEZ3hFMFlUcnFHZUxNVU1JLWhuTFlJNTZIX19kM3NF?oc=5
+
+4. **Operação da Polícia Federal desarticula esquema de imigração ilegal para os EUA a partir de Mato Grosso**
+   - Fonte: CircuitoMT
+   - Termo monitorado: imigração EUA
+   - Link: https://news.google.com/rss/articles/CBMiygFBVV95cUxNWXluN1RqZGlhdnRpSGRsMURTdk9KU1Y2SGdReWVYUlBvMS1sb2lkXzJ5bm1xZDZaQXdUWFgyanFfZlBET1hiMGJBSGJsa3dGQ3J0UExtaV9fQ1I4ZFJuakZaYU9PcmhjQWtqSGpqdS1DcWZOaUZFMi1RcTJKTW5hanNDUTRkNnBZTFA3N1hVV2N6WV9MNTZmTXZVSHkxLURWU0FsS3VYS0c1S2NXcEF3UW5Id1VXVFNQWlFEdFZmbkhRVkVMaV9WVTBR?oc=5
 
 5. **EUA propõem nova análise para 208 mil pedidos anuais de extensão de trabalho | SEGS Portal Nacional de...**
    - Fonte: SEGS Portal Nacional
@@ -48,12 +48,12 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### imigração EUA
 
-- **Operação anti-imigração em residência de deputada democrata vira tema na reta final das eleições legislativas nos EUA**
-  - Fonte: O GLOBO
-  - Link: https://news.google.com/rss/articles/CBMi_AFBVV95cUxPUzREeS1GbGZyUUx6SG1DemY4bGlCcnFSUHpTUGkxT0xfZEhOVjNhcFpPWHVzRUZrenhCRGZ6dlgtVlVGQXc2MTR3anFmaUI0MzZuM3IzR0REOTRobEVIYk1uZDhrWEdnckl0djdpZ3J5c1hkdHZzbExLZE1aUlJUNnRsWkhfT09fVmRzSDItdW1HNEllZ0FJVU10RThCLU1BcUI5Z19hMmJ0YWlZdzhoQTlWNWJJN2RPa1g4XzAyazFQMUZFaG52NkpXQ3F6UEtaMzRxVDBfazRwOVBEZ1lHbkZHRjQxWGRFUDNyVUZfX3NMUXo2NGZ4bzQxalXSAYsCQVVfeXFMT0hFX2dRZjhvaDZwaV9XWTVKLThWTHJBejYweEpFdjkyUjJXbkJhbTJ4MEkySWpDVDlCMmY4US05d3VUa0Q5dmtvd21TSFFkUzFuUFRhNTFCdzJDdHBRZERIc3E1dkJ5Ni1SeTlFbkNDOG5SUjM4R1g3Z0tMNm51M2l2MElnU2Jtem9zUVR2SlhBVnRfNTAxdHZ3NlNrS2k4U0x4TkJNRWk3WUhnVkFJS2RkdV8yTGhvbUlESkFnMl9Wb2h1VUR5UVc3ZGVoZHc3X2R4QkpQV2NRZ1hnT254T29PYXBhZXBjQVplQ2FEZ3hFMFlUcnFHZUxNVU1JLWhuTFlJNTZIX19kM3NF?oc=5
-- **Estados Unidos, católicos e evangélicos pedem tratamento humano para migrantes**
+- **EUA: católicos e evangélicos pedem tratamento humano para migrantes**
   - Fonte: Vatican News
   - Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUnA2QnlxVlg4VWQ1SWxfNGJVTE92ejcwSlFfTzgwU0tta1dVLXY4VjUxV21GdFZJYmhILUVwSFU4V2pFQ1c0ZUxISF9HOGhZMUNFYVBsZEtRcG96a2hQbnI1Q1hoOEtpLVBZNlo4LUc0Mi1FeUlZUWV3cW95eUlqd1JDRUNWRVdJdzEyV2k2dTF1dTFneEI5dUZFZ2RaeW9QNl9EMnVDemotUUs4d3JXc21lS0pleFh6eEdn?oc=5
+- **Extensão de visto de trabalho temporário nos EUA vai ficar mais burocrática (e cara)**
+  - Fonte: InfoMoney
+  - Link: https://news.google.com/rss/articles/CBMixwFBVV95cUxNUXRWSGNiUnNOeGxOVUR1REZiNmxlRGkwTGExSjFOd2g5dGNraHFfS1lKM0JYOHVUUV91Unlxd00tMHhKOWJ3Wm1Cc3NlQkt4NlJxbVZHQ1NQRUowbkVlZnNJWm0yLWV1SWs3R2JydnR2SmxBaXZGQ1VzRjNsakU3WFhWYmZyWDRKb3NUMkY0NDJtS0J2Wlk2QU9iVW5MUUdXQWFRZ2UydWJjV1lCNjBXVkFad2gydWFzWE9hWFh1aGxIWWs3UUJz0gHMAUFVX3lxTE85RmlHMGpfb0RMZmxkWU0xUldJRHlDSlE2UF92SVk5dk1Qc2RJSHhrcDlnNkF1TzRtWlJwLWNvY1VqTWtQY25uMG9tdXFLOFJ6MHhxSlM1Zi1ldzUzSlVJNWxVMWN6akptSnVyU2g4UmpJVG1YdDVsSHNZNzA4c0JQRldJdnRKMERndVRyakRVUnhhcjFUSDU0Uk1OOElwT292cXRXeG9Wa09xakRpdVEtZFRVU3ctLTNLR3lFbVhPcEdMdXlhZmJEV2tQYg?oc=5
 
 ### USCIS
 
@@ -66,39 +66,39 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### green card
 
+- **Governo Trump suspende Microsoft e Adobe do programa de Green Card**
+  - Fonte: IT Forum
+  - Link: https://news.google.com/rss/articles/CBMiigFBVV95cUxPTFNCWTg5SGNlNFhCWlpoVU5PSHE0bnEzcExGcmp3YVVGYlE4Z3lfR2N3dllVNUtIUWpwSTFMankydXV5STl5dGw0WTNpdTNaM0VZT0lwUU00U2lRWFczSDU1NmN5c0FDQ0hUNG1NUkRiWEhCY1hOYUNBYU1pOEFXakVzeTRkaG96ZkHSAY8BQVVfeXFMT3NINGFXNVZxaW9xU0c0TTNQWHU2dlhLamxqS1d1RWNPOHlfQXg5MTUzWm9tNEpxaUJvSlRLVG1WTXVROVpiM2l4QXg0T0R2QjVzWWJZck1QbjVBZW1kWHVnS0ptQ2N4ZVdmZkVRbHBKSlVjZW1VWVkwN1VyMDdKMjZsdlpkaHdJTXFtUHo2MlU?oc=5
 - **Eduardo Bolsonaro teve 'green card' concedido pelo governo Trump; relembre**
   - Fonte: G1
   - Link: https://news.google.com/rss/articles/CBMiwAFBVV95cUxORmEtVDMwUHpDQTRoQ2NUM0txX2Y3dExXUEo1N2Vmd1pvWkR5VjNDUDVzWkNVV1RDYmYxOGlQSVR6a2k4dU1BSElDQWdfdmtUUUp4QkVJLUZ4NlZDbllwU2ZYTWw5a3NIT2l5MGZUVlVMekRBMHl6SWRhRTFubGFtc2l5UU8zZ3gyTTBZMzh4dXBBWHpmelIxVzlUM2dEaWd4N1pYVGZxZ0RZYlRQRGQwUm43RE5lanB3cmVHN05sUlPSAc8BQVVfeXFMTTdvSVRSbEY3bTk0Rm1NRUZpaTBMMk83Q2FsbWFYWUhfdlY4Si04ZXJnNmJBOUd6SjJDQWRpaWgza1ZhbFo4b2dyOUpIU2NMVjZ6U0dJcVEtMmhISmpVajhaQjlzbnB2WDJUMVBEU1hfZ2o4bXJqYVBTRWx5MWtBWGhfbWNMa1Z4WlZsYmlKTDJWWnRxaTlmZ25wQWUycUdZRGhXb3BkOGhxNHN1MjAyT0lsbG5NQWRuLUZ6ZS1uR0R5VklIczdKdHVOd0t0RkZR?oc=5
-- **Executivo brasileiro com pedido de green card em andamento vai parar em prisão do ICE acusado de dirigir bêbado**
-  - Fonte: AcheiUSA
-  - Link: https://news.google.com/rss/articles/CBMi5wFBVV95cUxNRHRlTXJpRXlFSXdpZm9lX2FuUnhKM2pCSWVFSjdQaXRNX1RUdG9ONnNuUUs0OXZsaXAtQWYxci1iQ21kYzFHMXFnRHh3elZZLVBmVlBPN3R4YlR2eXpMeHpUaFMyYW55VGZJSFJtb1FreE9hYXhsTmxHNkZqTXdPUlBHOUlGM040c2NsUDhlTXlKZ2NnVWFmdlFGMnVycTQzazFfWGJrZ0dSb2dHaG9rb0FyOFFYWnBoZU5GMURLVlNsaE51eVlmVWc4LV8tRW1SVHQ5eWVWSTFobmNmb19ZT0lPVVVhaUE?oc=5
 
 ### visto americano
 
-- **Embaixada e consulados dos EUA passam a limitar reagendamento de vistos no Brasil**
-  - Fonte: Panrotas
-  - Link: https://news.google.com/rss/articles/CBMizAFBVV95cUxPRk9xcjRKVU9VenFBcGMxaFNHWWl3UFJwSjdyT0tqVHNuNXhZOUpkMmJaLTBlbEY0VC05NmZsZl80b2xkNXh5NUFBYkU4ZkdSTlhHR2FIQ0pWcHIyLURHdnRzWUpDeGtVMG9yeUotb0p4TG5aLVBLYml6YV9RXzlRYkt4Mm53WmVxQjlyaFJEXzVyRDFuN0JsUmxqX3RLOGl3Umc3SjhTYkE0dHRQNzFEU3RfVF9lUVZ1MzNpM0FTbENvUFpWU2hsOFlraGk?oc=5
-- **EUA fecham consulados: veja o que fazer se você precisa do visto americano**
-  - Fonte: CNN Brasil
-  - Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRlRTaWhwdkFjQ1NseVVkUnMwOEpTZlk5dzE0MGhPUlp2aFJuV3VHbGxiMjVJOTV5ZENGcDFFckdlcVVSNFlTaWVVMkp4NVVkMUZLcm5iNk1LRk83eXcyMXAyQ1M5V1BDUjJ5UDNSMkU4R2gwTXZNMWFRbDFBTmpnanMtdkhpYnJmZ3FXb1NGTTNkWHBNdks3bW1hZk4zTFBaMGZ5eUJFQmxuVkZMdkczZlpZVEhJUnBBdHJz?oc=5
+- **Embaixada dos EUA faz campanha para que solicitantes de vistos abram redes sociais**
+  - Fonte: Gazeta do Povo
+  - Link: https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZXFlN25TRV9ZT1ZMeGw0d3ZlQkI1VGktWE5YS2tqUUdfU2ttRVJJRno5V09Mc015bWJkS2luSFE2aEdvaVBWVDlqeHlhQlRRdDZaMW1YeUdSY0p0ZFRmMFpnSE5qaVNubGpJR0tuTWN0bmEzRFdHY2tGWS0weGpLSmc5S0tGN2syWGp4cVA2OWVVV0dxd2hWNndCLUdocjdKdXFTdVVmUG4?oc=5
+- **Brasileiros podem ter que pagar nova taxa ao remarcar entrevista para visto americano**
+  - Fonte: AcheiUSA
+  - Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxPalhDTnh2M3hIRjh0bmwxN21RbGtPQ2FMU29ROHlVWjBzN3lPNnFLWWhEeVdaSGZLYXFBVDJRdmN4M1k3XzhybEZwcWE5T3RVSHFobTAteDB3UDlOX0M4NnNHTk00eHVYR3pnUjlRRVZYd3Y0MmxQZFNESUFtM184S1lfREVza3N5T3J1czVqa3BENEt2MEdpaWZkWE83QWdhQTYtUHAxSzZULVZ2b2ZrSzF6bmltdEk0ZndrMmJZRWU3M08t?oc=5
 
 ### brasileiros nos Estados Unidos
 
+- **Brasileiros pagavam com imóveis grupo alvo da PF para entrar nos EUA ilegalmente**
+  - Fonte: G1
+  - Link: https://news.google.com/rss/articles/CBMi8AFBVV95cUxQVmd1Snc4bDVVYXRqejhobTJsc2JZdFo0dkltNjlLSWtMM2tRVGRPV1poOFZENUJDR0Rwa1NPelVUVUI4OWVycGFiT05GZmpyRFlIdXIxcjY3U3huWm1MRW1PcXhGNWVBMDJhOWViTjdaUGF6ajgxWEpjblVCa2lkYlR3WGpsY2xoZHhWQ21GN1NDX1lmb1lISUd1NUZmR3o5ZU9zRnhxcnVzSkNjM2k3ZlNuaHpoNkRDVF93WDNVblBtcDlIMjRoY3NwWTF5d2FxbzUzaC1WZ0p5VFV6NUpzZHhxenA1WlBvLWtwd21qY3nSAf8BQVVfeXFMUDRESjRYZ090eU1YXzFYSVFUbldBZHBySTVsM0w0X3F1aURwMWNLamtMQ2s0TkZoWGhiU1NYTW9xWGNYOGxOSTgwWnhIbmREVXoyWHdWOVFWNEJVbmdac2xnNWNYenRJTEVTWHRoa0J1X1pKenUxRWNtaFZHVm1aaVV3b21UNGdCcFIyNmRZQ3ZRY0hqN0ZFOG1VRnp1RmY3alZWb0g3NmZLd2puZXVnamFOLTAySUNrU09sZVpzdG9XSkNjdWszVDdjdXhqV19zQk5jbDFWTlNXcjROZUthd0JNVGhORkRLZDRHbDNKY3o1QjMxR0ZQdzRuMTQ0cTZ3?oc=5
 - **6 em cada 10 imigrantes brasileiros detidos nos EUA pelo ICE são deportados**
   - Fonte: Folha de S.Paulo
   - Link: https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSktGcEdYbmZ6SUUzOHRSdWNOazg0VUZTRGFlTUFGSDEtd1NEQkg2WGJHek1ib1pNUWE3R29GYXV6ODNZZnJpQ3J6R0F6QU9LWTlCTktUc016eS1IcV9BeG15andyOEpnTEh5WGtsakpGbTllZmN2MGpsOTJVcUFXQ2Q5S19ZWkYwMDFodldaT0RhMWpfczZZUlhfa0FDd0Rtbm16WG5BTWxwb3dpbjZpOEsxUVoxdHljYlJ2OG1pOTRMODQ?oc=5
-- **PF mira esquema que levava brasileiros ilegalmente aos EUA via México**
-  - Fonte: Metrópoles
-  - Link: https://news.google.com/rss/articles/CBMivwFBVV95cUxPdGNrMVU2aUtua3gxeHUtdm9sdnJlMnB2QXlMLWRjZkF5U2pfRDVwZjQwczNDWVBTSmJfZ09ERkVEeEo5YUVhRHhvUzhyNmtTMGhyejR0OXNJQWZxRWtTOEQ4UENnWVMyQnVOczJpbkR5eHRRS05lZDlUNEpyUHA1M1Z1RDc5WUpWTU1rbXZEejMybXhOcVQ2LTJNSlBYdkp4cEl0WlFkeXZGa0l6Z0E4N2ZRWDlyclY2cTNzYTJ6cw?oc=5
 
 ### asilo nos EUA
 
 - **EUA anunciam revogação de milhares de vistos de cidadãos em busca de asilo**
   - Fonte: O GLOBO
   - Link: https://news.google.com/rss/articles/CBMiygFBVV95cUxOSWMwZU9TR0FMT28xcVpiOFc2RzhZdU5sNE5MM1ZQa1F0c0RiZEM5SjJRbTc3eG1CRnFzZlc4U2QtUXRiTUhkLWx1dm1PUkVuVnZrdXdwZDZxVThZTFV4OFhMSTBWTjFWVS1tWmpXYnhSa0RtRE1JYi1iTWRQMVdJN2JqQlkzMENYUngxUl9ieEdlazNHYnUzcW53SGJZdEtPMlVJMU5NUTdyMVFzSDQwZ1VuazNqS1NLamdhT1JhQVBHMU1HUmZPNVl30gHYAUFVX3lxTE9hdTBxZEhOQVhkd2x2U2VxNmdhbkt0ZFhWY19yM0FJMGxWMGtHXzRiV0diYUJQQTY4cGlSMmlxaWFRT2lWZmh2SUs3YW5DRzNoS3JjdVFXX2F6VUV4OE9PVFZvSUVQcG0wZEN0SkNsV3JLOGNIYXJQQWltU0lzM2pKbFZJbkhsS0trX2pSUHF0eXRWYnlmUk9OdnJPUzZZZThTdXV3WnJxTGtUM25mNzZrRjZrcV93bWUwNjNBUk5NRjFvcDV5bzJ6UTg2amcxaTJfQVRwNEpZcg?oc=5
-- **Oposição vai pedir asilo político para Ramagem ao governo dos EUA**
-  - Fonte: CNN Brasil
-  - Link: https://news.google.com/rss/articles/CBMipwFBVV95cUxNbXZZSXBOUzh5MDcwVFZ3bG13T3VadjE2RzdKUjVQdE5HYjhXd0kyS3hMUGxzSzRCanZqZngwTndDU3NhNGVDS2YxMkxHaDIxZ2Q5a1p4SEJFRXh1V2xRQkNEM2RCMVo2UmR6N3BNUDI2SEVKX0VYa0pyTzczUG45MlFjWXJEVmhMNFZKSVRhMVhQOEQ4QXNMVGhXWGFjbF96QmxPaXY5Yw?oc=5
+- **EUA preparam revogação em massa de vistos de estrangeiros**
+  - Fonte: DW.com
+  - Link: https://news.google.com/rss/articles/CBMiygFBVV95cUxPdjFUa01aRlBvQjdGWDB2LUFMYllFdnpqVmFuYS1yd254NHB6cUY0ZUhPNDlJbzR4Sk1TY3hveG03eXlGTXFVOFJjVS1sdlRxNzVSZUsxcklGZm9sY3pHX25nQzh6S3dkODZCWl9YRjhJOGJvb3VvR3JWUURQMUlUV1hzTkN5VUR5NTJOZklmdU9GUU0wWFg0N180bTNaM1pQWFFHQi1RTWJ1SlhkVndfMXZQSjVja2U1YUMtYWg2R3NHbmpYYThmbUJR0gHKAUFVX3lxTE84Z2JzY2RRYTNUanJCMkNwSkVsZkFCNUdHRmF3UVVITUk0dHRRQXgwS1R1SXVoaHJZY2U3OTRHR0xBZW5XNDF6TXgwY1pMbjR3U3l5anVlVGdTQzFlOGwwRTB3Mi1JU3ByU1dMRmtFT2plOUEtX2FVUFlMeVBodVp3YVV6WFloX1VpaHRKVUVtUjlxWnVYOEo1RUlDN1VmU0hTSFg4a2pJUW52SjRPOTNfc1Q1ZU1Idm5scnFlSnVaTzlxdWpneDk0MGc?oc=5
 
 ### ICE immigration
 
