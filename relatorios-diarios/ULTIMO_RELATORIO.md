@@ -1,8 +1,8 @@
 # Relatório diário — Imigração e brasileiros nos EUA
 
-Gerado em: 2026-10-15 12:59 EDT
+Gerado em: 2026-10-15 17:21 EDT
 
-Arquivo original: `2026-10-15-12-59-tendencias-imigracao.md`
+Arquivo original: `2026-10-15-17-21-tendencias-imigracao.md`
 
 ## Objetivo
 
@@ -20,7 +20,7 @@ Este relatório serve como base para criação de artigos atualizados para o blo
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSktGcEdYbmZ6SUUzOHRSdWNOazg0VUZTRGFlTUFGSDEtd1NEQkg2WGJHek1ib1pNUWE3R29GYXV6ODNZZnJpQ3J6R0F6QU9LWTlCTktUc016eS1IcV9BeG15andyOEpnTEh5WGtsakpGbTllZmN2MGpsOTJVcUFXQ2Q5S19ZWkYwMDFodldaT0RhMWpfczZZUlhfa0FDd0Rtbm16WG5BTWxwb3dpbjZpOEsxUVoxdHljYlJ2OG1pOTRMODQ?oc=5
 
-3. **Bispos católicos e evangélicos se unem em defesa de imigrantes nos EUA**
+3. **O pacto inédito entre católicos e evangélicos contra as deportações em massa nos EUA**
    - Fonte: Gazeta do Povo
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMirgFBVV95cUxQbjlIOS00SXNCWkZMRUdkc0ZGa1F3cjIxLVNUVDRobUM1SV9Kdnd5Rjl4RWhrSFhEbE5uWmNaREUzd1BMS053cmFFNF9uXzVFU3J4TTJyZVdWX05PaWJxdGtfR09ndUNTSFg1QzhHQVdRX2tDT0U5NWlQVnJJdEZfcTJzTmhOUVFxRUFjR0FqVDBlVnhwYnhhSFJwbmdWWHBORGtNYkE0eTBacmlRRkE?oc=5
@@ -84,12 +84,12 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### brasileiros nos Estados Unidos
 
+- **EUA dizem apoiar direito do Brasil de ter processo eleitoral livre e justo**
+  - Fonte: CNN Brasil
+  - Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxQZlI5MG4yNmVIblV4LV9EMXJZckI2dTYyVURhcUhTMGl2dXBzb3ppSHpFb0RtaWFZV3NpWDNsdk1QWmxDanQ0OWctNFR4ZjM4Z08wS1NDMXlITjE4cTNjaWdUWS1QN1pzZHdnbXV3TVZwM1lNdE9WelZtcThXSHZqZUJ2VHp4SnFRQVpKb3pnbTI2VzdlMTRkN3R2b3dXbWZ3M1B2VW5raGdMQU5JZUUwdk9lUUhLWHVvaEE?oc=5
 - **Brasileiros vão às urnas em 134 países; EUA concentram eleitores**
   - Fonte: Valor Econômico
   - Link: https://news.google.com/rss/articles/CBMizAFBVV95cUxQUlZIdzFYZ00xd21sUWU3MU9wRnVUV185NEs2Q3VsNE5PZE5uZ1JYOU15ZkMyLTZlWENnQmZwOHp4QnN1djZnbFFQLXdzSUhubEdrLXhVZ0h3aWFYUUNJaDZjamdpZmVQck11dmQ0NWlfbmh5NXFmay10OGMxZDI0RHppNUlxWnNNUG0tanFmUDVVWklPdjc5RWZoc1pWdjFRX2tEekZlNG95Y3Zzbno1V015THJxM280cjB6UWJsMEF4YW95SVZzV2NoWkbSAdsBQVVfeXFMUGZQd0lXM0FRZzZndDcwQlhWTEZ6N2tuSGN0TTJzRXBaY1htNmQ1Y2djTXhQQkdQeW9FQ2tJSmtnS3hMLVc1TFBDTU83QzRvbzMzdkdBa2FvclVtUkh5VV8wWnhVYUdXcnE5dVhOcTVZTnpkbG1FQzJNX1lyNXRvWm5FQjBJaWlKeWVGa2dwWU15V0pqcFFhR2NkU1d4LW51ZGFLblEyX0sxSHdLRDYzZG1hYzBHYnFLcHIxZTVwejRnQXE1REV6MHctQV8xMExraVB5aEwwV3ZvbjRj?oc=5
-- **Apenas 13% dos brasileiros que vivem nos EUA estão registrados para votar**
-  - Fonte: CNN Brasil
-  - Link: https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNkFiTkoyZjlkNW4ydkdwRGM1M0tfUDFHVTlEdG8zbWRUX0Q1VTk1eWFUNGNoVDNMTXQtcFZjYTVhNWRCNkNJdDg5OUttWUNYMzQ1RS1uVFp0TjVtWk5GVG94LWZTTTQ2UDIwLUJydlhpcVh1c2FzVXE2c2VKdUtic2xqYWwyZ0FrTXVvcGk1RW1CNEtYSTFwMDN6T21YcUw4bVJodUVHdGwyQTNoYS1iM3RJSl9saUhfTXVuN3I1X2ROazJYeE5NMGVtQjlRaFM3VC1McQ?oc=5
 
 ### asilo nos EUA
 
@@ -102,12 +102,12 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### ICE immigration
 
-- **Polícia Civil de Santa Catarina, em cooperação com o ICE, prende foragido da Justiça brasileira em Orlando, nos EUA**
-  - Fonte: Polícia Civil de Santa Catarina
-  - Link: https://news.google.com/rss/articles/CBMiQ0FVX3lxTE93VDJmeTk1LUFsYTJqOEZTM1FZcmJmSXB5UEdnNzB3SklGcUtzMGFXYjRmZzVCZjhLS3k1Z1NMZXktVjg?oc=5
-- **Homem é baleado em Nova York dentro de carro por agentes do ICE**
-  - Fonte: Agência Brasil
-  - Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxOcmtmc3VDU1poSF9CajNHYm9fbnFSSlNCZHNOZlhZV2VVc2NFVFZJYjZZajNDd3ZSRlZXNjJkTWZ3cy1HVFdibV9ZUnM3OUk5MjlJUDM1QVVxNWlGVDhjQlpRa0NzbV9fRDR6QTFMVGUzRWlsSDNUSjhHTWtjTUdabjVOV2pUaVZPTmVLTjFJZl8yZk9JNkhhYVhqQ1Rld2tzR2hobTJOcmNETVJjREFuYXNzSU9FU3JPYW5XZzcxUDZ1RUp3?oc=5
+- **Policial civil aposentado de SC é preso pelo ICE nos EUA após fugir da Justiça brasileira**
+  - Fonte: G1
+  - Link: https://news.google.com/rss/articles/CBMiywFBVV95cUxOalNocWZhYXEtVVdLR3VJa1h1NF9LdDlYMm9GVDRvU09GNm54X2I2N0FhbkpUdWVRdllWNGwzT1k3TXFKV29kQ3lPZlZ2TEVnZG80cGJ3NkRMSmlmM2tUUEdaZHZoeUs3UXl3U3V2Wlp1OC0xdEluVDZOcktTYW00dXNORy15YTZLUFV4R2NXNE5NaGZIV0hndERWWDNGZ1NRdTdBb3k3djJ1cElIRl94dWZ2LUFRMnNKck5aQUtWaEVEYW9jQzNDWUVTNNIB2gFBVV95cUxOWnZsak1rdm1oc1FJR3JUZ3FXQmFVT0NJUkxybS1xaEtGWTdTcHZuVnFMMkItRnpzanI2dDZ2TlNIVVBXMm1WMS1lMVdVR0R1ZzQ5SlVLN1poeTBZVVpqVGtkNnJtRTFVV0tIbXhHR0hZQ2pGT2VWN01JVXhZTmJQdy1HTGVzNEozckdCMm5EWlJ4QTIySGJTM0EwaV9pLWc5d3RNQ2xwZGNLckxXc19sQVB1NldwZTM4aWNMcXNGUXJqdDdQYUZzTUh3d1pzSk53Qm42SkRyLU42dw?oc=5
+- **Foragido da Justiça brasileira é localizado nos EUA e preso pelo ICE após investigação iniciada em Itajaí**
+  - Fonte: NSC Total
+  - Link: https://news.google.com/rss/articles/CBMi2wFBVV95cUxOR08tTmJwN3JqRVNiZUNzRVVMblN1Tl9NblNHWElfaUZ3VnFDTUZNdEtXZnpZOENaem13aTVBVzBUWDk3NnVoWDRlZXBnOXU0Q0Q1TjIzeThfd09FOG5xOHlIYzZ1a1g5eWpoUVdWelh6Q3RIXzZwNkl6UGV4V3VTZjRwTTZoS1ptcm9LV2Z4UjZUVkI1TkVOdFZWX1cwd0xkWDl0MUR0SUZYRDlteWo0bzBPR25QUDZZZVV1VlJfVkNLUEZnZy1zdkhSdHl5RExlZUdXTXFxdkx6VGM?oc=5
 
 
 ## Termos monitorados
