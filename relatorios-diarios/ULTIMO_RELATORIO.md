@@ -1,8 +1,8 @@
 # Relatório diário — Imigração e brasileiros nos EUA
 
-Gerado em: 2026-10-16 00:28 EDT
+Gerado em: 2026-10-16 12:38 EDT
 
-Arquivo original: `2026-10-16-00-28-tendencias-imigracao.md`
+Arquivo original: `2026-10-16-12-38-tendencias-imigracao.md`
 
 ## Objetivo
 
@@ -10,25 +10,25 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ## Principais assuntos do dia
 
-1. **6 em cada 10 imigrantes brasileiros detidos nos EUA pelo ICE são deportados**
-   - Fonte: Folha de S.Paulo
-   - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSktGcEdYbmZ6SUUzOHRSdWNOazg0VUZTRGFlTUFGSDEtd1NEQkg2WGJHek1ib1pNUWE3R29GYXV6ODNZZnJpQ3J6R0F6QU9LWTlCTktUc016eS1IcV9BeG15andyOEpnTEh5WGtsakpGbTllZmN2MGpsOTJVcUFXQ2Q5S19ZWkYwMDFodldaT0RhMWpfczZZUlhfa0FDd0Rtbm16WG5BTWxwb3dpbjZpOEsxUVoxdHljYlJ2OG1pOTRMODQ?oc=5
-
-2. **O pacto inédito entre católicos e evangélicos contra as deportações em massa nos EUA**
+1. **O pacto inédito entre católicos e evangélicos contra as deportações em massa nos EUA**
    - Fonte: Gazeta do Povo
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMirgFBVV95cUxQbjlIOS00SXNCWkZMRUdkc0ZGa1F3cjIxLVNUVDRobUM1SV9Kdnd5Rjl4RWhrSFhEbE5uWmNaREUzd1BMS053cmFFNF9uXzVFU3J4TTJyZVdWX05PaWJxdGtfR09ndUNTSFg1QzhHQVdRX2tDT0U5NWlQVnJJdEZfcTJzTmhOUVFxRUFjR0FqVDBlVnhwYnhhSFJwbmdWWHBORGtNYkE0eTBacmlRRkE?oc=5
+
+2. **Prisões de crianças pelo ICE mais que dobram nos EUA**
+   - Fonte: AcheiUSA
+   - Termo monitorado: imigração EUA
+   - Link: https://news.google.com/rss/articles/CBMimAFBVV95cUxQMWFhSXNYdHY3YWRvZHJvZldyOEpJLVlLT2lhX2JUNDRXV3VzS0ZabE00dDc3c2FRblhHWWlxaDVaWk5vdUY4RGx5Z0FfRUZpRmlFeENnLTVEVldZbTlJbUlZZHlCRVZLRG1fMW9Gd2F6U1VUNXhYZjFqV1o2ZzBhd3dUel9LaGJTZDVQalo2NDN1NUJTbXRUWQ?oc=5
 
 3. **EUA rejeitam proposta de ativação automática de câmeras corporais do ICE**
    - Fonte: CNN Brasil
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxNaVF2VVZGWjhtUWdBZE8tNlQzU3BNUmh4VWdYYm03R0FuZEFBci1sNjhKOUVnX1c0WmpCenpvVE80ZDR1YWxXMklpTG9iN3BYS0lwSzVvNEthR0Fkb3h6WlNtbWtKSncwQWxZSFJvMGpmalJUN1BTdndGRE5CcVJMVVVHUE1QN0VEaWQ0RjFkbm9ZaXZfQTF2N0RkLW5PcVRWTzB3OXZqX0ZESzB1N1dQWGNfeUpObDg?oc=5
 
-4. **Brasileiro detido pelo ICE na Flórida contesta acusação de embriaguez e relata falta de remédios**
-   - Fonte: Diário do Centro do Mundo
+4. **6 em cada 10 imigrantes brasileiros detidos nos EUA pelo ICE são deportados**
+   - Fonte: Folha de S.Paulo
    - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMivwFBVV95cUxNMVVLWTI1NXJwbHRVREhDZ0JmX0wwbjlSSG1kOFNaRk91ZnNLbG90TzJMOGF4S0E4M0VrN3RtcWRaNjZkQVlBWThqZHpPTXJORHNkVVZKRS02TWtJdDR4SDN2YXNSV3ZKSVI5RzFsN1NCd0taN2gyMlRVWEVPOTFmbm1xLWpsQTU4YVFETTd3cTYtZEIzUnZaSkFPd2VWNThBT3NGWmhCLWdlSFJPcDlVa2xUYnJ4aTRkRGNXTkRncw?oc=5
+   - Link: https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSktGcEdYbmZ6SUUzOHRSdWNOazg0VUZTRGFlTUFGSDEtd1NEQkg2WGJHek1ib1pNUWE3R29GYXV6ODNZZnJpQ3J6R0F6QU9LWTlCTktUc016eS1IcV9BeG15andyOEpnTEh5WGtsakpGbTllZmN2MGpsOTJVcUFXQ2Q5S19ZWkYwMDFodldaT0RhMWpfczZZUlhfa0FDd0Rtbm16WG5BTWxwb3dpbjZpOEsxUVoxdHljYlJ2OG1pOTRMODQ?oc=5
 
 5. **EUA propõem nova análise para 208 mil pedidos anuais de extensão de trabalho | SEGS Portal Nacional de...**
    - Fonte: SEGS Portal Nacional
@@ -48,12 +48,12 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### imigração EUA
 
-- **6 em cada 10 imigrantes brasileiros detidos nos EUA pelo ICE são deportados**
-  - Fonte: Folha de S.Paulo
-  - Link: https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSktGcEdYbmZ6SUUzOHRSdWNOazg0VUZTRGFlTUFGSDEtd1NEQkg2WGJHek1ib1pNUWE3R29GYXV6ODNZZnJpQ3J6R0F6QU9LWTlCTktUc016eS1IcV9BeG15andyOEpnTEh5WGtsakpGbTllZmN2MGpsOTJVcUFXQ2Q5S19ZWkYwMDFodldaT0RhMWpfczZZUlhfa0FDd0Rtbm16WG5BTWxwb3dpbjZpOEsxUVoxdHljYlJ2OG1pOTRMODQ?oc=5
 - **O pacto inédito entre católicos e evangélicos contra as deportações em massa nos EUA**
   - Fonte: Gazeta do Povo
   - Link: https://news.google.com/rss/articles/CBMirgFBVV95cUxQbjlIOS00SXNCWkZMRUdkc0ZGa1F3cjIxLVNUVDRobUM1SV9Kdnd5Rjl4RWhrSFhEbE5uWmNaREUzd1BMS053cmFFNF9uXzVFU3J4TTJyZVdWX05PaWJxdGtfR09ndUNTSFg1QzhHQVdRX2tDT0U5NWlQVnJJdEZfcTJzTmhOUVFxRUFjR0FqVDBlVnhwYnhhSFJwbmdWWHBORGtNYkE0eTBacmlRRkE?oc=5
+- **Prisões de crianças pelo ICE mais que dobram nos EUA**
+  - Fonte: AcheiUSA
+  - Link: https://news.google.com/rss/articles/CBMimAFBVV95cUxQMWFhSXNYdHY3YWRvZHJvZldyOEpJLVlLT2lhX2JUNDRXV3VzS0ZabE00dDc3c2FRblhHWWlxaDVaWk5vdUY4RGx5Z0FfRUZpRmlFeENnLTVEVldZbTlJbUlZZHlCRVZLRG1fMW9Gd2F6U1VUNXhYZjFqV1o2ZzBhd3dUel9LaGJTZDVQalo2NDN1NUJTbXRUWQ?oc=5
 
 ### USCIS
 
@@ -66,39 +66,39 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### green card
 
+- **Justiça manda governo Trump abrir inscrições da loteria do green card de 2027**
+  - Fonte: AcheiUSA
+  - Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxOdHJOQ1lQTk5Gb1k3TUZrZi02RDYzUjdMOVZFZTNab0huamJ0WEtrTHcwVXU3ZWNMYjZHeXhDdk9yaG5vdmp1UFBRYlRGaVFQWmFiSnNyamYzVDZxWTRoeXZDZklOWkl0NC1DbTBkR3RHcTNKOUJscGdmT3dsdU9PMDE3anBhbHc5Sjc0Y2VjY01BdnVKeERWRWFFLS1oLVBpM2RVaW8yb3MyQy11bjZTSHhPTFJ0NDVKb0E?oc=5
 - **Eduardo Bolsonaro teve 'green card' concedido pelo governo Trump; relembre**
   - Fonte: G1
   - Link: https://news.google.com/rss/articles/CBMiwAFBVV95cUxORmEtVDMwUHpDQTRoQ2NUM0txX2Y3dExXUEo1N2Vmd1pvWkR5VjNDUDVzWkNVV1RDYmYxOGlQSVR6a2k4dU1BSElDQWdfdmtUUUp4QkVJLUZ4NlZDbllwU2ZYTWw5a3NIT2l5MGZUVlVMekRBMHl6SWRhRTFubGFtc2l5UU8zZ3gyTTBZMzh4dXBBWHpmelIxVzlUM2dEaWd4N1pYVGZxZ0RZYlRQRGQwUm43RE5lanB3cmVHN05sUlPSAc8BQVVfeXFMTTdvSVRSbEY3bTk0Rm1NRUZpaTBMMk83Q2FsbWFYWUhfdlY4Si04ZXJnNmJBOUd6SjJDQWRpaWgza1ZhbFo4b2dyOUpIU2NMVjZ6U0dJcVEtMmhISmpVajhaQjlzbnB2WDJUMVBEU1hfZ2o4bXJqYVBTRWx5MWtBWGhfbWNMa1Z4WlZsYmlKTDJWWnRxaTlmZ25wQWUycUdZRGhXb3BkOGhxNHN1MjAyT0lsbG5NQWRuLUZ6ZS1uR0R5VklIczdKdHVOd0t0RkZR?oc=5
-- **Presidente da Microsoft alerta que restrições ao green card podem prejudicar o setor de tecnologia dos EUA, segundo reportagem do Politico**
-  - Fonte: TradingView
-  - Link: https://news.google.com/rss/articles/CBMid0FVX3lxTE1oYzJFano1WHNPU3lpQkZ3ekNrYXRVOXE1blJpa3hiY3BSdnNQV29FTW03c1dhVm5fQnN3LUlod3FVZlNTbDlRMEhsWVVfSUZTZklKRFhPZFdBSFdHOHdXVzVPTFhHRmRkWVBlZmxwek03aWIyOTNz?oc=5
 
 ### visto americano
 
-- **Redes sociais ‘fechadas’ podem dificultar a aprovação de vistos, alerta Embaixada dos EUA**
-  - Fonte: Mercado e Eventos
-  - Link: https://news.google.com/rss/articles/CBMi4wFBVV95cUxNVlk2OG9qRVRoVjI3TEdRbUxpYkxuWllVTVpiZS1YUDBLR0tEX3oyNGFjbUhrTC14X1lGUUJhUmV6OUozQzEtcEw3VHB0LVRqMW1KdDhXRWozTW4xMnQ5dldUN3M4LTJBZmVveFUxQ3Q1Y043R2VHaFg1OF9UaF90aThJTFNPV2J1MF9JVmVYZlc0QkxPcGFxVmxKNGZFWjJLTEdGSTZBZDRSUHhYdHRmd1hMbDROVnZDM3ZWRXVsQnBfNmJ2eVpZbTFBRnVVMDQ1Z3pkTDFGMndzcmtCTXJMT1I2SQ?oc=5
 - **Embaixada e consulados dos EUA passam a limitar reagendamento de vistos no Brasil**
   - Fonte: Panrotas
   - Link: https://news.google.com/rss/articles/CBMizAFBVV95cUxPRk9xcjRKVU9VenFBcGMxaFNHWWl3UFJwSjdyT0tqVHNuNXhZOUpkMmJaLTBlbEY0VC05NmZsZl80b2xkNXh5NUFBYkU4ZkdSTlhHR2FIQ0pWcHIyLURHdnRzWUpDeGtVMG9yeUotb0p4TG5aLVBLYml6YV9RXzlRYkt4Mm53WmVxQjlyaFJEXzVyRDFuN0JsUmxqX3RLOGl3Umc3SjhTYkE0dHRQNzFEU3RfVF9lUVZ1MzNpM0FTbENvUFpWU2hsOFlraGk?oc=5
+- **Brasileiro pode ter que pagar mais de uma vez taxa de quase R$ 1.000 de visto americano**
+  - Fonte: R7 Entretenimento
+  - Link: https://news.google.com/rss/articles/CBMi-gFBVV95cUxOdHhmZzZ4YWJXOTRsaFlFUmU1dHdDTThEUWpYOTg2RE4ybUtBaHBVMXNMUlg1UmhiT1V4TGU3bl94OVZhQUxNWDA0akQtOUYzSGE4X3lLLVVpRHJEd0NDWk9hdUdtMkQ4TEpBdjIzVWUzUzRacHdwRDZFUG1nMzZvMkxUTTdMMjhITFJITDh1YXBBd3Q2MlhUNHBQdUUwV3RWOXJLTDhrRjAzTWdqbEotSHJMTDdXdllNc1E1N2lRQ19Lb2d2VWxDNUJ1VVJDZmFlX0laSFo5OXAzUHYtNFNEOVZ1WmVGS2s4dC1qaVBKZHRUZzE1QWVKU2pB?oc=5
 
 ### brasileiros nos Estados Unidos
 
-- **EUA dizem apoiar direito do Brasil de ter processo eleitoral livre e justo**
-  - Fonte: CNN Brasil
-  - Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxQZlI5MG4yNmVIblV4LV9EMXJZckI2dTYyVURhcUhTMGl2dXBzb3ppSHpFb0RtaWFZV3NpWDNsdk1QWmxDanQ0OWctNFR4ZjM4Z08wS1NDMXlITjE4cTNjaWdUWS1QN1pzZHdnbXV3TVZwM1lNdE9WelZtcThXSHZqZUJ2VHp4SnFRQVpKb3pnbTI2VzdlMTRkN3R2b3dXbWZ3M1B2VW5raGdMQU5JZUUwdk9lUUhLWHVvaEE?oc=5
-- **Lula diz que EUA precisam mais do Brasil do que o contrário**
-  - Fonte: Correio Braziliense
-  - Link: https://news.google.com/rss/articles/CBMixgFBVV95cUxNWGMzOUlIVG1td2JtMm4zRGR0dGZLYzBSS0c0Umpnd1B3QkVSOEYwS201Vk5FcWlqUmhjazFsdGpLXzhid19idEhKSGd4ZjVEQjJjNUVkTXJuV3VZcXI2dC1vaFBXNGNhOUsyMEEtUUpRMXlLbVoxQ2M1TEJ1blF6Snp6dXdLMUQ2R1Fpdy1oa2R0NTE2TjBfTDZFa05aZjl4cHRpYXBHMTlWSjVGUTAxMFN5WW1acTF5UWw0c1paZHh0X05GTmfSAcsBQVVfeXFMUEloMHhodFJCdEhqenJtNE5MeU84U283TDg0Rm41ZVhaeENrbzZvSlRpYk9FTXpxT2d0WjNHT3JsbDhlaWtxZ0lPU3l4bTBmYnpaQm9BRndjYkVxUmQ4MzNDYmJMVzBWZkxzYnd4QXR3eE04VzJLOHlKTjBZelQ4U3FjMWdfRU1BMUZrTUYzdlJ1R1l2cjd3b3hhaWNKdzdlcE5pMk10bTNuUWFzNDN1TEkyNjdTcWNMZlNfTERrM0ZabWlvOXVJbldmNnc?oc=5
+- **A crise global que Flávio Bolsonaro ou Lula terão de enfrentar se eleitos**
+  - Fonte: BBC
+  - Link: https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ZNzYySExCbDc4ZWZucWV3bFNwcVlNenc2bzAyOGxnbmIwOEVTRFB5LVYweGsyV2M4SlJlaTRROUhfN3N0cVpJdFlSX3R4TWJuWkxscWJPVzNPUUFEempJeU54NA?oc=5
+- **Brasil encurta distância dos EUA e pode assumir liderança nas exportações agrícolas**
+  - Fonte: O Presente Rural
+  - Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxQSEZVVTBLUmZrQzVOcFk2eklWQ3FkLWRaeVZ1TGRXM0J0Q3VoS3Z4TGxXYXVDV1l3RVloNXFKR3dKTzNPSm85eXVsLWF2dk94VUllblJhdkJUdFNaX1JaSDhLSTVhWkp3R3hxMmFTQTNPUDYtNGxXT3MwNXNDNzhkQUhKa0x5M2k3clpfcEJscnFlOWprNy1ueC1VQlBnWlkxRUdUcG94eE5xaHc0MzFXLUQtQzU?oc=5
 
 ### asilo nos EUA
 
 - **EUA anunciam revogação de milhares de vistos de cidadãos em busca de asilo**
   - Fonte: O GLOBO
   - Link: https://news.google.com/rss/articles/CBMiygFBVV95cUxOSWMwZU9TR0FMT28xcVpiOFc2RzhZdU5sNE5MM1ZQa1F0c0RiZEM5SjJRbTc3eG1CRnFzZlc4U2QtUXRiTUhkLWx1dm1PUkVuVnZrdXdwZDZxVThZTFV4OFhMSTBWTjFWVS1tWmpXYnhSa0RtRE1JYi1iTWRQMVdJN2JqQlkzMENYUngxUl9ieEdlazNHYnUzcW53SGJZdEtPMlVJMU5NUTdyMVFzSDQwZ1VuazNqS1NLamdhT1JhQVBHMU1HUmZPNVl30gHYAUFVX3lxTE9hdTBxZEhOQVhkd2x2U2VxNmdhbkt0ZFhWY19yM0FJMGxWMGtHXzRiV0diYUJQQTY4cGlSMmlxaWFRT2lWZmh2SUs3YW5DRzNoS3JjdVFXX2F6VUV4OE9PVFZvSUVQcG0wZEN0SkNsV3JLOGNIYXJQQWltU0lzM2pKbFZJbkhsS0trX2pSUHF0eXRWYnlmUk9OdnJPUzZZZThTdXV3WnJxTGtUM25mNzZrRjZrcV93bWUwNjNBUk5NRjFvcDV5bzJ6UTg2amcxaTJfQVRwNEpZcg?oc=5
-- **EUA preparam revogação em massa de vistos de estrangeiros**
-  - Fonte: DW.com
-  - Link: https://news.google.com/rss/articles/CBMiygFBVV95cUxPdjFUa01aRlBvQjdGWDB2LUFMYllFdnpqVmFuYS1yd254NHB6cUY0ZUhPNDlJbzR4Sk1TY3hveG03eXlGTXFVOFJjVS1sdlRxNzVSZUsxcklGZm9sY3pHX25nQzh6S3dkODZCWl9YRjhJOGJvb3VvR3JWUURQMUlUV1hzTkN5VUR5NTJOZklmdU9GUU0wWFg0N180bTNaM1pQWFFHQi1RTWJ1SlhkVndfMXZQSjVja2U1YUMtYWg2R3NHbmpYYThmbUJR0gHKAUFVX3lxTE84Z2JzY2RRYTNUanJCMkNwSkVsZkFCNUdHRmF3UVVITUk0dHRRQXgwS1R1SXVoaHJZY2U3OTRHR0xBZW5XNDF6TXgwY1pMbjR3U3l5anVlVGdTQzFlOGwwRTB3Mi1JU3ByU1dMRmtFT2plOUEtX2FVUFlMeVBodVp3YVV6WFloX1VpaHRKVUVtUjlxWnVYOEo1RUlDN1VmU0hTSFg4a2pJUW52SjRPOTNfc1Q1ZU1Idm5scnFlSnVaTzlxdWpneDk0MGc?oc=5
+- **Ramagem é solto nos EUA e espera resposta a pedido de asilo**
+  - Fonte: BBC
+  - Link: https://news.google.com/rss/articles/CBMiYkFVX3lxTE9EMUFBNkc3X2ZsVFVkMFAyY0JkZTE0MjZLZWlJQ2YwNk9fWk9ma3QxdFRtaE1xcWVmRDFTS1huRDZ6UGFnX3YyRzJqVWl2YzVhVmxZWnVyLTk3TE4zNnFOd1NR0gFnQVVfeXFMTlZaZVR4Mlk5SWxIS0xiWHJoc0ZvTmZhMmstNE13Yk84Yi1UYkZ1TzBPY01GS3dVOWpZYW5CbWJUclVXX1I5clFTSUQ5VER4ZXZQSEswN3pNcVVpUGhmUUV4OVJuVkRZVQ?oc=5
 
 ### ICE immigration
 
