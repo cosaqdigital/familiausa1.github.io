@@ -1,8 +1,8 @@
 # Relatório diário — Imigração e brasileiros nos EUA
 
-Gerado em: 2026-10-16 12:38 EDT
+Gerado em: 2026-10-16 17:06 EDT
 
-Arquivo original: `2026-10-16-12-38-tendencias-imigracao.md`
+Arquivo original: `2026-10-16-17-06-tendencias-imigracao.md`
 
 ## Objetivo
 
@@ -78,18 +78,18 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 - **Embaixada e consulados dos EUA passam a limitar reagendamento de vistos no Brasil**
   - Fonte: Panrotas
   - Link: https://news.google.com/rss/articles/CBMizAFBVV95cUxPRk9xcjRKVU9VenFBcGMxaFNHWWl3UFJwSjdyT0tqVHNuNXhZOUpkMmJaLTBlbEY0VC05NmZsZl80b2xkNXh5NUFBYkU4ZkdSTlhHR2FIQ0pWcHIyLURHdnRzWUpDeGtVMG9yeUotb0p4TG5aLVBLYml6YV9RXzlRYkt4Mm53WmVxQjlyaFJEXzVyRDFuN0JsUmxqX3RLOGl3Umc3SjhTYkE0dHRQNzFEU3RfVF9lUVZ1MzNpM0FTbENvUFpWU2hsOFlraGk?oc=5
-- **Brasileiro pode ter que pagar mais de uma vez taxa de quase R$ 1.000 de visto americano**
-  - Fonte: R7 Entretenimento
-  - Link: https://news.google.com/rss/articles/CBMi-gFBVV95cUxOdHhmZzZ4YWJXOTRsaFlFUmU1dHdDTThEUWpYOTg2RE4ybUtBaHBVMXNMUlg1UmhiT1V4TGU3bl94OVZhQUxNWDA0akQtOUYzSGE4X3lLLVVpRHJEd0NDWk9hdUdtMkQ4TEpBdjIzVWUzUzRacHdwRDZFUG1nMzZvMkxUTTdMMjhITFJITDh1YXBBd3Q2MlhUNHBQdUUwV3RWOXJLTDhrRjAzTWdqbEotSHJMTDdXdllNc1E1N2lRQ19Lb2d2VWxDNUJ1VVJDZmFlX0laSFo5OXAzUHYtNFNEOVZ1WmVGS2s4dC1qaVBKZHRUZzE1QWVKU2pB?oc=5
+- **Fechamento de consulados dos EUA ao público afeta vistos; Saiba o que fazer**
+  - Fonte: CNN Brasil
+  - Link: https://news.google.com/rss/articles/CBMihgFBVV95cUxONmgtODlEWUlTX3hEeE9BYk44N3B5ZGJNTS04QmdhQ2poYk1JSmRqVEhpTVhqWTJXNHRLRlQwSUt0WlFFdDR5N1VMY1I2eFg1OWUzRThmdjJRM1RmME8xRVB1RlNlNVpvT2xWaXpmMDZPVHMxejFSems1VUVZYUM4andRYnhoZw?oc=5
 
 ### brasileiros nos Estados Unidos
 
 - **A crise global que Flávio Bolsonaro ou Lula terão de enfrentar se eleitos**
   - Fonte: BBC
   - Link: https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ZNzYySExCbDc4ZWZucWV3bFNwcVlNenc2bzAyOGxnbmIwOEVTRFB5LVYweGsyV2M4SlJlaTRROUhfN3N0cVpJdFlSX3R4TWJuWkxscWJPVzNPUUFEempJeU54NA?oc=5
-- **Brasil encurta distância dos EUA e pode assumir liderança nas exportações agrícolas**
-  - Fonte: O Presente Rural
-  - Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxQSEZVVTBLUmZrQzVOcFk2eklWQ3FkLWRaeVZ1TGRXM0J0Q3VoS3Z4TGxXYXVDV1l3RVloNXFKR3dKTzNPSm85eXVsLWF2dk94VUllblJhdkJUdFNaX1JaSDhLSTVhWkp3R3hxMmFTQTNPUDYtNGxXT3MwNXNDNzhkQUhKa0x5M2k3clpfcEJscnFlOWprNy1ueC1VQlBnWlkxRUdUcG94eE5xaHc0MzFXLUQtQzU?oc=5
+- **EUA dizem apoiar direito do Brasil de ter processo eleitoral livre e justo**
+  - Fonte: CNN Brasil
+  - Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxQZlI5MG4yNmVIblV4LV9EMXJZckI2dTYyVURhcUhTMGl2dXBzb3ppSHpFb0RtaWFZV3NpWDNsdk1QWmxDanQ0OWctNFR4ZjM4Z08wS1NDMXlITjE4cTNjaWdUWS1QN1pzZHdnbXV3TVZwM1lNdE9WelZtcThXSHZqZUJ2VHp4SnFRQVpKb3pnbTI2VzdlMTRkN3R2b3dXbWZ3M1B2VW5raGdMQU5JZUUwdk9lUUhLWHVvaEE?oc=5
 
 ### asilo nos EUA
 
@@ -102,12 +102,12 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### ICE immigration
 
+- **Executivo de SP que está legalmente nos EUA é preso acusado de dirigir bêbado, entregue ao ICE e levado para prisão de imigrantes ilegais**
+  - Fonte: G1
+  - Link: https://news.google.com/rss/articles/CBMinAJBVV95cUxQYThGdkl6RVI1NTFiZXNnR2xxcVk0V3dhQmlPRzZ5ZDgxei1tdGNiaER3UXpZUU95bTVoVEFTNVVYQ0VBbmdIYWdhVlJxZUF3bVZGclh3bDhJVjVmLTE3VWJDNWYwZWpKc0lXaXpsVXRXMk90VXN6VTFnTW9Bb1RGY2xqellPZzd5ekN0U29qbElRRHZMS0pRTEg3cl9FV1l1b1pmX0xLVGtsc3huYm1CalprVURXNWVJODNVS3JVSG84U09MYXVPajYweGlwb2xvdnlkT0hDMmZEcHJ6LUNaR2ppMnRQSS05WmN5TnFZYk40eFg1dC1GU0w4djdBRi1OREZheWotYkZRUXYyNGx2WnRUUEZwVWdGUkJraNIBqwJBVV95cUxORGRaVGVyekxwNWhxRkt4aFh2M3lxNEVTUTZnellnb2I5eEVBSzluSnRqVzdJRWlnaS14WS1QTktRNmNDal92MEZ2SHNjQVdxcllOQkllWnFvaEt3dVE5UEJ3NkpTSWY2WHdNWTN3dlI1aTRieW95SnA1eWpzZHFvZ0xaWkZIb0RuYlF1V1hmbk9MWThtZ0lqVXRERmRMUFBmYU8wak85ZXVIWndDZW9XdmlIaHpFZTBwVjBpQ3RqUW1BSjJRYWlYS0RzNlVkRWpJd1NkdWoxY0p5UU50ZlhCS1hFczlka3N5aTB4ZGxSdlZUalFGTjJ4c1VLODRGYnRTNHQxVWk3Q1VKTFFfTEZLNHRSMldybkltNTgxaXRRWENPMzl1SEhpaXU3aw?oc=5
 - **Policial civil aposentado de SC é preso pelo ICE nos EUA após fugir da Justiça brasileira**
   - Fonte: G1
   - Link: https://news.google.com/rss/articles/CBMiywFBVV95cUxOalNocWZhYXEtVVdLR3VJa1h1NF9LdDlYMm9GVDRvU09GNm54X2I2N0FhbkpUdWVRdllWNGwzT1k3TXFKV29kQ3lPZlZ2TEVnZG80cGJ3NkRMSmlmM2tUUEdaZHZoeUs3UXl3U3V2Wlp1OC0xdEluVDZOcktTYW00dXNORy15YTZLUFV4R2NXNE5NaGZIV0hndERWWDNGZ1NRdTdBb3k3djJ1cElIRl94dWZ2LUFRMnNKck5aQUtWaEVEYW9jQzNDWUVTNNIB2gFBVV95cUxOWnZsak1rdm1oc1FJR3JUZ3FXQmFVT0NJUkxybS1xaEtGWTdTcHZuVnFMMkItRnpzanI2dDZ2TlNIVVBXMm1WMS1lMVdVR0R1ZzQ5SlVLN1poeTBZVVpqVGtkNnJtRTFVV0tIbXhHR0hZQ2pGT2VWN01JVXhZTmJQdy1HTGVzNEozckdCMm5EWlJ4QTIySGJTM0EwaV9pLWc5d3RNQ2xwZGNLckxXc19sQVB1NldwZTM4aWNMcXNGUXJqdDdQYUZzTUh3d1pzSk53Qm42SkRyLU42dw?oc=5
-- **Foragido da Justiça brasileira é localizado nos EUA e preso pelo ICE após investigação iniciada em Itajaí**
-  - Fonte: NSC Total
-  - Link: https://news.google.com/rss/articles/CBMi2wFBVV95cUxOR08tTmJwN3JqRVNiZUNzRVVMblN1Tl9NblNHWElfaUZ3VnFDTUZNdEtXZnpZOENaem13aTVBVzBUWDk3NnVoWDRlZXBnOXU0Q0Q1TjIzeThfd09FOG5xOHlIYzZ1a1g5eWpoUVdWelh6Q3RIXzZwNkl6UGV4V3VTZjRwTTZoS1ptcm9LV2Z4UjZUVkI1TkVOdFZWX1cwd0xkWDl0MUR0SUZYRDlteWo0bzBPR25QUDZZZVV1VlJfVkNLUEZnZy1zdkhSdHl5RExlZUdXTXFxdkx6VGM?oc=5
 
 
 ## Termos monitorados
