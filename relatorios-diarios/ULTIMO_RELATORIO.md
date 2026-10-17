@@ -1,8 +1,8 @@
 # Relatório diário — Imigração e brasileiros nos EUA
 
-Gerado em: 2026-10-16 17:06 EDT
+Gerado em: 2026-10-17 00:22 EDT
 
-Arquivo original: `2026-10-16-17-06-tendencias-imigracao.md`
+Arquivo original: `2026-10-17-00-22-tendencias-imigracao.md`
 
 ## Objetivo
 
@@ -10,25 +10,25 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ## Principais assuntos do dia
 
-1. **O pacto inédito entre católicos e evangélicos contra as deportações em massa nos EUA**
-   - Fonte: Gazeta do Povo
+1. **EUA: católicos e evangélicos pedem tratamento humano para migrantes**
+   - Fonte: Vatican News
    - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMirgFBVV95cUxQbjlIOS00SXNCWkZMRUdkc0ZGa1F3cjIxLVNUVDRobUM1SV9Kdnd5Rjl4RWhrSFhEbE5uWmNaREUzd1BMS053cmFFNF9uXzVFU3J4TTJyZVdWX05PaWJxdGtfR09ndUNTSFg1QzhHQVdRX2tDT0U5NWlQVnJJdEZfcTJzTmhOUVFxRUFjR0FqVDBlVnhwYnhhSFJwbmdWWHBORGtNYkE0eTBacmlRRkE?oc=5
+   - Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUnA2QnlxVlg4VWQ1SWxfNGJVTE92ejcwSlFfTzgwU0tta1dVLXY4VjUxV21GdFZJYmhILUVwSFU4V2pFQ1c0ZUxISF9HOGhZMUNFYVBsZEtRcG96a2hQbnI1Q1hoOEtpLVBZNlo4LUc0Mi1FeUlZUWV3cW95eUlqd1JDRUNWRVdJdzEyV2k2dTF1dTFneEI5dUZFZ2RaeW9QNl9EMnVDemotUUs4d3JXc21lS0pleFh6eEdn?oc=5
 
-2. **Prisões de crianças pelo ICE mais que dobram nos EUA**
-   - Fonte: AcheiUSA
+2. **Operação anti-imigração em residência de deputada democrata vira tema na reta final das eleições legislativas nos EUA**
+   - Fonte: O GLOBO
    - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMimAFBVV95cUxQMWFhSXNYdHY3YWRvZHJvZldyOEpJLVlLT2lhX2JUNDRXV3VzS0ZabE00dDc3c2FRblhHWWlxaDVaWk5vdUY4RGx5Z0FfRUZpRmlFeENnLTVEVldZbTlJbUlZZHlCRVZLRG1fMW9Gd2F6U1VUNXhYZjFqV1o2ZzBhd3dUel9LaGJTZDVQalo2NDN1NUJTbXRUWQ?oc=5
+   - Link: https://news.google.com/rss/articles/CBMi_AFBVV95cUxPUzREeS1GbGZyUUx6SG1DemY4bGlCcnFSUHpTUGkxT0xfZEhOVjNhcFpPWHVzRUZrenhCRGZ6dlgtVlVGQXc2MTR3anFmaUI0MzZuM3IzR0REOTRobEVIYk1uZDhrWEdnckl0djdpZ3J5c1hkdHZzbExLZE1aUlJUNnRsWkhfT09fVmRzSDItdW1HNEllZ0FJVU10RThCLU1BcUI5Z19hMmJ0YWlZdzhoQTlWNWJJN2RPa1g4XzAyazFQMUZFaG52NkpXQ3F6UEtaMzRxVDBfazRwOVBEZ1lHbkZHRjQxWGRFUDNyVUZfX3NMUXo2NGZ4bzQxalXSAYsCQVVfeXFMT0hFX2dRZjhvaDZwaV9XWTVKLThWTHJBejYweEpFdjkyUjJXbkJhbTJ4MEkySWpDVDlCMmY4US05d3VUa0Q5dmtvd21TSFFkUzFuUFRhNTFCdzJDdHBRZERIc3E1dkJ5Ni1SeTlFbkNDOG5SUjM4R1g3Z0tMNm51M2l2MElnU2Jtem9zUVR2SlhBVnRfNTAxdHZ3NlNrS2k4U0x4TkJNRWk3WUhnVkFJS2RkdV8yTGhvbUlESkFnMl9Wb2h1VUR5UVc3ZGVoZHc3X2R4QkpQV2NRZ1hnT254T29PYXBhZXBjQVplQ2FEZ3hFMFlUcnFHZUxNVU1JLWhuTFlJNTZIX19kM3NF?oc=5
 
-3. **EUA rejeitam proposta de ativação automática de câmeras corporais do ICE**
-   - Fonte: CNN Brasil
+3. **EUA aceleram deportações de crianças migrantes sem advogado, diz NYT**
+   - Fonte: UOL Notícias
    - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxNaVF2VVZGWjhtUWdBZE8tNlQzU3BNUmh4VWdYYm03R0FuZEFBci1sNjhKOUVnX1c0WmpCenpvVE80ZDR1YWxXMklpTG9iN3BYS0lwSzVvNEthR0Fkb3h6WlNtbWtKSncwQWxZSFJvMGpmalJUN1BTdndGRE5CcVJMVVVHUE1QN0VEaWQ0RjFkbm9ZaXZfQTF2N0RkLW5PcVRWTzB3OXZqX0ZESzB1N1dQWGNfeUpObDg?oc=5
+   - Link: https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWWIwVlB3RnBoSThMeDVjLVdHUHZTSldXSzdja0cyS19KTjRHa0R1WFBUS3VwNkVLdVJwUlF3Q1NfdWpwVzV2Y2k0YWtQd2VCOHdzcTJ1aWx5Y2tIZEMwaHRUeURScFRDT0VaaHN0N0t2NE9LVnExcFZzSEcyUDFWb2FQeVBKazRkcFRMY0hRRjRJb3RCTVhzMWRlN05OUTY2QkQydlFWRXBMRkdiSEpMWjl4d2dZUU15TnZSYjhkdk5PVkRkUXUyTDNTQXFaZWItLTdvb0h5eXZMUQ?oc=5
 
-4. **6 em cada 10 imigrantes brasileiros detidos nos EUA pelo ICE são deportados**
-   - Fonte: Folha de S.Paulo
+4. **Conferência episcopal dos EUA e Associação Nacional de Evangélicos emitem declaração conjunta sobre imigração**
+   - Fonte: ACI Digital
    - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSktGcEdYbmZ6SUUzOHRSdWNOazg0VUZTRGFlTUFGSDEtd1NEQkg2WGJHek1ib1pNUWE3R29GYXV6ODNZZnJpQ3J6R0F6QU9LWTlCTktUc016eS1IcV9BeG15andyOEpnTEh5WGtsakpGbTllZmN2MGpsOTJVcUFXQ2Q5S19ZWkYwMDFodldaT0RhMWpfczZZUlhfa0FDd0Rtbm16WG5BTWxwb3dpbjZpOEsxUVoxdHljYlJ2OG1pOTRMODQ?oc=5
+   - Link: https://news.google.com/rss/articles/CBMizwFBVV95cUxPM2hsX081OVFyeDB0OE9NUGY0bTlPZGpCdUNvLVNBVUtJY2RBZjZ6YXgxUkloNjI5YmllS1dPZERObDhUSWV2cC1lNVRDaFg4OW1BTlYwM2plYWl2bno5NUJoNnNNN25IenN6ZU95MFhQaklqc3E3dDZ5TXdjOHhvTktraWh2bUpXODQxQUlCMDQ4Z0VoSTZtcFRESHA3M0d3dGNoaEd5Zzc2WU11UGs5a3B6ajJKY01VNXpRX2VyeE1kV0ZJaDdiSXNiQm1uRkU?oc=5
 
 5. **EUA propõem nova análise para 208 mil pedidos anuais de extensão de trabalho | SEGS Portal Nacional de...**
    - Fonte: SEGS Portal Nacional
@@ -48,12 +48,12 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### imigração EUA
 
-- **O pacto inédito entre católicos e evangélicos contra as deportações em massa nos EUA**
-  - Fonte: Gazeta do Povo
-  - Link: https://news.google.com/rss/articles/CBMirgFBVV95cUxQbjlIOS00SXNCWkZMRUdkc0ZGa1F3cjIxLVNUVDRobUM1SV9Kdnd5Rjl4RWhrSFhEbE5uWmNaREUzd1BMS053cmFFNF9uXzVFU3J4TTJyZVdWX05PaWJxdGtfR09ndUNTSFg1QzhHQVdRX2tDT0U5NWlQVnJJdEZfcTJzTmhOUVFxRUFjR0FqVDBlVnhwYnhhSFJwbmdWWHBORGtNYkE0eTBacmlRRkE?oc=5
-- **Prisões de crianças pelo ICE mais que dobram nos EUA**
-  - Fonte: AcheiUSA
-  - Link: https://news.google.com/rss/articles/CBMimAFBVV95cUxQMWFhSXNYdHY3YWRvZHJvZldyOEpJLVlLT2lhX2JUNDRXV3VzS0ZabE00dDc3c2FRblhHWWlxaDVaWk5vdUY4RGx5Z0FfRUZpRmlFeENnLTVEVldZbTlJbUlZZHlCRVZLRG1fMW9Gd2F6U1VUNXhYZjFqV1o2ZzBhd3dUel9LaGJTZDVQalo2NDN1NUJTbXRUWQ?oc=5
+- **EUA: católicos e evangélicos pedem tratamento humano para migrantes**
+  - Fonte: Vatican News
+  - Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUnA2QnlxVlg4VWQ1SWxfNGJVTE92ejcwSlFfTzgwU0tta1dVLXY4VjUxV21GdFZJYmhILUVwSFU4V2pFQ1c0ZUxISF9HOGhZMUNFYVBsZEtRcG96a2hQbnI1Q1hoOEtpLVBZNlo4LUc0Mi1FeUlZUWV3cW95eUlqd1JDRUNWRVdJdzEyV2k2dTF1dTFneEI5dUZFZ2RaeW9QNl9EMnVDemotUUs4d3JXc21lS0pleFh6eEdn?oc=5
+- **Operação anti-imigração em residência de deputada democrata vira tema na reta final das eleições legislativas nos EUA**
+  - Fonte: O GLOBO
+  - Link: https://news.google.com/rss/articles/CBMi_AFBVV95cUxPUzREeS1GbGZyUUx6SG1DemY4bGlCcnFSUHpTUGkxT0xfZEhOVjNhcFpPWHVzRUZrenhCRGZ6dlgtVlVGQXc2MTR3anFmaUI0MzZuM3IzR0REOTRobEVIYk1uZDhrWEdnckl0djdpZ3J5c1hkdHZzbExLZE1aUlJUNnRsWkhfT09fVmRzSDItdW1HNEllZ0FJVU10RThCLU1BcUI5Z19hMmJ0YWlZdzhoQTlWNWJJN2RPa1g4XzAyazFQMUZFaG52NkpXQ3F6UEtaMzRxVDBfazRwOVBEZ1lHbkZHRjQxWGRFUDNyVUZfX3NMUXo2NGZ4bzQxalXSAYsCQVVfeXFMT0hFX2dRZjhvaDZwaV9XWTVKLThWTHJBejYweEpFdjkyUjJXbkJhbTJ4MEkySWpDVDlCMmY4US05d3VUa0Q5dmtvd21TSFFkUzFuUFRhNTFCdzJDdHBRZERIc3E1dkJ5Ni1SeTlFbkNDOG5SUjM4R1g3Z0tMNm51M2l2MElnU2Jtem9zUVR2SlhBVnRfNTAxdHZ3NlNrS2k4U0x4TkJNRWk3WUhnVkFJS2RkdV8yTGhvbUlESkFnMl9Wb2h1VUR5UVc3ZGVoZHc3X2R4QkpQV2NRZ1hnT254T29PYXBhZXBjQVplQ2FEZ3hFMFlUcnFHZUxNVU1JLWhuTFlJNTZIX19kM3NF?oc=5
 
 ### USCIS
 
@@ -84,9 +84,9 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### brasileiros nos Estados Unidos
 
-- **A crise global que Flávio Bolsonaro ou Lula terão de enfrentar se eleitos**
-  - Fonte: BBC
-  - Link: https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ZNzYySExCbDc4ZWZucWV3bFNwcVlNenc2bzAyOGxnbmIwOEVTRFB5LVYweGsyV2M4SlJlaTRROUhfN3N0cVpJdFlSX3R4TWJuWkxscWJPVzNPUUFEempJeU54NA?oc=5
+- **Em carta, governo Trump diz que apoia processo eleitoral no Brasil e defende ações contra Moraes, PCC e CV**
+  - Fonte: G1
+  - Link: https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZmhFVlVYWlFQUkVkazRPWnE1bE9LRnZxeDRhRVV3ZFFBYVVkSE5ZVWt6ZUhibGJmQlVKRFRNUk9xQ3NVUkNsQUlERHc5VERLaWlYc2ttcTlFZExMb0lNNVhCaHhhQlRYZEtxaVFpZUE5TzZqMHduTGc2QWc4SHhCcS1ISGV6NUt1SkEzY2ZRRVhMSmI1eUNsQS1PWnN4ZXFUYWVyNzhueFVNWVByeGdrc2QwWUZXM3Awc0tmRFExaDQ1YjgyTDNZc3pxRjc4NS13dWo5dEJfXzJsUGRDaktlclFFSFRJRE81ZzdKMNIB-wFBVV95cUxNMkhJdHFtTHZNdGZKMGpsYWtPS2lOeDlfbWVySWdlNnc0SnR5a255Q1djZ1FuNEs4a1M0VnZzeWlDWnppUTIzX01CaWRBSUpxNlFDOTJsdTFubDN4d2Jqb2VzQ2VEeVo4ZEZ3SzQ1azdBenZ3ZWFyNzlsblJHS0U4ZVIyUi1QQTVIYzZEOXJWak94enJHRnZSUEpMcFphZ3QwbUhxQlNTay1BR0xtM2M3X2VsaWZ0ekpNcFhjZ0ZkcGRGazF0Qjkzbnk5TlRpa1RrcFM3Qm42SXpQdThlaFBvNEc2ZmtDem1RWElEYVZjUk5GNGhEcDdqX2haYw?oc=5
 - **EUA dizem apoiar direito do Brasil de ter processo eleitoral livre e justo**
   - Fonte: CNN Brasil
   - Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxQZlI5MG4yNmVIblV4LV9EMXJZckI2dTYyVURhcUhTMGl2dXBzb3ppSHpFb0RtaWFZV3NpWDNsdk1QWmxDanQ0OWctNFR4ZjM4Z08wS1NDMXlITjE4cTNjaWdUWS1QN1pzZHdnbXV3TVZwM1lNdE9WelZtcThXSHZqZUJ2VHp4SnFRQVpKb3pnbTI2VzdlMTRkN3R2b3dXbWZ3M1B2VW5raGdMQU5JZUUwdk9lUUhLWHVvaEE?oc=5
@@ -102,9 +102,9 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### ICE immigration
 
-- **Executivo de SP que está legalmente nos EUA é preso acusado de dirigir bêbado, entregue ao ICE e levado para prisão de imigrantes ilegais**
-  - Fonte: G1
-  - Link: https://news.google.com/rss/articles/CBMinAJBVV95cUxQYThGdkl6RVI1NTFiZXNnR2xxcVk0V3dhQmlPRzZ5ZDgxei1tdGNiaER3UXpZUU95bTVoVEFTNVVYQ0VBbmdIYWdhVlJxZUF3bVZGclh3bDhJVjVmLTE3VWJDNWYwZWpKc0lXaXpsVXRXMk90VXN6VTFnTW9Bb1RGY2xqellPZzd5ekN0U29qbElRRHZMS0pRTEg3cl9FV1l1b1pmX0xLVGtsc3huYm1CalprVURXNWVJODNVS3JVSG84U09MYXVPajYweGlwb2xvdnlkT0hDMmZEcHJ6LUNaR2ppMnRQSS05WmN5TnFZYk40eFg1dC1GU0w4djdBRi1OREZheWotYkZRUXYyNGx2WnRUUEZwVWdGUkJraNIBqwJBVV95cUxORGRaVGVyekxwNWhxRkt4aFh2M3lxNEVTUTZnellnb2I5eEVBSzluSnRqVzdJRWlnaS14WS1QTktRNmNDal92MEZ2SHNjQVdxcllOQkllWnFvaEt3dVE5UEJ3NkpTSWY2WHdNWTN3dlI1aTRieW95SnA1eWpzZHFvZ0xaWkZIb0RuYlF1V1hmbk9MWThtZ0lqVXRERmRMUFBmYU8wak85ZXVIWndDZW9XdmlIaHpFZTBwVjBpQ3RqUW1BSjJRYWlYS0RzNlVkRWpJd1NkdWoxY0p5UU50ZlhCS1hFczlka3N5aTB4ZGxSdlZUalFGTjJ4c1VLODRGYnRTNHQxVWk3Q1VKTFFfTEZLNHRSMldybkltNTgxaXRRWENPMzl1SEhpaXU3aw?oc=5
+- **Polícia Civil de Santa Catarina, em cooperação com o ICE, prende foragido da Justiça brasileira em Orlando, nos EUA**
+  - Fonte: Polícia Civil de Santa Catarina
+  - Link: https://news.google.com/rss/articles/CBMiQ0FVX3lxTE93VDJmeTk1LUFsYTJqOEZTM1FZcmJmSXB5UEdnNzB3SklGcUtzMGFXYjRmZzVCZjhLS3k1Z1NMZXktVjg?oc=5
 - **Policial civil aposentado de SC é preso pelo ICE nos EUA após fugir da Justiça brasileira**
   - Fonte: G1
   - Link: https://news.google.com/rss/articles/CBMiywFBVV95cUxOalNocWZhYXEtVVdLR3VJa1h1NF9LdDlYMm9GVDRvU09GNm54X2I2N0FhbkpUdWVRdllWNGwzT1k3TXFKV29kQ3lPZlZ2TEVnZG80cGJ3NkRMSmlmM2tUUEdaZHZoeUs3UXl3U3V2Wlp1OC0xdEluVDZOcktTYW00dXNORy15YTZLUFV4R2NXNE5NaGZIV0hndERWWDNGZ1NRdTdBb3k3djJ1cElIRl94dWZ2LUFRMnNKck5aQUtWaEVEYW9jQzNDWUVTNNIB2gFBVV95cUxOWnZsak1rdm1oc1FJR3JUZ3FXQmFVT0NJUkxybS1xaEtGWTdTcHZuVnFMMkItRnpzanI2dDZ2TlNIVVBXMm1WMS1lMVdVR0R1ZzQ5SlVLN1poeTBZVVpqVGtkNnJtRTFVV0tIbXhHR0hZQ2pGT2VWN01JVXhZTmJQdy1HTGVzNEozckdCMm5EWlJ4QTIySGJTM0EwaV9pLWc5d3RNQ2xwZGNLckxXc19sQVB1NldwZTM4aWNMcXNGUXJqdDdQYUZzTUh3d1pzSk53Qm42SkRyLU42dw?oc=5
