@@ -1,8 +1,8 @@
 # Relatório diário — Imigração e brasileiros nos EUA
 
-Gerado em: 2026-10-17 11:33 EDT
+Gerado em: 2026-10-17 16:35 EDT
 
-Arquivo original: `2026-10-17-11-33-tendencias-imigracao.md`
+Arquivo original: `2026-10-17-16-35-tendencias-imigracao.md`
 
 ## Objetivo
 
@@ -20,15 +20,15 @@ Este relatório serve como base para criação de artigos atualizados para o blo
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMi_AFBVV95cUxPUzREeS1GbGZyUUx6SG1DemY4bGlCcnFSUHpTUGkxT0xfZEhOVjNhcFpPWHVzRUZrenhCRGZ6dlgtVlVGQXc2MTR3anFmaUI0MzZuM3IzR0REOTRobEVIYk1uZDhrWEdnckl0djdpZ3J5c1hkdHZzbExLZE1aUlJUNnRsWkhfT09fVmRzSDItdW1HNEllZ0FJVU10RThCLU1BcUI5Z19hMmJ0YWlZdzhoQTlWNWJJN2RPa1g4XzAyazFQMUZFaG52NkpXQ3F6UEtaMzRxVDBfazRwOVBEZ1lHbkZHRjQxWGRFUDNyVUZfX3NMUXo2NGZ4bzQxalXSAYsCQVVfeXFMT0hFX2dRZjhvaDZwaV9XWTVKLThWTHJBejYweEpFdjkyUjJXbkJhbTJ4MEkySWpDVDlCMmY4US05d3VUa0Q5dmtvd21TSFFkUzFuUFRhNTFCdzJDdHBRZERIc3E1dkJ5Ni1SeTlFbkNDOG5SUjM4R1g3Z0tMNm51M2l2MElnU2Jtem9zUVR2SlhBVnRfNTAxdHZ3NlNrS2k4U0x4TkJNRWk3WUhnVkFJS2RkdV8yTGhvbUlESkFnMl9Wb2h1VUR5UVc3ZGVoZHc3X2R4QkpQV2NRZ1hnT254T29PYXBhZXBjQVplQ2FEZ3hFMFlUcnFHZUxNVU1JLWhuTFlJNTZIX19kM3NF?oc=5
 
-3. **EUA aceleram deportações de crianças migrantes sem advogado, diz NYT**
-   - Fonte: UOL Notícias
+3. **6 em cada 10 imigrantes brasileiros detidos nos EUA pelo ICE são deportados**
+   - Fonte: Folha de S.Paulo
    - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWWIwVlB3RnBoSThMeDVjLVdHUHZTSldXSzdja0cyS19KTjRHa0R1WFBUS3VwNkVLdVJwUlF3Q1NfdWpwVzV2Y2k0YWtQd2VCOHdzcTJ1aWx5Y2tIZEMwaHRUeURScFRDT0VaaHN0N0t2NE9LVnExcFZzSEcyUDFWb2FQeVBKazRkcFRMY0hRRjRJb3RCTVhzMWRlN05OUTY2QkQydlFWRXBMRkdiSEpMWjl4d2dZUU15TnZSYjhkdk5PVkRkUXUyTDNTQXFaZWItLTdvb0h5eXZMUQ?oc=5
+   - Link: https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSktGcEdYbmZ6SUUzOHRSdWNOazg0VUZTRGFlTUFGSDEtd1NEQkg2WGJHek1ib1pNUWE3R29GYXV6ODNZZnJpQ3J6R0F6QU9LWTlCTktUc016eS1IcV9BeG15andyOEpnTEh5WGtsakpGbTllZmN2MGpsOTJVcUFXQ2Q5S19ZWkYwMDFodldaT0RhMWpfczZZUlhfa0FDd0Rtbm16WG5BTWxwb3dpbjZpOEsxUVoxdHljYlJ2OG1pOTRMODQ?oc=5
 
-4. **EUA rejeitam proposta de ativação automática de câmeras corporais do ICE**
-   - Fonte: CNN Brasil
+4. **O pacto inédito entre católicos e evangélicos contra as deportações em massa nos EUA**
+   - Fonte: Gazeta do Povo
    - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxNaVF2VVZGWjhtUWdBZE8tNlQzU3BNUmh4VWdYYm03R0FuZEFBci1sNjhKOUVnX1c0WmpCenpvVE80ZDR1YWxXMklpTG9iN3BYS0lwSzVvNEthR0Fkb3h6WlNtbWtKSncwQWxZSFJvMGpmalJUN1BTdndGRE5CcVJMVVVHUE1QN0VEaWQ0RjFkbm9ZaXZfQTF2N0RkLW5PcVRWTzB3OXZqX0ZESzB1N1dQWGNfeUpObDg?oc=5
+   - Link: https://news.google.com/rss/articles/CBMirgFBVV95cUxQbjlIOS00SXNCWkZMRUdkc0ZGa1F3cjIxLVNUVDRobUM1SV9Kdnd5Rjl4RWhrSFhEbE5uWmNaREUzd1BMS053cmFFNF9uXzVFU3J4TTJyZVdWX05PaWJxdGtfR09ndUNTSFg1QzhHQVdRX2tDT0U5NWlQVnJJdEZfcTJzTmhOUVFxRUFjR0FqVDBlVnhwYnhhSFJwbmdWWHBORGtNYkE0eTBacmlRRkE?oc=5
 
 5. **EUA propõem nova análise para 208 mil pedidos anuais de extensão de trabalho | SEGS Portal Nacional de...**
    - Fonte: SEGS Portal Nacional
@@ -84,9 +84,9 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### brasileiros nos Estados Unidos
 
-- **Em carta, governo Trump diz que apoia processo eleitoral no Brasil e defende ações contra Moraes, PCC e CV**
-  - Fonte: G1
-  - Link: https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZmhFVlVYWlFQUkVkazRPWnE1bE9LRnZxeDRhRVV3ZFFBYVVkSE5ZVWt6ZUhibGJmQlVKRFRNUk9xQ3NVUkNsQUlERHc5VERLaWlYc2ttcTlFZExMb0lNNVhCaHhhQlRYZEtxaVFpZUE5TzZqMHduTGc2QWc4SHhCcS1ISGV6NUt1SkEzY2ZRRVhMSmI1eUNsQS1PWnN4ZXFUYWVyNzhueFVNWVByeGdrc2QwWUZXM3Awc0tmRFExaDQ1YjgyTDNZc3pxRjc4NS13dWo5dEJfXzJsUGRDaktlclFFSFRJRE81ZzdKMNIB-wFBVV95cUxNMkhJdHFtTHZNdGZKMGpsYWtPS2lOeDlfbWVySWdlNnc0SnR5a255Q1djZ1FuNEs4a1M0VnZzeWlDWnppUTIzX01CaWRBSUpxNlFDOTJsdTFubDN4d2Jqb2VzQ2VEeVo4ZEZ3SzQ1azdBenZ3ZWFyNzlsblJHS0U4ZVIyUi1QQTVIYzZEOXJWak94enJHRnZSUEpMcFphZ3QwbUhxQlNTay1BR0xtM2M3X2VsaWZ0ekpNcFhjZ0ZkcGRGazF0Qjkzbnk5TlRpa1RrcFM3Qm42SXpQdThlaFBvNEc2ZmtDem1RWElEYVZjUk5GNGhEcDdqX2haYw?oc=5
+- **Voo com brasileiros repatriados dos Estados Unidos chegou a Confins (MG) nessa sexta-feira (16)**
+  - Fonte: www.gov.br
+  - Link: https://news.google.com/rss/articles/CBMi_AFBVV95cUxNMXg3M2Jndllzajk2Zi11NHpycUs1OFZNRE9OTVU5WjBUaDZDZnJfc3hBQklJUkl3ZUlwWEhPeUFfbHFUdElNRVBpa19SUUl2a0lNbktNSWxsaHpWR1VXMnpPVHJkQTJ2U2dVMjNFRjM0RmJTY185clhDVDd2dTFiTEFzUlJMOFAyeTRaVV9IZDVKREdVUUFFdl9yS2Z5WFdDVGpvc3Y4OFZXbHkzQWZWWVZGVGlKeHFBeG9fb0dMRkFkQ2d5ek40RjVsZmZtNlVSQkhwZ0ozS2VteENHSVBfd1JGUmdVSXNXdHVFTUQ0ZlVVbVdQYnl1SGJEVS0?oc=5
 - **EUA dizem apoiar direito do Brasil de ter processo eleitoral livre e justo**
   - Fonte: CNN Brasil
   - Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxQZlI5MG4yNmVIblV4LV9EMXJZckI2dTYyVURhcUhTMGl2dXBzb3ppSHpFb0RtaWFZV3NpWDNsdk1QWmxDanQ0OWctNFR4ZjM4Z08wS1NDMXlITjE4cTNjaWdUWS1QN1pzZHdnbXV3TVZwM1lNdE9WelZtcThXSHZqZUJ2VHp4SnFRQVpKb3pnbTI2VzdlMTRkN3R2b3dXbWZ3M1B2VW5raGdMQU5JZUUwdk9lUUhLWHVvaEE?oc=5
