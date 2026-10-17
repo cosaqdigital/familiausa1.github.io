@@ -1,8 +1,8 @@
 # Relatório diário — Imigração e brasileiros nos EUA
 
-Gerado em: 2026-10-17 00:22 EDT
+Gerado em: 2026-10-17 11:33 EDT
 
-Arquivo original: `2026-10-17-00-22-tendencias-imigracao.md`
+Arquivo original: `2026-10-17-11-33-tendencias-imigracao.md`
 
 ## Objetivo
 
@@ -25,10 +25,10 @@ Este relatório serve como base para criação de artigos atualizados para o blo
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWWIwVlB3RnBoSThMeDVjLVdHUHZTSldXSzdja0cyS19KTjRHa0R1WFBUS3VwNkVLdVJwUlF3Q1NfdWpwVzV2Y2k0YWtQd2VCOHdzcTJ1aWx5Y2tIZEMwaHRUeURScFRDT0VaaHN0N0t2NE9LVnExcFZzSEcyUDFWb2FQeVBKazRkcFRMY0hRRjRJb3RCTVhzMWRlN05OUTY2QkQydlFWRXBMRkdiSEpMWjl4d2dZUU15TnZSYjhkdk5PVkRkUXUyTDNTQXFaZWItLTdvb0h5eXZMUQ?oc=5
 
-4. **Conferência episcopal dos EUA e Associação Nacional de Evangélicos emitem declaração conjunta sobre imigração**
-   - Fonte: ACI Digital
+4. **EUA rejeitam proposta de ativação automática de câmeras corporais do ICE**
+   - Fonte: CNN Brasil
    - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMizwFBVV95cUxPM2hsX081OVFyeDB0OE9NUGY0bTlPZGpCdUNvLVNBVUtJY2RBZjZ6YXgxUkloNjI5YmllS1dPZERObDhUSWV2cC1lNVRDaFg4OW1BTlYwM2plYWl2bno5NUJoNnNNN25IenN6ZU95MFhQaklqc3E3dDZ5TXdjOHhvTktraWh2bUpXODQxQUlCMDQ4Z0VoSTZtcFRESHA3M0d3dGNoaEd5Zzc2WU11UGs5a3B6ajJKY01VNXpRX2VyeE1kV0ZJaDdiSXNiQm1uRkU?oc=5
+   - Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxNaVF2VVZGWjhtUWdBZE8tNlQzU3BNUmh4VWdYYm03R0FuZEFBci1sNjhKOUVnX1c0WmpCenpvVE80ZDR1YWxXMklpTG9iN3BYS0lwSzVvNEthR0Fkb3h6WlNtbWtKSncwQWxZSFJvMGpmalJUN1BTdndGRE5CcVJMVVVHUE1QN0VEaWQ0RjFkbm9ZaXZfQTF2N0RkLW5PcVRWTzB3OXZqX0ZESzB1N1dQWGNfeUpObDg?oc=5
 
 5. **EUA propõem nova análise para 208 mil pedidos anuais de extensão de trabalho | SEGS Portal Nacional de...**
    - Fonte: SEGS Portal Nacional
@@ -66,12 +66,12 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### green card
 
-- **Justiça manda governo Trump abrir inscrições da loteria do green card de 2027**
-  - Fonte: AcheiUSA
-  - Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxOdHJOQ1lQTk5Gb1k3TUZrZi02RDYzUjdMOVZFZTNab0huamJ0WEtrTHcwVXU3ZWNMYjZHeXhDdk9yaG5vdmp1UFBRYlRGaVFQWmFiSnNyamYzVDZxWTRoeXZDZklOWkl0NC1DbTBkR3RHcTNKOUJscGdmT3dsdU9PMDE3anBhbHc5Sjc0Y2VjY01BdnVKeERWRWFFLS1oLVBpM2RVaW8yb3MyQy11bjZTSHhPTFJ0NDVKb0E?oc=5
 - **Eduardo Bolsonaro teve 'green card' concedido pelo governo Trump; relembre**
   - Fonte: G1
   - Link: https://news.google.com/rss/articles/CBMiwAFBVV95cUxORmEtVDMwUHpDQTRoQ2NUM0txX2Y3dExXUEo1N2Vmd1pvWkR5VjNDUDVzWkNVV1RDYmYxOGlQSVR6a2k4dU1BSElDQWdfdmtUUUp4QkVJLUZ4NlZDbllwU2ZYTWw5a3NIT2l5MGZUVlVMekRBMHl6SWRhRTFubGFtc2l5UU8zZ3gyTTBZMzh4dXBBWHpmelIxVzlUM2dEaWd4N1pYVGZxZ0RZYlRQRGQwUm43RE5lanB3cmVHN05sUlPSAc8BQVVfeXFMTTdvSVRSbEY3bTk0Rm1NRUZpaTBMMk83Q2FsbWFYWUhfdlY4Si04ZXJnNmJBOUd6SjJDQWRpaWgza1ZhbFo4b2dyOUpIU2NMVjZ6U0dJcVEtMmhISmpVajhaQjlzbnB2WDJUMVBEU1hfZ2o4bXJqYVBTRWx5MWtBWGhfbWNMa1Z4WlZsYmlKTDJWWnRxaTlmZ25wQWUycUdZRGhXb3BkOGhxNHN1MjAyT0lsbG5NQWRuLUZ6ZS1uR0R5VklIczdKdHVOd0t0RkZR?oc=5
+- **Governo Trump suspende Microsoft e Adobe do programa de Green Card**
+  - Fonte: IT Forum
+  - Link: https://news.google.com/rss/articles/CBMiigFBVV95cUxPTFNCWTg5SGNlNFhCWlpoVU5PSHE0bnEzcExGcmp3YVVGYlE4Z3lfR2N3dllVNUtIUWpwSTFMankydXV5STl5dGw0WTNpdTNaM0VZT0lwUU00U2lRWFczSDU1NmN5c0FDQ0hUNG1NUkRiWEhCY1hOYUNBYU1pOEFXakVzeTRkaG96ZkHSAY8BQVVfeXFMT3NINGFXNVZxaW9xU0c0TTNQWHU2dlhLamxqS1d1RWNPOHlfQXg5MTUzWm9tNEpxaUJvSlRLVG1WTXVROVpiM2l4QXg0T0R2QjVzWWJZck1QbjVBZW1kWHVnS0ptQ2N4ZVdmZkVRbHBKSlVjZW1VWVkwN1VyMDdKMjZsdlpkaHdJTXFtUHo2MlU?oc=5
 
 ### visto americano
 
@@ -96,9 +96,9 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 - **EUA anunciam revogação de milhares de vistos de cidadãos em busca de asilo**
   - Fonte: O GLOBO
   - Link: https://news.google.com/rss/articles/CBMiygFBVV95cUxOSWMwZU9TR0FMT28xcVpiOFc2RzhZdU5sNE5MM1ZQa1F0c0RiZEM5SjJRbTc3eG1CRnFzZlc4U2QtUXRiTUhkLWx1dm1PUkVuVnZrdXdwZDZxVThZTFV4OFhMSTBWTjFWVS1tWmpXYnhSa0RtRE1JYi1iTWRQMVdJN2JqQlkzMENYUngxUl9ieEdlazNHYnUzcW53SGJZdEtPMlVJMU5NUTdyMVFzSDQwZ1VuazNqS1NLamdhT1JhQVBHMU1HUmZPNVl30gHYAUFVX3lxTE9hdTBxZEhOQVhkd2x2U2VxNmdhbkt0ZFhWY19yM0FJMGxWMGtHXzRiV0diYUJQQTY4cGlSMmlxaWFRT2lWZmh2SUs3YW5DRzNoS3JjdVFXX2F6VUV4OE9PVFZvSUVQcG0wZEN0SkNsV3JLOGNIYXJQQWltU0lzM2pKbFZJbkhsS0trX2pSUHF0eXRWYnlmUk9OdnJPUzZZZThTdXV3WnJxTGtUM25mNzZrRjZrcV93bWUwNjNBUk5NRjFvcDV5bzJ6UTg2amcxaTJfQVRwNEpZcg?oc=5
-- **Ramagem é solto nos EUA e espera resposta a pedido de asilo**
-  - Fonte: BBC
-  - Link: https://news.google.com/rss/articles/CBMiYkFVX3lxTE9EMUFBNkc3X2ZsVFVkMFAyY0JkZTE0MjZLZWlJQ2YwNk9fWk9ma3QxdFRtaE1xcWVmRDFTS1huRDZ6UGFnX3YyRzJqVWl2YzVhVmxZWnVyLTk3TE4zNnFOd1NR0gFnQVVfeXFMTlZaZVR4Mlk5SWxIS0xiWHJoc0ZvTmZhMmstNE13Yk84Yi1UYkZ1TzBPY01GS3dVOWpZYW5CbWJUclVXX1I5clFTSUQ5VER4ZXZQSEswN3pNcVVpUGhmUUV4OVJuVkRZVQ?oc=5
+- **EUA preparam revogação em massa de vistos de estrangeiros**
+  - Fonte: DW.com
+  - Link: https://news.google.com/rss/articles/CBMiygFBVV95cUxPdjFUa01aRlBvQjdGWDB2LUFMYllFdnpqVmFuYS1yd254NHB6cUY0ZUhPNDlJbzR4Sk1TY3hveG03eXlGTXFVOFJjVS1sdlRxNzVSZUsxcklGZm9sY3pHX25nQzh6S3dkODZCWl9YRjhJOGJvb3VvR3JWUURQMUlUV1hzTkN5VUR5NTJOZklmdU9GUU0wWFg0N180bTNaM1pQWFFHQi1RTWJ1SlhkVndfMXZQSjVja2U1YUMtYWg2R3NHbmpYYThmbUJR0gHKAUFVX3lxTE84Z2JzY2RRYTNUanJCMkNwSkVsZkFCNUdHRmF3UVVITUk0dHRRQXgwS1R1SXVoaHJZY2U3OTRHR0xBZW5XNDF6TXgwY1pMbjR3U3l5anVlVGdTQzFlOGwwRTB3Mi1JU3ByU1dMRmtFT2plOUEtX2FVUFlMeVBodVp3YVV6WFloX1VpaHRKVUVtUjlxWnVYOEo1RUlDN1VmU0hTSFg4a2pJUW52SjRPOTNfc1Q1ZU1Idm5scnFlSnVaTzlxdWpneDk0MGc?oc=5
 
 ### ICE immigration
 
