@@ -1,8 +1,8 @@
 # Relatório diário — Imigração e brasileiros nos EUA
 
-Gerado em: 2026-10-18 00:28 EDT
+Gerado em: 2026-10-18 11:51 EDT
 
-Arquivo original: `2026-10-18-00-28-tendencias-imigracao.md`
+Arquivo original: `2026-10-18-11-51-tendencias-imigracao.md`
 
 ## Objetivo
 
@@ -15,25 +15,25 @@ Este relatório serve como base para criação de artigos atualizados para o blo
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWVdPSUlmTjU4S09zV2JkT040a3Y2alJoMFFSQXk5UjNuMlVBTllqSEtkdE93UFRnWV9SZFRDVDRiOFNkbkdWdHllaHZwMVBJNVZmN3VmbkFCT19XVGRFQWdiR2JMb0dUcE43NXBuSVZrY0JpcVpDVEdqOE9YVk5IQ3VEUHRXcERDYk9oampjS2RXMUdqUzFod2FCWjliNXI3ZXAzVUFvMVVTbGcwSS1EWkotek1mMU5sWnFQdUF4YUU?oc=5
 
-2. **EUA: católicos e evangélicos pedem tratamento humano para migrantes**
+2. **Trump relaciona imigração a protestos violentos na França**
+   - Fonte: CNN Brasil
+   - Termo monitorado: imigração EUA
+   - Link: https://news.google.com/rss/articles/CBMipgFBVV95cUxNNFhfc3ZOeTd2MTBPSk02NzlQRl8xQjdIME5JS0RPTHdScWxXa3hqazk5ZEF5a3VNTThPZU5fM2tic0VodnFMWjdjZzRNRHZpeVQ5NzlRVkdYM0xrbHNWeTB3Vy1DMGpvTHRMTTZQM0xCX2JGM3QtUFljSGJ0UDI5bUpFUS1HMHFnY1lmS283bUZUYnMtWEpQWDhDSUxkbzhkNWg2eXZn?oc=5
+
+3. **EUA: católicos e evangélicos pedem tratamento humano para migrantes**
    - Fonte: Vatican News
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUnA2QnlxVlg4VWQ1SWxfNGJVTE92ejcwSlFfTzgwU0tta1dVLXY4VjUxV21GdFZJYmhILUVwSFU4V2pFQ1c0ZUxISF9HOGhZMUNFYVBsZEtRcG96a2hQbnI1Q1hoOEtpLVBZNlo4LUc0Mi1FeUlZUWV3cW95eUlqd1JDRUNWRVdJdzEyV2k2dTF1dTFneEI5dUZFZ2RaeW9QNl9EMnVDemotUUs4d3JXc21lS0pleFh6eEdn?oc=5
 
-3. **O pacto inédito entre católicos e evangélicos contra as deportações em massa nos EUA**
-   - Fonte: Gazeta do Povo
+4. **Trump diz que França está "em chamas" por causa da imigração**
+   - Fonte: Metrópoles
    - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMirgFBVV95cUxQbjlIOS00SXNCWkZMRUdkc0ZGa1F3cjIxLVNUVDRobUM1SV9Kdnd5Rjl4RWhrSFhEbE5uWmNaREUzd1BMS053cmFFNF9uXzVFU3J4TTJyZVdWX05PaWJxdGtfR09ndUNTSFg1QzhHQVdRX2tDT0U5NWlQVnJJdEZfcTJzTmhOUVFxRUFjR0FqVDBlVnhwYnhhSFJwbmdWWHBORGtNYkE0eTBacmlRRkE?oc=5
+   - Link: https://news.google.com/rss/articles/CBMilgFBVV95cUxPWGhsdk9JOGtEU1hhWVFSZUNqeWhYME1XSE43WVNEblJMLWkxczFVSEMyczlXRlphT0p2TVBzam1EckNuX2VkMFpTTzdpaUZyVkczbUUtLUcwcnM1b00xRDE5RnVrNm1OOF85amFQT1JOZVVnWldKOE5ZcU9NbTNUU2VxRC1BeTVzbFotbmY2VHZiRTlHX1E?oc=5
 
-4. **Após crítica de Mamdani, Imigração dos EUA defende ação violenta contra homem em carro com criança**
-   - Fonte: Valor Econômico
-   - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMi5wFBVV95cUxOYmRsRGF6emhUQUxuNUtGX0N0M3lYUjRIUTZTRi13eUY4S09Da0V6WnRZNmRiMDZKVnlHeWdZT0EzZTNzSjRaNldkX3VsM0hPNEdyVjdRZmVhOGxsMENDbkpLbzBvNVUyR2hnMkZNSTFxRGJ2TTEyUzBvbFJBaG1QWHhZN1ZUZWU3dFc4NE1ob2VvNFU5NTRZd1RkNmpTLWhvbE1SSTRoSlNKWTRPMFJxcUV6SkVQYVJwYWtXV1FRX1ItVDczWGVseUthRnBKN05XbXI2ZEVmRDhKeGEyWmpYbUlTbkxkTWvSAfYBQVVfeXFMUGNndXhGOTZVSjEwZ1I5ZWM4ajV4R3JRZ21ld1RDOGlnSDM2WHh1dlBCTS1pTC16V0ZTMFpJTWZlVzZfekR0dVZ1MTVuZ2EzOFQ1cS1wU28xZXQwT1lpLVdGOE1qb3JnZEpKRUVjVEhCcE8xY0pyVEloX013MUxCOEU4ekpKRWJmelV4d191MTFfVXJIc2dYeGlSakYxdDZUZ0hfUUpyZG0ybGMzQzV5WnJIWW5QZC1GUm9iS3NERENfbXRMMHBES0lud1hFME00MlBMTk00TGlQdW9abHhIdHlaUVRJN05zekRzTVJYbHNrOHMzRTR3?oc=5
-
-5. **EUA propõem nova análise para 208 mil pedidos anuais de extensão de trabalho | SEGS Portal Nacional de...**
-   - Fonte: SEGS Portal Nacional
+5. **Do papel ao digital: USCIS exige e-filing obrigatório**
+   - Fonte: Migalhas
    - Termo monitorado: USCIS
-   - Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxOQl9wcGJYUDR5MVR0aGQzMC1WVzlmcy1LOVVTNDRrZ3pOcmQtaUpkTWs5N3E2cktkY3plcDFQbTVKcVlkdjcwakdsa2ZfSlZvUTRfa0FQWVdreFlzWGpJOVN5Tld2UHh1T1V4c1FpUmRnVGx4bmVEX2wyQ3drcWxnRW4za3Y5Sk5LZE1jUFJPSkNwTGhLZlRhbzNBS1BzU2p1dTBwRHpjU0M2MGdnc3Jsd0pJNE82RUpaZFHSAboBQVVfeXFMTkJfcHBiWFA0eTFUdGhkMzAtVlc5ZnMtSzlVUzQ0a2d6TnJkLWlKZE1rOTdxNnJLZGN6ZXAxUG01SnFZZHY3MGpHbGtmX0pWb1E0X2tBUFlXa3hZc1hqSTlTeU5XdlB4dU9VeHNRaVJkZ1RseG5lRF9sMkN3a3FsZ0VuM2t2OUpOS2RNY1BST0pDcExoS2ZUYW8zQUtQc1NqdXUwcER6Y1NDNjBnZ3NybHdKSTRPNkVKWmRR?oc=5
+   - Link: https://news.google.com/rss/articles/CBMimgFBVV95cUxPU3lXOWsxRDdlbEh4anpHUmp2amh5SHpCaUlWVmtIa3VqWFpYTWZ0Ujh1NlV0d1N4TUw1cmN6cG5UdWZ1c0ZZdG1hMGV6eWY3STQ5SldkTmpudHhCcHlaZXZoTFRIdkdXRm5Za1NPRkd3LWs5dl93N1poWmZ3cm1fTFA1NHN4SllBWGlRRk12WTNtM2djNGw3VWtB?oc=5
 
 
 ## Sugestões de artigos para publicar
@@ -51,18 +51,18 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 - **Ex-imigrante em situação irregular, brasileiro concorre a deputado nos EUA**
   - Fonte: Folha de S.Paulo
   - Link: https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWVdPSUlmTjU4S09zV2JkT040a3Y2alJoMFFSQXk5UjNuMlVBTllqSEtkdE93UFRnWV9SZFRDVDRiOFNkbkdWdHllaHZwMVBJNVZmN3VmbkFCT19XVGRFQWdiR2JMb0dUcE43NXBuSVZrY0JpcVpDVEdqOE9YVk5IQ3VEUHRXcERDYk9oampjS2RXMUdqUzFod2FCWjliNXI3ZXAzVUFvMVVTbGcwSS1EWkotek1mMU5sWnFQdUF4YUU?oc=5
-- **EUA: católicos e evangélicos pedem tratamento humano para migrantes**
-  - Fonte: Vatican News
-  - Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUnA2QnlxVlg4VWQ1SWxfNGJVTE92ejcwSlFfTzgwU0tta1dVLXY4VjUxV21GdFZJYmhILUVwSFU4V2pFQ1c0ZUxISF9HOGhZMUNFYVBsZEtRcG96a2hQbnI1Q1hoOEtpLVBZNlo4LUc0Mi1FeUlZUWV3cW95eUlqd1JDRUNWRVdJdzEyV2k2dTF1dTFneEI5dUZFZ2RaeW9QNl9EMnVDemotUUs4d3JXc21lS0pleFh6eEdn?oc=5
+- **Trump relaciona imigração a protestos violentos na França**
+  - Fonte: CNN Brasil
+  - Link: https://news.google.com/rss/articles/CBMipgFBVV95cUxNNFhfc3ZOeTd2MTBPSk02NzlQRl8xQjdIME5JS0RPTHdScWxXa3hqazk5ZEF5a3VNTThPZU5fM2tic0VodnFMWjdjZzRNRHZpeVQ5NzlRVkdYM0xrbHNWeTB3Vy1DMGpvTHRMTTZQM0xCX2JGM3QtUFljSGJ0UDI5bUpFUS1HMHFnY1lmS283bUZUYnMtWEpQWDhDSUxkbzhkNWg2eXZn?oc=5
 
 ### USCIS
 
-- **EUA propõem nova análise para 208 mil pedidos anuais de extensão de trabalho | SEGS Portal Nacional de...**
-  - Fonte: SEGS Portal Nacional
-  - Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxOQl9wcGJYUDR5MVR0aGQzMC1WVzlmcy1LOVVTNDRrZ3pOcmQtaUpkTWs5N3E2cktkY3plcDFQbTVKcVlkdjcwakdsa2ZfSlZvUTRfa0FQWVdreFlzWGpJOVN5Tld2UHh1T1V4c1FpUmRnVGx4bmVEX2wyQ3drcWxnRW4za3Y5Sk5LZE1jUFJPSkNwTGhLZlRhbzNBS1BzU2p1dTBwRHpjU0M2MGdnc3Jsd0pJNE82RUpaZFHSAboBQVVfeXFMTkJfcHBiWFA0eTFUdGhkMzAtVlc5ZnMtSzlVUzQ0a2d6TnJkLWlKZE1rOTdxNnJLZGN6ZXAxUG01SnFZZHY3MGpHbGtmX0pWb1E0X2tBUFlXa3hZc1hqSTlTeU5XdlB4dU9VeHNRaVJkZ1RseG5lRF9sMkN3a3FsZ0VuM2t2OUpOS2RNY1BST0pDcExoS2ZUYW8zQUtQc1NqdXUwcER6Y1NDNjBnZ3NybHdKSTRPNkVKWmRR?oc=5
 - **Do papel ao digital: USCIS exige e-filing obrigatório**
   - Fonte: Migalhas
   - Link: https://news.google.com/rss/articles/CBMimgFBVV95cUxPU3lXOWsxRDdlbEh4anpHUmp2amh5SHpCaUlWVmtIa3VqWFpYTWZ0Ujh1NlV0d1N4TUw1cmN6cG5UdWZ1c0ZZdG1hMGV6eWY3STQ5SldkTmpudHhCcHlaZXZoTFRIdkdXRm5Za1NPRkd3LWs5dl93N1poWmZ3cm1fTFA1NHN4SllBWGlRRk12WTNtM2djNGw3VWtB?oc=5
+- **Grupos processam governo Trump por mudanças nas regras do green card**
+  - Fonte: Gazeta Brazilian News
+  - Link: https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUmlmc2R3b0xqZlN2N19LTTZobDVteWstX05jc1ktTGlxZ0lsZVprUi1GaUxkZTFaLUlQdF95WFM1bTFrVXkzMkRXSnktbkJEbHBGODFDeTgxSlZOZ3ZxTFpZY3N0Mk8zbjVGd1RpS3hXM1VCN1JkZm43Wi1Zb3VyX3RTSFprYU5yM3RnTVFmS0tWRUZzaVNHRHNYXzlYemUxOU1hbFVJRmZrMlRhd1h5ejhtS2FUUERGeXNQNXVqa1Q3b3M?oc=5
 
 ### green card
 
@@ -96,9 +96,9 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 - **EUA anunciam revogação de milhares de vistos de cidadãos em busca de asilo**
   - Fonte: O GLOBO
   - Link: https://news.google.com/rss/articles/CBMiygFBVV95cUxOSWMwZU9TR0FMT28xcVpiOFc2RzhZdU5sNE5MM1ZQa1F0c0RiZEM5SjJRbTc3eG1CRnFzZlc4U2QtUXRiTUhkLWx1dm1PUkVuVnZrdXdwZDZxVThZTFV4OFhMSTBWTjFWVS1tWmpXYnhSa0RtRE1JYi1iTWRQMVdJN2JqQlkzMENYUngxUl9ieEdlazNHYnUzcW53SGJZdEtPMlVJMU5NUTdyMVFzSDQwZ1VuazNqS1NLamdhT1JhQVBHMU1HUmZPNVl30gHYAUFVX3lxTE9hdTBxZEhOQVhkd2x2U2VxNmdhbkt0ZFhWY19yM0FJMGxWMGtHXzRiV0diYUJQQTY4cGlSMmlxaWFRT2lWZmh2SUs3YW5DRzNoS3JjdVFXX2F6VUV4OE9PVFZvSUVQcG0wZEN0SkNsV3JLOGNIYXJQQWltU0lzM2pKbFZJbkhsS0trX2pSUHF0eXRWYnlmUk9OdnJPUzZZZThTdXV3WnJxTGtUM25mNzZrRjZrcV93bWUwNjNBUk5NRjFvcDV5bzJ6UTg2amcxaTJfQVRwNEpZcg?oc=5
-- **Ramagem é solto nos EUA e espera resposta a pedido de asilo**
-  - Fonte: BBC
-  - Link: https://news.google.com/rss/articles/CBMiYkFVX3lxTE9EMUFBNkc3X2ZsVFVkMFAyY0JkZTE0MjZLZWlJQ2YwNk9fWk9ma3QxdFRtaE1xcWVmRDFTS1huRDZ6UGFnX3YyRzJqVWl2YzVhVmxZWnVyLTk3TE4zNnFOd1NR0gFnQVVfeXFMTlZaZVR4Mlk5SWxIS0xiWHJoc0ZvTmZhMmstNE13Yk84Yi1UYkZ1TzBPY01GS3dVOWpZYW5CbWJUclVXX1I5clFTSUQ5VER4ZXZQSEswN3pNcVVpUGhmUUV4OVJuVkRZVQ?oc=5
+- **EUA preparam revogação em massa de vistos de estrangeiros**
+  - Fonte: DW.com
+  - Link: https://news.google.com/rss/articles/CBMiygFBVV95cUxPdjFUa01aRlBvQjdGWDB2LUFMYllFdnpqVmFuYS1yd254NHB6cUY0ZUhPNDlJbzR4Sk1TY3hveG03eXlGTXFVOFJjVS1sdlRxNzVSZUsxcklGZm9sY3pHX25nQzh6S3dkODZCWl9YRjhJOGJvb3VvR3JWUURQMUlUV1hzTkN5VUR5NTJOZklmdU9GUU0wWFg0N180bTNaM1pQWFFHQi1RTWJ1SlhkVndfMXZQSjVja2U1YUMtYWg2R3NHbmpYYThmbUJR0gHKAUFVX3lxTE84Z2JzY2RRYTNUanJCMkNwSkVsZkFCNUdHRmF3UVVITUk0dHRRQXgwS1R1SXVoaHJZY2U3OTRHR0xBZW5XNDF6TXgwY1pMbjR3U3l5anVlVGdTQzFlOGwwRTB3Mi1JU3ByU1dMRmtFT2plOUEtX2FVUFlMeVBodVp3YVV6WFloX1VpaHRKVUVtUjlxWnVYOEo1RUlDN1VmU0hTSFg4a2pJUW52SjRPOTNfc1Q1ZU1Idm5scnFlSnVaTzlxdWpneDk0MGc?oc=5
 
 ### ICE immigration
 
