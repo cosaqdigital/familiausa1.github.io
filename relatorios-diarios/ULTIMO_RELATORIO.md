@@ -1,8 +1,8 @@
 # Relatório diário — Imigração e brasileiros nos EUA
 
-Gerado em: 2026-10-17 16:35 EDT
+Gerado em: 2026-10-18 00:28 EDT
 
-Arquivo original: `2026-10-17-16-35-tendencias-imigracao.md`
+Arquivo original: `2026-10-18-00-28-tendencias-imigracao.md`
 
 ## Objetivo
 
@@ -10,25 +10,25 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ## Principais assuntos do dia
 
-1. **EUA: católicos e evangélicos pedem tratamento humano para migrantes**
+1. **Ex-imigrante em situação irregular, brasileiro concorre a deputado nos EUA**
+   - Fonte: Folha de S.Paulo
+   - Termo monitorado: imigração EUA
+   - Link: https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWVdPSUlmTjU4S09zV2JkT040a3Y2alJoMFFSQXk5UjNuMlVBTllqSEtkdE93UFRnWV9SZFRDVDRiOFNkbkdWdHllaHZwMVBJNVZmN3VmbkFCT19XVGRFQWdiR2JMb0dUcE43NXBuSVZrY0JpcVpDVEdqOE9YVk5IQ3VEUHRXcERDYk9oampjS2RXMUdqUzFod2FCWjliNXI3ZXAzVUFvMVVTbGcwSS1EWkotek1mMU5sWnFQdUF4YUU?oc=5
+
+2. **EUA: católicos e evangélicos pedem tratamento humano para migrantes**
    - Fonte: Vatican News
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUnA2QnlxVlg4VWQ1SWxfNGJVTE92ejcwSlFfTzgwU0tta1dVLXY4VjUxV21GdFZJYmhILUVwSFU4V2pFQ1c0ZUxISF9HOGhZMUNFYVBsZEtRcG96a2hQbnI1Q1hoOEtpLVBZNlo4LUc0Mi1FeUlZUWV3cW95eUlqd1JDRUNWRVdJdzEyV2k2dTF1dTFneEI5dUZFZ2RaeW9QNl9EMnVDemotUUs4d3JXc21lS0pleFh6eEdn?oc=5
 
-2. **Operação anti-imigração em residência de deputada democrata vira tema na reta final das eleições legislativas nos EUA**
-   - Fonte: O GLOBO
-   - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMi_AFBVV95cUxPUzREeS1GbGZyUUx6SG1DemY4bGlCcnFSUHpTUGkxT0xfZEhOVjNhcFpPWHVzRUZrenhCRGZ6dlgtVlVGQXc2MTR3anFmaUI0MzZuM3IzR0REOTRobEVIYk1uZDhrWEdnckl0djdpZ3J5c1hkdHZzbExLZE1aUlJUNnRsWkhfT09fVmRzSDItdW1HNEllZ0FJVU10RThCLU1BcUI5Z19hMmJ0YWlZdzhoQTlWNWJJN2RPa1g4XzAyazFQMUZFaG52NkpXQ3F6UEtaMzRxVDBfazRwOVBEZ1lHbkZHRjQxWGRFUDNyVUZfX3NMUXo2NGZ4bzQxalXSAYsCQVVfeXFMT0hFX2dRZjhvaDZwaV9XWTVKLThWTHJBejYweEpFdjkyUjJXbkJhbTJ4MEkySWpDVDlCMmY4US05d3VUa0Q5dmtvd21TSFFkUzFuUFRhNTFCdzJDdHBRZERIc3E1dkJ5Ni1SeTlFbkNDOG5SUjM4R1g3Z0tMNm51M2l2MElnU2Jtem9zUVR2SlhBVnRfNTAxdHZ3NlNrS2k4U0x4TkJNRWk3WUhnVkFJS2RkdV8yTGhvbUlESkFnMl9Wb2h1VUR5UVc3ZGVoZHc3X2R4QkpQV2NRZ1hnT254T29PYXBhZXBjQVplQ2FEZ3hFMFlUcnFHZUxNVU1JLWhuTFlJNTZIX19kM3NF?oc=5
-
-3. **6 em cada 10 imigrantes brasileiros detidos nos EUA pelo ICE são deportados**
-   - Fonte: Folha de S.Paulo
-   - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSktGcEdYbmZ6SUUzOHRSdWNOazg0VUZTRGFlTUFGSDEtd1NEQkg2WGJHek1ib1pNUWE3R29GYXV6ODNZZnJpQ3J6R0F6QU9LWTlCTktUc016eS1IcV9BeG15andyOEpnTEh5WGtsakpGbTllZmN2MGpsOTJVcUFXQ2Q5S19ZWkYwMDFodldaT0RhMWpfczZZUlhfa0FDd0Rtbm16WG5BTWxwb3dpbjZpOEsxUVoxdHljYlJ2OG1pOTRMODQ?oc=5
-
-4. **O pacto inédito entre católicos e evangélicos contra as deportações em massa nos EUA**
+3. **O pacto inédito entre católicos e evangélicos contra as deportações em massa nos EUA**
    - Fonte: Gazeta do Povo
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMirgFBVV95cUxQbjlIOS00SXNCWkZMRUdkc0ZGa1F3cjIxLVNUVDRobUM1SV9Kdnd5Rjl4RWhrSFhEbE5uWmNaREUzd1BMS053cmFFNF9uXzVFU3J4TTJyZVdWX05PaWJxdGtfR09ndUNTSFg1QzhHQVdRX2tDT0U5NWlQVnJJdEZfcTJzTmhOUVFxRUFjR0FqVDBlVnhwYnhhSFJwbmdWWHBORGtNYkE0eTBacmlRRkE?oc=5
+
+4. **Após crítica de Mamdani, Imigração dos EUA defende ação violenta contra homem em carro com criança**
+   - Fonte: Valor Econômico
+   - Termo monitorado: imigração EUA
+   - Link: https://news.google.com/rss/articles/CBMi5wFBVV95cUxOYmRsRGF6emhUQUxuNUtGX0N0M3lYUjRIUTZTRi13eUY4S09Da0V6WnRZNmRiMDZKVnlHeWdZT0EzZTNzSjRaNldkX3VsM0hPNEdyVjdRZmVhOGxsMENDbkpLbzBvNVUyR2hnMkZNSTFxRGJ2TTEyUzBvbFJBaG1QWHhZN1ZUZWU3dFc4NE1ob2VvNFU5NTRZd1RkNmpTLWhvbE1SSTRoSlNKWTRPMFJxcUV6SkVQYVJwYWtXV1FRX1ItVDczWGVseUthRnBKN05XbXI2ZEVmRDhKeGEyWmpYbUlTbkxkTWvSAfYBQVVfeXFMUGNndXhGOTZVSjEwZ1I5ZWM4ajV4R3JRZ21ld1RDOGlnSDM2WHh1dlBCTS1pTC16V0ZTMFpJTWZlVzZfekR0dVZ1MTVuZ2EzOFQ1cS1wU28xZXQwT1lpLVdGOE1qb3JnZEpKRUVjVEhCcE8xY0pyVEloX013MUxCOEU4ekpKRWJmelV4d191MTFfVXJIc2dYeGlSakYxdDZUZ0hfUUpyZG0ybGMzQzV5WnJIWW5QZC1GUm9iS3NERENfbXRMMHBES0lud1hFME00MlBMTk00TGlQdW9abHhIdHlaUVRJN05zekRzTVJYbHNrOHMzRTR3?oc=5
 
 5. **EUA propõem nova análise para 208 mil pedidos anuais de extensão de trabalho | SEGS Portal Nacional de...**
    - Fonte: SEGS Portal Nacional
@@ -48,12 +48,12 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### imigração EUA
 
+- **Ex-imigrante em situação irregular, brasileiro concorre a deputado nos EUA**
+  - Fonte: Folha de S.Paulo
+  - Link: https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWVdPSUlmTjU4S09zV2JkT040a3Y2alJoMFFSQXk5UjNuMlVBTllqSEtkdE93UFRnWV9SZFRDVDRiOFNkbkdWdHllaHZwMVBJNVZmN3VmbkFCT19XVGRFQWdiR2JMb0dUcE43NXBuSVZrY0JpcVpDVEdqOE9YVk5IQ3VEUHRXcERDYk9oampjS2RXMUdqUzFod2FCWjliNXI3ZXAzVUFvMVVTbGcwSS1EWkotek1mMU5sWnFQdUF4YUU?oc=5
 - **EUA: católicos e evangélicos pedem tratamento humano para migrantes**
   - Fonte: Vatican News
   - Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUnA2QnlxVlg4VWQ1SWxfNGJVTE92ejcwSlFfTzgwU0tta1dVLXY4VjUxV21GdFZJYmhILUVwSFU4V2pFQ1c0ZUxISF9HOGhZMUNFYVBsZEtRcG96a2hQbnI1Q1hoOEtpLVBZNlo4LUc0Mi1FeUlZUWV3cW95eUlqd1JDRUNWRVdJdzEyV2k2dTF1dTFneEI5dUZFZ2RaeW9QNl9EMnVDemotUUs4d3JXc21lS0pleFh6eEdn?oc=5
-- **Operação anti-imigração em residência de deputada democrata vira tema na reta final das eleições legislativas nos EUA**
-  - Fonte: O GLOBO
-  - Link: https://news.google.com/rss/articles/CBMi_AFBVV95cUxPUzREeS1GbGZyUUx6SG1DemY4bGlCcnFSUHpTUGkxT0xfZEhOVjNhcFpPWHVzRUZrenhCRGZ6dlgtVlVGQXc2MTR3anFmaUI0MzZuM3IzR0REOTRobEVIYk1uZDhrWEdnckl0djdpZ3J5c1hkdHZzbExLZE1aUlJUNnRsWkhfT09fVmRzSDItdW1HNEllZ0FJVU10RThCLU1BcUI5Z19hMmJ0YWlZdzhoQTlWNWJJN2RPa1g4XzAyazFQMUZFaG52NkpXQ3F6UEtaMzRxVDBfazRwOVBEZ1lHbkZHRjQxWGRFUDNyVUZfX3NMUXo2NGZ4bzQxalXSAYsCQVVfeXFMT0hFX2dRZjhvaDZwaV9XWTVKLThWTHJBejYweEpFdjkyUjJXbkJhbTJ4MEkySWpDVDlCMmY4US05d3VUa0Q5dmtvd21TSFFkUzFuUFRhNTFCdzJDdHBRZERIc3E1dkJ5Ni1SeTlFbkNDOG5SUjM4R1g3Z0tMNm51M2l2MElnU2Jtem9zUVR2SlhBVnRfNTAxdHZ3NlNrS2k4U0x4TkJNRWk3WUhnVkFJS2RkdV8yTGhvbUlESkFnMl9Wb2h1VUR5UVc3ZGVoZHc3X2R4QkpQV2NRZ1hnT254T29PYXBhZXBjQVplQ2FEZ3hFMFlUcnFHZUxNVU1JLWhuTFlJNTZIX19kM3NF?oc=5
 
 ### USCIS
 
@@ -96,9 +96,9 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 - **EUA anunciam revogação de milhares de vistos de cidadãos em busca de asilo**
   - Fonte: O GLOBO
   - Link: https://news.google.com/rss/articles/CBMiygFBVV95cUxOSWMwZU9TR0FMT28xcVpiOFc2RzhZdU5sNE5MM1ZQa1F0c0RiZEM5SjJRbTc3eG1CRnFzZlc4U2QtUXRiTUhkLWx1dm1PUkVuVnZrdXdwZDZxVThZTFV4OFhMSTBWTjFWVS1tWmpXYnhSa0RtRE1JYi1iTWRQMVdJN2JqQlkzMENYUngxUl9ieEdlazNHYnUzcW53SGJZdEtPMlVJMU5NUTdyMVFzSDQwZ1VuazNqS1NLamdhT1JhQVBHMU1HUmZPNVl30gHYAUFVX3lxTE9hdTBxZEhOQVhkd2x2U2VxNmdhbkt0ZFhWY19yM0FJMGxWMGtHXzRiV0diYUJQQTY4cGlSMmlxaWFRT2lWZmh2SUs3YW5DRzNoS3JjdVFXX2F6VUV4OE9PVFZvSUVQcG0wZEN0SkNsV3JLOGNIYXJQQWltU0lzM2pKbFZJbkhsS0trX2pSUHF0eXRWYnlmUk9OdnJPUzZZZThTdXV3WnJxTGtUM25mNzZrRjZrcV93bWUwNjNBUk5NRjFvcDV5bzJ6UTg2amcxaTJfQVRwNEpZcg?oc=5
-- **EUA preparam revogação em massa de vistos de estrangeiros**
-  - Fonte: DW.com
-  - Link: https://news.google.com/rss/articles/CBMiygFBVV95cUxPdjFUa01aRlBvQjdGWDB2LUFMYllFdnpqVmFuYS1yd254NHB6cUY0ZUhPNDlJbzR4Sk1TY3hveG03eXlGTXFVOFJjVS1sdlRxNzVSZUsxcklGZm9sY3pHX25nQzh6S3dkODZCWl9YRjhJOGJvb3VvR3JWUURQMUlUV1hzTkN5VUR5NTJOZklmdU9GUU0wWFg0N180bTNaM1pQWFFHQi1RTWJ1SlhkVndfMXZQSjVja2U1YUMtYWg2R3NHbmpYYThmbUJR0gHKAUFVX3lxTE84Z2JzY2RRYTNUanJCMkNwSkVsZkFCNUdHRmF3UVVITUk0dHRRQXgwS1R1SXVoaHJZY2U3OTRHR0xBZW5XNDF6TXgwY1pMbjR3U3l5anVlVGdTQzFlOGwwRTB3Mi1JU3ByU1dMRmtFT2plOUEtX2FVUFlMeVBodVp3YVV6WFloX1VpaHRKVUVtUjlxWnVYOEo1RUlDN1VmU0hTSFg4a2pJUW52SjRPOTNfc1Q1ZU1Idm5scnFlSnVaTzlxdWpneDk0MGc?oc=5
+- **Ramagem é solto nos EUA e espera resposta a pedido de asilo**
+  - Fonte: BBC
+  - Link: https://news.google.com/rss/articles/CBMiYkFVX3lxTE9EMUFBNkc3X2ZsVFVkMFAyY0JkZTE0MjZLZWlJQ2YwNk9fWk9ma3QxdFRtaE1xcWVmRDFTS1huRDZ6UGFnX3YyRzJqVWl2YzVhVmxZWnVyLTk3TE4zNnFOd1NR0gFnQVVfeXFMTlZaZVR4Mlk5SWxIS0xiWHJoc0ZvTmZhMmstNE13Yk84Yi1UYkZ1TzBPY01GS3dVOWpZYW5CbWJUclVXX1I5clFTSUQ5VER4ZXZQSEswN3pNcVVpUGhmUUV4OVJuVkRZVQ?oc=5
 
 ### ICE immigration
 
