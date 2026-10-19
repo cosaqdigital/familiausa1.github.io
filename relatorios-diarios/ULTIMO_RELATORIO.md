@@ -1,8 +1,8 @@
 # Relatório diário — Imigração e brasileiros nos EUA
 
-Gerado em: 2026-10-18 16:40 EDT
+Gerado em: 2026-10-19 00:37 EDT
 
-Arquivo original: `2026-10-18-16-40-tendencias-imigracao.md`
+Arquivo original: `2026-10-19-00-37-tendencias-imigracao.md`
 
 ## Objetivo
 
@@ -10,20 +10,20 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ## Principais assuntos do dia
 
-1. **Ex-imigrante em situação irregular, brasileiro concorre a deputado nos EUA**
-   - Fonte: Folha de S.Paulo
+1. **Trump relaciona imigração a protestos violentos na França**
+   - Fonte: CNN Brasil
    - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWVdPSUlmTjU4S09zV2JkT040a3Y2alJoMFFSQXk5UjNuMlVBTllqSEtkdE93UFRnWV9SZFRDVDRiOFNkbkdWdHllaHZwMVBJNVZmN3VmbkFCT19XVGRFQWdiR2JMb0dUcE43NXBuSVZrY0JpcVpDVEdqOE9YVk5IQ3VEUHRXcERDYk9oampjS2RXMUdqUzFod2FCWjliNXI3ZXAzVUFvMVVTbGcwSS1EWkotek1mMU5sWnFQdUF4YUU?oc=5
+   - Link: https://news.google.com/rss/articles/CBMipgFBVV95cUxNNFhfc3ZOeTd2MTBPSk02NzlQRl8xQjdIME5JS0RPTHdScWxXa3hqazk5ZEF5a3VNTThPZU5fM2tic0VodnFMWjdjZzRNRHZpeVQ5NzlRVkdYM0xrbHNWeTB3Vy1DMGpvTHRMTTZQM0xCX2JGM3QtUFljSGJ0UDI5bUpFUS1HMHFnY1lmS283bUZUYnMtWEpQWDhDSUxkbzhkNWg2eXZn?oc=5
 
 2. **EUA: católicos e evangélicos pedem tratamento humano para migrantes**
    - Fonte: Vatican News
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUnA2QnlxVlg4VWQ1SWxfNGJVTE92ejcwSlFfTzgwU0tta1dVLXY4VjUxV21GdFZJYmhILUVwSFU4V2pFQ1c0ZUxISF9HOGhZMUNFYVBsZEtRcG96a2hQbnI1Q1hoOEtpLVBZNlo4LUc0Mi1FeUlZUWV3cW95eUlqd1JDRUNWRVdJdzEyV2k2dTF1dTFneEI5dUZFZ2RaeW9QNl9EMnVDemotUUs4d3JXc21lS0pleFh6eEdn?oc=5
 
-3. **Trump relaciona imigração a protestos violentos na França**
-   - Fonte: CNN Brasil
+3. **Ex-imigrante em situação irregular, brasileiro concorre a deputado nos EUA**
+   - Fonte: Folha de S.Paulo
    - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMipgFBVV95cUxNNFhfc3ZOeTd2MTBPSk02NzlQRl8xQjdIME5JS0RPTHdScWxXa3hqazk5ZEF5a3VNTThPZU5fM2tic0VodnFMWjdjZzRNRHZpeVQ5NzlRVkdYM0xrbHNWeTB3Vy1DMGpvTHRMTTZQM0xCX2JGM3QtUFljSGJ0UDI5bUpFUS1HMHFnY1lmS283bUZUYnMtWEpQWDhDSUxkbzhkNWg2eXZn?oc=5
+   - Link: https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWVdPSUlmTjU4S09zV2JkT040a3Y2alJoMFFSQXk5UjNuMlVBTllqSEtkdE93UFRnWV9SZFRDVDRiOFNkbkdWdHllaHZwMVBJNVZmN3VmbkFCT19XVGRFQWdiR2JMb0dUcE43NXBuSVZrY0JpcVpDVEdqOE9YVk5IQ3VEUHRXcERDYk9oampjS2RXMUdqUzFod2FCWjliNXI3ZXAzVUFvMVVTbGcwSS1EWkotek1mMU5sWnFQdUF4YUU?oc=5
 
 4. **Trump diz que França está "em chamas" por causa da imigração**
    - Fonte: Metrópoles
@@ -48,9 +48,9 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### imigração EUA
 
-- **Ex-imigrante em situação irregular, brasileiro concorre a deputado nos EUA**
-  - Fonte: Folha de S.Paulo
-  - Link: https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWVdPSUlmTjU4S09zV2JkT040a3Y2alJoMFFSQXk5UjNuMlVBTllqSEtkdE93UFRnWV9SZFRDVDRiOFNkbkdWdHllaHZwMVBJNVZmN3VmbkFCT19XVGRFQWdiR2JMb0dUcE43NXBuSVZrY0JpcVpDVEdqOE9YVk5IQ3VEUHRXcERDYk9oampjS2RXMUdqUzFod2FCWjliNXI3ZXAzVUFvMVVTbGcwSS1EWkotek1mMU5sWnFQdUF4YUU?oc=5
+- **Trump relaciona imigração a protestos violentos na França**
+  - Fonte: CNN Brasil
+  - Link: https://news.google.com/rss/articles/CBMipgFBVV95cUxNNFhfc3ZOeTd2MTBPSk02NzlQRl8xQjdIME5JS0RPTHdScWxXa3hqazk5ZEF5a3VNTThPZU5fM2tic0VodnFMWjdjZzRNRHZpeVQ5NzlRVkdYM0xrbHNWeTB3Vy1DMGpvTHRMTTZQM0xCX2JGM3QtUFljSGJ0UDI5bUpFUS1HMHFnY1lmS283bUZUYnMtWEpQWDhDSUxkbzhkNWg2eXZn?oc=5
 - **EUA: católicos e evangélicos pedem tratamento humano para migrantes**
   - Fonte: Vatican News
   - Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUnA2QnlxVlg4VWQ1SWxfNGJVTE92ejcwSlFfTzgwU0tta1dVLXY4VjUxV21GdFZJYmhILUVwSFU4V2pFQ1c0ZUxISF9HOGhZMUNFYVBsZEtRcG96a2hQbnI1Q1hoOEtpLVBZNlo4LUc0Mi1FeUlZUWV3cW95eUlqd1JDRUNWRVdJdzEyV2k2dTF1dTFneEI5dUZFZ2RaeW9QNl9EMnVDemotUUs4d3JXc21lS0pleFh6eEdn?oc=5
@@ -60,9 +60,9 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 - **Do papel ao digital: USCIS exige e-filing obrigatório**
   - Fonte: Migalhas
   - Link: https://news.google.com/rss/articles/CBMimgFBVV95cUxPU3lXOWsxRDdlbEh4anpHUmp2amh5SHpCaUlWVmtIa3VqWFpYTWZ0Ujh1NlV0d1N4TUw1cmN6cG5UdWZ1c0ZZdG1hMGV6eWY3STQ5SldkTmpudHhCcHlaZXZoTFRIdkdXRm5Za1NPRkd3LWs5dl93N1poWmZ3cm1fTFA1NHN4SllBWGlRRk12WTNtM2djNGw3VWtB?oc=5
-- **EUA podem negar pedidos de imigração sem dar chance para o envio de novos documentos | SEGS Portal...**
-  - Fonte: SEGS Portal Nacional
-  - Link: https://news.google.com/rss/articles/CBMivwFBVV95cUxNTEd3WDBXamNBN0FoU3RoOWNjaW1HWVNOVVowWnVEWGpDNDJlZWR0bFd6X0VxT3NuQ2hEYWpyVnF6aTRPVWxwQVlmRkl6WDR6bDM0dElZb3FKaWFMQk03SnE5NzUxODQzVVV4aVJJTzE4YVdDdWJaOFVldW1STTFFQ0htQmt3Y0lUYXRCcUNtRkVHMjVUYjNsY2U0bDFxeXFDei1QMWJhbXp6c3ZjWUFCMHBtTzBLbldZNS1TSmc5NNIBxAFBVV95cUxPUjNtc2FHSU5OVHUtNnpPREQ2anpYa0hwaHBNWS1Bbm1aNFpjSlRpNlFfZVJ1SC1oaXNULV9CQnA2ZU5oa29uQ3YwbnlHNU9fUHhuSTVSeXIxcEFkdXVTWlNVcUU4SGFIdUxwckZ5SnlZOGJmVFlESUJEZDRES3Q5MjJFYl85QlNtTjFFUnhUYzdGQzY3a1NTZzhrc1NpX2JYbXE3MF9LVHA5ZGFTOGxOTlVCRndWaG92YjUyVHNyd2VYUUJa?oc=5
+- **Grupos processam governo Trump por mudanças nas regras do green card**
+  - Fonte: Gazeta Brazilian News
+  - Link: https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUmlmc2R3b0xqZlN2N19LTTZobDVteWstX05jc1ktTGlxZ0lsZVprUi1GaUxkZTFaLUlQdF95WFM1bTFrVXkzMkRXSnktbkJEbHBGODFDeTgxSlZOZ3ZxTFpZY3N0Mk8zbjVGd1RpS3hXM1VCN1JkZm43Wi1Zb3VyX3RTSFprYU5yM3RnTVFmS0tWRUZzaVNHRHNYXzlYemUxOU1hbFVJRmZrMlRhd1h5ejhtS2FUUERGeXNQNXVqa1Q3b3M?oc=5
 
 ### green card
 
@@ -75,21 +75,21 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### visto americano
 
-- **EUA no fim do ano: visto válido não basta para entrar**
-  - Fonte: direitoce
-  - Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxOamJNQmhHZ09KUHdqeUl0RFRwbzN4ZGxUWDNLQWJNRXZQamFLbVR3TklQNWhEMDlwMlJVb19XcFFPZTUzSmJUYndlaXNKQ19Va1F0cUpoMHpfNDlVY2RGUk9USzdtYzRkeEUxVlgxQmtsZ3ZqeXdXc3N4T08wOW82dzBWZHQ?oc=5
 - **Embaixada e consulados dos EUA passam a limitar reagendamento de vistos no Brasil**
   - Fonte: Panrotas
   - Link: https://news.google.com/rss/articles/CBMizAFBVV95cUxPRk9xcjRKVU9VenFBcGMxaFNHWWl3UFJwSjdyT0tqVHNuNXhZOUpkMmJaLTBlbEY0VC05NmZsZl80b2xkNXh5NUFBYkU4ZkdSTlhHR2FIQ0pWcHIyLURHdnRzWUpDeGtVMG9yeUotb0p4TG5aLVBLYml6YV9RXzlRYkt4Mm53WmVxQjlyaFJEXzVyRDFuN0JsUmxqX3RLOGl3Umc3SjhTYkE0dHRQNzFEU3RfVF9lUVZ1MzNpM0FTbENvUFpWU2hsOFlraGk?oc=5
+- **EUA no fim do ano: visto válido não basta para entrar**
+  - Fonte: direitoce
+  - Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxOamJNQmhHZ09KUHdqeUl0RFRwbzN4ZGxUWDNLQWJNRXZQamFLbVR3TklQNWhEMDlwMlJVb19XcFFPZTUzSmJUYndlaXNKQ19Va1F0cUpoMHpfNDlVY2RGUk9USzdtYzRkeEUxVlgxQmtsZ3ZqeXdXc3N4T08wOW82dzBWZHQ?oc=5
 
 ### brasileiros nos Estados Unidos
 
+- **Brasileiros montam fábrica nos EUA para disputar mercado de US$ 4,5 bilhões**
+  - Fonte: www.abcmais.com
+  - Link: https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQ3JfMTNUSnVnMWVfcU9FazVZdlFHdkNjc1NkZ3JvMEpzZlIzZEFxMk8xVWdXT3NPSjZiV0MwdXlQMkhXdWgzZmU4RUx4TXZlWjdOY0NtM3pCQlU2SF9MQ05ETGV2RXpXWXc1V05PNGZOMFplWWlqeVZ2dVdubVVFVjJCLW5McVZvV3Q4WjFlcVNqb3ZrODQ3WGRIT1AwX2dESmZyRllKWTk?oc=5
 - **EUA dizem apoiar direito do Brasil de ter processo eleitoral livre e justo**
   - Fonte: CNN Brasil
   - Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxQZlI5MG4yNmVIblV4LV9EMXJZckI2dTYyVURhcUhTMGl2dXBzb3ppSHpFb0RtaWFZV3NpWDNsdk1QWmxDanQ0OWctNFR4ZjM4Z08wS1NDMXlITjE4cTNjaWdUWS1QN1pzZHdnbXV3TVZwM1lNdE9WelZtcThXSHZqZUJ2VHp4SnFRQVpKb3pnbTI2VzdlMTRkN3R2b3dXbWZ3M1B2VW5raGdMQU5JZUUwdk9lUUhLWHVvaEE?oc=5
-- **Manifestantes pedem que Trump bombardeie o Brasil em ato de Flávio Bolsonaro**
-  - Fonte: CartaCapital
-  - Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxQZ3dJakxFU2NrOWVzS2V0S0ZDY2hLUkM5YnBUNE45dThfUnFFMG1NUUhMZEtyNDFrdGdLNjczWDU2cEVPRDFrU3ZzSTRJc2lJZi0xRmsyX1VjaDJ1c0ctVGIzRG12Z0h0VmJVM05KOXpSUGxnWjliZFNlTElRM3FXUXFaNnpIdXVPVGk1bVNKNkJzaER2am9YeHgxYy1vc1JLLTBoSXVrTlNSQV9lNFFobi1CdzhfYXIzV3c?oc=5
 
 ### asilo nos EUA
 
