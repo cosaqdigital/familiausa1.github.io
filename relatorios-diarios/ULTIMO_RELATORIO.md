@@ -1,8 +1,8 @@
 # Relatório diário — Imigração e brasileiros nos EUA
 
-Gerado em: 2026-10-19 18:19 EDT
+Gerado em: 2026-10-20 00:46 EDT
 
-Arquivo original: `2026-10-19-18-19-tendencias-imigracao.md`
+Arquivo original: `2026-10-20-00-46-tendencias-imigracao.md`
 
 ## Objetivo
 
@@ -10,25 +10,25 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ## Principais assuntos do dia
 
-1. **Imigrantes nos EUA devem informar mudança de endereço ao governo em até 10 dias**
-   - Fonte: Gazeta Brazilian News
-   - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMi0gFBVV95cUxPV2xTaXNQTWJnWnJXb2tBUFk2U3JFLU5DX0pGajdtN0c0NUdCaHh4QUduX1A0VUp5UVhYT3dlYVJMMEFjYkFOYXdXOVM3TzdRenVQeHF2QThzd09qSkpxMW1tSlNHOFVwWVpCVmxhdnY4UXpGcTZ1MDE4MVR5MnZZdC1uVHlXc2VsaVg5RUVXLXNXUUppUHRYY0VPUlNOSFVIMF9GM3hKeWpQQW9FWVBOdVpBN042d2pYOWZjNTM1OG1UeXJ0Y0lDTEpFQjhvWTFPM0E?oc=5
-
-2. **EUA: católicos e evangélicos pedem tratamento humano para migrantes**
+1. **EUA: católicos e evangélicos pedem tratamento humano para migrantes**
    - Fonte: Vatican News
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUnA2QnlxVlg4VWQ1SWxfNGJVTE92ejcwSlFfTzgwU0tta1dVLXY4VjUxV21GdFZJYmhILUVwSFU4V2pFQ1c0ZUxISF9HOGhZMUNFYVBsZEtRcG96a2hQbnI1Q1hoOEtpLVBZNlo4LUc0Mi1FeUlZUWV3cW95eUlqd1JDRUNWRVdJdzEyV2k2dTF1dTFneEI5dUZFZ2RaeW9QNl9EMnVDemotUUs4d3JXc21lS0pleFh6eEdn?oc=5
 
-3. **Ex-imigrante em situação irregular, brasileiro concorre a deputado nos EUA**
+2. **Ex-imigrante em situação irregular, brasileiro concorre a deputado nos EUA**
    - Fonte: Folha de S.Paulo
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWVdPSUlmTjU4S09zV2JkT040a3Y2alJoMFFSQXk5UjNuMlVBTllqSEtkdE93UFRnWV9SZFRDVDRiOFNkbkdWdHllaHZwMVBJNVZmN3VmbkFCT19XVGRFQWdiR2JMb0dUcE43NXBuSVZrY0JpcVpDVEdqOE9YVk5IQ3VEUHRXcERDYk9oampjS2RXMUdqUzFod2FCWjliNXI3ZXAzVUFvMVVTbGcwSS1EWkotek1mMU5sWnFQdUF4YUU?oc=5
 
-4. **Voto ilegal faz EUA negarem cidadania a residente permanente**
-   - Fonte: Portal ABC do ABC
+3. **Imigrantes nos EUA devem informar mudança de endereço ao governo em até 10 dias**
+   - Fonte: Gazeta Brazilian News
    - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMigAFBVV95cUxQazIxUUp5Vm9KQ2dERUJzejhzaEVNQmxSbVVLZDJWSFZEbFhWbkoxcmd5aGFSSXU4ekNMYjJQMTh1YUp0N1B6MzIzRFJDUE9FREZDQXRPcFJmOTRWWVNpcjZUZVdPTzRDZ0hXV3JLSEJydlRSc2o3ZU5HdHl3UG9kVQ?oc=5
+   - Link: https://news.google.com/rss/articles/CBMi0gFBVV95cUxPV2xTaXNQTWJnWnJXb2tBUFk2U3JFLU5DX0pGajdtN0c0NUdCaHh4QUduX1A0VUp5UVhYT3dlYVJMMEFjYkFOYXdXOVM3TzdRenVQeHF2QThzd09qSkpxMW1tSlNHOFVwWVpCVmxhdnY4UXpGcTZ1MDE4MVR5MnZZdC1uVHlXc2VsaVg5RUVXLXNXUUppUHRYY0VPUlNOSFVIMF9GM3hKeWpQQW9FWVBOdVpBN042d2pYOWZjNTM1OG1UeXJ0Y0lDTEpFQjhvWTFPM0E?oc=5
+
+4. **EUA: ativista palestino recorre ao Supremo contra deportação**
+   - Fonte: SBT News
+   - Termo monitorado: imigração EUA
+   - Link: https://news.google.com/rss/articles/CBMiogFBVV95cUxNd3FVLV9NeDNnYXNaSVhPSDlYYU5RcDR5dnVkbm93YkVrelZtSHo1TnltNVY0TWg0Q0UtYlJhbVZxOGEwaG92MngtSzZJY0F0YkZYcFJFWHhvN1Nub00yU18zbFJGNWx4TDBBN1BlUUNjRVkyVnM3T3phSDRsQWRCc0xFN0NmVF9nLWJEeWs5UE8xRGg1aWpFNFRZMkxzR1o0LVE?oc=5
 
 5. **Do papel ao digital: USCIS exige e-filing obrigatório**
    - Fonte: Migalhas
@@ -48,12 +48,12 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### imigração EUA
 
-- **Imigrantes nos EUA devem informar mudança de endereço ao governo em até 10 dias**
-  - Fonte: Gazeta Brazilian News
-  - Link: https://news.google.com/rss/articles/CBMi0gFBVV95cUxPV2xTaXNQTWJnWnJXb2tBUFk2U3JFLU5DX0pGajdtN0c0NUdCaHh4QUduX1A0VUp5UVhYT3dlYVJMMEFjYkFOYXdXOVM3TzdRenVQeHF2QThzd09qSkpxMW1tSlNHOFVwWVpCVmxhdnY4UXpGcTZ1MDE4MVR5MnZZdC1uVHlXc2VsaVg5RUVXLXNXUUppUHRYY0VPUlNOSFVIMF9GM3hKeWpQQW9FWVBOdVpBN042d2pYOWZjNTM1OG1UeXJ0Y0lDTEpFQjhvWTFPM0E?oc=5
 - **EUA: católicos e evangélicos pedem tratamento humano para migrantes**
   - Fonte: Vatican News
   - Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUnA2QnlxVlg4VWQ1SWxfNGJVTE92ejcwSlFfTzgwU0tta1dVLXY4VjUxV21GdFZJYmhILUVwSFU4V2pFQ1c0ZUxISF9HOGhZMUNFYVBsZEtRcG96a2hQbnI1Q1hoOEtpLVBZNlo4LUc0Mi1FeUlZUWV3cW95eUlqd1JDRUNWRVdJdzEyV2k2dTF1dTFneEI5dUZFZ2RaeW9QNl9EMnVDemotUUs4d3JXc21lS0pleFh6eEdn?oc=5
+- **Ex-imigrante em situação irregular, brasileiro concorre a deputado nos EUA**
+  - Fonte: Folha de S.Paulo
+  - Link: https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWVdPSUlmTjU4S09zV2JkT040a3Y2alJoMFFSQXk5UjNuMlVBTllqSEtkdE93UFRnWV9SZFRDVDRiOFNkbkdWdHllaHZwMVBJNVZmN3VmbkFCT19XVGRFQWdiR2JMb0dUcE43NXBuSVZrY0JpcVpDVEdqOE9YVk5IQ3VEUHRXcERDYk9oampjS2RXMUdqUzFod2FCWjliNXI3ZXAzVUFvMVVTbGcwSS1EWkotek1mMU5sWnFQdUF4YUU?oc=5
 
 ### USCIS
 
@@ -75,12 +75,12 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### visto americano
 
-- **Visto americano: sistema tem nova regra para reagendar ou cancelar entrevistas; veja o que muda**
+- **Visto para os EUA tem nova regra para reagendar ou cancelar entrevistas; veja perguntas e respostas**
   - Fonte: Estadão
-  - Link: https://news.google.com/rss/articles/CBMixwFBVV95cUxPNFlCZFdIU2FCYzNTc19vZlBhS2pCMm5vd2phOVozbHhVVEh4UzNRSDdpcGdwT2pIeTZVeXJnZEcyLWU3Zk9LX21rc2s3TDExRG1Ed2pUbmd2VWs3aFBxMGtsY1cyX1BfT1hmQzVjSWZvRU54bTdVVVI3aGFlVmN1ZkV1eko0ZTlaQWx6R2tCdkIteUZIZWZYa1BjVzRRNEFUbzVwOHNLcUMyak5CYjZEUXJLXzdzZl9wLXJuT2NmbkZ1SmxFVXZj0gHMAUFVX3lxTFBwWTZYamR5aXptS0VNenU5VVVNMFJwaDliNmg2Tk5wTENlbjZ2TkNwNmdLZzg3RnFrYnVnZjV6TVg2THo3azZpRGI4aTI1V3JwM2ZQRjQ5Vzlxci05bFhxc3VSdTB6eFV6bGc1LUtYNmNkOHB5TE1FbmlRckh1MDNIX1ZuUXJ6VDd5WFhzcDFSZVhvZmMtSlhoenNSWUZfa3lEMXV5bUdtYnJvd29IdmV1ZkpuWlhaVzU1ZW9mdU5TLWN4WUgtMXZkSWFWaQ?oc=5
-- **Visto americano: agora você só pode remarcar a entrevista três vezes**
-  - Fonte: Estado de Minas
-  - Link: https://news.google.com/rss/articles/CBMi1wFBVV95cUxQX2VNXzY1TnZzZTdZWkRoYThmZEZPRlc5MFRVeTZveWl5UmtHM0E2WV9yb2pfX2lRVGd2NEU3RDNDRDRWT0liZGtXdGpsRTY3UmxPSENTWXF6aDRPdXlYQW5kcFl2VzhXVkJDaGNhQTN1VzJicFhKVVg3WVVvQm94d2pWLTd5UGMxU0xycE1MZVFyWnduY3JUU3RYSmhxbC1QaXU4Z2VjQjB6dEtvOWtCbzFOejhvWUJMazVRS2xBTFZIQW9DVkY0ZXp5a1JZSmE4QnJPVUFOWdIB3AFBVV95cUxNMTFJQ19HWDltNnluVFFzalJsZVNvOEdtVGNtMlFPbDZjSTAwOW5oRHh3S1RMek80QXotYmVZUjZaMEZBRUR2ZUpWOFV4dWNaczFkQ3BzZHVaemFGeVlKWVNpdGJtRW5NVWNUM1hFN0VrdGpDQUhTWG9zRmdSVFdIUmo3Tzl4d24zMm9sYldQd1FWWVpaM29yemhNMlgwUVdnS29wTVJJbG9ScVRubXBZNW1IZE9MUmxzSTVSVHVNRVl2SVpwYU1xRm9vZmQxekRFRUVjak5sODR5Ry1D?oc=5
+  - Link: https://news.google.com/rss/articles/CBMizgFBVV95cUxNS1ZLN21CLWR2N29yMGpYMDdadlhtelZfaW82eDUySWw1eE9HZmdaaC1yeWhtTmxkS05WX3NFMC1hTnB3Y3M1TTFVcHpRXzJ2N1JYU09iQ2xSbUVKTXZLVnBtRlhWNVNkSEFtTTdYNnJOY2Q0TERJSng4QW03NFBwUHUydGoxNFQyR1AwelFoa0Rwc3ZMeXZGTHhNT1o1cU9vajVJZEl5OG9NdE5pRVd6RExEa0VaeHpKY2RRZ25MOTlLRTBTbXpnMHBCZVhBZ9IB0wFBVV95cUxNYjJiaTBlZTYzOUR1ek9PN1E2cU5pWDJGZ2xYcUpLT2RPbDVtQ1RsSkNrZWtfbXl5TnBSaUxMUFpXbDhQWVBNVmpYOGJZNGZXOUhzSlRIa3JpTDB0djgtOWs5NmZudFhma0hRZ0YybmtSY1N1OTRDbWR2czdIalJEeHJXbFJraklMMm1WakVvMGhtemZFTVNxZ0hhZ0F3SlFiR0RQMkk2SGMyejdZRW83YlYwdF8xUEo2UkJ2dmtOMWVCUWZsWVpEdllyU1VlN3NHejJZ?oc=5
+- **EUA apresentam nova regra para concessão de visto**
+  - Fonte: Revista Oeste
+  - Link: https://news.google.com/rss/articles/CBMiigFBVV95cUxPbmFNRFNaRFJLZk12UHNnVUVENzdlV1VqbmFaM1hJeUNpUHB3aGNBYjB4V0o5S3dUR2ZBOUZzZEZqeFo5NmQzYjZZcllsRHFNdjdGTHdOdmZzbURlcWdJcXZfV0lQUjF1Z0FHRnYyV09HYjNJSF9aMzZoZ3hUQVpWWWZHQzlwWDIzb0E?oc=5
 
 ### brasileiros nos Estados Unidos
 
