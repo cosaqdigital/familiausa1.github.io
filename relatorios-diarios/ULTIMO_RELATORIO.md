@@ -1,8 +1,8 @@
 # Relatório diário — Imigração e brasileiros nos EUA
 
-Gerado em: 2026-10-20 13:02 EDT
+Gerado em: 2026-10-20 17:35 EDT
 
-Arquivo original: `2026-10-20-13-02-tendencias-imigracao.md`
+Arquivo original: `2026-10-20-17-35-tendencias-imigracao.md`
 
 ## Objetivo
 
@@ -25,10 +25,10 @@ Este relatório serve como base para criação de artigos atualizados para o blo
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUnA2QnlxVlg4VWQ1SWxfNGJVTE92ejcwSlFfTzgwU0tta1dVLXY4VjUxV21GdFZJYmhILUVwSFU4V2pFQ1c0ZUxISF9HOGhZMUNFYVBsZEtRcG96a2hQbnI1Q1hoOEtpLVBZNlo4LUc0Mi1FeUlZUWV3cW95eUlqd1JDRUNWRVdJdzEyV2k2dTF1dTFneEI5dUZFZ2RaeW9QNl9EMnVDemotUUs4d3JXc21lS0pleFh6eEdn?oc=5
 
-4. **Custo de vida e imigração desgastam Trump entre latinos antes das eleições nos Estados Unidos**
-   - Fonte: Diário da Manhã
+4. **Trump relaciona imigração a protestos violentos na França**
+   - Fonte: CNN Brasil
    - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMiygFBVV95cUxQcS1CTzhFT3R3QVNidm1HQjRaWTNYOE1MeHFIdnFNZGEyRXhrRDdWeE9RTFdNOHNOMWRudFZUTmZ6MWgzc3pEcjQybDdacF9hdWE4M2FUQ2t0RDEwU0ZFcjBMX3piMUo2dHhwY0J2cjJiYTR1YTVFbGZWelZfNVFJdnBMOUMycExHQzJPZmxuMmJxQTdrM195R3U2bU1sWUxnVGpERE9yX3ZubGxZdlJyVE9Mb3E1ZFZ1Y1piSmFGT1cxblRma0pUWDlR?oc=5
+   - Link: https://news.google.com/rss/articles/CBMipgFBVV95cUxNNFhfc3ZOeTd2MTBPSk02NzlQRl8xQjdIME5JS0RPTHdScWxXa3hqazk5ZEF5a3VNTThPZU5fM2tic0VodnFMWjdjZzRNRHZpeVQ5NzlRVkdYM0xrbHNWeTB3Vy1DMGpvTHRMTTZQM0xCX2JGM3QtUFljSGJ0UDI5bUpFUS1HMHFnY1lmS283bUZUYnMtWEpQWDhDSUxkbzhkNWg2eXZn?oc=5
 
 5. **Imigrantes nos EUA devem informar mudança de endereço ao governo em até 10 dias**
    - Fonte: Gazeta Brazilian News
@@ -75,30 +75,30 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### visto americano
 
-- **Visto americano: sistema tem nova regra para reagendar ou cancelar entrevistas; veja o que muda**
-  - Fonte: Estadão
-  - Link: https://news.google.com/rss/articles/CBMixwFBVV95cUxPNFlCZFdIU2FCYzNTc19vZlBhS2pCMm5vd2phOVozbHhVVEh4UzNRSDdpcGdwT2pIeTZVeXJnZEcyLWU3Zk9LX21rc2s3TDExRG1Ed2pUbmd2VWs3aFBxMGtsY1cyX1BfT1hmQzVjSWZvRU54bTdVVVI3aGFlVmN1ZkV1eko0ZTlaQWx6R2tCdkIteUZIZWZYa1BjVzRRNEFUbzVwOHNLcUMyak5CYjZEUXJLXzdzZl9wLXJuT2NmbkZ1SmxFVXZj0gHMAUFVX3lxTFBwWTZYamR5aXptS0VNenU5VVVNMFJwaDliNmg2Tk5wTENlbjZ2TkNwNmdLZzg3RnFrYnVnZjV6TVg2THo3azZpRGI4aTI1V3JwM2ZQRjQ5Vzlxci05bFhxc3VSdTB6eFV6bGc1LUtYNmNkOHB5TE1FbmlRckh1MDNIX1ZuUXJ6VDd5WFhzcDFSZVhvZmMtSlhoenNSWUZfa3lEMXV5bUdtYnJvd29IdmV1ZkpuWlhaVzU1ZW9mdU5TLWN4WUgtMXZkSWFWaQ?oc=5
 - **Visto americano tem nova regra para reagendar entrevistas – veja o que muda**
   - Fonte: Melhores Destinos
   - Link: https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcmVhUUYxM19ZUGNsSmpoRDM1R3dvSlFUZ3FnbXlZa3Q3TUs4eEdCYkFDaGs5MEtBTEJmQ0dQWU84dFhCTUNxaTBiRTNycnk0RjQ0SHZ2WUxaMDBOZVN5QVl3cmUtNEJlZUJiVmZfNS1WNUVRVm5YSDNsM05rUjRwUkRRT0xrbHEx?oc=5
+- **Visto americano: crianças e idosos também podem ter que fazer entrevista presencial**
+  - Fonte: R7 Entretenimento
+  - Link: https://news.google.com/rss/articles/CBMi9gFBVV95cUxOcnVYdExMaUtzcXhva01YcnMwUGVhQkhYM2UtaGM1ektkRklSVVRmdWJLRV90eUZSNUhRUi1ibmlTN0NUYm9XX3J5SVMtcVByMVZnYWZDbzhRVkJ0d0RKYjJjUWw0RkZCN0VaSF9WanlxNXMyalczQ1BYcTBhcTc0X1pJcm50UjBjRldLOW5LNVNrTW92RVE2LVhaSkF2LXVsT2x6aTlNc2lCVHhrUWw1akpXMm5nYU5Ua05iV1dTN01IVU40d1A2dWlFS0k5QUdHc2tENFd0QThWZXJSXzVrQWlyUGZqal9tdlNtZ2lUWlJUY1BqUEE?oc=5
 
 ### brasileiros nos Estados Unidos
 
-- **CMA debate efeitos da política externa dos EUA sobre o Brasil**
-  - Fonte: Senado
-  - Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxPd0tOTVgyS1pldXRGZnJkcW9NOWpTMnVzbWMwSGxhZ1RWY3hsanJndkJuRUxBTFF1c0J4RnBUM1FteXJrd2sxbS1qT01yYWdKWXVDU0hodkw2cnFYM1A3RTBYRFo4Qjd4eXJLS2FNT2p4WTVkUHh6MjJCZHdzaWRiT3FUTnBSZHR1UEg1YjQyNkJ2cU9wVW9NR1l2emF0QVYwaGFmMTZGdy1TTlRVWWpfZTZyNC1xd2hmTlE?oc=5
-- **Depois de soja, algodão e carne, agro do Brasil deve superar os EUA em outro produto; saiba qual é**
-  - Fonte: O GLOBO
-  - Link: https://news.google.com/rss/articles/CBMi6gFBVV95cUxQN3ZUcnJYRGU4aC1tVHFRM1BKaG9neGlLZlhnYjJsUXcxOVZ4ak5SZlpyOEM1UlRnZUhqcFg0aGlLNmhlcUdHTFVuMy0yS3h3VUJOdFhkVk4yM19WX29uNHNpX3hMY1dfc3NkSk1ZTFV0VE1KUk9VblpiRzc1OHZQN2tUeXpINmQ0dVZ0Y2hfVXFBdkhJdGZUcGcyUjdIZ2Z0cjhFZXdZT1JjVFR3XzB6V1pfZUNPd2pOT2dDNjBObXFIOVI4YlZ2UFlRSUc3RnpyRnJyTTh1NnphbVRQX2VzR2l3bUdGMFpOMmfSAfgBQVVfeXFMUC1QY3RyblRobXRTaXM2bFRMdlNaT1gwUUF0RGZxUnRFOWtJSFRqOGw0ZlpEV0FINGdwaWlHQ0pad05ydE9nNFFIcE9rYWZvRy1Hd1VmSVdBWXFWUnRKZDkwSkx6aWtVZzY3dU90c3hCWUc0OTNmYkhWeWM4T0xvRTNrZ0Y2a2FRZk9WN0JNanJWUVFGRVh2bVMyZ0ZtdlV4bmtUZkh0Yk94cEhNMHdZOF9EM0lEYlRTejNRakVjMno4YVl1Q0dicE5lTXRNT1RKX2pCdE5udE9FWDBGel9mdFR5dm13NktZYnJuUENLVXZYaU5XTFdxZm4?oc=5
+- **Brasil, China e Estados Unidos: três países, três rumos**
+  - Fonte: Monitor Mercantil
+  - Link: https://news.google.com/rss/articles/CBMijgFBVV95cUxNZmE0ZUNCT1gwdWJSZUpQaW5NZFFJNlpDem0zMGJ5R2dSdzBBTVhOMHI3RlBrUEF4bkpWcTVqTEtWbjlwZVgzakhuSm1tSWFsY1hvaFo1SEZoLV9mSDlGbDg0YkZ0LXFJRW1YY1p6YWV5azZ2VGZYZmYyekxzcE5ELUxNYXFTeXNVR0piWjRn?oc=5
+- **Turismo esportivo abre oportunidades para agentes de viagens nos EUA**
+  - Fonte: Panrotas
+  - Link: https://news.google.com/rss/articles/CBMizgFBVV95cUxPNE1wTDlEWFFTQTZOUHkzU214MnlfLW5ZejZoQzBtRmtBYmZ4VTVWYTdHekxLWWF0UHJWRURwYWlGcEhpNnV5UnVvQTh0SHhqZno2M3hpT1d5TWpYMm16ak1NYy1wWkZDOS1McjdEejNjVjdOQmh6cUJWQVFnSnlLRXprY2hqQkpqb2MxREhEeXUzbFRQWEdHOEpFWThrSFQtUHN6Rkp2VFZRRHNuZVlpZE9WaWhyNWRFSXItaFNOMUIwWEtxSE1BeFNDOWsyZw?oc=5
 
 ### asilo nos EUA
 
+- **‘De portas ainda mais fechadas’: Suprema Corte e o pedido de asilo nos EUA**
+  - Fonte: OPEU — Observatório Político dos Estados Unidos
+  - Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxNT0RFSGdDcWhlZE9kdVNtYWlsNUlGRnBFbVhuQkt0bWlOcVNxZDJDaDFxZ1FUY0p3RHlTS04yb1YzZUI2el8zOG9fOWY2MHNITm5MSDNNNzdqSEllVWJQSjRoOXhqYmRUYmdjMGM5aVJHaFBCdjRkQUxzWmpURkFoQnhNNUJ0ZnEzYVBUSS0tN1JWNnpEOV84Q2dXbXNOTUdxb0YyeUo2aTRNWmM?oc=5
 - **EUA anunciam revogação de milhares de vistos de cidadãos em busca de asilo**
   - Fonte: O GLOBO
   - Link: https://news.google.com/rss/articles/CBMiygFBVV95cUxOSWMwZU9TR0FMT28xcVpiOFc2RzhZdU5sNE5MM1ZQa1F0c0RiZEM5SjJRbTc3eG1CRnFzZlc4U2QtUXRiTUhkLWx1dm1PUkVuVnZrdXdwZDZxVThZTFV4OFhMSTBWTjFWVS1tWmpXYnhSa0RtRE1JYi1iTWRQMVdJN2JqQlkzMENYUngxUl9ieEdlazNHYnUzcW53SGJZdEtPMlVJMU5NUTdyMVFzSDQwZ1VuazNqS1NLamdhT1JhQVBHMU1HUmZPNVl30gHYAUFVX3lxTE9hdTBxZEhOQVhkd2x2U2VxNmdhbkt0ZFhWY19yM0FJMGxWMGtHXzRiV0diYUJQQTY4cGlSMmlxaWFRT2lWZmh2SUs3YW5DRzNoS3JjdVFXX2F6VUV4OE9PVFZvSUVQcG0wZEN0SkNsV3JLOGNIYXJQQWltU0lzM2pKbFZJbkhsS0trX2pSUHF0eXRWYnlmUk9OdnJPUzZZZThTdXV3WnJxTGtUM25mNzZrRjZrcV93bWUwNjNBUk5NRjFvcDV5bzJ6UTg2amcxaTJfQVRwNEpZcg?oc=5
-- **EUA preparam revogação em massa de vistos de estrangeiros**
-  - Fonte: DW.com
-  - Link: https://news.google.com/rss/articles/CBMiygFBVV95cUxPdjFUa01aRlBvQjdGWDB2LUFMYllFdnpqVmFuYS1yd254NHB6cUY0ZUhPNDlJbzR4Sk1TY3hveG03eXlGTXFVOFJjVS1sdlRxNzVSZUsxcklGZm9sY3pHX25nQzh6S3dkODZCWl9YRjhJOGJvb3VvR3JWUURQMUlUV1hzTkN5VUR5NTJOZklmdU9GUU0wWFg0N180bTNaM1pQWFFHQi1RTWJ1SlhkVndfMXZQSjVja2U1YUMtYWg2R3NHbmpYYThmbUJR0gHKAUFVX3lxTE84Z2JzY2RRYTNUanJCMkNwSkVsZkFCNUdHRmF3UVVITUk0dHRRQXgwS1R1SXVoaHJZY2U3OTRHR0xBZW5XNDF6TXgwY1pMbjR3U3l5anVlVGdTQzFlOGwwRTB3Mi1JU3ByU1dMRmtFT2plOUEtX2FVUFlMeVBodVp3YVV6WFloX1VpaHRKVUVtUjlxWnVYOEo1RUlDN1VmU0hTSFg4a2pJUW52SjRPOTNfc1Q1ZU1Idm5scnFlSnVaTzlxdWpneDk0MGc?oc=5
 
 ### ICE immigration
 
