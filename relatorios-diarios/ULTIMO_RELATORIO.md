@@ -1,8 +1,8 @@
 # Relatório diário — Imigração e brasileiros nos EUA
 
-Gerado em: 2026-10-20 00:46 EDT
+Gerado em: 2026-10-20 13:02 EDT
 
-Arquivo original: `2026-10-20-00-46-tendencias-imigracao.md`
+Arquivo original: `2026-10-20-13-02-tendencias-imigracao.md`
 
 ## Objetivo
 
@@ -10,30 +10,30 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ## Principais assuntos do dia
 
-1. **EUA: católicos e evangélicos pedem tratamento humano para migrantes**
-   - Fonte: Vatican News
+1. **Igrejas avançam contra operações de imigração nos EUA; agentes já prenderam fiel durante culto**
+   - Fonte: Jovem Pan
    - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUnA2QnlxVlg4VWQ1SWxfNGJVTE92ejcwSlFfTzgwU0tta1dVLXY4VjUxV21GdFZJYmhILUVwSFU4V2pFQ1c0ZUxISF9HOGhZMUNFYVBsZEtRcG96a2hQbnI1Q1hoOEtpLVBZNlo4LUc0Mi1FeUlZUWV3cW95eUlqd1JDRUNWRVdJdzEyV2k2dTF1dTFneEI5dUZFZ2RaeW9QNl9EMnVDemotUUs4d3JXc21lS0pleFh6eEdn?oc=5
+   - Link: https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQ3JqVG1fRWtQSVRoaGJyeTdELU1qOTd6QlZtSk9XMlNhRUFINlhPdWxfaHNIbld4U0hXaWlPbVF5dW1zUk9IVEdjMUZoRk5lUFJDLTBhMkVfczJjOGVOYUV1ZHNkT2hGV0xUVFZrREp3Tlh3OTZfWUtrUGJ2LVBIY0JfaGxLai1zS3pQTGxnbk15eC1Tdk5XeEQ2MkgxU3QxbzZTQTRfclpseFRCbGRrWkI2SFRab1l6TnVzREFTdnVwY2ZONlZrVUk1eURoTGJjRlRsbEotUUpNc0hM?oc=5
 
 2. **Ex-imigrante em situação irregular, brasileiro concorre a deputado nos EUA**
    - Fonte: Folha de S.Paulo
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWVdPSUlmTjU4S09zV2JkT040a3Y2alJoMFFSQXk5UjNuMlVBTllqSEtkdE93UFRnWV9SZFRDVDRiOFNkbkdWdHllaHZwMVBJNVZmN3VmbkFCT19XVGRFQWdiR2JMb0dUcE43NXBuSVZrY0JpcVpDVEdqOE9YVk5IQ3VEUHRXcERDYk9oampjS2RXMUdqUzFod2FCWjliNXI3ZXAzVUFvMVVTbGcwSS1EWkotek1mMU5sWnFQdUF4YUU?oc=5
 
-3. **Imigrantes nos EUA devem informar mudança de endereço ao governo em até 10 dias**
+3. **EUA: católicos e evangélicos pedem tratamento humano para migrantes**
+   - Fonte: Vatican News
+   - Termo monitorado: imigração EUA
+   - Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUnA2QnlxVlg4VWQ1SWxfNGJVTE92ejcwSlFfTzgwU0tta1dVLXY4VjUxV21GdFZJYmhILUVwSFU4V2pFQ1c0ZUxISF9HOGhZMUNFYVBsZEtRcG96a2hQbnI1Q1hoOEtpLVBZNlo4LUc0Mi1FeUlZUWV3cW95eUlqd1JDRUNWRVdJdzEyV2k2dTF1dTFneEI5dUZFZ2RaeW9QNl9EMnVDemotUUs4d3JXc21lS0pleFh6eEdn?oc=5
+
+4. **Custo de vida e imigração desgastam Trump entre latinos antes das eleições nos Estados Unidos**
+   - Fonte: Diário da Manhã
+   - Termo monitorado: imigração EUA
+   - Link: https://news.google.com/rss/articles/CBMiygFBVV95cUxQcS1CTzhFT3R3QVNidm1HQjRaWTNYOE1MeHFIdnFNZGEyRXhrRDdWeE9RTFdNOHNOMWRudFZUTmZ6MWgzc3pEcjQybDdacF9hdWE4M2FUQ2t0RDEwU0ZFcjBMX3piMUo2dHhwY0J2cjJiYTR1YTVFbGZWelZfNVFJdnBMOUMycExHQzJPZmxuMmJxQTdrM195R3U2bU1sWUxnVGpERE9yX3ZubGxZdlJyVE9Mb3E1ZFZ1Y1piSmFGT1cxblRma0pUWDlR?oc=5
+
+5. **Imigrantes nos EUA devem informar mudança de endereço ao governo em até 10 dias**
    - Fonte: Gazeta Brazilian News
-   - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMi0gFBVV95cUxPV2xTaXNQTWJnWnJXb2tBUFk2U3JFLU5DX0pGajdtN0c0NUdCaHh4QUduX1A0VUp5UVhYT3dlYVJMMEFjYkFOYXdXOVM3TzdRenVQeHF2QThzd09qSkpxMW1tSlNHOFVwWVpCVmxhdnY4UXpGcTZ1MDE4MVR5MnZZdC1uVHlXc2VsaVg5RUVXLXNXUUppUHRYY0VPUlNOSFVIMF9GM3hKeWpQQW9FWVBOdVpBN042d2pYOWZjNTM1OG1UeXJ0Y0lDTEpFQjhvWTFPM0E?oc=5
-
-4. **EUA: ativista palestino recorre ao Supremo contra deportação**
-   - Fonte: SBT News
-   - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMiogFBVV95cUxNd3FVLV9NeDNnYXNaSVhPSDlYYU5RcDR5dnVkbm93YkVrelZtSHo1TnltNVY0TWg0Q0UtYlJhbVZxOGEwaG92MngtSzZJY0F0YkZYcFJFWHhvN1Nub00yU18zbFJGNWx4TDBBN1BlUUNjRVkyVnM3T3phSDRsQWRCc0xFN0NmVF9nLWJEeWs5UE8xRGg1aWpFNFRZMkxzR1o0LVE?oc=5
-
-5. **Do papel ao digital: USCIS exige e-filing obrigatório**
-   - Fonte: Migalhas
    - Termo monitorado: USCIS
-   - Link: https://news.google.com/rss/articles/CBMimgFBVV95cUxPU3lXOWsxRDdlbEh4anpHUmp2amh5SHpCaUlWVmtIa3VqWFpYTWZ0Ujh1NlV0d1N4TUw1cmN6cG5UdWZ1c0ZZdG1hMGV6eWY3STQ5SldkTmpudHhCcHlaZXZoTFRIdkdXRm5Za1NPRkd3LWs5dl93N1poWmZ3cm1fTFA1NHN4SllBWGlRRk12WTNtM2djNGw3VWtB?oc=5
+   - Link: https://news.google.com/rss/articles/CBMi0gFBVV95cUxPV2xTaXNQTWJnWnJXb2tBUFk2U3JFLU5DX0pGajdtN0c0NUdCaHh4QUduX1A0VUp5UVhYT3dlYVJMMEFjYkFOYXdXOVM3TzdRenVQeHF2QThzd09qSkpxMW1tSlNHOFVwWVpCVmxhdnY4UXpGcTZ1MDE4MVR5MnZZdC1uVHlXc2VsaVg5RUVXLXNXUUppUHRYY0VPUlNOSFVIMF9GM3hKeWpQQW9FWVBOdVpBN042d2pYOWZjNTM1OG1UeXJ0Y0lDTEpFQjhvWTFPM0E?oc=5
 
 
 ## Sugestões de artigos para publicar
@@ -48,48 +48,48 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### imigração EUA
 
-- **EUA: católicos e evangélicos pedem tratamento humano para migrantes**
-  - Fonte: Vatican News
-  - Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUnA2QnlxVlg4VWQ1SWxfNGJVTE92ejcwSlFfTzgwU0tta1dVLXY4VjUxV21GdFZJYmhILUVwSFU4V2pFQ1c0ZUxISF9HOGhZMUNFYVBsZEtRcG96a2hQbnI1Q1hoOEtpLVBZNlo4LUc0Mi1FeUlZUWV3cW95eUlqd1JDRUNWRVdJdzEyV2k2dTF1dTFneEI5dUZFZ2RaeW9QNl9EMnVDemotUUs4d3JXc21lS0pleFh6eEdn?oc=5
+- **Igrejas avançam contra operações de imigração nos EUA; agentes já prenderam fiel durante culto**
+  - Fonte: Jovem Pan
+  - Link: https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQ3JqVG1fRWtQSVRoaGJyeTdELU1qOTd6QlZtSk9XMlNhRUFINlhPdWxfaHNIbld4U0hXaWlPbVF5dW1zUk9IVEdjMUZoRk5lUFJDLTBhMkVfczJjOGVOYUV1ZHNkT2hGV0xUVFZrREp3Tlh3OTZfWUtrUGJ2LVBIY0JfaGxLai1zS3pQTGxnbk15eC1Tdk5XeEQ2MkgxU3QxbzZTQTRfclpseFRCbGRrWkI2SFRab1l6TnVzREFTdnVwY2ZONlZrVUk1eURoTGJjRlRsbEotUUpNc0hM?oc=5
 - **Ex-imigrante em situação irregular, brasileiro concorre a deputado nos EUA**
   - Fonte: Folha de S.Paulo
   - Link: https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWVdPSUlmTjU4S09zV2JkT040a3Y2alJoMFFSQXk5UjNuMlVBTllqSEtkdE93UFRnWV9SZFRDVDRiOFNkbkdWdHllaHZwMVBJNVZmN3VmbkFCT19XVGRFQWdiR2JMb0dUcE43NXBuSVZrY0JpcVpDVEdqOE9YVk5IQ3VEUHRXcERDYk9oampjS2RXMUdqUzFod2FCWjliNXI3ZXAzVUFvMVVTbGcwSS1EWkotek1mMU5sWnFQdUF4YUU?oc=5
 
 ### USCIS
 
+- **Imigrantes nos EUA devem informar mudança de endereço ao governo em até 10 dias**
+  - Fonte: Gazeta Brazilian News
+  - Link: https://news.google.com/rss/articles/CBMi0gFBVV95cUxPV2xTaXNQTWJnWnJXb2tBUFk2U3JFLU5DX0pGajdtN0c0NUdCaHh4QUduX1A0VUp5UVhYT3dlYVJMMEFjYkFOYXdXOVM3TzdRenVQeHF2QThzd09qSkpxMW1tSlNHOFVwWVpCVmxhdnY4UXpGcTZ1MDE4MVR5MnZZdC1uVHlXc2VsaVg5RUVXLXNXUUppUHRYY0VPUlNOSFVIMF9GM3hKeWpQQW9FWVBOdVpBN042d2pYOWZjNTM1OG1UeXJ0Y0lDTEpFQjhvWTFPM0E?oc=5
 - **Do papel ao digital: USCIS exige e-filing obrigatório**
   - Fonte: Migalhas
   - Link: https://news.google.com/rss/articles/CBMimgFBVV95cUxPU3lXOWsxRDdlbEh4anpHUmp2amh5SHpCaUlWVmtIa3VqWFpYTWZ0Ujh1NlV0d1N4TUw1cmN6cG5UdWZ1c0ZZdG1hMGV6eWY3STQ5SldkTmpudHhCcHlaZXZoTFRIdkdXRm5Za1NPRkd3LWs5dl93N1poWmZ3cm1fTFA1NHN4SllBWGlRRk12WTNtM2djNGw3VWtB?oc=5
-- **EUA propõem nova análise para 208 mil pedidos anuais de extensão de trabalho**
-  - Fonte: Portal Revista Kdea 360
-  - Link: https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSmlTX0xaMTg2U1VzRWVLQlVNZWdKM2NBeHJCd2FKTFl0RVpJaGFPLWFuYThjTFg1Q0dFRXlsNXppZHFQbEJ5SmRiZ281UE5yZW9BOTVVa1FTQWtKcWlmZHFHamJsbTNyUVJ3RGE0ekVMMDZVLVlqVV9ZNHF0MG1KbDVzeFlSc3pqT09GZXJDbUpka2dVUEpqTXJxSVJNaW1ERnQ1OWtndG9wc3BmNl9MamMtNFpXbWRETkFmOTUwUi1kUQ?oc=5
 
 ### green card
 
-- **Justiça dos EUA determina reabertura da loteria do Green Card até 1º de novembro**
-  - Fonte: Gazeta Brazilian News
-  - Link: https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMVB3bHRiWU9HdnVoQ2FOLTQ4R2NDQVJIQU9Lam9WbmpNM2tITlpRMkF3emhFdXg2QnlzM2dlUFNJZ0NzWXByRkkyaU1RZTcyU1JQYTkyTWRVVGJHWWZGZ2FrMTZ3Mm52aTIxUGhnMVU3cnpOdC1salVUWmtQNnNzWl9xNGl4cjZuSU9hSHM1aHhiNWdHcXNhSjVWWUFMbm9OM1hpSXVJSjdIX3RNR2xGNXdxcTN0dFZRVllGVjZWa2ZpSmxwdFY3TDlFY1RJcTRTVGc?oc=5
+- **Brasileiro é preso em Massachusetts acusado de vender Green Card e Social Security falsos**
+  - Fonte: AcheiUSA
+  - Link: https://news.google.com/rss/articles/CBMiygFBVV95cUxQUDAtYkhJbXhVSUJoRURuUFhvQjdNOWdBR0lVTVNtYTFKT0x1NGxRaGdpNjM3UlQ4cVA2cUNPYjBJYXRab1E0aWVwS2J6aldQT3puVHlzVjdIX0FZZC1majhEUGpVTWloSFQ2SzdNaEItWTctZ3RaTzdPLThqVW5nNjZFN3pnVVY5cC02eUFqUTk2RVNBdzhaTWNtTF9ZT2FTU2k1S0JBcVI1azJJbjZnSWVwb1dfcndocVRHajYwYjVWZ05OTXpVR05R?oc=5
 - **Eduardo Bolsonaro teve 'green card' concedido pelo governo Trump; relembre**
   - Fonte: G1
   - Link: https://news.google.com/rss/articles/CBMiwAFBVV95cUxORmEtVDMwUHpDQTRoQ2NUM0txX2Y3dExXUEo1N2Vmd1pvWkR5VjNDUDVzWkNVV1RDYmYxOGlQSVR6a2k4dU1BSElDQWdfdmtUUUp4QkVJLUZ4NlZDbllwU2ZYTWw5a3NIT2l5MGZUVlVMekRBMHl6SWRhRTFubGFtc2l5UU8zZ3gyTTBZMzh4dXBBWHpmelIxVzlUM2dEaWd4N1pYVGZxZ0RZYlRQRGQwUm43RE5lanB3cmVHN05sUlPSAc8BQVVfeXFMTTdvSVRSbEY3bTk0Rm1NRUZpaTBMMk83Q2FsbWFYWUhfdlY4Si04ZXJnNmJBOUd6SjJDQWRpaWgza1ZhbFo4b2dyOUpIU2NMVjZ6U0dJcVEtMmhISmpVajhaQjlzbnB2WDJUMVBEU1hfZ2o4bXJqYVBTRWx5MWtBWGhfbWNMa1Z4WlZsYmlKTDJWWnRxaTlmZ25wQWUycUdZRGhXb3BkOGhxNHN1MjAyT0lsbG5NQWRuLUZ6ZS1uR0R5VklIczdKdHVOd0t0RkZR?oc=5
 
 ### visto americano
 
-- **Visto para os EUA tem nova regra para reagendar ou cancelar entrevistas; veja perguntas e respostas**
+- **Visto americano: sistema tem nova regra para reagendar ou cancelar entrevistas; veja o que muda**
   - Fonte: Estadão
-  - Link: https://news.google.com/rss/articles/CBMizgFBVV95cUxNS1ZLN21CLWR2N29yMGpYMDdadlhtelZfaW82eDUySWw1eE9HZmdaaC1yeWhtTmxkS05WX3NFMC1hTnB3Y3M1TTFVcHpRXzJ2N1JYU09iQ2xSbUVKTXZLVnBtRlhWNVNkSEFtTTdYNnJOY2Q0TERJSng4QW03NFBwUHUydGoxNFQyR1AwelFoa0Rwc3ZMeXZGTHhNT1o1cU9vajVJZEl5OG9NdE5pRVd6RExEa0VaeHpKY2RRZ25MOTlLRTBTbXpnMHBCZVhBZ9IB0wFBVV95cUxNYjJiaTBlZTYzOUR1ek9PN1E2cU5pWDJGZ2xYcUpLT2RPbDVtQ1RsSkNrZWtfbXl5TnBSaUxMUFpXbDhQWVBNVmpYOGJZNGZXOUhzSlRIa3JpTDB0djgtOWs5NmZudFhma0hRZ0YybmtSY1N1OTRDbWR2czdIalJEeHJXbFJraklMMm1WakVvMGhtemZFTVNxZ0hhZ0F3SlFiR0RQMkk2SGMyejdZRW83YlYwdF8xUEo2UkJ2dmtOMWVCUWZsWVpEdllyU1VlN3NHejJZ?oc=5
-- **EUA apresentam nova regra para concessão de visto**
-  - Fonte: Revista Oeste
-  - Link: https://news.google.com/rss/articles/CBMiigFBVV95cUxPbmFNRFNaRFJLZk12UHNnVUVENzdlV1VqbmFaM1hJeUNpUHB3aGNBYjB4V0o5S3dUR2ZBOUZzZEZqeFo5NmQzYjZZcllsRHFNdjdGTHdOdmZzbURlcWdJcXZfV0lQUjF1Z0FHRnYyV09HYjNJSF9aMzZoZ3hUQVpWWWZHQzlwWDIzb0E?oc=5
+  - Link: https://news.google.com/rss/articles/CBMixwFBVV95cUxPNFlCZFdIU2FCYzNTc19vZlBhS2pCMm5vd2phOVozbHhVVEh4UzNRSDdpcGdwT2pIeTZVeXJnZEcyLWU3Zk9LX21rc2s3TDExRG1Ed2pUbmd2VWs3aFBxMGtsY1cyX1BfT1hmQzVjSWZvRU54bTdVVVI3aGFlVmN1ZkV1eko0ZTlaQWx6R2tCdkIteUZIZWZYa1BjVzRRNEFUbzVwOHNLcUMyak5CYjZEUXJLXzdzZl9wLXJuT2NmbkZ1SmxFVXZj0gHMAUFVX3lxTFBwWTZYamR5aXptS0VNenU5VVVNMFJwaDliNmg2Tk5wTENlbjZ2TkNwNmdLZzg3RnFrYnVnZjV6TVg2THo3azZpRGI4aTI1V3JwM2ZQRjQ5Vzlxci05bFhxc3VSdTB6eFV6bGc1LUtYNmNkOHB5TE1FbmlRckh1MDNIX1ZuUXJ6VDd5WFhzcDFSZVhvZmMtSlhoenNSWUZfa3lEMXV5bUdtYnJvd29IdmV1ZkpuWlhaVzU1ZW9mdU5TLWN4WUgtMXZkSWFWaQ?oc=5
+- **Visto americano tem nova regra para reagendar entrevistas – veja o que muda**
+  - Fonte: Melhores Destinos
+  - Link: https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcmVhUUYxM19ZUGNsSmpoRDM1R3dvSlFUZ3FnbXlZa3Q3TUs4eEdCYkFDaGs5MEtBTEJmQ0dQWU84dFhCTUNxaTBiRTNycnk0RjQ0SHZ2WUxaMDBOZVN5QVl3cmUtNEJlZUJiVmZfNS1WNUVRVm5YSDNsM05rUjRwUkRRT0xrbHEx?oc=5
 
 ### brasileiros nos Estados Unidos
 
 - **CMA debate efeitos da política externa dos EUA sobre o Brasil**
   - Fonte: Senado
   - Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxPd0tOTVgyS1pldXRGZnJkcW9NOWpTMnVzbWMwSGxhZ1RWY3hsanJndkJuRUxBTFF1c0J4RnBUM1FteXJrd2sxbS1qT01yYWdKWXVDU0hodkw2cnFYM1A3RTBYRFo4Qjd4eXJLS2FNT2p4WTVkUHh6MjJCZHdzaWRiT3FUTnBSZHR1UEg1YjQyNkJ2cU9wVW9NR1l2emF0QVYwaGFmMTZGdy1TTlRVWWpfZTZyNC1xd2hmTlE?oc=5
-- **'Dominguinho' leva forró e saudade aos brasileiros nos Estados Unidos**
-  - Fonte: UOL
-  - Link: https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mQjZnam1VZk8wWTlzSi0wNlFHOVBQaVltOWZkMjRGR09QbENuMnNiM1lReUFtQnY4ZjZOY25nQmpNSi1PY296d0l2RTB5d2RaNkpVV0hUWUpEeGZRb0JLU3pKV0JBRVU?oc=5
+- **Depois de soja, algodão e carne, agro do Brasil deve superar os EUA em outro produto; saiba qual é**
+  - Fonte: O GLOBO
+  - Link: https://news.google.com/rss/articles/CBMi6gFBVV95cUxQN3ZUcnJYRGU4aC1tVHFRM1BKaG9neGlLZlhnYjJsUXcxOVZ4ak5SZlpyOEM1UlRnZUhqcFg0aGlLNmhlcUdHTFVuMy0yS3h3VUJOdFhkVk4yM19WX29uNHNpX3hMY1dfc3NkSk1ZTFV0VE1KUk9VblpiRzc1OHZQN2tUeXpINmQ0dVZ0Y2hfVXFBdkhJdGZUcGcyUjdIZ2Z0cjhFZXdZT1JjVFR3XzB6V1pfZUNPd2pOT2dDNjBObXFIOVI4YlZ2UFlRSUc3RnpyRnJyTTh1NnphbVRQX2VzR2l3bUdGMFpOMmfSAfgBQVVfeXFMUC1QY3RyblRobXRTaXM2bFRMdlNaT1gwUUF0RGZxUnRFOWtJSFRqOGw0ZlpEV0FINGdwaWlHQ0pad05ydE9nNFFIcE9rYWZvRy1Hd1VmSVdBWXFWUnRKZDkwSkx6aWtVZzY3dU90c3hCWUc0OTNmYkhWeWM4T0xvRTNrZ0Y2a2FRZk9WN0JNanJWUVFGRVh2bVMyZ0ZtdlV4bmtUZkh0Yk94cEhNMHdZOF9EM0lEYlRTejNRakVjMno4YVl1Q0dicE5lTXRNT1RKX2pCdE5udE9FWDBGel9mdFR5dm13NktZYnJuUENLVXZYaU5XTFdxZm4?oc=5
 
 ### asilo nos EUA
 
