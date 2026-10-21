@@ -1,8 +1,8 @@
 # Relatório diário — Imigração e brasileiros nos EUA
 
-Gerado em: 2026-10-21 13:10 EDT
+Gerado em: 2026-10-21 17:41 EDT
 
-Arquivo original: `2026-10-21-13-10-tendencias-imigracao.md`
+Arquivo original: `2026-10-21-17-41-tendencias-imigracao.md`
 
 ## Objetivo
 
@@ -10,25 +10,25 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ## Principais assuntos do dia
 
-1. **Departamento de imigração dos EUA diz que Ramagem é imigrante ilegal e violou leis**
-   - Fonte: Agência Pública
+1. **Ramagem é imigrante ilegal e violou leis, diz setor de imigração dos EUA**
+   - Fonte: UOL Notícias
    - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxQblMtbUw3NXJ3YktyMVpjdTBGRF93SXV1QjVIRk5wYkV6QXVJTzNiOVhFWTZTNWRqb0pJR1BoYUV6eG9TcVZKaGpDR0dyM01kLUZxUFFxVk5zOXlzWU1SalZXRDd6dkwxUENSTGoxNlZzWUhrZm8zU1NpVnNaVzFZeU8xRnJpRl9DaHFaTm1aaW8tZUwyZ1lxcXNsY2V3LWo4dmxjTjQ1SkN5eFlSVDBkd0dB0gG3AUFVX3lxTE0yZXl1a3BwaFRkUURUYnh2TG9vQUQ1b2h0eWQ3cG05WnVaMGtOUExSallyRHd5elIwUnVDLUUyd0t5aGZWWHBQVENBR2VsMjZuZjM4UUotc1VaUjRYWV9kaWktZFlFRTZ4dk1PNU5zZi1RNnhYVnM0U1BTbWVnMkFXWFFiQk91MVdNU21ULVVuOEY1RTJBMUlsOVNrMEhFZmdhMlgzdDh5akVQLVJKdTZSMWVOMFJYNA?oc=5
+   - Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxQZEM5aFBBZ3BDLUJCTU03V015NWRsYmJUVERLWHFDYjB3LTZ6bmdUczV4R0Nfd1NnZ2YyQ2ZJbGg0SlpwaDBadTItb3NqOGpOSFhFczNOX3lwWUdKcG9zTUtIZWJTWFdackhMM3pLLTRneE56NmFjcVhWaExhX1EzcmNaUHdvVkFtTW1DY0hLQ0pNTE5zamFzMWRUOUdDcldUbUhZNGRycGt6ZDQ5aTByeXgzX28?oc=5
 
-2. **Imigração dos EUA reforça alerta sobre prazo de 10 dias para imigrantes atualizarem endereço**
+2. **Homem é acusado de matar a esposa e mentir à polícia dizendo que ela havia sido levada por agentes da Imigração dos EUA**
+   - Fonte: Extra online
+   - Termo monitorado: imigração EUA
+   - Link: https://news.google.com/rss/articles/CBMihgJBVV95cUxNUVFyalFONkdKQ3JWbmwyc1AtU1p2R3Vfa3k4cHFmTnh2Zy1ZdTVhQmExejRtMER3TUFhUVFMeTU5aWxQR3BLY2JBdmZNcHl4WDJuQ2JrbzdobGt5MjRJd3g1ckZnSGxCbzZtSnk0Rm5EZjZnblNNbG5KVXpPODV4VGxWY25YYVJ0UkctMjJlQ1lUUDN1Mi1GYnkxT0NoZm9Rblk2LWdxLUpyU2FIdkVjNFdST3A5QnNwSnhVejliTS1GeXNfQnZHR1VUa19qRlg5R0RIX1VaSk8yY1VLNzM4TWZ2QTREOWpWSjQyaldaNHU1clZNMGpGYk9BU1BXZVpUVFhlNWdB0gGUAkFVX3lxTE1fMUVQLXVuaGpWaUxKWmFIamphSkdwX0pQNm8wX3l0VTFKQTE3Skd6UEJLcHZZS3hUcGhDMEswakhiM2Q3T25fVDZzRjV2emVHSFhSVU9wLXExd01LTjlDUEtwbFZVaHpMY0gwN2xsa3RuMU1Id0VYU09ISUNobG5VMGZTNDZzajNvVW41eWNobnhWbGFyTW1aWW9qZ0xEaTZBX1loTVctd1NDYkZEbTNjTHA1dTJ2a1BJYTZySFBuUmNRVEtlVXlETTdJY3ktY0FCOVI3STdfNjBJZkJMMlRhdmV0eXp3N2hHQkYzR1VmVWhjQVZpSkFxUm1SSkFkMjR5SHM5WWplZmdsemh1djNDMUtLTA?oc=5
+
+3. **Imigração dos EUA reforça alerta sobre prazo de 10 dias para imigrantes atualizarem endereço**
    - Fonte: AcheiUSA
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMizgFBVV95cUxPaXVQclQ4ZmRoYy00cmFtcDVZRXdfZjlndUJIdl9USHAxQUhjdGttWnhSdEVEMy13cUZlTmR6ZVlIQVBRcS1XdW00Ui1hOFJRdlRwYUZ4T0dnTkpDa09qZUJ4djJ6TlA0Zi1BMzVQYVAzTmNOQVFrN2VNaEQyeWlmYW5QcW1FMEwxSlRTRXpidWYzMXFSbzROYWtuaTdnbktNN0RjQmNHVTNLWlgzRU1FTFhzTjFRZ3c1VTFjTURWUmJQWHBYN1h4ekdxMFY3Zw?oc=5
 
-3. **Brasileiro é preso nos EUA por venda de documentos falsos a imigrantes ilegais**
-   - Fonte: VEJA
+4. **EUA dizem que Ramagem violou leis de imigração e está sujeito a deportação**
+   - Fonte: CartaCapital
    - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxOeDlTOVNVcmx1ZThSTHhGTHBkVGVuS2JaemFHVTQ3UW0xLVlqMFhBODJoWXNIYVRlTThQUHJTc1N0YUJpYWNzeHdvT1RQWDlDLUFfV1RYVFljYVdYVEMxTXdXOTk4U2ZZQjJpaEhqNU1pd1BmNHlkQ2tpc3A5OENPN1VuUU9RWVN4YnA3ZmZzaUd1dkxoSWpXdEpGeW5Gb3N0MUI2MTJDeE1CNldKR1FMbQ?oc=5
-
-4. **ICE prende mais que o dobro de crianças imigrantes nos EUA em 2026, aponta levantamento**
-   - Fonte: Gazeta Brazilian News
-   - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcC1sZjJpcERmMElvMEE5cWYwQnFqV2RSZ0hVbm1Lc0trenNaeU01QXFZbElyb1ozeDNEdGloSURsT1NYUWtkSTVPd2JwVkdEdlZ5TjFCM213dnRRQXpxWGlmLUhxRWhVbXF0TVctZVJlQ0FtNmtPYi1OdUpkeDBaWEFvRm5KUXVqY0t3N09TQkR1MVpaWWFCY2dDVFJ2Ums4N25pTmZsVFg5VFlmUWc4bzlBYVVoZnQyeFJMeWM5ejRwVm1XZ2lvY3pJemtfa1plVExlUW1mSE9Yalk?oc=5
+   - Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxPTXlxb2syQ1dzSWdpY2ptdFI5SDA2LWNhR2F3MktfdW1WMnBBNnBIdTBLbUpvN2pubkhLRmhhYXBwODdJLVBJT3YxaFV1RjI0X1czbnhBOUpFM2JWcnZTUEVTNVVHVGFOeW9ZVG5RVjd3ejNFZTlGbEd4bmlRSWxaRF9Ka0lYWk0tbl9BV1JrTy00WUR2ZEcyMVJIRjAwRDhfUzcxWUNfMGNqdjlIaHp3Q2pqY05qYW8?oc=5
 
 5. **Imigrantes nos EUA devem informar mudança de endereço ao governo em até 10 dias**
    - Fonte: Gazeta Brazilian News
@@ -48,12 +48,12 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### imigração EUA
 
-- **Departamento de imigração dos EUA diz que Ramagem é imigrante ilegal e violou leis**
-  - Fonte: Agência Pública
-  - Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxQblMtbUw3NXJ3YktyMVpjdTBGRF93SXV1QjVIRk5wYkV6QXVJTzNiOVhFWTZTNWRqb0pJR1BoYUV6eG9TcVZKaGpDR0dyM01kLUZxUFFxVk5zOXlzWU1SalZXRDd6dkwxUENSTGoxNlZzWUhrZm8zU1NpVnNaVzFZeU8xRnJpRl9DaHFaTm1aaW8tZUwyZ1lxcXNsY2V3LWo4dmxjTjQ1SkN5eFlSVDBkd0dB0gG3AUFVX3lxTE0yZXl1a3BwaFRkUURUYnh2TG9vQUQ1b2h0eWQ3cG05WnVaMGtOUExSallyRHd5elIwUnVDLUUyd0t5aGZWWHBQVENBR2VsMjZuZjM4UUotc1VaUjRYWV9kaWktZFlFRTZ4dk1PNU5zZi1RNnhYVnM0U1BTbWVnMkFXWFFiQk91MVdNU21ULVVuOEY1RTJBMUlsOVNrMEhFZmdhMlgzdDh5akVQLVJKdTZSMWVOMFJYNA?oc=5
-- **Imigração dos EUA reforça alerta sobre prazo de 10 dias para imigrantes atualizarem endereço**
-  - Fonte: AcheiUSA
-  - Link: https://news.google.com/rss/articles/CBMizgFBVV95cUxPaXVQclQ4ZmRoYy00cmFtcDVZRXdfZjlndUJIdl9USHAxQUhjdGttWnhSdEVEMy13cUZlTmR6ZVlIQVBRcS1XdW00Ui1hOFJRdlRwYUZ4T0dnTkpDa09qZUJ4djJ6TlA0Zi1BMzVQYVAzTmNOQVFrN2VNaEQyeWlmYW5QcW1FMEwxSlRTRXpidWYzMXFSbzROYWtuaTdnbktNN0RjQmNHVTNLWlgzRU1FTFhzTjFRZ3c1VTFjTURWUmJQWHBYN1h4ekdxMFY3Zw?oc=5
+- **Ramagem é imigrante ilegal e violou leis, diz setor de imigração dos EUA**
+  - Fonte: UOL Notícias
+  - Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxQZEM5aFBBZ3BDLUJCTU03V015NWRsYmJUVERLWHFDYjB3LTZ6bmdUczV4R0Nfd1NnZ2YyQ2ZJbGg0SlpwaDBadTItb3NqOGpOSFhFczNOX3lwWUdKcG9zTUtIZWJTWFdackhMM3pLLTRneE56NmFjcVhWaExhX1EzcmNaUHdvVkFtTW1DY0hLQ0pNTE5zamFzMWRUOUdDcldUbUhZNGRycGt6ZDQ5aTByeXgzX28?oc=5
+- **Homem é acusado de matar a esposa e mentir à polícia dizendo que ela havia sido levada por agentes da Imigração dos EUA**
+  - Fonte: Extra online
+  - Link: https://news.google.com/rss/articles/CBMihgJBVV95cUxNUVFyalFONkdKQ3JWbmwyc1AtU1p2R3Vfa3k4cHFmTnh2Zy1ZdTVhQmExejRtMER3TUFhUVFMeTU5aWxQR3BLY2JBdmZNcHl4WDJuQ2JrbzdobGt5MjRJd3g1ckZnSGxCbzZtSnk0Rm5EZjZnblNNbG5KVXpPODV4VGxWY25YYVJ0UkctMjJlQ1lUUDN1Mi1GYnkxT0NoZm9Rblk2LWdxLUpyU2FIdkVjNFdST3A5QnNwSnhVejliTS1GeXNfQnZHR1VUa19qRlg5R0RIX1VaSk8yY1VLNzM4TWZ2QTREOWpWSjQyaldaNHU1clZNMGpGYk9BU1BXZVpUVFhlNWdB0gGUAkFVX3lxTE1fMUVQLXVuaGpWaUxKWmFIamphSkdwX0pQNm8wX3l0VTFKQTE3Skd6UEJLcHZZS3hUcGhDMEswakhiM2Q3T25fVDZzRjV2emVHSFhSVU9wLXExd01LTjlDUEtwbFZVaHpMY0gwN2xsa3RuMU1Id0VYU09ISUNobG5VMGZTNDZzajNvVW41eWNobnhWbGFyTW1aWW9qZ0xEaTZBX1loTVctd1NDYkZEbTNjTHA1dTJ2a1BJYTZySFBuUmNRVEtlVXlETTdJY3ktY0FCOVI3STdfNjBJZkJMMlRhdmV0eXp3N2hHQkYzR1VmVWhjQVZpSkFxUm1SSkFkMjR5SHM5WWplZmdsemh1djNDMUtLTA?oc=5
 
 ### USCIS
 
@@ -66,30 +66,30 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### green card
 
-- **Brasileiro é preso nos EUA e acusado pelo governo Trump de vender documentos falsos a imigrantes ilegais**
+- **Brasileiro é preso nos EUA por venda de documentos falsos a imigrantes ilegais**
+  - Fonte: VEJA
+  - Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxOeDlTOVNVcmx1ZThSTHhGTHBkVGVuS2JaemFHVTQ3UW0xLVlqMFhBODJoWXNIYVRlTThQUHJTc1N0YUJpYWNzeHdvT1RQWDlDLUFfV1RYVFljYVdYVEMxTXdXOTk4U2ZZQjJpaEhqNU1pd1BmNHlkQ2tpc3A5OENPN1VuUU9RWVN4YnA3ZmZzaUd1dkxoSWpXdEpGeW5Gb3N0MUI2MTJDeE1CNldKR1FMbQ?oc=5
+- **Eduardo Bolsonaro teve 'green card' concedido pelo governo Trump; relembre**
   - Fonte: G1
-  - Link: https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYU14eHZmY1VnclhZY0pSYmJvY0dWRzN5RnVZSFdNOV9BWUNKNWNMZE5lbDRzQWowaUR2Z1h2UXdoY1VLblNkQ2hCVUZiMmRYQ2ZuT1FIYXJhTkhqbl9Ca1loRGN4NFJFQmVwUVZUQjR6R0dMVmdiRk9rT2VibVV6ekJKWHZXV3JLazFSbmtKQ1BwWG1HanlNTF9JR1NLMDdDSUZGV1I2SUJqVnJYVlBxNVYyaW1nVWxRdkxFcHBmTVVEdUl0LXNxMjVfMnRtS3dQX3cxakFsTEVfNW9kdEhNTHRn0gHwAUFVX3lxTE1Od1FlUDdWMG82cFdVemViTklMR2tGSjdoWTM1Nnp4V3I1VnNZTGVYaUwxS3pnZkJkTkR1YlRpYkVTd01qYTFNMFVLaERUQWR2bmRtbnU3YjdySWZaYndCa0pIY1o0M2xEb21uSG9BRmVMVjQ4Zmg5akpGSDJnNlFZS1VnYUdRR1pkOVpHZTNSN1hmX0lSbGpURm1iQjFHY21YcGcxSHcwNnFuN0pleWJudHdrU0ZFa0NDX0RyaTZ4bHRzUkxfRDh6LWtOcG0yV1RwejhDT0xFZ0NjM3k0Tnd0UFh2SEgxeS1rc2htY1BNcw?oc=5
-- **Brasileiro é preso nos EUA suspeito de vender documentos falsos a imigrantes**
-  - Fonte: Rádio Metrópole
-  - Link: https://news.google.com/rss/articles/CBMizAFBVV95cUxOZTltMkFoaWNQdjl6cDllY2NJeHVic1g1RE96RjBhbTN3dVFITWNQUDg4ckNFaWNpbmV4Z0JNaDBMU0w3R29DNjBHRFgzQXhGdXRpendrNTJZcFl3T2dhX1ZmcEE0djM1UFV2SFhhMjNTWWhaNmNlczVYTGFTYi16SkRxQU5tVVZfY2s3dTF2cHNQYi1HeVlzSVFFdHpDRVhCM1hnN0RwMDVtZkxVY3ozWGxoOWhCMVJROUI3VlBEVXlOcDNGMWxTb2s2Zzc?oc=5
+  - Link: https://news.google.com/rss/articles/CBMiwAFBVV95cUxORmEtVDMwUHpDQTRoQ2NUM0txX2Y3dExXUEo1N2Vmd1pvWkR5VjNDUDVzWkNVV1RDYmYxOGlQSVR6a2k4dU1BSElDQWdfdmtUUUp4QkVJLUZ4NlZDbllwU2ZYTWw5a3NIT2l5MGZUVlVMekRBMHl6SWRhRTFubGFtc2l5UU8zZ3gyTTBZMzh4dXBBWHpmelIxVzlUM2dEaWd4N1pYVGZxZ0RZYlRQRGQwUm43RE5lanB3cmVHN05sUlPSAc8BQVVfeXFMTTdvSVRSbEY3bTk0Rm1NRUZpaTBMMk83Q2FsbWFYWUhfdlY4Si04ZXJnNmJBOUd6SjJDQWRpaWgza1ZhbFo4b2dyOUpIU2NMVjZ6U0dJcVEtMmhISmpVajhaQjlzbnB2WDJUMVBEU1hfZ2o4bXJqYVBTRWx5MWtBWGhfbWNMa1Z4WlZsYmlKTDJWWnRxaTlmZ25wQWUycUdZRGhXb3BkOGhxNHN1MjAyT0lsbG5NQWRuLUZ6ZS1uR0R5VklIczdKdHVOd0t0RkZR?oc=5
 
 ### visto americano
 
-- **Novas regras para visto americano limitam alterações de agendamentos**
-  - Fonte: Folha de S.Paulo
-  - Link: https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMFpwYUhlbzEzYVl3U1VMbGdJWVJtTWh4NkVGUXNsUEJHVTYwTHZpRTRSRThfOF8zbUZiVmNyQl9NSEpMS2J0Rks1eDZvTFk4ckw2WUt1NU1FMXZRLUNfd0JuUF9uaTl5SFpBOTltb09GLWtHWlYwWFBVMHpvWmZFNUVmSVhjTnVLbWx2UDNrdEZjRDNUSmt4dU5DSVd3eTFnZlU1cEJyT09tazBNNjlvTDJRVzYzS1dfM1gtTWFCSlNoQQ?oc=5
-- **Governo Trump diz que revogou mais de 300 mil vistos americanos**
-  - Fonte: CNN Brasil
-  - Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdzg2ZXN2TVRocVJxNnAtSFByOUg0ZlhweHpVdDR5R3ZtTmtFcDdIQmpCMGNiQW9lOTVxRXpBczlmOG5VcldKb1hnSl9MTENhMnotM21WUy1mZGtUXzBqc2dyeXgyc3plNXoyRkxaZ1p2dm5OVEFRZjRobXFTUEZaaXpCMTdiRG1INXZtcU1qY1F0ZkRqSWRCYXdkeG8tTEVObzhEUkFzZ1p1Um8?oc=5
+- **Mais restrito: visto americano tem nova regra para cancelar ou reagendar**
+  - Fonte: UOL
+  - Link: https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA0LXdqN1ZPNGM1cjRXamJOcFFPdmZyWlAyWngzNDRXckctN0Z1eWxOZWdwLTBuUDRNa1FvbkhiTW5vWDJveEN5YTZiNXdzRUpxMjFETndGcHBmT2RvQ3d4eGNrNk45Wnc?oc=5
+- **Visto americano: abrir redes sociais é indicado no turismo**
+  - Fonte: O GLOBO
+  - Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxOMkZiaDE4dnkyTlRlUnJaUDZJVFRWcV9IZnA0aWJickpqMUt5MVQ0aHlDazYwSXlnb3NPWnVhQ0FETENoVEJ3dTRZeTQ1WnU4YnZlUGMyWDFtRnpXZ2R2dkVNdGpKUDNFU0JQdE9JTVNhcFZrLUZKc1NhbGR2dkpYRFZaVVVHZDRyaTdSalFBUGR3SkNpeVVjYzE4NERmMUxnaEJDSnZoUDRZMzlCNmhVcjZDTjFURjFCQUhGMWtKaGxpb05P0gHTAUFVX3lxTE9uOG41Q1F2VW1iNkNGWEJXY0F3VmtvWGhJUzZleTM0aXpLdkdXUGY2cVZrRUFkWHJtOE5tOEFUb2JEdnJoVHJJcG8wT091Wk5jX3RmZXJRbERvWndWaHhSc1dGZ18xT0xOQ1lRS05kNUpILTVDZDZuSVAxMWFrWm5uR0k2ckgxS3hfUE5HVjFPdTJjWmMxYi02bnpvY1EyOUgyeno3bVY3ZXNweHVPYWJHa3owU1BWVHFBaVIwUThsVXR4OG9PbGlJRW9YN3JmTVEtUUk?oc=5
 
 ### brasileiros nos Estados Unidos
 
 - **Programa e-Cidadania - Evento Interativo**
   - Fonte: Senado Federal
   - Link: https://news.google.com/rss/articles/CBMieEFVX3lxTE40empjWEtfLVNRT3NtWDYtTlBUdmQyU1lrYkYxWk9GZzJBUXUxbUkxNVM0VTRaNWZRSVdESmVaWWNYQ2hjLXRrTTdCNWhBa2RXNmtWb2xvRUw0ZUgteHhFekEweTdvWlk5eFNUSVpRQzVOSHJzamR3Yw?oc=5
-- **Eleição no Brasil é a mais importante para o mundo fora dos EUA em 2026, diz Daron Acemoglu**
-  - Fonte: BBC
-  - Link: https://news.google.com/rss/articles/CBMiY0FVX3lxTE9pbUg5c2p6Mm9UOHVIeS1ERDRCU182dUVtcmx2a2tjb2hCT3dfTGpkeTRiQWlpUkJGUzdzdEQ3UF9OdmE3aVlsNktxUDMzY0U2SnNHZEU5TUEtelpjRlYyTEdmdw?oc=5
+- **A condenação pela Justiça americana de brasileiros que lavam dinheiro do PCC nos EUA**
+  - Fonte: VEJA
+  - Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxQczQtYmw3cklsSEJhMC1pV3dQNktnYTZrV0ROYWwtY3pZeWNiNVpaTlZKTHRyTkpxTUtRZmZpY2N0ZHBac1dReUVpX21CZ3A1YnpKX09xaWs3SW1vVjNkb20zTmlZS19QUHRIQmd6aWI0Qk5KblV1RGt5YmxBYTNmVElvN1lxTk96M210bXZuNmZyakcwSXJmb29GdThCYUZoWGpkWFk4anExR2owclRmc0Z5V0RBRFRPQnc?oc=5
 
 ### asilo nos EUA
 
@@ -105,9 +105,9 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 - **Polícia Civil de Santa Catarina, em cooperação com o ICE, prende foragido da Justiça brasileira em Orlando, nos EUA**
   - Fonte: Polícia Civil de Santa Catarina
   - Link: https://news.google.com/rss/articles/CBMiQ0FVX3lxTE93VDJmeTk1LUFsYTJqOEZTM1FZcmJmSXB5UEdnNzB3SklGcUtzMGFXYjRmZzVCZjhLS3k1Z1NMZXktVjg?oc=5
-- **Policial civil aposentado de SC é preso pelo ICE nos EUA após fugir da Justiça brasileira**
-  - Fonte: G1
-  - Link: https://news.google.com/rss/articles/CBMiywFBVV95cUxOalNocWZhYXEtVVdLR3VJa1h1NF9LdDlYMm9GVDRvU09GNm54X2I2N0FhbkpUdWVRdllWNGwzT1k3TXFKV29kQ3lPZlZ2TEVnZG80cGJ3NkRMSmlmM2tUUEdaZHZoeUs3UXl3U3V2Wlp1OC0xdEluVDZOcktTYW00dXNORy15YTZLUFV4R2NXNE5NaGZIV0hndERWWDNGZ1NRdTdBb3k3djJ1cElIRl94dWZ2LUFRMnNKck5aQUtWaEVEYW9jQzNDWUVTNNIB2gFBVV95cUxOWnZsak1rdm1oc1FJR3JUZ3FXQmFVT0NJUkxybS1xaEtGWTdTcHZuVnFMMkItRnpzanI2dDZ2TlNIVVBXMm1WMS1lMVdVR0R1ZzQ5SlVLN1poeTBZVVpqVGtkNnJtRTFVV0tIbXhHR0hZQ2pGT2VWN01JVXhZTmJQdy1HTGVzNEozckdCMm5EWlJ4QTIySGJTM0EwaV9pLWc5d3RNQ2xwZGNLckxXc19sQVB1NldwZTM4aWNMcXNGUXJqdDdQYUZzTUh3d1pzSk53Qm42SkRyLU42dw?oc=5
+- **Homem é baleado em Nova York dentro de carro por agentes do ICE**
+  - Fonte: Agência Brasil
+  - Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxOcmtmc3VDU1poSF9CajNHYm9fbnFSSlNCZHNOZlhZV2VVc2NFVFZJYjZZajNDd3ZSRlZXNjJkTWZ3cy1HVFdibV9ZUnM3OUk5MjlJUDM1QVVxNWlGVDhjQlpRa0NzbV9fRDR6QTFMVGUzRWlsSDNUSjhHTWtjTUdabjVOV2pUaVZPTmVLTjFJZl8yZk9JNkhhYVhqQ1Rld2tzR2hobTJOcmNETVJjREFuYXNzSU9FU3JPYW5XZzcxUDZ1RUp3?oc=5
 
 
 ## Termos monitorados
