@@ -1,8 +1,8 @@
 # Relatório diário — Imigração e brasileiros nos EUA
 
-Gerado em: 2026-10-21 00:42 EDT
+Gerado em: 2026-10-21 13:10 EDT
 
-Arquivo original: `2026-10-21-00-42-tendencias-imigracao.md`
+Arquivo original: `2026-10-21-13-10-tendencias-imigracao.md`
 
 ## Objetivo
 
@@ -10,25 +10,25 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ## Principais assuntos do dia
 
-1. **Igrejas avançam contra operações de imigração nos EUA; agentes já prenderam fiel durante culto**
-   - Fonte: Jovem Pan
+1. **Departamento de imigração dos EUA diz que Ramagem é imigrante ilegal e violou leis**
+   - Fonte: Agência Pública
    - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQ3JqVG1fRWtQSVRoaGJyeTdELU1qOTd6QlZtSk9XMlNhRUFINlhPdWxfaHNIbld4U0hXaWlPbVF5dW1zUk9IVEdjMUZoRk5lUFJDLTBhMkVfczJjOGVOYUV1ZHNkT2hGV0xUVFZrREp3Tlh3OTZfWUtrUGJ2LVBIY0JfaGxLai1zS3pQTGxnbk15eC1Tdk5XeEQ2MkgxU3QxbzZTQTRfclpseFRCbGRrWkI2SFRab1l6TnVzREFTdnVwY2ZONlZrVUk1eURoTGJjRlRsbEotUUpNc0hM?oc=5
+   - Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxQblMtbUw3NXJ3YktyMVpjdTBGRF93SXV1QjVIRk5wYkV6QXVJTzNiOVhFWTZTNWRqb0pJR1BoYUV6eG9TcVZKaGpDR0dyM01kLUZxUFFxVk5zOXlzWU1SalZXRDd6dkwxUENSTGoxNlZzWUhrZm8zU1NpVnNaVzFZeU8xRnJpRl9DaHFaTm1aaW8tZUwyZ1lxcXNsY2V3LWo4dmxjTjQ1SkN5eFlSVDBkd0dB0gG3AUFVX3lxTE0yZXl1a3BwaFRkUURUYnh2TG9vQUQ1b2h0eWQ3cG05WnVaMGtOUExSallyRHd5elIwUnVDLUUyd0t5aGZWWHBQVENBR2VsMjZuZjM4UUotc1VaUjRYWV9kaWktZFlFRTZ4dk1PNU5zZi1RNnhYVnM0U1BTbWVnMkFXWFFiQk91MVdNU21ULVVuOEY1RTJBMUlsOVNrMEhFZmdhMlgzdDh5akVQLVJKdTZSMWVOMFJYNA?oc=5
 
-2. **Trump, inflação e imigração: os 3 temas que devem definir as Midterms nos EUA**
-   - Fonte: InfoMoney
+2. **Imigração dos EUA reforça alerta sobre prazo de 10 dias para imigrantes atualizarem endereço**
+   - Fonte: AcheiUSA
    - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxQTFNIck02bGczcDJSMjdGdkhqRlRQaGU4QmpPeVdBRzliNE9xU2lCdzRnYkY4ZmZDcWh3MlZoQTJJcG5DSVQyNzYzU1U2UHVaZW5FUU8xYzZTTnZJaFJQbmJTZERQM2NCUnhlRkhOTXFfRFpoYUJWclFGTC1hYVBOLS1GLUdTN2pnVVFRcEJhdjVoM0RzV0pheVM1S0hPSnFZMkhqejlLb2ZKWU1SQlY3aNIBtgFBVV95cUxONXJJR1JPdlo4M2dZSUpfOHRsVE5oVEVwQ2N5Nk01ZXhDYUs4VzJWMXMxS3pCV1hjZy00QWtacTh0WkROaGV1Tnl5b2RRMGstcVVQQjY0R0FjNlkwQjdIcW96bmRBNmN0MXRwQlFhWGVycThCSjBrb3dlM1UxVlh2alpDTV9QbHM4ay1mTWdTeUFGREtmTFBWMXhlRDJjZl96RXBUTVpFSlRxMWVmeVZreDNLMUxFZw?oc=5
+   - Link: https://news.google.com/rss/articles/CBMizgFBVV95cUxPaXVQclQ4ZmRoYy00cmFtcDVZRXdfZjlndUJIdl9USHAxQUhjdGttWnhSdEVEMy13cUZlTmR6ZVlIQVBRcS1XdW00Ui1hOFJRdlRwYUZ4T0dnTkpDa09qZUJ4djJ6TlA0Zi1BMzVQYVAzTmNOQVFrN2VNaEQyeWlmYW5QcW1FMEwxSlRTRXpidWYzMXFSbzROYWtuaTdnbktNN0RjQmNHVTNLWlgzRU1FTFhzTjFRZ3c1VTFjTURWUmJQWHBYN1h4ekdxMFY3Zw?oc=5
 
-3. **Governo Trump diz que revogou mais de 300 mil vistos americanos**
-   - Fonte: CNN Brasil
+3. **Brasileiro é preso nos EUA por venda de documentos falsos a imigrantes ilegais**
+   - Fonte: VEJA
    - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdzg2ZXN2TVRocVJxNnAtSFByOUg0ZlhweHpVdDR5R3ZtTmtFcDdIQmpCMGNiQW9lOTVxRXpBczlmOG5VcldKb1hnSl9MTENhMnotM21WUy1mZGtUXzBqc2dyeXgyc3plNXoyRkxaZ1p2dm5OVEFRZjRobXFTUEZaaXpCMTdiRG1INXZtcU1qY1F0ZkRqSWRCYXdkeG8tTEVObzhEUkFzZ1p1Um8?oc=5
+   - Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxOeDlTOVNVcmx1ZThSTHhGTHBkVGVuS2JaemFHVTQ3UW0xLVlqMFhBODJoWXNIYVRlTThQUHJTc1N0YUJpYWNzeHdvT1RQWDlDLUFfV1RYVFljYVdYVEMxTXdXOTk4U2ZZQjJpaEhqNU1pd1BmNHlkQ2tpc3A5OENPN1VuUU9RWVN4YnA3ZmZzaUd1dkxoSWpXdEpGeW5Gb3N0MUI2MTJDeE1CNldKR1FMbQ?oc=5
 
-4. **EUA acabam com extensão automática de autorização de trabalho para imigrantes**
+4. **ICE prende mais que o dobro de crianças imigrantes nos EUA em 2026, aponta levantamento**
    - Fonte: Gazeta Brazilian News
    - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMizwFBVV95cUxPanVNNXdLa0VpVGZmVHhIN2FqYjBEUjBTdHNVXzFEaW40SW10QkFNNmVvX1FiLS1iOTBWQnpjRjRhSmdfWmJkOGhYMElES19GUkVieTd4OWR0N1BLSVF0OE1HNjUwQzhZUlV5STU3dXc2Q19zdUlRb1JUQkJ1NFh5dEpHTGNWcjFUVlF5OGFWLU5xd1BDZTJVbW1neUM5VzRMS0o0Tk5WUU04U0FTU1JVQUtoMEF3cWpTZG5TcEFZMzJlaEFYYXE1dmViS0xfRzg?oc=5
+   - Link: https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcC1sZjJpcERmMElvMEE5cWYwQnFqV2RSZ0hVbm1Lc0trenNaeU01QXFZbElyb1ozeDNEdGloSURsT1NYUWtkSTVPd2JwVkdEdlZ5TjFCM213dnRRQXpxWGlmLUhxRWhVbXF0TVctZVJlQ0FtNmtPYi1OdUpkeDBaWEFvRm5KUXVqY0t3N09TQkR1MVpaWWFCY2dDVFJ2Ums4N25pTmZsVFg5VFlmUWc4bzlBYVVoZnQyeFJMeWM5ejRwVm1XZ2lvY3pJemtfa1plVExlUW1mSE9Yalk?oc=5
 
 5. **Imigrantes nos EUA devem informar mudança de endereço ao governo em até 10 dias**
    - Fonte: Gazeta Brazilian News
@@ -48,12 +48,12 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### imigração EUA
 
-- **Igrejas avançam contra operações de imigração nos EUA; agentes já prenderam fiel durante culto**
-  - Fonte: Jovem Pan
-  - Link: https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQ3JqVG1fRWtQSVRoaGJyeTdELU1qOTd6QlZtSk9XMlNhRUFINlhPdWxfaHNIbld4U0hXaWlPbVF5dW1zUk9IVEdjMUZoRk5lUFJDLTBhMkVfczJjOGVOYUV1ZHNkT2hGV0xUVFZrREp3Tlh3OTZfWUtrUGJ2LVBIY0JfaGxLai1zS3pQTGxnbk15eC1Tdk5XeEQ2MkgxU3QxbzZTQTRfclpseFRCbGRrWkI2SFRab1l6TnVzREFTdnVwY2ZONlZrVUk1eURoTGJjRlRsbEotUUpNc0hM?oc=5
-- **Trump, inflação e imigração: os 3 temas que devem definir as Midterms nos EUA**
-  - Fonte: InfoMoney
-  - Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxQTFNIck02bGczcDJSMjdGdkhqRlRQaGU4QmpPeVdBRzliNE9xU2lCdzRnYkY4ZmZDcWh3MlZoQTJJcG5DSVQyNzYzU1U2UHVaZW5FUU8xYzZTTnZJaFJQbmJTZERQM2NCUnhlRkhOTXFfRFpoYUJWclFGTC1hYVBOLS1GLUdTN2pnVVFRcEJhdjVoM0RzV0pheVM1S0hPSnFZMkhqejlLb2ZKWU1SQlY3aNIBtgFBVV95cUxONXJJR1JPdlo4M2dZSUpfOHRsVE5oVEVwQ2N5Nk01ZXhDYUs4VzJWMXMxS3pCV1hjZy00QWtacTh0WkROaGV1Tnl5b2RRMGstcVVQQjY0R0FjNlkwQjdIcW96bmRBNmN0MXRwQlFhWGVycThCSjBrb3dlM1UxVlh2alpDTV9QbHM4ay1mTWdTeUFGREtmTFBWMXhlRDJjZl96RXBUTVpFSlRxMWVmeVZreDNLMUxFZw?oc=5
+- **Departamento de imigração dos EUA diz que Ramagem é imigrante ilegal e violou leis**
+  - Fonte: Agência Pública
+  - Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxQblMtbUw3NXJ3YktyMVpjdTBGRF93SXV1QjVIRk5wYkV6QXVJTzNiOVhFWTZTNWRqb0pJR1BoYUV6eG9TcVZKaGpDR0dyM01kLUZxUFFxVk5zOXlzWU1SalZXRDd6dkwxUENSTGoxNlZzWUhrZm8zU1NpVnNaVzFZeU8xRnJpRl9DaHFaTm1aaW8tZUwyZ1lxcXNsY2V3LWo4dmxjTjQ1SkN5eFlSVDBkd0dB0gG3AUFVX3lxTE0yZXl1a3BwaFRkUURUYnh2TG9vQUQ1b2h0eWQ3cG05WnVaMGtOUExSallyRHd5elIwUnVDLUUyd0t5aGZWWHBQVENBR2VsMjZuZjM4UUotc1VaUjRYWV9kaWktZFlFRTZ4dk1PNU5zZi1RNnhYVnM0U1BTbWVnMkFXWFFiQk91MVdNU21ULVVuOEY1RTJBMUlsOVNrMEhFZmdhMlgzdDh5akVQLVJKdTZSMWVOMFJYNA?oc=5
+- **Imigração dos EUA reforça alerta sobre prazo de 10 dias para imigrantes atualizarem endereço**
+  - Fonte: AcheiUSA
+  - Link: https://news.google.com/rss/articles/CBMizgFBVV95cUxPaXVQclQ4ZmRoYy00cmFtcDVZRXdfZjlndUJIdl9USHAxQUhjdGttWnhSdEVEMy13cUZlTmR6ZVlIQVBRcS1XdW00Ui1hOFJRdlRwYUZ4T0dnTkpDa09qZUJ4djJ6TlA0Zi1BMzVQYVAzTmNOQVFrN2VNaEQyeWlmYW5QcW1FMEwxSlRTRXpidWYzMXFSbzROYWtuaTdnbktNN0RjQmNHVTNLWlgzRU1FTFhzTjFRZ3c1VTFjTURWUmJQWHBYN1h4ekdxMFY3Zw?oc=5
 
 ### USCIS
 
@@ -66,39 +66,39 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### green card
 
-- **Eduardo Bolsonaro teve 'green card' concedido pelo governo Trump; relembre**
+- **Brasileiro é preso nos EUA e acusado pelo governo Trump de vender documentos falsos a imigrantes ilegais**
   - Fonte: G1
-  - Link: https://news.google.com/rss/articles/CBMiwAFBVV95cUxORmEtVDMwUHpDQTRoQ2NUM0txX2Y3dExXUEo1N2Vmd1pvWkR5VjNDUDVzWkNVV1RDYmYxOGlQSVR6a2k4dU1BSElDQWdfdmtUUUp4QkVJLUZ4NlZDbllwU2ZYTWw5a3NIT2l5MGZUVlVMekRBMHl6SWRhRTFubGFtc2l5UU8zZ3gyTTBZMzh4dXBBWHpmelIxVzlUM2dEaWd4N1pYVGZxZ0RZYlRQRGQwUm43RE5lanB3cmVHN05sUlPSAc8BQVVfeXFMTTdvSVRSbEY3bTk0Rm1NRUZpaTBMMk83Q2FsbWFYWUhfdlY4Si04ZXJnNmJBOUd6SjJDQWRpaWgza1ZhbFo4b2dyOUpIU2NMVjZ6U0dJcVEtMmhISmpVajhaQjlzbnB2WDJUMVBEU1hfZ2o4bXJqYVBTRWx5MWtBWGhfbWNMa1Z4WlZsYmlKTDJWWnRxaTlmZ25wQWUycUdZRGhXb3BkOGhxNHN1MjAyT0lsbG5NQWRuLUZ6ZS1uR0R5VklIczdKdHVOd0t0RkZR?oc=5
-- **Brasileiro é preso em Massachusetts acusado de vender Green Card e Social Security falsos**
-  - Fonte: AcheiUSA
-  - Link: https://news.google.com/rss/articles/CBMiygFBVV95cUxQUDAtYkhJbXhVSUJoRURuUFhvQjdNOWdBR0lVTVNtYTFKT0x1NGxRaGdpNjM3UlQ4cVA2cUNPYjBJYXRab1E0aWVwS2J6aldQT3puVHlzVjdIX0FZZC1majhEUGpVTWloSFQ2SzdNaEItWTctZ3RaTzdPLThqVW5nNjZFN3pnVVY5cC02eUFqUTk2RVNBdzhaTWNtTF9ZT2FTU2k1S0JBcVI1azJJbjZnSWVwb1dfcndocVRHajYwYjVWZ05OTXpVR05R?oc=5
+  - Link: https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYU14eHZmY1VnclhZY0pSYmJvY0dWRzN5RnVZSFdNOV9BWUNKNWNMZE5lbDRzQWowaUR2Z1h2UXdoY1VLblNkQ2hCVUZiMmRYQ2ZuT1FIYXJhTkhqbl9Ca1loRGN4NFJFQmVwUVZUQjR6R0dMVmdiRk9rT2VibVV6ekJKWHZXV3JLazFSbmtKQ1BwWG1HanlNTF9JR1NLMDdDSUZGV1I2SUJqVnJYVlBxNVYyaW1nVWxRdkxFcHBmTVVEdUl0LXNxMjVfMnRtS3dQX3cxakFsTEVfNW9kdEhNTHRn0gHwAUFVX3lxTE1Od1FlUDdWMG82cFdVemViTklMR2tGSjdoWTM1Nnp4V3I1VnNZTGVYaUwxS3pnZkJkTkR1YlRpYkVTd01qYTFNMFVLaERUQWR2bmRtbnU3YjdySWZaYndCa0pIY1o0M2xEb21uSG9BRmVMVjQ4Zmg5akpGSDJnNlFZS1VnYUdRR1pkOVpHZTNSN1hmX0lSbGpURm1iQjFHY21YcGcxSHcwNnFuN0pleWJudHdrU0ZFa0NDX0RyaTZ4bHRzUkxfRDh6LWtOcG0yV1RwejhDT0xFZ0NjM3k0Tnd0UFh2SEgxeS1rc2htY1BNcw?oc=5
+- **Brasileiro é preso nos EUA suspeito de vender documentos falsos a imigrantes**
+  - Fonte: Rádio Metrópole
+  - Link: https://news.google.com/rss/articles/CBMizAFBVV95cUxOZTltMkFoaWNQdjl6cDllY2NJeHVic1g1RE96RjBhbTN3dVFITWNQUDg4ckNFaWNpbmV4Z0JNaDBMU0w3R29DNjBHRFgzQXhGdXRpendrNTJZcFl3T2dhX1ZmcEE0djM1UFV2SFhhMjNTWWhaNmNlczVYTGFTYi16SkRxQU5tVVZfY2s3dTF2cHNQYi1HeVlzSVFFdHpDRVhCM1hnN0RwMDVtZkxVY3ozWGxoOWhCMVJROUI3VlBEVXlOcDNGMWxTb2s2Zzc?oc=5
 
 ### visto americano
 
 - **Novas regras para visto americano limitam alterações de agendamentos**
   - Fonte: Folha de S.Paulo
   - Link: https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMFpwYUhlbzEzYVl3U1VMbGdJWVJtTWh4NkVGUXNsUEJHVTYwTHZpRTRSRThfOF8zbUZiVmNyQl9NSEpMS2J0Rks1eDZvTFk4ckw2WUt1NU1FMXZRLUNfd0JuUF9uaTl5SFpBOTltb09GLWtHWlYwWFBVMHpvWmZFNUVmSVhjTnVLbWx2UDNrdEZjRDNUSmt4dU5DSVd3eTFnZlU1cEJyT09tazBNNjlvTDJRVzYzS1dfM1gtTWFCSlNoQQ?oc=5
-- **5 mudanças nos vistos americanos que brasileiros precisam conhecer para 2027**
-  - Fonte: GZH
-  - Link: https://news.google.com/rss/articles/CBMi8wFBVV95cUxQZmJGYlNKSk1QNmhNc01BVFdoSUtScGRmbEhReFF5TGhtNWxFeWtRWXA5bk9tX0tVM1M0U2hCVlRnMDNZSmF4Qms2MG1WVmlyb1VlenBPQmN0dW1JRzdVLTI1Um5aZGRyMkEyaWRNaHpiM09fTTM2dC12T05DdS16RDR3eDRZOXJqbjZ6RXVCajVmVno1Y0l0LW5KS244TlNQTGlvNms4d2VxcTYwVEtzVmFzMEpwRTVDOENWQVkwZkdQblV2aUpmbjFKYk4tX3RCQVlOWlhkYTJmZEwzVVVBWDJ5VkZ2MnJ2c2RCaHZNRVNCUDg?oc=5
+- **Governo Trump diz que revogou mais de 300 mil vistos americanos**
+  - Fonte: CNN Brasil
+  - Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdzg2ZXN2TVRocVJxNnAtSFByOUg0ZlhweHpVdDR5R3ZtTmtFcDdIQmpCMGNiQW9lOTVxRXpBczlmOG5VcldKb1hnSl9MTENhMnotM21WUy1mZGtUXzBqc2dyeXgyc3plNXoyRkxaZ1p2dm5OVEFRZjRobXFTUEZaaXpCMTdiRG1INXZtcU1qY1F0ZkRqSWRCYXdkeG8tTEVObzhEUkFzZ1p1Um8?oc=5
 
 ### brasileiros nos Estados Unidos
 
+- **Programa e-Cidadania - Evento Interativo**
+  - Fonte: Senado Federal
+  - Link: https://news.google.com/rss/articles/CBMieEFVX3lxTE40empjWEtfLVNRT3NtWDYtTlBUdmQyU1lrYkYxWk9GZzJBUXUxbUkxNVM0VTRaNWZRSVdESmVaWWNYQ2hjLXRrTTdCNWhBa2RXNmtWb2xvRUw0ZUgteHhFekEweTdvWlk5eFNUSVpRQzVOSHJzamR3Yw?oc=5
 - **Eleição no Brasil é a mais importante para o mundo fora dos EUA em 2026, diz Daron Acemoglu**
   - Fonte: BBC
   - Link: https://news.google.com/rss/articles/CBMiY0FVX3lxTE9pbUg5c2p6Mm9UOHVIeS1ERDRCU182dUVtcmx2a2tjb2hCT3dfTGpkeTRiQWlpUkJGUzdzdEQ3UF9OdmE3aVlsNktxUDMzY0U2SnNHZEU5TUEtelpjRlYyTEdmdw?oc=5
-- **Brasil, China e Estados Unidos: três países, três rumos**
-  - Fonte: Monitor Mercantil
-  - Link: https://news.google.com/rss/articles/CBMijgFBVV95cUxNZmE0ZUNCT1gwdWJSZUpQaW5NZFFJNlpDem0zMGJ5R2dSdzBBTVhOMHI3RlBrUEF4bkpWcTVqTEtWbjlwZVgzakhuSm1tSWFsY1hvaFo1SEZoLV9mSDlGbDg0YkZ0LXFJRW1YY1p6YWV5azZ2VGZYZmYyekxzcE5ELUxNYXFTeXNVR0piWjRn?oc=5
 
 ### asilo nos EUA
 
+- **Exclusivo CNN: EUA minimizam perigos na América Latina em novas avaliações**
+  - Fonte: CNN Brasil
+  - Link: https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZGtCRmlSZGY2V19GQi1WMGt4YUNINUxZZHhhaXVNOWE2TUtMT3lMV09XMmQxblF4eHR2Z3dreWxoaXRzRi1XTWlyWVpCT2tsdGFpVER2a3h0NjhJUjhMeHpyMmc2ZjJjSGV6M0NtMjkwVGdzS2FacUFidnF6dE5iN011SjhmcTA5U3Rnczc2SDJ6aUN5c0xWOGphQ09IQjdhTUQ1SV9nZU9GTjNOTlBQMkNYN1ROaXlD?oc=5
 - **‘De portas ainda mais fechadas’: Suprema Corte e o pedido de asilo nos EUA**
   - Fonte: OPEU — Observatório Político dos Estados Unidos
   - Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxNT0RFSGdDcWhlZE9kdVNtYWlsNUlGRnBFbVhuQkt0bWlOcVNxZDJDaDFxZ1FUY0p3RHlTS04yb1YzZUI2el8zOG9fOWY2MHNITm5MSDNNNzdqSEllVWJQSjRoOXhqYmRUYmdjMGM5aVJHaFBCdjRkQUxzWmpURkFoQnhNNUJ0ZnEzYVBUSS0tN1JWNnpEOV84Q2dXbXNOTUdxb0YyeUo2aTRNWmM?oc=5
-- **EUA anunciam revogação de milhares de vistos de cidadãos em busca de asilo**
-  - Fonte: O GLOBO
-  - Link: https://news.google.com/rss/articles/CBMiygFBVV95cUxOSWMwZU9TR0FMT28xcVpiOFc2RzhZdU5sNE5MM1ZQa1F0c0RiZEM5SjJRbTc3eG1CRnFzZlc4U2QtUXRiTUhkLWx1dm1PUkVuVnZrdXdwZDZxVThZTFV4OFhMSTBWTjFWVS1tWmpXYnhSa0RtRE1JYi1iTWRQMVdJN2JqQlkzMENYUngxUl9ieEdlazNHYnUzcW53SGJZdEtPMlVJMU5NUTdyMVFzSDQwZ1VuazNqS1NLamdhT1JhQVBHMU1HUmZPNVl30gHYAUFVX3lxTE9hdTBxZEhOQVhkd2x2U2VxNmdhbkt0ZFhWY19yM0FJMGxWMGtHXzRiV0diYUJQQTY4cGlSMmlxaWFRT2lWZmh2SUs3YW5DRzNoS3JjdVFXX2F6VUV4OE9PVFZvSUVQcG0wZEN0SkNsV3JLOGNIYXJQQWltU0lzM2pKbFZJbkhsS0trX2pSUHF0eXRWYnlmUk9OdnJPUzZZZThTdXV3WnJxTGtUM25mNzZrRjZrcV93bWUwNjNBUk5NRjFvcDV5bzJ6UTg2amcxaTJfQVRwNEpZcg?oc=5
 
 ### ICE immigration
 
