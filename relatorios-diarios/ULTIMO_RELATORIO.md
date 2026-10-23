@@ -1,8 +1,8 @@
 # Relatório diário — Imigração e brasileiros nos EUA
 
-Gerado em: 2026-10-22 17:33 EDT
+Gerado em: 2026-10-23 00:45 EDT
 
-Arquivo original: `2026-10-22-17-33-tendencias-imigracao.md`
+Arquivo original: `2026-10-23-00-45-tendencias-imigracao.md`
 
 ## Objetivo
 
@@ -15,20 +15,20 @@ Este relatório serve como base para criação de artigos atualizados para o blo
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxQblMtbUw3NXJ3YktyMVpjdTBGRF93SXV1QjVIRk5wYkV6QXVJTzNiOVhFWTZTNWRqb0pJR1BoYUV6eG9TcVZKaGpDR0dyM01kLUZxUFFxVk5zOXlzWU1SalZXRDd6dkwxUENSTGoxNlZzWUhrZm8zU1NpVnNaVzFZeU8xRnJpRl9DaHFaTm1aaW8tZUwyZ1lxcXNsY2V3LWo4dmxjTjQ1SkN5eFlSVDBkd0dB0gG3AUFVX3lxTE0yZXl1a3BwaFRkUURUYnh2TG9vQUQ1b2h0eWQ3cG05WnVaMGtOUExSallyRHd5elIwUnVDLUUyd0t5aGZWWHBQVENBR2VsMjZuZjM4UUotc1VaUjRYWV9kaWktZFlFRTZ4dk1PNU5zZi1RNnhYVnM0U1BTbWVnMkFXWFFiQk91MVdNU21ULVVuOEY1RTJBMUlsOVNrMEhFZmdhMlgzdDh5akVQLVJKdTZSMWVOMFJYNA?oc=5
 
-2. **Bispos alertam: 270 mil imigrantes podem ser deportados nos EUA**
+2. **Governo Trump deportou 980 mil pessoas dos EUA em 18 meses, diz instituto**
+   - Fonte: CNN Brasil
+   - Termo monitorado: imigração EUA
+   - Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxOQlU3OXVpZnl0c2xSd21zclRNV09UQlpVWlJvQUExLWdLb19YbVBZSXNuc0xFMmdvYmJCOEIzZmkyMVVLRU8xWUNCbVgwSUpMRGtJS2tILTI1RjFIc3VwSkxLRjdtUF9WSkZSMmpnTzRwa0pUQkIzSFVsXy1NWlJFTjdHYUp5RUxFbTMzX2lFQ0w3SmREUXBwVFU0THYweldvcUdrd0F3ZF9OMjdJaElkTm9FdXRYcW8?oc=5
+
+3. **Bispos alertam: 270 mil imigrantes podem ser deportados nos EUA**
    - Fonte: Gazeta do Povo
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMiowFBVV95cUxOSXlvVmQzSlgydkhVaFZRbDI1emFzT2M1MUVxYk1JQ2lGTTJFcWE5aHh4alJZYTBNVEhuX2htQjlKQlh1TDJzT05fMlJXMzlxSFRrbUlTUmhsbHFhb2hwM3lRb2R0NmVWMjAtUlBfRlRDQnNjeS1XX3gyRDlwMzI4WE1VajQ1V1JWQUJCckdXb1VyUVNYU0pWcnh0dWs3SXZmdFFF?oc=5
 
-3. **EUA dizem que Ramagem violou leis de imigração e está sujeito a deportação**
+4. **EUA dizem que Ramagem violou leis de imigração e está sujeito a deportação**
    - Fonte: CartaCapital
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxPTXlxb2syQ1dzSWdpY2ptdFI5SDA2LWNhR2F3MktfdW1WMnBBNnBIdTBLbUpvN2pubkhLRmhhYXBwODdJLVBJT3YxaFV1RjI0X1czbnhBOUpFM2JWcnZTUEVTNVVHVGFOeW9ZVG5RVjd3ejNFZTlGbEd4bmlRSWxaRF9Ka0lYWk0tbl9BV1JrTy00WUR2ZEcyMVJIRjAwRDhfUzcxWUNfMGNqdjlIaHp3Q2pqY05qYW8?oc=5
-
-4. **EUA dizem que Ramagem é imigrante ilegal e responde a processo**
-   - Fonte: Poder360
-   - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxORWltLVVpbjJJV1JSWU50cEx0Y094RDVtR3NjdXg3MjJuRnpJb1lWU21CRjNRTGdxUXo0V1lVTWdfZ3drQzN6cFBOcUtfaElPemE0c1B4WC1OQW54amZPU3RwTXRYbWR1SkhwSDQySzZJWjVkRzZzRVpKc0ttMUtmejhoNTlKVjRWNUhpYkQwVHpjSEF3LVJGOVFwSHlrZ1k0Y3RiOTJOM3o1aUxKc0FFbg?oc=5
 
 5. **Imigrantes nos EUA devem informar mudança de endereço ao governo em até 10 dias**
    - Fonte: Gazeta Brazilian News
@@ -51,9 +51,9 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 - **Departamento de imigração dos EUA diz que Ramagem é imigrante ilegal e violou leis**
   - Fonte: Agência Pública
   - Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxQblMtbUw3NXJ3YktyMVpjdTBGRF93SXV1QjVIRk5wYkV6QXVJTzNiOVhFWTZTNWRqb0pJR1BoYUV6eG9TcVZKaGpDR0dyM01kLUZxUFFxVk5zOXlzWU1SalZXRDd6dkwxUENSTGoxNlZzWUhrZm8zU1NpVnNaVzFZeU8xRnJpRl9DaHFaTm1aaW8tZUwyZ1lxcXNsY2V3LWo4dmxjTjQ1SkN5eFlSVDBkd0dB0gG3AUFVX3lxTE0yZXl1a3BwaFRkUURUYnh2TG9vQUQ1b2h0eWQ3cG05WnVaMGtOUExSallyRHd5elIwUnVDLUUyd0t5aGZWWHBQVENBR2VsMjZuZjM4UUotc1VaUjRYWV9kaWktZFlFRTZ4dk1PNU5zZi1RNnhYVnM0U1BTbWVnMkFXWFFiQk91MVdNU21ULVVuOEY1RTJBMUlsOVNrMEhFZmdhMlgzdDh5akVQLVJKdTZSMWVOMFJYNA?oc=5
-- **Bispos alertam: 270 mil imigrantes podem ser deportados nos EUA**
-  - Fonte: Gazeta do Povo
-  - Link: https://news.google.com/rss/articles/CBMiowFBVV95cUxOSXlvVmQzSlgydkhVaFZRbDI1emFzT2M1MUVxYk1JQ2lGTTJFcWE5aHh4alJZYTBNVEhuX2htQjlKQlh1TDJzT05fMlJXMzlxSFRrbUlTUmhsbHFhb2hwM3lRb2R0NmVWMjAtUlBfRlRDQnNjeS1XX3gyRDlwMzI4WE1VajQ1V1JWQUJCckdXb1VyUVNYU0pWcnh0dWs3SXZmdFFF?oc=5
+- **Governo Trump deportou 980 mil pessoas dos EUA em 18 meses, diz instituto**
+  - Fonte: CNN Brasil
+  - Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxOQlU3OXVpZnl0c2xSd21zclRNV09UQlpVWlJvQUExLWdLb19YbVBZSXNuc0xFMmdvYmJCOEIzZmkyMVVLRU8xWUNCbVgwSUpMRGtJS2tILTI1RjFIc3VwSkxLRjdtUF9WSkZSMmpnTzRwa0pUQkIzSFVsXy1NWlJFTjdHYUp5RUxFbTMzX2lFQ0w3SmREUXBwVFU0THYweldvcUdrd0F3ZF9OMjdJaElkTm9FdXRYcW8?oc=5
 
 ### USCIS
 
@@ -66,27 +66,27 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### green card
 
+- **Brasileiros desbaratam rede de fraudes de casamentos por green card nos EUA**
+  - Fonte: Folha de S.Paulo
+  - Link: https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTnBnQktWVjVwaXJ6VVRvMWRjaWpRYXN6WF9mTGYxUURxWWxyWmZ0QXlxR0doSGo1MGlLazRaWjJ2SXdWNnROZVFOZUFJYm5CX3RRVnZ3dktkRjh6TEtBWnpVdlhlMzBDSGpfSmlYQ1lCS0xsbWZHejhaTEJZeWlpSWZYR1RKcDRHcGh3RkZsUHQ4ejFZdjQtdXV6QWJOSzl3Y0l6ay1TcGdKU0ZqcXF0Ykh2QzRqdmpBbHRBVlFwb0ZEckE?oc=5
 - **Imigrante mexicano com Green Card morre sob custódia do ICE no Texas**
   - Fonte: Gazeta Brazilian News
   - Link: https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUHhGTmcwVlp0Zm9kSUpOeHgtbEQ5Rkd4SDZ0Vmp5NWNITUFKT2p6UmMwT1NiMXdJcVBIQlB6MVlFYzNfZ2V2c1VKRkwzRGhFcUdSekhvTFJmZFBaZkw1c1FwTVNueHpGaVJBWU8xSVFUaU5DR2thakpXdWxCS0xDRVRqVklVRGI1YzlQMHJpRzhBLWtia2tfaGNpbTZVWmpxaGRpZGF5QjE3ZkxLX3VuZXpFWEJLYmtpTV83aGRkYllBdTQ?oc=5
-- **Eduardo Bolsonaro teve 'green card' concedido pelo governo Trump; relembre**
-  - Fonte: G1
-  - Link: https://news.google.com/rss/articles/CBMiwAFBVV95cUxORmEtVDMwUHpDQTRoQ2NUM0txX2Y3dExXUEo1N2Vmd1pvWkR5VjNDUDVzWkNVV1RDYmYxOGlQSVR6a2k4dU1BSElDQWdfdmtUUUp4QkVJLUZ4NlZDbllwU2ZYTWw5a3NIT2l5MGZUVlVMekRBMHl6SWRhRTFubGFtc2l5UU8zZ3gyTTBZMzh4dXBBWHpmelIxVzlUM2dEaWd4N1pYVGZxZ0RZYlRQRGQwUm43RE5lanB3cmVHN05sUlPSAc8BQVVfeXFMTTdvSVRSbEY3bTk0Rm1NRUZpaTBMMk83Q2FsbWFYWUhfdlY4Si04ZXJnNmJBOUd6SjJDQWRpaWgza1ZhbFo4b2dyOUpIU2NMVjZ6U0dJcVEtMmhISmpVajhaQjlzbnB2WDJUMVBEU1hfZ2o4bXJqYVBTRWx5MWtBWGhfbWNMa1Z4WlZsYmlKTDJWWnRxaTlmZ25wQWUycUdZRGhXb3BkOGhxNHN1MjAyT0lsbG5NQWRuLUZ6ZS1uR0R5VklIczdKdHVOd0t0RkZR?oc=5
 
 ### visto americano
 
 - **Governo Trump diz que revogou mais de 300 mil vistos americanos**
   - Fonte: CNN Brasil
   - Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdzg2ZXN2TVRocVJxNnAtSFByOUg0ZlhweHpVdDR5R3ZtTmtFcDdIQmpCMGNiQW9lOTVxRXpBczlmOG5VcldKb1hnSl9MTENhMnotM21WUy1mZGtUXzBqc2dyeXgyc3plNXoyRkxaZ1p2dm5OVEFRZjRobXFTUEZaaXpCMTdiRG1INXZtcU1qY1F0ZkRqSWRCYXdkeG8tTEVObzhEUkFzZ1p1Um8?oc=5
-- **EUA retiram vistos de dezenas de altos funcionários da Colômbia e da Bolívia**
-  - Fonte: Estadão
-  - Link: https://news.google.com/rss/articles/CBMirAFBVV95cUxNcFhiR1k2N3oyMk04NFJCVjhtVWpJaDFlSk5iZlNDejhROFhQU21QSlo2TjdMWVNiMjBvcVlYOHBNNTVKMnJvNUVEOG5odnNJUGhTNjMzWlNWREw3ZjFKQ2xIMl9LamJibV9mUnpXODN1Y2h4V3ZpS3hnQl9WSDhNVFhQdEh4amszcVFfbWNWU1A5S2dGYjhuR3JodHYzNmJxREVTUnIycVcwQm9Z0gGyAUFVX3lxTE1jazdhYnZsOTNvMGFpRmcwbmZaY0ROWV9mdkxreno3UUlSVGlPS1gxYUQ1MnRxbFZTYmhPRHJQbWE1NUwweHV6c2NCV1FLTmwzNUdaUm5iM05yYVVtVnN4VHFTNmx2MDd0Q0Y3Wl9nN1Q5cWlqMF9Fa0tiOHctdVlsdS0zVE43TXp6VURrRmdzSmMwVzdTNmhJUUVRc3VyTThMaktVRlE5YnlVekIzQlpVR0E?oc=5
+- **Mais restrito: visto americano tem nova regra para cancelar ou reagendar**
+  - Fonte: UOL
+  - Link: https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA0LXdqN1ZPNGM1cjRXamJOcFFPdmZyWlAyWngzNDRXckctN0Z1eWxOZWdwLTBuUDRNa1FvbkhiTW5vWDJveEN5YTZiNXdzRUpxMjFETndGcHBmT2RvQ3d4eGNrNk45Wnc?oc=5
 
 ### brasileiros nos Estados Unidos
 
 - **Investimentos brasileiros nos Estados Unidos voltam a subir após tarifaço; na China, volume cai**
   - Fonte: Estadão
-  - Link: https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZUNuUWRRRms3eUJVZmJTVC1QaE43S3JETmh5dWFpTkFQdXVHNlRnOXppbjJtM2FJOW9VaTNJWUsxeWdfcWM1dnkxeWZySmYxMWQxenI4UEFLaWM4LTB4SWxSdVNpUFhCU3pVbldldVM1ZkxfSU5tYkNUUGRtaXh0SE4yQWVmbE93RE44LVVWeHhaSXpwb0NVLWVnZGFOcVJFM09JT192NjNUUG5kT1lwN0tyeWc4RDFPQ2lMalpNVTJZdG1WS1FzRTRlTy1vWExNRXRCeQ?oc=5
+  - Link: https://news.google.com/rss/articles/CBMiygFBVV95cUxNN2tXSS1wbGpXdmREXzRYNHRWZ1hGajN0VnU3ZXB3TEtCVWVpYmpuMlNBcl8tYmJQYTJMdHRvdklkbFZ6NHhLeFZncEVyZmF0U0VZRHdCQjZNYVlnWVphUEhCcXFXQnRBYUpSTDVCMmdVU0lYSTFDenZoSXRzMHUwS0hHUnZsX0NpUVlPWV9UQnNlVEpLRlotZHQ2VWtSVGt6VHdnb3JYQkJFa3hJVThzS29FbFQ2emt1TmQ1OE5uQkhMbEcxWnpzakx30gHPAUFVX3lxTE5QS3NHbERlTU9mOEFrMEI1SDl6SEJGRkVmY0RTZFlRNEcwSDZsWWE2aUhrTVlqMXlXdG1vclNMcEJROVN3dy1IWmQyLVVPT3R4Q0FrYVRtSUZ2N29OUUhGWGJZTEs2MHlpVUw1RnVVNFVvdHlZeER0V3kzRUZTR3A5dGotMTc5Mnc2XzU2cV9kMzR6MzU5S1ZONzhsU1JKVUZ5dkhBVXN2TEc5NXJ4MDY3bGJlSng2UlktTjJ3NXZXc25aX2hiWGF2ZUtQdWxYRQ?oc=5
 - **Especialistas apontam impactos ambientais da política externa dos Estados Unidos**
   - Fonte: Senado Federal
   - Link: https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMnUyeHRXNGZiRkY3bzNTMmpZV203SFdWRy1XVnNDLTFOX1JlUUVWekZHWU9tTGNJZE9ybVdlMWFnYlZfNzFmVmhwRy1CWG91dUtJS0dheTJQeTVTX3UxU1hmdDJjM0V6VEc3NGZGdDJ3VzA2TUxXNGpYbUlEQ01TUDRrUmZDRWJPaEpTWHBZY0w2S09UN3QzQVVXZGN5UkVpNzhQbVgtWDdka2NxS2FhczlTbU9SZENnMGo5MnpleDZBMGVLeXg0WHVmLWZZMEph?oc=5
