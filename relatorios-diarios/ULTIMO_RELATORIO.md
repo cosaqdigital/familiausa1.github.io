@@ -1,8 +1,8 @@
 # Relatório diário — Imigração e brasileiros nos EUA
 
-Gerado em: 2026-10-23 17:22 EDT
+Gerado em: 2026-10-24 00:32 EDT
 
-Arquivo original: `2026-10-23-17-22-tendencias-imigracao.md`
+Arquivo original: `2026-10-24-00-32-tendencias-imigracao.md`
 
 ## Objetivo
 
@@ -15,20 +15,20 @@ Este relatório serve como base para criação de artigos atualizados para o blo
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxQblMtbUw3NXJ3YktyMVpjdTBGRF93SXV1QjVIRk5wYkV6QXVJTzNiOVhFWTZTNWRqb0pJR1BoYUV6eG9TcVZKaGpDR0dyM01kLUZxUFFxVk5zOXlzWU1SalZXRDd6dkwxUENSTGoxNlZzWUhrZm8zU1NpVnNaVzFZeU8xRnJpRl9DaHFaTm1aaW8tZUwyZ1lxcXNsY2V3LWo4dmxjTjQ1SkN5eFlSVDBkd0dB0gG3AUFVX3lxTE0yZXl1a3BwaFRkUURUYnh2TG9vQUQ1b2h0eWQ3cG05WnVaMGtOUExSallyRHd5elIwUnVDLUUyd0t5aGZWWHBQVENBR2VsMjZuZjM4UUotc1VaUjRYWV9kaWktZFlFRTZ4dk1PNU5zZi1RNnhYVnM0U1BTbWVnMkFXWFFiQk91MVdNU21ULVVuOEY1RTJBMUlsOVNrMEhFZmdhMlgzdDh5akVQLVJKdTZSMWVOMFJYNA?oc=5
 
-2. **Justiça dos EUA autoriza detenção sem fiança para imigrantes**
-   - Fonte: Jovem Pan
+2. **Tribunal dos EUA decide que imigrantes sem documentos não têm direito a audiência de fiança**
+   - Fonte: Estadão
    - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxQQlVTMEc3bXRaQ0FTLTlHNFdWRlUyMTY5cDdpN216RFhQNXJkVElNM0lYc0Q0RUlNWlhRNVlLV3FSaUZvX1VZdGUxa3g2dURuVGtvd1lnQjNINmdXNS1GUmJvNWJlcnQxRklfNXNEMFNLNm5oZDRSdmFieHo5dUlZSzRyTFBaWGJMb3FYcER3TFZqMmlVbHFzLWNUMUUyLUhFNldDSkkyY19jMU9VaXdiMlIyeXE?oc=5
+   - Link: https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTGVTRUZVLWw2R2tmLUY0TjNPdUc4U3VuZXA1TG9GbDdKRVlYODJzWU5UUXBaaXBLSnU1RmdISkswejZ1YjdZem9ldTZKbTU2YUZIcXV2LXc3Yk1ZUXlmVDA2YVAwNEhJcnN2OG50RW5WZWVmOG5BU3pMZkV6QW1IYUZoUUpxQzB0SXIzVklQZThGT3U3bFdqZ2ZYYzlqNHA4WWY1NnpmdWE0dzVPWFE5VzF3bGlCcU9H0gG-AUFVX3lxTE9iX1FJVVFNTjhwbjNVNUdpS3NjMk9SLXFOVERud3NQMHNOOVRZRGVaTEpNTkd1TzVJUElyeW1yOEdZTEgxejdGSHBQU0EzdUZLdU1DMzJMeGRZQ3VnS0dJUVlDUWRtc2tzSlRudnhxYzVEX2FVTUJ3YWR0alIwOVlJVWVWcXZSc2tfODVFU1ZXZVJGSkNWSXlNc0pHRFBBTGNOUjc1U3lnUUgyWkNLM0RuZ2hTX29fejJIakxmV1E?oc=5
 
 3. **EUA dizem que Ramagem violou leis de imigração e está sujeito a deportação**
    - Fonte: CartaCapital
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxPTXlxb2syQ1dzSWdpY2ptdFI5SDA2LWNhR2F3MktfdW1WMnBBNnBIdTBLbUpvN2pubkhLRmhhYXBwODdJLVBJT3YxaFV1RjI0X1czbnhBOUpFM2JWcnZTUEVTNVVHVGFOeW9ZVG5RVjd3ejNFZTlGbEd4bmlRSWxaRF9Ka0lYWk0tbl9BV1JrTy00WUR2ZEcyMVJIRjAwRDhfUzcxWUNfMGNqdjlIaHp3Q2pqY05qYW8?oc=5
 
-4. **Governo Trump deportou 980 mil pessoas dos EUA em 18 meses, diz instituto**
-   - Fonte: CNN Brasil
+4. **Justiça dos EUA autoriza detenção sem fiança para imigrantes**
+   - Fonte: Jovem Pan
    - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxOQlU3OXVpZnl0c2xSd21zclRNV09UQlpVWlJvQUExLWdLb19YbVBZSXNuc0xFMmdvYmJCOEIzZmkyMVVLRU8xWUNCbVgwSUpMRGtJS2tILTI1RjFIc3VwSkxLRjdtUF9WSkZSMmpnTzRwa0pUQkIzSFVsXy1NWlJFTjdHYUp5RUxFbTMzX2lFQ0w3SmREUXBwVFU0THYweldvcUdrd0F3ZF9OMjdJaElkTm9FdXRYcW8?oc=5
+   - Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxQQlVTMEc3bXRaQ0FTLTlHNFdWRlUyMTY5cDdpN216RFhQNXJkVElNM0lYc0Q0RUlNWlhRNVlLV3FSaUZvX1VZdGUxa3g2dURuVGtvd1lnQjNINmdXNS1GUmJvNWJlcnQxRklfNXNEMFNLNm5oZDRSdmFieHo5dUlZSzRyTFBaWGJMb3FYcER3TFZqMmlVbHFzLWNUMUUyLUhFNldDSkkyY19jMU9VaXdiMlIyeXE?oc=5
 
 5. **Imigrantes nos EUA devem informar mudança de endereço ao governo em até 10 dias**
    - Fonte: Gazeta Brazilian News
@@ -51,9 +51,9 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 - **Departamento de imigração dos EUA diz que Ramagem é imigrante ilegal e violou leis**
   - Fonte: Agência Pública
   - Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxQblMtbUw3NXJ3YktyMVpjdTBGRF93SXV1QjVIRk5wYkV6QXVJTzNiOVhFWTZTNWRqb0pJR1BoYUV6eG9TcVZKaGpDR0dyM01kLUZxUFFxVk5zOXlzWU1SalZXRDd6dkwxUENSTGoxNlZzWUhrZm8zU1NpVnNaVzFZeU8xRnJpRl9DaHFaTm1aaW8tZUwyZ1lxcXNsY2V3LWo4dmxjTjQ1SkN5eFlSVDBkd0dB0gG3AUFVX3lxTE0yZXl1a3BwaFRkUURUYnh2TG9vQUQ1b2h0eWQ3cG05WnVaMGtOUExSallyRHd5elIwUnVDLUUyd0t5aGZWWHBQVENBR2VsMjZuZjM4UUotc1VaUjRYWV9kaWktZFlFRTZ4dk1PNU5zZi1RNnhYVnM0U1BTbWVnMkFXWFFiQk91MVdNU21ULVVuOEY1RTJBMUlsOVNrMEhFZmdhMlgzdDh5akVQLVJKdTZSMWVOMFJYNA?oc=5
-- **Justiça dos EUA autoriza detenção sem fiança para imigrantes**
-  - Fonte: Jovem Pan
-  - Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxQQlVTMEc3bXRaQ0FTLTlHNFdWRlUyMTY5cDdpN216RFhQNXJkVElNM0lYc0Q0RUlNWlhRNVlLV3FSaUZvX1VZdGUxa3g2dURuVGtvd1lnQjNINmdXNS1GUmJvNWJlcnQxRklfNXNEMFNLNm5oZDRSdmFieHo5dUlZSzRyTFBaWGJMb3FYcER3TFZqMmlVbHFzLWNUMUUyLUhFNldDSkkyY19jMU9VaXdiMlIyeXE?oc=5
+- **Tribunal dos EUA decide que imigrantes sem documentos não têm direito a audiência de fiança**
+  - Fonte: Estadão
+  - Link: https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTGVTRUZVLWw2R2tmLUY0TjNPdUc4U3VuZXA1TG9GbDdKRVlYODJzWU5UUXBaaXBLSnU1RmdISkswejZ1YjdZem9ldTZKbTU2YUZIcXV2LXc3Yk1ZUXlmVDA2YVAwNEhJcnN2OG50RW5WZWVmOG5BU3pMZkV6QW1IYUZoUUpxQzB0SXIzVklQZThGT3U3bFdqZ2ZYYzlqNHA4WWY1NnpmdWE0dzVPWFE5VzF3bGlCcU9H0gG-AUFVX3lxTE9iX1FJVVFNTjhwbjNVNUdpS3NjMk9SLXFOVERud3NQMHNOOVRZRGVaTEpNTkd1TzVJUElyeW1yOEdZTEgxejdGSHBQU0EzdUZLdU1DMzJMeGRZQ3VnS0dJUVlDUWRtc2tzSlRudnhxYzVEX2FVTUJ3YWR0alIwOVlJVWVWcXZSc2tfODVFU1ZXZVJGSkNWSXlNc0pHRFBBTGNOUjc1U3lnUUgyWkNLM0RuZ2hTX29fejJIakxmV1E?oc=5
 
 ### USCIS
 
@@ -84,12 +84,12 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### brasileiros nos Estados Unidos
 
-- **CBF participa de conferência de estudantes brasileiros nos Estados Unidos**
-  - Fonte: CBF
-  - Link: https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdlBUQkkwMFV3b01KeXMyQUhjLWdtVGR5cGxhS1pxcEFYVVpzbmo0OWVNZWQ1S0FTTTI2MFFfUERfUFN2d1VIellacVo0UEluSFpHZTNrcWhISEU2T1FCa3FLaU85MU8wM0xOY3NjcVVDSEJXRlh1WFRmVW9KMnY1OENXQmQ4cmNzelktU1ZuYXNVRVdtcUFzWnNmOWpSSDFDR2NPakw3VHhUNDd6a0VBQzg0T0JjTzlrbEc1SF9pMThfRHFZRHVwZUlzX0d6NDJjek9F?oc=5
-- **Investimentos brasileiros nos Estados Unidos voltam a subir após tarifaço; na China, volume cai**
-  - Fonte: Estadão
-  - Link: https://news.google.com/rss/articles/CBMiygFBVV95cUxNN2tXSS1wbGpXdmREXzRYNHRWZ1hGajN0VnU3ZXB3TEtCVWVpYmpuMlNBcl8tYmJQYTJMdHRvdklkbFZ6NHhLeFZncEVyZmF0U0VZRHdCQjZNYVlnWVphUEhCcXFXQnRBYUpSTDVCMmdVU0lYSTFDenZoSXRzMHUwS0hHUnZsX0NpUVlPWV9UQnNlVEpLRlotZHQ2VWtSVGt6VHdnb3JYQkJFa3hJVThzS29FbFQ2emt1TmQ1OE5uQkhMbEcxWnpzakx30gHPAUFVX3lxTE5QS3NHbERlTU9mOEFrMEI1SDl6SEJGRkVmY0RTZFlRNEcwSDZsWWE2aUhrTVlqMXlXdG1vclNMcEJROVN3dy1IWmQyLVVPT3R4Q0FrYVRtSUZ2N29OUUhGWGJZTEs2MHlpVUw1RnVVNFVvdHlZeER0V3kzRUZTR3A5dGotMTc5Mnc2XzU2cV9kMzR6MzU5S1ZONzhsU1JKVUZ5dkhBVXN2TEc5NXJ4MDY3bGJlSng2UlktTjJ3NXZXc25aX2hiWGF2ZUtQdWxYRQ?oc=5
+- **Como Trump vai reagir em caso de vitória de Flávio ou Lula, segundo cientista político**
+  - Fonte: VEJA
+  - Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUnUxYXE4bmFZTjk1Mzg5SVJRRkdBekJLMkFzX2tUTFMwNzUwbldSNkkzdGdaS21pODQyQTFGR1FrNFJfc3MwZ2hQemJIakpORDFaS0ZDdGRkNWdlbHlRRjgyWXlWZTRxQ3B6dWxoaXMxLXQyMHVWcDliS1IzRkhSNEI3NGdaZ0dzQWNWLUloTDdRbUxWZzhkUU5PYnpqZlpKQWh0LXlhU2M5aUNzZlQ5YzVHRVppcFUwMjZB?oc=5
+- **China supera EUA na confiança dos brasileiros como parceiro comercial, aponta Datafolha**
+  - Fonte: Brasil 247
+  - Link: https://news.google.com/rss/articles/CBMivwFBVV95cUxOeWJMVTdMMXFMSjZscFRrZS10RkdnaVdKcjdXWkFlV0xUeVhCVmNrT1VWYzZhTXZLRUNZRlYtcVZmRTBUNThCS0tkdkJLd05EMUQzdUxuUXI4N3dQenRRZXFJdU01NzN2dEwyZnk3SnM2a05IdUFMdjJQVHY4WWtlbVBZeEVZZGRLT2JDQzZTakdsdHVhbFFQU29QNXlzRFZOTzBwSEw1bWpuc0JiNmZLNlVidzktTHlWUGJ1NHprSQ?oc=5
 
 ### asilo nos EUA
 
