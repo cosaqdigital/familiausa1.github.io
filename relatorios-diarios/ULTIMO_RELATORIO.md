@@ -1,8 +1,8 @@
 # Relatório diário — Imigração e brasileiros nos EUA
 
-Gerado em: 2026-10-24 11:56 EDT
+Gerado em: 2026-10-24 16:47 EDT
 
-Arquivo original: `2026-10-24-11-56-tendencias-imigracao.md`
+Arquivo original: `2026-10-24-16-47-tendencias-imigracao.md`
 
 ## Objetivo
 
@@ -84,26 +84,26 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### brasileiros nos Estados Unidos
 
-- **CBF participa de conferência de estudantes brasileiros nos Estados Unidos**
-  - Fonte: CBF
-  - Link: https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdlBUQkkwMFV3b01KeXMyQUhjLWdtVGR5cGxhS1pxcEFYVVpzbmo0OWVNZWQ1S0FTTTI2MFFfUERfUFN2d1VIellacVo0UEluSFpHZTNrcWhISEU2T1FCa3FLaU85MU8wM0xOY3NjcVVDSEJXRlh1WFRmVW9KMnY1OENXQmQ4cmNzelktU1ZuYXNVRVdtcUFzWnNmOWpSSDFDR2NPakw3VHhUNDd6a0VBQzg0T0JjTzlrbEc1SF9pMThfRHFZRHVwZUlzX0d6NDJjek9F?oc=5
-- **Investimentos brasileiros nos Estados Unidos voltam a subir após tarifaço; na China, volume cai**
-  - Fonte: Estadão
-  - Link: https://news.google.com/rss/articles/CBMiygFBVV95cUxNN2tXSS1wbGpXdmREXzRYNHRWZ1hGajN0VnU3ZXB3TEtCVWVpYmpuMlNBcl8tYmJQYTJMdHRvdklkbFZ6NHhLeFZncEVyZmF0U0VZRHdCQjZNYVlnWVphUEhCcXFXQnRBYUpSTDVCMmdVU0lYSTFDenZoSXRzMHUwS0hHUnZsX0NpUVlPWV9UQnNlVEpLRlotZHQ2VWtSVGt6VHdnb3JYQkJFa3hJVThzS29FbFQ2emt1TmQ1OE5uQkhMbEcxWnpzakx30gHPAUFVX3lxTE5QS3NHbERlTU9mOEFrMEI1SDl6SEJGRkVmY0RTZFlRNEcwSDZsWWE2aUhrTVlqMXlXdG1vclNMcEJROVN3dy1IWmQyLVVPT3R4Q0FrYVRtSUZ2N29OUUhGWGJZTEs2MHlpVUw1RnVVNFVvdHlZeER0V3kzRUZTR3A5dGotMTc5Mnc2XzU2cV9kMzR6MzU5S1ZONzhsU1JKVUZ5dkhBVXN2TEc5NXJ4MDY3bGJlSng2UlktTjJ3NXZXc25aX2hiWGF2ZUtQdWxYRQ?oc=5
+- **Brasileiros repatriados dos Estados Unidos chegam a Confins (MG) na sexta-feira (23)**
+  - Fonte: www.gov.br
+  - Link: https://news.google.com/rss/articles/CBMi7gFBVV95cUxNYmRRX0toWG5LTVRaNW16TEtwWExSY0RUTWRrTmZPTzNlWXR3QzdJRU5CV3Y3U1BwWnNSSE9jREVVV2JKMklWcExCck1qbHFEYWcySFU1N3l1bGFLdzZxQVRXV2VnMXd1SGtjOGJqaWpRWHE4SlpMOHlPdnBOTW01cE1oQWhFNFU0aEdYdlhqMG5sTy0tYlpCTVNyVFNGQlBoZGpqVmVyV0d5WG5YXzYxcDZvNS1yVnFQRFVOZWo3T1B6MUROZ0ltMUdKMWkxTFpHb3A2ekJwRGQ0NDJrUzhLOWRjTlFZZE9Pdk5ROERR?oc=5
+- **Segundo turno começa no exterior; brasileiros na Nova Zelândia são os primeiros a votar**
+  - Fonte: UOL Notícias
+  - Link: https://news.google.com/rss/articles/CBMi8wFBVV95cUxQZjlLa21QSklnSG1aZFNaLW9WcWpsX0FBSWtNNEJvcTZNX0M2RlRxS0Mxamdud2FRQnpVcnpsZUp3VmthMU9pUUUwdXhxbmlfRTcyWEx4aEdGcWQ2MDVwZmVHbDFNMFdoell5clBPNEk5eWt4MmJlNDFGQlM5aXFtQ2Vwblk5NGRjN0lQaDFSdERlVl9qYWI4dHRCMmd3S2VKSTl6aFdkc0xVR09TMm93ZVc2VjlZTF9CSlpMaTJFZXI5MmdSS29ITkhBMFJqWnB5M0FId09kVmNwbEg1TWlUaHdyd1VnUjVCMUtEaWcyc0l5eGM?oc=5
 
 ### asilo nos EUA
 
-- **EUA anunciam revogação de milhares de vistos de cidadãos em busca de asilo**
-  - Fonte: O GLOBO
-  - Link: https://news.google.com/rss/articles/CBMiygFBVV95cUxOSWMwZU9TR0FMT28xcVpiOFc2RzhZdU5sNE5MM1ZQa1F0c0RiZEM5SjJRbTc3eG1CRnFzZlc4U2QtUXRiTUhkLWx1dm1PUkVuVnZrdXdwZDZxVThZTFV4OFhMSTBWTjFWVS1tWmpXYnhSa0RtRE1JYi1iTWRQMVdJN2JqQlkzMENYUngxUl9ieEdlazNHYnUzcW53SGJZdEtPMlVJMU5NUTdyMVFzSDQwZ1VuazNqS1NLamdhT1JhQVBHMU1HUmZPNVl30gHYAUFVX3lxTE9hdTBxZEhOQVhkd2x2U2VxNmdhbkt0ZFhWY19yM0FJMGxWMGtHXzRiV0diYUJQQTY4cGlSMmlxaWFRT2lWZmh2SUs3YW5DRzNoS3JjdVFXX2F6VUV4OE9PVFZvSUVQcG0wZEN0SkNsV3JLOGNIYXJQQWltU0lzM2pKbFZJbkhsS0trX2pSUHF0eXRWYnlmUk9OdnJPUzZZZThTdXV3WnJxTGtUM25mNzZrRjZrcV93bWUwNjNBUk5NRjFvcDV5bzJ6UTg2amcxaTJfQVRwNEpZcg?oc=5
-- **EUA preparam revogação em massa de vistos de estrangeiros**
-  - Fonte: DW.com
-  - Link: https://news.google.com/rss/articles/CBMiygFBVV95cUxPdjFUa01aRlBvQjdGWDB2LUFMYllFdnpqVmFuYS1yd254NHB6cUY0ZUhPNDlJbzR4Sk1TY3hveG03eXlGTXFVOFJjVS1sdlRxNzVSZUsxcklGZm9sY3pHX25nQzh6S3dkODZCWl9YRjhJOGJvb3VvR3JWUURQMUlUV1hzTkN5VUR5NTJOZklmdU9GUU0wWFg0N180bTNaM1pQWFFHQi1RTWJ1SlhkVndfMXZQSjVja2U1YUMtYWg2R3NHbmpYYThmbUJR0gHKAUFVX3lxTE84Z2JzY2RRYTNUanJCMkNwSkVsZkFCNUdHRmF3UVVITUk0dHRRQXgwS1R1SXVoaHJZY2U3OTRHR0xBZW5XNDF6TXgwY1pMbjR3U3l5anVlVGdTQzFlOGwwRTB3Mi1JU3ByU1dMRmtFT2plOUEtX2FVUFlMeVBodVp3YVV6WFloX1VpaHRKVUVtUjlxWnVYOEo1RUlDN1VmU0hTSFg4a2pJUW52SjRPOTNfc1Q1ZU1Idm5scnFlSnVaTzlxdWpneDk0MGc?oc=5
+- **‘De portas ainda mais fechadas’: Suprema Corte e o pedido de asilo nos EUA**
+  - Fonte: OPEU — Observatório Político dos Estados Unidos
+  - Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxNT0RFSGdDcWhlZE9kdVNtYWlsNUlGRnBFbVhuQkt0bWlOcVNxZDJDaDFxZ1FUY0p3RHlTS04yb1YzZUI2el8zOG9fOWY2MHNITm5MSDNNNzdqSEllVWJQSjRoOXhqYmRUYmdjMGM5aVJHaFBCdjRkQUxzWmpURkFoQnhNNUJ0ZnEzYVBUSS0tN1JWNnpEOV84Q2dXbXNOTUdxb0YyeUo2aTRNWmM?oc=5
+- **Exclusivo CNN: EUA minimizam perigos na América Latina em novas avaliações**
+  - Fonte: CNN Brasil
+  - Link: https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZGtCRmlSZGY2V19GQi1WMGt4YUNINUxZZHhhaXVNOWE2TUtMT3lMV09XMmQxblF4eHR2Z3dreWxoaXRzRi1XTWlyWVpCT2tsdGFpVER2a3h0NjhJUjhMeHpyMmc2ZjJjSGV6M0NtMjkwVGdzS2FacUFidnF6dE5iN011SjhmcTA5U3Rnczc2SDJ6aUN5c0xWOGphQ09IQjdhTUQ1SV9nZU9GTjNOTlBQMkNYN1ROaXlD?oc=5
 
 ### ICE immigration
 
 - **Polícia Civil de Santa Catarina, em cooperação com o ICE, prende foragido da Justiça brasileira em Orlando, nos EUA**
-  - Fonte: Polícia Civil de Santa Catarina
+  - Fonte: Polícia Civil de Santa Catarina (PCSC)
   - Link: https://news.google.com/rss/articles/CBMiQ0FVX3lxTE93VDJmeTk1LUFsYTJqOEZTM1FZcmJmSXB5UEdnNzB3SklGcUtzMGFXYjRmZzVCZjhLS3k1Z1NMZXktVjg?oc=5
 - **Homem é baleado em Nova York dentro de carro por agentes do ICE**
   - Fonte: Agência Brasil
