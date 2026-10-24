@@ -1,8 +1,8 @@
 # Relatório diário — Imigração e brasileiros nos EUA
 
-Gerado em: 2026-10-24 00:32 EDT
+Gerado em: 2026-10-24 11:56 EDT
 
-Arquivo original: `2026-10-24-00-32-tendencias-imigracao.md`
+Arquivo original: `2026-10-24-11-56-tendencias-imigracao.md`
 
 ## Objetivo
 
@@ -15,20 +15,20 @@ Este relatório serve como base para criação de artigos atualizados para o blo
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxQblMtbUw3NXJ3YktyMVpjdTBGRF93SXV1QjVIRk5wYkV6QXVJTzNiOVhFWTZTNWRqb0pJR1BoYUV6eG9TcVZKaGpDR0dyM01kLUZxUFFxVk5zOXlzWU1SalZXRDd6dkwxUENSTGoxNlZzWUhrZm8zU1NpVnNaVzFZeU8xRnJpRl9DaHFaTm1aaW8tZUwyZ1lxcXNsY2V3LWo4dmxjTjQ1SkN5eFlSVDBkd0dB0gG3AUFVX3lxTE0yZXl1a3BwaFRkUURUYnh2TG9vQUQ1b2h0eWQ3cG05WnVaMGtOUExSallyRHd5elIwUnVDLUUyd0t5aGZWWHBQVENBR2VsMjZuZjM4UUotc1VaUjRYWV9kaWktZFlFRTZ4dk1PNU5zZi1RNnhYVnM0U1BTbWVnMkFXWFFiQk91MVdNU21ULVVuOEY1RTJBMUlsOVNrMEhFZmdhMlgzdDh5akVQLVJKdTZSMWVOMFJYNA?oc=5
 
-2. **Tribunal dos EUA decide que imigrantes sem documentos não têm direito a audiência de fiança**
-   - Fonte: Estadão
-   - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTGVTRUZVLWw2R2tmLUY0TjNPdUc4U3VuZXA1TG9GbDdKRVlYODJzWU5UUXBaaXBLSnU1RmdISkswejZ1YjdZem9ldTZKbTU2YUZIcXV2LXc3Yk1ZUXlmVDA2YVAwNEhJcnN2OG50RW5WZWVmOG5BU3pMZkV6QW1IYUZoUUpxQzB0SXIzVklQZThGT3U3bFdqZ2ZYYzlqNHA4WWY1NnpmdWE0dzVPWFE5VzF3bGlCcU9H0gG-AUFVX3lxTE9iX1FJVVFNTjhwbjNVNUdpS3NjMk9SLXFOVERud3NQMHNOOVRZRGVaTEpNTkd1TzVJUElyeW1yOEdZTEgxejdGSHBQU0EzdUZLdU1DMzJMeGRZQ3VnS0dJUVlDUWRtc2tzSlRudnhxYzVEX2FVTUJ3YWR0alIwOVlJVWVWcXZSc2tfODVFU1ZXZVJGSkNWSXlNc0pHRFBBTGNOUjc1U3lnUUgyWkNLM0RuZ2hTX29fejJIakxmV1E?oc=5
-
-3. **EUA dizem que Ramagem violou leis de imigração e está sujeito a deportação**
+2. **EUA dizem que Ramagem violou leis de imigração e está sujeito a deportação**
    - Fonte: CartaCapital
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxPTXlxb2syQ1dzSWdpY2ptdFI5SDA2LWNhR2F3MktfdW1WMnBBNnBIdTBLbUpvN2pubkhLRmhhYXBwODdJLVBJT3YxaFV1RjI0X1czbnhBOUpFM2JWcnZTUEVTNVVHVGFOeW9ZVG5RVjd3ejNFZTlGbEd4bmlRSWxaRF9Ka0lYWk0tbl9BV1JrTy00WUR2ZEcyMVJIRjAwRDhfUzcxWUNfMGNqdjlIaHp3Q2pqY05qYW8?oc=5
 
-4. **Justiça dos EUA autoriza detenção sem fiança para imigrantes**
-   - Fonte: Jovem Pan
+3. **Tribunal dos EUA decide que imigrantes sem documentos não têm direito a audiência de fiança**
+   - Fonte: Estadão
    - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxQQlVTMEc3bXRaQ0FTLTlHNFdWRlUyMTY5cDdpN216RFhQNXJkVElNM0lYc0Q0RUlNWlhRNVlLV3FSaUZvX1VZdGUxa3g2dURuVGtvd1lnQjNINmdXNS1GUmJvNWJlcnQxRklfNXNEMFNLNm5oZDRSdmFieHo5dUlZSzRyTFBaWGJMb3FYcER3TFZqMmlVbHFzLWNUMUUyLUhFNldDSkkyY19jMU9VaXdiMlIyeXE?oc=5
+   - Link: https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTGVTRUZVLWw2R2tmLUY0TjNPdUc4U3VuZXA1TG9GbDdKRVlYODJzWU5UUXBaaXBLSnU1RmdISkswejZ1YjdZem9ldTZKbTU2YUZIcXV2LXc3Yk1ZUXlmVDA2YVAwNEhJcnN2OG50RW5WZWVmOG5BU3pMZkV6QW1IYUZoUUpxQzB0SXIzVklQZThGT3U3bFdqZ2ZYYzlqNHA4WWY1NnpmdWE0dzVPWFE5VzF3bGlCcU9H0gG-AUFVX3lxTE9iX1FJVVFNTjhwbjNVNUdpS3NjMk9SLXFOVERud3NQMHNOOVRZRGVaTEpNTkd1TzVJUElyeW1yOEdZTEgxejdGSHBQU0EzdUZLdU1DMzJMeGRZQ3VnS0dJUVlDUWRtc2tzSlRudnhxYzVEX2FVTUJ3YWR0alIwOVlJVWVWcXZSc2tfODVFU1ZXZVJGSkNWSXlNc0pHRFBBTGNOUjc1U3lnUUgyWkNLM0RuZ2hTX29fejJIakxmV1E?oc=5
+
+4. **Governo Trump diz que revogou mais de 300 mil vistos americanos**
+   - Fonte: CNN Brasil
+   - Termo monitorado: imigração EUA
+   - Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdzg2ZXN2TVRocVJxNnAtSFByOUg0ZlhweHpVdDR5R3ZtTmtFcDdIQmpCMGNiQW9lOTVxRXpBczlmOG5VcldKb1hnSl9MTENhMnotM21WUy1mZGtUXzBqc2dyeXgyc3plNXoyRkxaZ1p2dm5OVEFRZjRobXFTUEZaaXpCMTdiRG1INXZtcU1qY1F0ZkRqSWRCYXdkeG8tTEVObzhEUkFzZ1p1Um8?oc=5
 
 5. **Imigrantes nos EUA devem informar mudança de endereço ao governo em até 10 dias**
    - Fonte: Gazeta Brazilian News
@@ -51,9 +51,9 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 - **Departamento de imigração dos EUA diz que Ramagem é imigrante ilegal e violou leis**
   - Fonte: Agência Pública
   - Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxQblMtbUw3NXJ3YktyMVpjdTBGRF93SXV1QjVIRk5wYkV6QXVJTzNiOVhFWTZTNWRqb0pJR1BoYUV6eG9TcVZKaGpDR0dyM01kLUZxUFFxVk5zOXlzWU1SalZXRDd6dkwxUENSTGoxNlZzWUhrZm8zU1NpVnNaVzFZeU8xRnJpRl9DaHFaTm1aaW8tZUwyZ1lxcXNsY2V3LWo4dmxjTjQ1SkN5eFlSVDBkd0dB0gG3AUFVX3lxTE0yZXl1a3BwaFRkUURUYnh2TG9vQUQ1b2h0eWQ3cG05WnVaMGtOUExSallyRHd5elIwUnVDLUUyd0t5aGZWWHBQVENBR2VsMjZuZjM4UUotc1VaUjRYWV9kaWktZFlFRTZ4dk1PNU5zZi1RNnhYVnM0U1BTbWVnMkFXWFFiQk91MVdNU21ULVVuOEY1RTJBMUlsOVNrMEhFZmdhMlgzdDh5akVQLVJKdTZSMWVOMFJYNA?oc=5
-- **Tribunal dos EUA decide que imigrantes sem documentos não têm direito a audiência de fiança**
-  - Fonte: Estadão
-  - Link: https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTGVTRUZVLWw2R2tmLUY0TjNPdUc4U3VuZXA1TG9GbDdKRVlYODJzWU5UUXBaaXBLSnU1RmdISkswejZ1YjdZem9ldTZKbTU2YUZIcXV2LXc3Yk1ZUXlmVDA2YVAwNEhJcnN2OG50RW5WZWVmOG5BU3pMZkV6QW1IYUZoUUpxQzB0SXIzVklQZThGT3U3bFdqZ2ZYYzlqNHA4WWY1NnpmdWE0dzVPWFE5VzF3bGlCcU9H0gG-AUFVX3lxTE9iX1FJVVFNTjhwbjNVNUdpS3NjMk9SLXFOVERud3NQMHNOOVRZRGVaTEpNTkd1TzVJUElyeW1yOEdZTEgxejdGSHBQU0EzdUZLdU1DMzJMeGRZQ3VnS0dJUVlDUWRtc2tzSlRudnhxYzVEX2FVTUJ3YWR0alIwOVlJVWVWcXZSc2tfODVFU1ZXZVJGSkNWSXlNc0pHRFBBTGNOUjc1U3lnUUgyWkNLM0RuZ2hTX29fejJIakxmV1E?oc=5
+- **EUA dizem que Ramagem violou leis de imigração e está sujeito a deportação**
+  - Fonte: CartaCapital
+  - Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxPTXlxb2syQ1dzSWdpY2ptdFI5SDA2LWNhR2F3MktfdW1WMnBBNnBIdTBLbUpvN2pubkhLRmhhYXBwODdJLVBJT3YxaFV1RjI0X1czbnhBOUpFM2JWcnZTUEVTNVVHVGFOeW9ZVG5RVjd3ejNFZTlGbEd4bmlRSWxaRF9Ka0lYWk0tbl9BV1JrTy00WUR2ZEcyMVJIRjAwRDhfUzcxWUNfMGNqdjlIaHp3Q2pqY05qYW8?oc=5
 
 ### USCIS
 
@@ -75,30 +75,30 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### visto americano
 
-- **Governo Trump diz que revogou mais de 300 mil vistos americanos**
-  - Fonte: CNN Brasil
-  - Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdzg2ZXN2TVRocVJxNnAtSFByOUg0ZlhweHpVdDR5R3ZtTmtFcDdIQmpCMGNiQW9lOTVxRXpBczlmOG5VcldKb1hnSl9MTENhMnotM21WUy1mZGtUXzBqc2dyeXgyc3plNXoyRkxaZ1p2dm5OVEFRZjRobXFTUEZaaXpCMTdiRG1INXZtcU1qY1F0ZkRqSWRCYXdkeG8tTEVObzhEUkFzZ1p1Um8?oc=5
-- **Governo Trump cancela vistos de 61 autoridades e ex-integrantes de governos da Bolívia e da Colômbia**
-  - Fonte: G1
-  - Link: https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdjdOZnJDWHo3dVJIQmt6SDVUME1Jd29URFFYMTE5ZUVtLVNMM0pudm1neGpwN29KRDNUSlBmN2VITlVrYWF4VHVjSkdOYWQ0QXU5WlpBV25zbkpQVjlGaE5LMEZVbVRHTnR3WFJOWTdZbncyVzFFSmlSZXE0cXJQVHF0SkNoNDRMcUt6dmFSWUFLSjlWRVctTjNhcmdHQ3hTY180RXBKcDhEcHVKRTZLd1BvcGp0NlNNd1RZVGgxTVcxTEhzcm1ETTlfUmx0ZHJ2MG1OeFJn0gHkAUFVX3lxTE55Q2kwbmR1Y2QtN3NOUHBBRTI1VVB1RFRlWVhyUHVyUVNEUHFnWkt6TG1wM1ZHVEM2QnBTVnl2RE9SOWJobjdJNDIxek9rOGRFLTJ3SGtNRk9CSGx1ZVRsTWt6dnlRSW1TYjU0Y2s0Z2RDRzFPYjgxZEFqMjNkRWVQcnpNaTBwX2dlSDZBN3ZCbzlhRVpndHlhNGZlcl9ZLUQ5NXBMVE1KOWRFcGg2akhLRTA5Y0NrMVRFOURKYWF3S003d0ZmdllfVjlhZzJHbW9pWG9OSXhxVnRJNzRQaDFkRWpGOA?oc=5
+- **Mais restrito: visto americano tem nova regra para cancelar ou reagendar**
+  - Fonte: UOL Notícias
+  - Link: https://news.google.com/rss/articles/CBMi1wFBVV95cUxNc1N5UjZfelZJeDhHM1JadmVVaU1EcmYwSUJuV2hmV2RxSWNpOFVpZGdlN1RlLTVsRWFWb2NXSmxVUENaclJLXzg0d0R3djNhaDhJSVlDekNjT1FYZkJSVVFuS1RUR3JmR1EtaGJ4MUIxV1M4bmxWY2xadjRhQkJHR1N0SXZQX2gwOExzZmdHT25QLUtGSkhkczNZOW15QkowSmprc2owMlNsSXN4U1Q3eldVUkh0QXFTVk5IUVVXMjRtdUppRDZ1bWhxVmh0Yi1mb1ZDVGpiRQ?oc=5
+- **Visto EUA: especialista orienta sobre novas regras em alterações no agendamento**
+  - Fonte: Panrotas
+  - Link: https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWWxjOGNhVWFHT3ZXRWdwSjBUamR2RVhsZmRWbTZkRjY3NVRyQ3FJMHZXb0RLRW9vaHdrY2JtUzl0YlBTdHZWM09KMEM2bFFrdEhoaHBGSGtNR1RGQlZ2SjhEQVNQVDB3TVpzMllaLTlTT3o5N3FBb05oTkdJeUg1UXladXlZZTNIQnNuTHNMYWFfYmwtLU9fY250cFdPcURsejRhX2I4YVNGSmg2bTZFSmZhZFRPb2RtVWZvR1l0TkNLMlpyN19jclowbU9JZFQ2eC10NnlPVng0aVE?oc=5
 
 ### brasileiros nos Estados Unidos
 
-- **Como Trump vai reagir em caso de vitória de Flávio ou Lula, segundo cientista político**
-  - Fonte: VEJA
-  - Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUnUxYXE4bmFZTjk1Mzg5SVJRRkdBekJLMkFzX2tUTFMwNzUwbldSNkkzdGdaS21pODQyQTFGR1FrNFJfc3MwZ2hQemJIakpORDFaS0ZDdGRkNWdlbHlRRjgyWXlWZTRxQ3B6dWxoaXMxLXQyMHVWcDliS1IzRkhSNEI3NGdaZ0dzQWNWLUloTDdRbUxWZzhkUU5PYnpqZlpKQWh0LXlhU2M5aUNzZlQ5YzVHRVppcFUwMjZB?oc=5
-- **China supera EUA na confiança dos brasileiros como parceiro comercial, aponta Datafolha**
-  - Fonte: Brasil 247
-  - Link: https://news.google.com/rss/articles/CBMivwFBVV95cUxOeWJMVTdMMXFMSjZscFRrZS10RkdnaVdKcjdXWkFlV0xUeVhCVmNrT1VWYzZhTXZLRUNZRlYtcVZmRTBUNThCS0tkdkJLd05EMUQzdUxuUXI4N3dQenRRZXFJdU01NzN2dEwyZnk3SnM2a05IdUFMdjJQVHY4WWtlbVBZeEVZZGRLT2JDQzZTakdsdHVhbFFQU29QNXlzRFZOTzBwSEw1bWpuc0JiNmZLNlVidzktTHlWUGJ1NHprSQ?oc=5
+- **CBF participa de conferência de estudantes brasileiros nos Estados Unidos**
+  - Fonte: CBF
+  - Link: https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdlBUQkkwMFV3b01KeXMyQUhjLWdtVGR5cGxhS1pxcEFYVVpzbmo0OWVNZWQ1S0FTTTI2MFFfUERfUFN2d1VIellacVo0UEluSFpHZTNrcWhISEU2T1FCa3FLaU85MU8wM0xOY3NjcVVDSEJXRlh1WFRmVW9KMnY1OENXQmQ4cmNzelktU1ZuYXNVRVdtcUFzWnNmOWpSSDFDR2NPakw3VHhUNDd6a0VBQzg0T0JjTzlrbEc1SF9pMThfRHFZRHVwZUlzX0d6NDJjek9F?oc=5
+- **Investimentos brasileiros nos Estados Unidos voltam a subir após tarifaço; na China, volume cai**
+  - Fonte: Estadão
+  - Link: https://news.google.com/rss/articles/CBMiygFBVV95cUxNN2tXSS1wbGpXdmREXzRYNHRWZ1hGajN0VnU3ZXB3TEtCVWVpYmpuMlNBcl8tYmJQYTJMdHRvdklkbFZ6NHhLeFZncEVyZmF0U0VZRHdCQjZNYVlnWVphUEhCcXFXQnRBYUpSTDVCMmdVU0lYSTFDenZoSXRzMHUwS0hHUnZsX0NpUVlPWV9UQnNlVEpLRlotZHQ2VWtSVGt6VHdnb3JYQkJFa3hJVThzS29FbFQ2emt1TmQ1OE5uQkhMbEcxWnpzakx30gHPAUFVX3lxTE5QS3NHbERlTU9mOEFrMEI1SDl6SEJGRkVmY0RTZFlRNEcwSDZsWWE2aUhrTVlqMXlXdG1vclNMcEJROVN3dy1IWmQyLVVPT3R4Q0FrYVRtSUZ2N29OUUhGWGJZTEs2MHlpVUw1RnVVNFVvdHlZeER0V3kzRUZTR3A5dGotMTc5Mnc2XzU2cV9kMzR6MzU5S1ZONzhsU1JKVUZ5dkhBVXN2TEc5NXJ4MDY3bGJlSng2UlktTjJ3NXZXc25aX2hiWGF2ZUtQdWxYRQ?oc=5
 
 ### asilo nos EUA
 
-- **‘De portas ainda mais fechadas’: Suprema Corte e o pedido de asilo nos EUA**
-  - Fonte: OPEU — Observatório Político dos Estados Unidos
-  - Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxNT0RFSGdDcWhlZE9kdVNtYWlsNUlGRnBFbVhuQkt0bWlOcVNxZDJDaDFxZ1FUY0p3RHlTS04yb1YzZUI2el8zOG9fOWY2MHNITm5MSDNNNzdqSEllVWJQSjRoOXhqYmRUYmdjMGM5aVJHaFBCdjRkQUxzWmpURkFoQnhNNUJ0ZnEzYVBUSS0tN1JWNnpEOV84Q2dXbXNOTUdxb0YyeUo2aTRNWmM?oc=5
-- **Exclusivo CNN: EUA minimizam perigos na América Latina em novas avaliações**
-  - Fonte: CNN Brasil
-  - Link: https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZGtCRmlSZGY2V19GQi1WMGt4YUNINUxZZHhhaXVNOWE2TUtMT3lMV09XMmQxblF4eHR2Z3dreWxoaXRzRi1XTWlyWVpCT2tsdGFpVER2a3h0NjhJUjhMeHpyMmc2ZjJjSGV6M0NtMjkwVGdzS2FacUFidnF6dE5iN011SjhmcTA5U3Rnczc2SDJ6aUN5c0xWOGphQ09IQjdhTUQ1SV9nZU9GTjNOTlBQMkNYN1ROaXlD?oc=5
+- **EUA anunciam revogação de milhares de vistos de cidadãos em busca de asilo**
+  - Fonte: O GLOBO
+  - Link: https://news.google.com/rss/articles/CBMiygFBVV95cUxOSWMwZU9TR0FMT28xcVpiOFc2RzhZdU5sNE5MM1ZQa1F0c0RiZEM5SjJRbTc3eG1CRnFzZlc4U2QtUXRiTUhkLWx1dm1PUkVuVnZrdXdwZDZxVThZTFV4OFhMSTBWTjFWVS1tWmpXYnhSa0RtRE1JYi1iTWRQMVdJN2JqQlkzMENYUngxUl9ieEdlazNHYnUzcW53SGJZdEtPMlVJMU5NUTdyMVFzSDQwZ1VuazNqS1NLamdhT1JhQVBHMU1HUmZPNVl30gHYAUFVX3lxTE9hdTBxZEhOQVhkd2x2U2VxNmdhbkt0ZFhWY19yM0FJMGxWMGtHXzRiV0diYUJQQTY4cGlSMmlxaWFRT2lWZmh2SUs3YW5DRzNoS3JjdVFXX2F6VUV4OE9PVFZvSUVQcG0wZEN0SkNsV3JLOGNIYXJQQWltU0lzM2pKbFZJbkhsS0trX2pSUHF0eXRWYnlmUk9OdnJPUzZZZThTdXV3WnJxTGtUM25mNzZrRjZrcV93bWUwNjNBUk5NRjFvcDV5bzJ6UTg2amcxaTJfQVRwNEpZcg?oc=5
+- **EUA preparam revogação em massa de vistos de estrangeiros**
+  - Fonte: DW.com
+  - Link: https://news.google.com/rss/articles/CBMiygFBVV95cUxPdjFUa01aRlBvQjdGWDB2LUFMYllFdnpqVmFuYS1yd254NHB6cUY0ZUhPNDlJbzR4Sk1TY3hveG03eXlGTXFVOFJjVS1sdlRxNzVSZUsxcklGZm9sY3pHX25nQzh6S3dkODZCWl9YRjhJOGJvb3VvR3JWUURQMUlUV1hzTkN5VUR5NTJOZklmdU9GUU0wWFg0N180bTNaM1pQWFFHQi1RTWJ1SlhkVndfMXZQSjVja2U1YUMtYWg2R3NHbmpYYThmbUJR0gHKAUFVX3lxTE84Z2JzY2RRYTNUanJCMkNwSkVsZkFCNUdHRmF3UVVITUk0dHRRQXgwS1R1SXVoaHJZY2U3OTRHR0xBZW5XNDF6TXgwY1pMbjR3U3l5anVlVGdTQzFlOGwwRTB3Mi1JU3ByU1dMRmtFT2plOUEtX2FVUFlMeVBodVp3YVV6WFloX1VpaHRKVUVtUjlxWnVYOEo1RUlDN1VmU0hTSFg4a2pJUW52SjRPOTNfc1Q1ZU1Idm5scnFlSnVaTzlxdWpneDk0MGc?oc=5
 
 ### ICE immigration
 
