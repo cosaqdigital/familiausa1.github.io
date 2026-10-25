@@ -1,8 +1,8 @@
 # Relatório diário — Imigração e brasileiros nos EUA
 
-Gerado em: 2026-10-25 00:37 EDT
+Gerado em: 2026-10-25 12:17 EDT
 
-Arquivo original: `2026-10-25-00-37-tendencias-imigracao.md`
+Arquivo original: `2026-10-25-12-17-tendencias-imigracao.md`
 
 ## Objetivo
 
@@ -25,10 +25,10 @@ Este relatório serve como base para criação de artigos atualizados para o blo
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdzg2ZXN2TVRocVJxNnAtSFByOUg0ZlhweHpVdDR5R3ZtTmtFcDdIQmpCMGNiQW9lOTVxRXpBczlmOG5VcldKb1hnSl9MTENhMnotM21WUy1mZGtUXzBqc2dyeXgyc3plNXoyRkxaZ1p2dm5OVEFRZjRobXFTUEZaaXpCMTdiRG1INXZtcU1qY1F0ZkRqSWRCYXdkeG8tTEVObzhEUkFzZ1p1Um8?oc=5
 
-4. **Bispos alertam: 270 mil imigrantes podem ser deportados nos EUA**
-   - Fonte: Gazeta do Povo
+4. **Igrejas avançam contra operações de imigração nos EUA; agentes já prenderam fiel durante culto**
+   - Fonte: Jovem Pan
    - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMiowFBVV95cUxOSXlvVmQzSlgydkhVaFZRbDI1emFzT2M1MUVxYk1JQ2lGTTJFcWE5aHh4alJZYTBNVEhuX2htQjlKQlh1TDJzT05fMlJXMzlxSFRrbUlTUmhsbHFhb2hwM3lRb2R0NmVWMjAtUlBfRlRDQnNjeS1XX3gyRDlwMzI4WE1VajQ1V1JWQUJCckdXb1VyUVNYU0pWcnh0dWs3SXZmdFFF?oc=5
+   - Link: https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQ3JqVG1fRWtQSVRoaGJyeTdELU1qOTd6QlZtSk9XMlNhRUFINlhPdWxfaHNIbld4U0hXaWlPbVF5dW1zUk9IVEdjMUZoRk5lUFJDLTBhMkVfczJjOGVOYUV1ZHNkT2hGV0xUVFZrREp3Tlh3OTZfWUtrUGJ2LVBIY0JfaGxLai1zS3pQTGxnbk15eC1Tdk5XeEQ2MkgxU3QxbzZTQTRfclpseFRCbGRrWkI2SFRab1l6TnVzREFTdnVwY2ZONlZrVUk1eURoTGJjRlRsbEotUUpNc0hM?oc=5
 
 5. **Imigrantes nos EUA devem informar mudança de endereço ao governo em até 10 dias**
    - Fonte: Gazeta Brazilian News
@@ -84,21 +84,21 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### brasileiros nos Estados Unidos
 
-- **3 motivos pelos quais duelo entre Lula e Flávio Bolsonaro é crucial para a América Latina — e para Trump**
-  - Fonte: BBC
-  - Link: https://news.google.com/rss/articles/CBMiY0FVX3lxTE5wTExkUkVJSDFwdjhSTkFialF4aUQwY2puRHdTQkQtR1NCV1JvSUdGR282a1NmNU9KSGUybDV6Sm42NzVYOC1EX2sxTnV3aFF0U1hLcXFqQlBjR19iNGhzMFFLZw?oc=5
-- **Urnas são abertas no exterior para o segundo turno das eleições**
+- **Imprensa internacional repercute segundo turno da eleição no Brasil**
   - Fonte: CNN Brasil
-  - Link: https://news.google.com/rss/articles/CBMipAFBVV95cUxNRml5MG16Nm42TENTdDZSLXNuR2w4MGcyMHFPSFg1ZFlucjhneHpVelJQWUtOZm16RGZDSF85QXZCNzFqSDRqSTNGa1RUaGVYMUNXMGlCVjFTM3ZEaFRjOWRUeDgwaVBROU1GZTZnemYxRF9Dek53Wm90WXIxRUl0czk5SWNVMGFDb0R1ZFhQLUwtVmc0MUI1dk5iVlFtdXBqbWpfWA?oc=5
+  - Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxNdjdDNXZFMW9GbHhsSDhKN0lQYlI3LXdDTEpjRnloM3RDTnFCYUhqNzZlYjJldDNCejBsZ2UwVk14MlNseUlYQlF0b2Z0UDRwNzJKSkxpZ05kYnMtVmdaY0ZvaFY4M05wWHR6dGRUZ29VdjAtVzBIOVFoY3Q3MFo0NElHTk1CZEEtUGZHb1M5WHdCbWxRSHRUUm50cW9HLUUtUVJQNVdHYV84N21CanhKRg?oc=5
+- **Como os brasileiros no exterior votaram no primeiro turno de 2026**
+  - Fonte: Jovem Pan
+  - Link: https://news.google.com/rss/articles/CBMioAFBVV95cUxNN3RNMEdXdE5RVmR3VVdjYlJTN19lNVJOYzFTaEN5amlNSU1pV1N3Tk96MkZnT3ZveURjU0NhYVpjZlVrb0dFa01pMFRNLUJJc1BUSkJSQzNtWUc4TXB1YUFSVXNxVUtGYkhveHYzcURDaEQ2RU1EOFB5M1ZYb3NQLUNmcXJrUnFCaC15MmNvdDZ5LU8tZ3UtZXhUQUo5N3pE?oc=5
 
 ### asilo nos EUA
 
-- **‘De portas ainda mais fechadas’: Suprema Corte e o pedido de asilo nos EUA**
-  - Fonte: OPEU — Observatório Político dos Estados Unidos
-  - Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxNT0RFSGdDcWhlZE9kdVNtYWlsNUlGRnBFbVhuQkt0bWlOcVNxZDJDaDFxZ1FUY0p3RHlTS04yb1YzZUI2el8zOG9fOWY2MHNITm5MSDNNNzdqSEllVWJQSjRoOXhqYmRUYmdjMGM5aVJHaFBCdjRkQUxzWmpURkFoQnhNNUJ0ZnEzYVBUSS0tN1JWNnpEOV84Q2dXbXNOTUdxb0YyeUo2aTRNWmM?oc=5
-- **Exclusivo CNN: EUA minimizam perigos na América Latina em novas avaliações**
-  - Fonte: CNN Brasil
-  - Link: https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZGtCRmlSZGY2V19GQi1WMGt4YUNINUxZZHhhaXVNOWE2TUtMT3lMV09XMmQxblF4eHR2Z3dreWxoaXRzRi1XTWlyWVpCT2tsdGFpVER2a3h0NjhJUjhMeHpyMmc2ZjJjSGV6M0NtMjkwVGdzS2FacUFidnF6dE5iN011SjhmcTA5U3Rnczc2SDJ6aUN5c0xWOGphQ09IQjdhTUQ1SV9nZU9GTjNOTlBQMkNYN1ROaXlD?oc=5
+- **EUA anunciam revogação de milhares de vistos de cidadãos em busca de asilo**
+  - Fonte: O GLOBO
+  - Link: https://news.google.com/rss/articles/CBMiygFBVV95cUxOSWMwZU9TR0FMT28xcVpiOFc2RzhZdU5sNE5MM1ZQa1F0c0RiZEM5SjJRbTc3eG1CRnFzZlc4U2QtUXRiTUhkLWx1dm1PUkVuVnZrdXdwZDZxVThZTFV4OFhMSTBWTjFWVS1tWmpXYnhSa0RtRE1JYi1iTWRQMVdJN2JqQlkzMENYUngxUl9ieEdlazNHYnUzcW53SGJZdEtPMlVJMU5NUTdyMVFzSDQwZ1VuazNqS1NLamdhT1JhQVBHMU1HUmZPNVl30gHYAUFVX3lxTE9hdTBxZEhOQVhkd2x2U2VxNmdhbkt0ZFhWY19yM0FJMGxWMGtHXzRiV0diYUJQQTY4cGlSMmlxaWFRT2lWZmh2SUs3YW5DRzNoS3JjdVFXX2F6VUV4OE9PVFZvSUVQcG0wZEN0SkNsV3JLOGNIYXJQQWltU0lzM2pKbFZJbkhsS0trX2pSUHF0eXRWYnlmUk9OdnJPUzZZZThTdXV3WnJxTGtUM25mNzZrRjZrcV93bWUwNjNBUk5NRjFvcDV5bzJ6UTg2amcxaTJfQVRwNEpZcg?oc=5
+- **EUA preparam revogação em massa de vistos de estrangeiros**
+  - Fonte: DW.com
+  - Link: https://news.google.com/rss/articles/CBMiygFBVV95cUxPdjFUa01aRlBvQjdGWDB2LUFMYllFdnpqVmFuYS1yd254NHB6cUY0ZUhPNDlJbzR4Sk1TY3hveG03eXlGTXFVOFJjVS1sdlRxNzVSZUsxcklGZm9sY3pHX25nQzh6S3dkODZCWl9YRjhJOGJvb3VvR3JWUURQMUlUV1hzTkN5VUR5NTJOZklmdU9GUU0wWFg0N180bTNaM1pQWFFHQi1RTWJ1SlhkVndfMXZQSjVja2U1YUMtYWg2R3NHbmpYYThmbUJR0gHKAUFVX3lxTE84Z2JzY2RRYTNUanJCMkNwSkVsZkFCNUdHRmF3UVVITUk0dHRRQXgwS1R1SXVoaHJZY2U3OTRHR0xBZW5XNDF6TXgwY1pMbjR3U3l5anVlVGdTQzFlOGwwRTB3Mi1JU3ByU1dMRmtFT2plOUEtX2FVUFlMeVBodVp3YVV6WFloX1VpaHRKVUVtUjlxWnVYOEo1RUlDN1VmU0hTSFg4a2pJUW52SjRPOTNfc1Q1ZU1Idm5scnFlSnVaTzlxdWpneDk0MGc?oc=5
 
 ### ICE immigration
 
