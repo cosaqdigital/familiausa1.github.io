@@ -1,8 +1,8 @@
 # Relatório diário — Imigração e brasileiros nos EUA
 
-Gerado em: 2026-10-24 16:47 EDT
+Gerado em: 2026-10-25 00:37 EDT
 
-Arquivo original: `2026-10-24-16-47-tendencias-imigracao.md`
+Arquivo original: `2026-10-25-00-37-tendencias-imigracao.md`
 
 ## Objetivo
 
@@ -20,15 +20,15 @@ Este relatório serve como base para criação de artigos atualizados para o blo
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxPTXlxb2syQ1dzSWdpY2ptdFI5SDA2LWNhR2F3MktfdW1WMnBBNnBIdTBLbUpvN2pubkhLRmhhYXBwODdJLVBJT3YxaFV1RjI0X1czbnhBOUpFM2JWcnZTUEVTNVVHVGFOeW9ZVG5RVjd3ejNFZTlGbEd4bmlRSWxaRF9Ka0lYWk0tbl9BV1JrTy00WUR2ZEcyMVJIRjAwRDhfUzcxWUNfMGNqdjlIaHp3Q2pqY05qYW8?oc=5
 
-3. **Tribunal dos EUA decide que imigrantes sem documentos não têm direito a audiência de fiança**
-   - Fonte: Estadão
-   - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTGVTRUZVLWw2R2tmLUY0TjNPdUc4U3VuZXA1TG9GbDdKRVlYODJzWU5UUXBaaXBLSnU1RmdISkswejZ1YjdZem9ldTZKbTU2YUZIcXV2LXc3Yk1ZUXlmVDA2YVAwNEhJcnN2OG50RW5WZWVmOG5BU3pMZkV6QW1IYUZoUUpxQzB0SXIzVklQZThGT3U3bFdqZ2ZYYzlqNHA4WWY1NnpmdWE0dzVPWFE5VzF3bGlCcU9H0gG-AUFVX3lxTE9iX1FJVVFNTjhwbjNVNUdpS3NjMk9SLXFOVERud3NQMHNOOVRZRGVaTEpNTkd1TzVJUElyeW1yOEdZTEgxejdGSHBQU0EzdUZLdU1DMzJMeGRZQ3VnS0dJUVlDUWRtc2tzSlRudnhxYzVEX2FVTUJ3YWR0alIwOVlJVWVWcXZSc2tfODVFU1ZXZVJGSkNWSXlNc0pHRFBBTGNOUjc1U3lnUUgyWkNLM0RuZ2hTX29fejJIakxmV1E?oc=5
-
-4. **Governo Trump diz que revogou mais de 300 mil vistos americanos**
+3. **Governo Trump diz que revogou mais de 300 mil vistos americanos**
    - Fonte: CNN Brasil
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdzg2ZXN2TVRocVJxNnAtSFByOUg0ZlhweHpVdDR5R3ZtTmtFcDdIQmpCMGNiQW9lOTVxRXpBczlmOG5VcldKb1hnSl9MTENhMnotM21WUy1mZGtUXzBqc2dyeXgyc3plNXoyRkxaZ1p2dm5OVEFRZjRobXFTUEZaaXpCMTdiRG1INXZtcU1qY1F0ZkRqSWRCYXdkeG8tTEVObzhEUkFzZ1p1Um8?oc=5
+
+4. **Bispos alertam: 270 mil imigrantes podem ser deportados nos EUA**
+   - Fonte: Gazeta do Povo
+   - Termo monitorado: imigração EUA
+   - Link: https://news.google.com/rss/articles/CBMiowFBVV95cUxOSXlvVmQzSlgydkhVaFZRbDI1emFzT2M1MUVxYk1JQ2lGTTJFcWE5aHh4alJZYTBNVEhuX2htQjlKQlh1TDJzT05fMlJXMzlxSFRrbUlTUmhsbHFhb2hwM3lRb2R0NmVWMjAtUlBfRlRDQnNjeS1XX3gyRDlwMzI4WE1VajQ1V1JWQUJCckdXb1VyUVNYU0pWcnh0dWs3SXZmdFFF?oc=5
 
 5. **Imigrantes nos EUA devem informar mudança de endereço ao governo em até 10 dias**
    - Fonte: Gazeta Brazilian News
@@ -78,18 +78,18 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 - **Mais restrito: visto americano tem nova regra para cancelar ou reagendar**
   - Fonte: UOL Notícias
   - Link: https://news.google.com/rss/articles/CBMi1wFBVV95cUxNc1N5UjZfelZJeDhHM1JadmVVaU1EcmYwSUJuV2hmV2RxSWNpOFVpZGdlN1RlLTVsRWFWb2NXSmxVUENaclJLXzg0d0R3djNhaDhJSVlDekNjT1FYZkJSVVFuS1RUR3JmR1EtaGJ4MUIxV1M4bmxWY2xadjRhQkJHR1N0SXZQX2gwOExzZmdHT25QLUtGSkhkczNZOW15QkowSmprc2owMlNsSXN4U1Q3eldVUkh0QXFTVk5IUVVXMjRtdUppRDZ1bWhxVmh0Yi1mb1ZDVGpiRQ?oc=5
-- **Visto EUA: especialista orienta sobre novas regras em alterações no agendamento**
-  - Fonte: Panrotas
-  - Link: https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWWxjOGNhVWFHT3ZXRWdwSjBUamR2RVhsZmRWbTZkRjY3NVRyQ3FJMHZXb0RLRW9vaHdrY2JtUzl0YlBTdHZWM09KMEM2bFFrdEhoaHBGSGtNR1RGQlZ2SjhEQVNQVDB3TVpzMllaLTlTT3o5N3FBb05oTkdJeUg1UXladXlZZTNIQnNuTHNMYWFfYmwtLU9fY250cFdPcURsejRhX2I4YVNGSmg2bTZFSmZhZFRPb2RtVWZvR1l0TkNLMlpyN19jclowbU9JZFQ2eC10NnlPVng0aVE?oc=5
+- **EUA revogam mais de 300 mil vistos; especialista explica consequências**
+  - Fonte: Migalhas
+  - Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxOZmN6ZzBuX0dyWE9vM3c0RGJsQzZnQVZfb2pKdERVQ1QtQmxTcnFVRUVudjBzZmRHdHlkVEJMaHViT012Zy04M0RmWGREcVRHMVFCNWQwN0FpeTdhLXBNZFFzSnEzckJqaDRvbl9PZFNqWHZWbWZFUGJBM2VsdnRYT1hSNE45SEszOUkwVXFvNmNGTS1YNEtzdnhLWDJiUXZvTS1YbHNtMlJfRm9FTnN1d1p3?oc=5
 
 ### brasileiros nos Estados Unidos
 
-- **Brasileiros repatriados dos Estados Unidos chegam a Confins (MG) na sexta-feira (23)**
-  - Fonte: www.gov.br
-  - Link: https://news.google.com/rss/articles/CBMi7gFBVV95cUxNYmRRX0toWG5LTVRaNW16TEtwWExSY0RUTWRrTmZPTzNlWXR3QzdJRU5CV3Y3U1BwWnNSSE9jREVVV2JKMklWcExCck1qbHFEYWcySFU1N3l1bGFLdzZxQVRXV2VnMXd1SGtjOGJqaWpRWHE4SlpMOHlPdnBOTW01cE1oQWhFNFU0aEdYdlhqMG5sTy0tYlpCTVNyVFNGQlBoZGpqVmVyV0d5WG5YXzYxcDZvNS1yVnFQRFVOZWo3T1B6MUROZ0ltMUdKMWkxTFpHb3A2ekJwRGQ0NDJrUzhLOWRjTlFZZE9Pdk5ROERR?oc=5
-- **Segundo turno começa no exterior; brasileiros na Nova Zelândia são os primeiros a votar**
-  - Fonte: UOL Notícias
-  - Link: https://news.google.com/rss/articles/CBMi8wFBVV95cUxQZjlLa21QSklnSG1aZFNaLW9WcWpsX0FBSWtNNEJvcTZNX0M2RlRxS0Mxamdud2FRQnpVcnpsZUp3VmthMU9pUUUwdXhxbmlfRTcyWEx4aEdGcWQ2MDVwZmVHbDFNMFdoell5clBPNEk5eWt4MmJlNDFGQlM5aXFtQ2Vwblk5NGRjN0lQaDFSdERlVl9qYWI4dHRCMmd3S2VKSTl6aFdkc0xVR09TMm93ZVc2VjlZTF9CSlpMaTJFZXI5MmdSS29ITkhBMFJqWnB5M0FId09kVmNwbEg1TWlUaHdyd1VnUjVCMUtEaWcyc0l5eGM?oc=5
+- **3 motivos pelos quais duelo entre Lula e Flávio Bolsonaro é crucial para a América Latina — e para Trump**
+  - Fonte: BBC
+  - Link: https://news.google.com/rss/articles/CBMiY0FVX3lxTE5wTExkUkVJSDFwdjhSTkFialF4aUQwY2puRHdTQkQtR1NCV1JvSUdGR282a1NmNU9KSGUybDV6Sm42NzVYOC1EX2sxTnV3aFF0U1hLcXFqQlBjR19iNGhzMFFLZw?oc=5
+- **Urnas são abertas no exterior para o segundo turno das eleições**
+  - Fonte: CNN Brasil
+  - Link: https://news.google.com/rss/articles/CBMipAFBVV95cUxNRml5MG16Nm42TENTdDZSLXNuR2w4MGcyMHFPSFg1ZFlucjhneHpVelJQWUtOZm16RGZDSF85QXZCNzFqSDRqSTNGa1RUaGVYMUNXMGlCVjFTM3ZEaFRjOWRUeDgwaVBROU1GZTZnemYxRF9Dek53Wm90WXIxRUl0czk5SWNVMGFDb0R1ZFhQLUwtVmc0MUI1dk5iVlFtdXBqbWpfWA?oc=5
 
 ### asilo nos EUA
 
