@@ -1,0 +1,103 @@
+---
+interface FAQItem {
+  question: string;
+  answer: string;
+}
+
+interface Props {
+  items?: FAQItem[];
+}
+
+const { items = [] } = Astro.props;
+---
+
+{items.length > 0 && (
+  <section class="editorial-faq-accordion">
+    {items.map((item) => (
+      <details>
+        <summary>
+          <span>{item.question}</span>
+        </summary>
+        <div class="editorial-faq-answer">
+          <p>{item.answer}</p>
+        </div>
+      </details>
+    ))}
+  </section>
+)}
+
+<style>
+  .editorial-faq-accordion {
+    display: grid;
+    gap: 0.75rem;
+    width: 100%;
+    max-width: 100%;
+    min-width: 0;
+    margin: 1.75rem 0;
+  }
+
+  details {
+    min-width: 0;
+    border: 1px solid var(--line, rgba(30, 26, 20, 0.12));
+    border-radius: 1rem;
+    background: var(--surface, #fff);
+  }
+
+  summary {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) auto;
+    gap: 1rem;
+    align-items: center;
+    min-width: 0;
+    border-radius: 1rem;
+    padding: 1rem 1.1rem;
+    color: var(--ink, #171512);
+    cursor: pointer;
+    font-weight: 800;
+    line-height: 1.4;
+    list-style: none;
+    overflow-wrap: anywhere;
+  }
+
+  summary::-webkit-details-marker {
+    display: none;
+  }
+
+  summary::after {
+    content: "+";
+    display: inline-grid;
+    width: 1.55rem;
+    height: 1.55rem;
+    place-items: center;
+    border-radius: 50%;
+    color: #fff;
+    background: var(--navy-soft, #18283f);
+    font-size: 1rem;
+    line-height: 1;
+  }
+
+  details[open] summary::after {
+    content: "−";
+  }
+
+  summary:hover {
+    background: var(--surface-warm, #fff7e8);
+  }
+
+  summary:focus-visible {
+    outline: 0.2rem solid var(--gold, #c28a2c);
+    outline-offset: 0.2rem;
+  }
+
+  .editorial-faq-answer {
+    border-top: 1px solid var(--line, rgba(30, 26, 20, 0.12));
+    padding: 0.95rem 1.1rem 1.1rem;
+    color: var(--ink-soft, #4c463d);
+    line-height: 1.65;
+    overflow-wrap: anywhere;
+  }
+
+  .editorial-faq-answer p {
+    margin: 0;
+  }
+</style>
