@@ -96,7 +96,10 @@ const alternates = [
 
     function renderGroup(group) {
       const candidates = [...group.candidates].sort((a, b) => number(b.votes) - number(a.votes));
-      const counting = group.sections?.percentageDisplay || "";
+      const countingValue = Number(group.sections?.percentage);
+      const counting = Number.isFinite(countingValue)
+        ? `${countingValue.toFixed(2).replace(".", ",")}%`
+        : (group.sections?.percentageDisplay || "");
       const title = group.officeName || (group.officeCode === "0001" ? "Presidente" : "Resultado");
       const scope = group.scope && group.scope.toLowerCase() !== "br" ? group.scope.toUpperCase() : "Brasil";
 
@@ -117,7 +120,7 @@ const alternates = [
                   <span>${escapeHtml(candidate.party || "")}${candidate.number ? ` · ${escapeHtml(candidate.number)}` : ""}</span>
                 </div>
                 <div class="candidate-score">
-                  <strong>${escapeHtml(candidate.percentageDisplay || `${number(candidate.percentage).toFixed(2)}%`)}</strong>
+                  <strong>${number(candidate.percentage).toFixed(2).replace(".", ",")}%</strong>
                   <span>${number(candidate.votes).toLocaleString("pt-BR")} votos</span>
                 </div>
               </div>
