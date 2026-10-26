@@ -1,8 +1,8 @@
 # Relatório diário — Imigração e brasileiros nos EUA
 
-Gerado em: 2026-10-25 16:48 EDT
+Gerado em: 2026-10-26 00:42 EDT
 
-Arquivo original: `2026-10-25-16-48-tendencias-imigracao.md`
+Arquivo original: `2026-10-26-00-42-tendencias-imigracao.md`
 
 ## Objetivo
 
@@ -30,10 +30,10 @@ Este relatório serve como base para criação de artigos atualizados para o blo
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdzg2ZXN2TVRocVJxNnAtSFByOUg0ZlhweHpVdDR5R3ZtTmtFcDdIQmpCMGNiQW9lOTVxRXpBczlmOG5VcldKb1hnSl9MTENhMnotM21WUy1mZGtUXzBqc2dyeXgyc3plNXoyRkxaZ1p2dm5OVEFRZjRobXFTUEZaaXpCMTdiRG1INXZtcU1qY1F0ZkRqSWRCYXdkeG8tTEVObzhEUkFzZ1p1Um8?oc=5
 
-5. **Imigrantes nos EUA devem informar mudança de endereço ao governo em até 10 dias**
-   - Fonte: Gazeta Brazilian News
+5. **Do papel ao digital: USCIS exige e-filing obrigatório**
+   - Fonte: Migalhas
    - Termo monitorado: USCIS
-   - Link: https://news.google.com/rss/articles/CBMi0gFBVV95cUxPV2xTaXNQTWJnWnJXb2tBUFk2U3JFLU5DX0pGajdtN0c0NUdCaHh4QUduX1A0VUp5UVhYT3dlYVJMMEFjYkFOYXdXOVM3TzdRenVQeHF2QThzd09qSkpxMW1tSlNHOFVwWVpCVmxhdnY4UXpGcTZ1MDE4MVR5MnZZdC1uVHlXc2VsaVg5RUVXLXNXUUppUHRYY0VPUlNOSFVIMF9GM3hKeWpQQW9FWVBOdVpBN042d2pYOWZjNTM1OG1UeXJ0Y0lDTEpFQjhvWTFPM0E?oc=5
+   - Link: https://news.google.com/rss/articles/CBMimgFBVV95cUxPU3lXOWsxRDdlbEh4anpHUmp2amh5SHpCaUlWVmtIa3VqWFpYTWZ0Ujh1NlV0d1N4TUw1cmN6cG5UdWZ1c0ZZdG1hMGV6eWY3STQ5SldkTmpudHhCcHlaZXZoTFRIdkdXRm5Za1NPRkd3LWs5dl93N1poWmZ3cm1fTFA1NHN4SllBWGlRRk12WTNtM2djNGw3VWtB?oc=5
 
 
 ## Sugestões de artigos para publicar
@@ -57,12 +57,12 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### USCIS
 
-- **Imigrantes nos EUA devem informar mudança de endereço ao governo em até 10 dias**
-  - Fonte: Gazeta Brazilian News
-  - Link: https://news.google.com/rss/articles/CBMi0gFBVV95cUxPV2xTaXNQTWJnWnJXb2tBUFk2U3JFLU5DX0pGajdtN0c0NUdCaHh4QUduX1A0VUp5UVhYT3dlYVJMMEFjYkFOYXdXOVM3TzdRenVQeHF2QThzd09qSkpxMW1tSlNHOFVwWVpCVmxhdnY4UXpGcTZ1MDE4MVR5MnZZdC1uVHlXc2VsaVg5RUVXLXNXUUppUHRYY0VPUlNOSFVIMF9GM3hKeWpQQW9FWVBOdVpBN042d2pYOWZjNTM1OG1UeXJ0Y0lDTEpFQjhvWTFPM0E?oc=5
 - **Do papel ao digital: USCIS exige e-filing obrigatório**
   - Fonte: Migalhas
   - Link: https://news.google.com/rss/articles/CBMimgFBVV95cUxPU3lXOWsxRDdlbEh4anpHUmp2amh5SHpCaUlWVmtIa3VqWFpYTWZ0Ujh1NlV0d1N4TUw1cmN6cG5UdWZ1c0ZZdG1hMGV6eWY3STQ5SldkTmpudHhCcHlaZXZoTFRIdkdXRm5Za1NPRkd3LWs5dl93N1poWmZ3cm1fTFA1NHN4SllBWGlRRk12WTNtM2djNGw3VWtB?oc=5
+- **Imigrantes nos EUA devem informar mudança de endereço ao governo em até 10 dias**
+  - Fonte: Gazeta Brazilian News
+  - Link: https://news.google.com/rss/articles/CBMi0gFBVV95cUxPV2xTaXNQTWJnWnJXb2tBUFk2U3JFLU5DX0pGajdtN0c0NUdCaHh4QUduX1A0VUp5UVhYT3dlYVJMMEFjYkFOYXdXOVM3TzdRenVQeHF2QThzd09qSkpxMW1tSlNHOFVwWVpCVmxhdnY4UXpGcTZ1MDE4MVR5MnZZdC1uVHlXc2VsaVg5RUVXLXNXUUppUHRYY0VPUlNOSFVIMF9GM3hKeWpQQW9FWVBOdVpBN042d2pYOWZjNTM1OG1UeXJ0Y0lDTEpFQjhvWTFPM0E?oc=5
 
 ### green card
 
@@ -78,18 +78,18 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 - **Mais restrito: visto americano tem nova regra para cancelar ou reagendar**
   - Fonte: UOL Notícias
   - Link: https://news.google.com/rss/articles/CBMi1wFBVV95cUxNc1N5UjZfelZJeDhHM1JadmVVaU1EcmYwSUJuV2hmV2RxSWNpOFVpZGdlN1RlLTVsRWFWb2NXSmxVUENaclJLXzg0d0R3djNhaDhJSVlDekNjT1FYZkJSVVFuS1RUR3JmR1EtaGJ4MUIxV1M4bmxWY2xadjRhQkJHR1N0SXZQX2gwOExzZmdHT25QLUtGSkhkczNZOW15QkowSmprc2owMlNsSXN4U1Q3eldVUkh0QXFTVk5IUVVXMjRtdUppRDZ1bWhxVmh0Yi1mb1ZDVGpiRQ?oc=5
-- **EUA revogam mais de 300 mil vistos; especialista explica consequências**
-  - Fonte: Migalhas
-  - Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxOZmN6ZzBuX0dyWE9vM3c0RGJsQzZnQVZfb2pKdERVQ1QtQmxTcnFVRUVudjBzZmRHdHlkVEJMaHViT012Zy04M0RmWGREcVRHMVFCNWQwN0FpeTdhLXBNZFFzSnEzckJqaDRvbl9PZFNqWHZWbWZFUGJBM2VsdnRYT1hSNE45SEszOUkwVXFvNmNGTS1YNEtzdnhLWDJiUXZvTS1YbHNtMlJfRm9FTnN1d1p3?oc=5
+- **Visto EUA: especialista orienta sobre novas regras em alterações no agendamento**
+  - Fonte: Panrotas
+  - Link: https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWWxjOGNhVWFHT3ZXRWdwSjBUamR2RVhsZmRWbTZkRjY3NVRyQ3FJMHZXb0RLRW9vaHdrY2JtUzl0YlBTdHZWM09KMEM2bFFrdEhoaHBGSGtNR1RGQlZ2SjhEQVNQVDB3TVpzMllaLTlTT3o5N3FBb05oTkdJeUg1UXladXlZZTNIQnNuTHNMYWFfYmwtLU9fY250cFdPcURsejRhX2I4YVNGSmg2bTZFSmZhZFRPb2RtVWZvR1l0TkNLMlpyN19jclowbU9JZFQ2eC10NnlPVng0aVE?oc=5
 
 ### brasileiros nos Estados Unidos
 
-- **Interferência de Trump em eleições, inclusive no Brasil, prejudica os EUA, afirma editorial do New York Times**
-  - Fonte: Folha de S.Paulo
-  - Link: https://news.google.com/rss/articles/CBMi7AFBVV95cUxQRjRsNDhFNjdQZ0FLWnBaQy1QaDdpbWdTd2thMWRTYXRxMDFqVlh1YUR5UWxMNUhoczlMclZWYy1VTjNDOEJtZHFrTVBzR0tKS1pZNUNidG1oQ2lFR05lYl9ZaHJDR19Zc0I0dy1QeUVFNWpZV2E5V0UyNU9LbWVzVjBwNHNiU3FfQUtfZUFOQ0dDb0ZiVWw5aXZEYTI0dFVham5lUUI2UjRiQjAtVXFldUpfOGE3Q2tWUG5LSzY1Qmt2c3hnbmo5U0h3bEhSZ3hHemh3Q2lrSnhkMVREcVBvVkpaVjZRUzB4Wi1kLQ?oc=5
-- **Apuração para presidente no exterior: que horas sai o resultado dos EUA e Europa**
-  - Fonte: Exame
-  - Link: https://news.google.com/rss/articles/CBMipwFBVV95cUxOUkNNMzJ2T3lrRjUyMnpjS21sRFQySHN4T2Y3ZGI4OGp6Vkx3VVF5S3ZzcU1hOEd0OEpla1lhb283SndtZ0Q0S25xNnZpOUhYQWZSQWpnNjhyOGdxV0tueEZpdzRDZGJ0TWpGXzlkWS0wNi02dXB1ZHUzQWdwMVFkTEhTN1BmeDU5bVFKdC1fN05Dbktjdlp4QkVDZXdBQzZ6S0dFRmg2NA?oc=5
+- **Abstenção nos EUA cai de cerca de 72% para 67% no segundo turno**
+  - Fonte: CNN Brasil
+  - Link: https://news.google.com/rss/articles/CBMixgFBVV95cUxQeHltV1JULVNUUW9pQWZpdzk4alNFbVJ2d21rTm1kNGJqZzI4RmQtYnA2YjZvRXZ5UGp1dEFrSUVQc0FDOE1vMnFWaGVyaGFBOGstOS1TUkhrZExuZWFIQ2ZiS3ZWOEtmLXkwZ2haT2pEa2E3ZWJfMEdxN2doRkZ0cHJLQW1iQVRsYU9GRDJWMFBCR3ZBaDk0MmtmY3E3eTRtMG9ZUS1mX3d0b1JuZXhaYklKUDFRUUZUV2ZsQlNyVUlOU0V6X0E?oc=5
+- **Flávio vence nos Estados Unidos no segundo turno; veja os números**
+  - Fonte: Congresso em Foco
+  - Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxQV3ROcmcxdUFna3hKTkMxMFJ0RUtEWUdKYWYwRTVkS2psM1NSendBbXN1b1FTSkdsMkFKOE00TGtBQVFIR3pEYkRXeWRZX1YxX3doMVJyVjM4cm5RYkhrWkxjcFJHbkdiUUJ5M0dRZDRTRDZ0aXZQLWdzanN0aTRYZFkyM2F1dm51bXYwNy1YTkVacmUxQnVJSlNmSEFMZjdwYnpuRHZKbi1hN19XWmRpZlRkZ0Q?oc=5
 
 ### asilo nos EUA
 
