@@ -1,8 +1,8 @@
 # Relatório diário — Imigração e brasileiros nos EUA
 
-Gerado em: 2026-10-26 14:40 EDT
+Gerado em: 2026-10-26 18:38 EDT
 
-Arquivo original: `2026-10-26-14-40-tendencias-imigracao.md`
+Arquivo original: `2026-10-26-18-38-tendencias-imigracao.md`
 
 ## Objetivo
 
@@ -84,12 +84,12 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### brasileiros nos Estados Unidos
 
+- **Lula e Trump: o que está em jogo na relação entre Brasil e Estados Unidos após as eleições?**
+  - Fonte: Jovem Pan
+  - Link: https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMmM0RjZ1TTF2dWJRekhxQ1NEMWRlalNxSW1vSEFrdnZUd3FlOVJ5LXhqd0JpSVc2S0VWaHdqdzZOR0lRWEU4RlhNYy1OSE9kWGk2VHp2dkdpNzBEbWdURmVVYXpDSXhDYkpOWUFrU0Jyb2RWZHFRa2xiajdhQjAtRjlNdGJCMHprWjUzaVA3U1hqSWtNYnE5X2dFNnJKRUVYeDE4di1kcWFrd2ljbktFWTI3TC1Sd0hSMjQtTjN3a0Y?oc=5
 - **Congressistas democratas dos EUA parabenizam Lula e pedem reconhecimento de Trump**
   - Fonte: Folha de S.Paulo
   - Link: https://news.google.com/rss/articles/CBMiywFBVV95cUxOUzRWdVAzSkdHNEZHM0R3aVI5dmpVcUV1S0dxTlp3MC1FeHZmZEIwMEswaC1Iemx2RHJEWWdZZ1loMkJOcm5QZ1MtVVZQQmVLb3p3d1E0RVA3bmc0QUtHYTAxSzdJaWlJM2VfczJTeW9qQi1lZXZJWFNPdlJicjV6SVI0ODdGZzE0RnZfT1NpX2szRmFJUDdrX1BXMGQySDcxWTktYzVkWUhLbUFyVGkzdDl1bmZuZmRlaFg2VFQ2d25WdFhITGEyU21Kdw?oc=5
-- **Lula vira em Nova York, e Flávio vence em Orlando e 5 cidades: veja como foi o 2º turno nos EUA**
-  - Fonte: G1
-  - Link: https://news.google.com/rss/articles/CBMivgFBVV95cUxNenpCZUpvVVBYZ2o1V3VEWWowUmM4MWIzdXFDNFFXbmh2VTN1ZVg2NmFuYTBZOWN6akhWb2lCWEVvZVhDX1ZGNnR0SXI0dzFKMUxtc1JGTFB0b0xLaDhjUDFVWXpVakZ0SUtZWWdUX21EYUdmR1JKQzhhaUhORW5HemFCV1RDYWJHdXBEN3drZEhLVlgxdkN4NDBfVmM1QlRiUEEyTjlaYXBQVUpVYzQ5eTNqeHN1STZ6b1IzOWxB0gHMAUFVX3lxTE5aTmVLbm5ld1JYLXhFcDlYMDdiZk9QNTNZWUJvSGxHWWt3aE9WcE9hTTRHVzV0bkEzdUlTZzRvQzA1clJsZEY1M01OTkxjWGdEZXNMV0dHaFVPY2dVamk4QTNBTGRYTk0ySHZRQzhacktINmhNWGhjZ0szTFhzVm9fV1RNbFhUMTdSeEVZSmJla2xqYmhZbXJKUG9XOUtTVU10UjhKbWkwRm5rQTlHLXE1M3JGRGU0UzRXaUhoMGJ3Q0xJOGZRZTBXQVhkUQ?oc=5
 
 ### asilo nos EUA
 
