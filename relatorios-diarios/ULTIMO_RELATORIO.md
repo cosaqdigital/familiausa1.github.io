@@ -1,8 +1,8 @@
 # Relatório diário — Imigração e brasileiros nos EUA
 
-Gerado em: 2026-10-26 00:42 EDT
+Gerado em: 2026-10-26 14:40 EDT
 
-Arquivo original: `2026-10-26-00-42-tendencias-imigracao.md`
+Arquivo original: `2026-10-26-14-40-tendencias-imigracao.md`
 
 ## Objetivo
 
@@ -20,10 +20,10 @@ Este relatório serve como base para criação de artigos atualizados para o blo
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxPTXlxb2syQ1dzSWdpY2ptdFI5SDA2LWNhR2F3MktfdW1WMnBBNnBIdTBLbUpvN2pubkhLRmhhYXBwODdJLVBJT3YxaFV1RjI0X1czbnhBOUpFM2JWcnZTUEVTNVVHVGFOeW9ZVG5RVjd3ejNFZTlGbEd4bmlRSWxaRF9Ka0lYWk0tbl9BV1JrTy00WUR2ZEcyMVJIRjAwRDhfUzcxWUNfMGNqdjlIaHp3Q2pqY05qYW8?oc=5
 
-3. **Justiça dos EUA obriga reabertura da loteria do green card DV-2027**
-   - Fonte: Migalhas
+3. **6 em cada 10 imigrantes brasileiros detidos nos EUA pelo ICE são deportados**
+   - Fonte: Folha de S.Paulo
    - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMirAFBVV95cUxNd3NPYlZlcHVFUVlURXd3UHEtZVl3OWZkNVpxWlVoS1J4TGo4N3RqTENNOEc0aHdmY3U1Rlp1RGNKSElkaVZPVWk4S0diNFJ3R2psd3R6c1B3YkNZYkg1bUtTX1R4MTVwYi05eHNqMXJicDZ2YWNxU2Q1ZmM0TXNFQllZRE5ZQndHQk9Dd0pJLTRiTzBCV000SVl6aFNnX1N1WGZoUmhpN3hUOWlN?oc=5
+   - Link: https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSktGcEdYbmZ6SUUzOHRSdWNOazg0VUZTRGFlTUFGSDEtd1NEQkg2WGJHek1ib1pNUWE3R29GYXV6ODNZZnJpQ3J6R0F6QU9LWTlCTktUc016eS1IcV9BeG15andyOEpnTEh5WGtsakpGbTllZmN2MGpsOTJVcUFXQ2Q5S19ZWkYwMDFodldaT0RhMWpfczZZUlhfa0FDd0Rtbm16WG5BTWxwb3dpbjZpOEsxUVoxdHljYlJ2OG1pOTRMODQ?oc=5
 
 4. **Governo Trump diz que revogou mais de 300 mil vistos americanos**
    - Fonte: CNN Brasil
@@ -69,27 +69,27 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 - **Brasileiros desbaratam rede de fraudes de casamentos por green card nos EUA**
   - Fonte: Folha de S.Paulo
   - Link: https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTnBnQktWVjVwaXJ6VVRvMWRjaWpRYXN6WF9mTGYxUURxWWxyWmZ0QXlxR0doSGo1MGlLazRaWjJ2SXdWNnROZVFOZUFJYm5CX3RRVnZ3dktkRjh6TEtBWnpVdlhlMzBDSGpfSmlYQ1lCS0xsbWZHejhaTEJZeWlpSWZYR1RKcDRHcGh3RkZsUHQ4ejFZdjQtdXV6QWJOSzl3Y0l6ay1TcGdKU0ZqcXF0Ykh2QzRqdmpBbHRBVlFwb0ZEckE?oc=5
-- **Eduardo Bolsonaro teve 'green card' concedido pelo governo Trump; relembre**
-  - Fonte: G1
-  - Link: https://news.google.com/rss/articles/CBMiwAFBVV95cUxORmEtVDMwUHpDQTRoQ2NUM0txX2Y3dExXUEo1N2Vmd1pvWkR5VjNDUDVzWkNVV1RDYmYxOGlQSVR6a2k4dU1BSElDQWdfdmtUUUp4QkVJLUZ4NlZDbllwU2ZYTWw5a3NIT2l5MGZUVlVMekRBMHl6SWRhRTFubGFtc2l5UU8zZ3gyTTBZMzh4dXBBWHpmelIxVzlUM2dEaWd4N1pYVGZxZ0RZYlRQRGQwUm43RE5lanB3cmVHN05sUlPSAc8BQVVfeXFMTTdvSVRSbEY3bTk0Rm1NRUZpaTBMMk83Q2FsbWFYWUhfdlY4Si04ZXJnNmJBOUd6SjJDQWRpaWgza1ZhbFo4b2dyOUpIU2NMVjZ6U0dJcVEtMmhISmpVajhaQjlzbnB2WDJUMVBEU1hfZ2o4bXJqYVBTRWx5MWtBWGhfbWNMa1Z4WlZsYmlKTDJWWnRxaTlmZ25wQWUycUdZRGhXb3BkOGhxNHN1MjAyT0lsbG5NQWRuLUZ6ZS1uR0R5VklIczdKdHVOd0t0RkZR?oc=5
+- **Justiça dos EUA obriga reabertura da loteria do green card DV-2027**
+  - Fonte: Migalhas
+  - Link: https://news.google.com/rss/articles/CBMirAFBVV95cUxNd3NPYlZlcHVFUVlURXd3UHEtZVl3OWZkNVpxWlVoS1J4TGo4N3RqTENNOEc0aHdmY3U1Rlp1RGNKSElkaVZPVWk4S0diNFJ3R2psd3R6c1B3YkNZYkg1bUtTX1R4MTVwYi05eHNqMXJicDZ2YWNxU2Q1ZmM0TXNFQllZRE5ZQndHQk9Dd0pJLTRiTzBCV000SVl6aFNnX1N1WGZoUmhpN3hUOWlN?oc=5
 
 ### visto americano
 
-- **Mais restrito: visto americano tem nova regra para cancelar ou reagendar**
-  - Fonte: UOL Notícias
-  - Link: https://news.google.com/rss/articles/CBMi1wFBVV95cUxNc1N5UjZfelZJeDhHM1JadmVVaU1EcmYwSUJuV2hmV2RxSWNpOFVpZGdlN1RlLTVsRWFWb2NXSmxVUENaclJLXzg0d0R3djNhaDhJSVlDekNjT1FYZkJSVVFuS1RUR3JmR1EtaGJ4MUIxV1M4bmxWY2xadjRhQkJHR1N0SXZQX2gwOExzZmdHT25QLUtGSkhkczNZOW15QkowSmprc2owMlNsSXN4U1Q3eldVUkh0QXFTVk5IUVVXMjRtdUppRDZ1bWhxVmh0Yi1mb1ZDVGpiRQ?oc=5
-- **Visto EUA: especialista orienta sobre novas regras em alterações no agendamento**
-  - Fonte: Panrotas
-  - Link: https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWWxjOGNhVWFHT3ZXRWdwSjBUamR2RVhsZmRWbTZkRjY3NVRyQ3FJMHZXb0RLRW9vaHdrY2JtUzl0YlBTdHZWM09KMEM2bFFrdEhoaHBGSGtNR1RGQlZ2SjhEQVNQVDB3TVpzMllaLTlTT3o5N3FBb05oTkdJeUg1UXladXlZZTNIQnNuTHNMYWFfYmwtLU9fY250cFdPcURsejRhX2I4YVNGSmg2bTZFSmZhZFRPb2RtVWZvR1l0TkNLMlpyN19jclowbU9JZFQ2eC10NnlPVng0aVE?oc=5
+- **EUA revogam mais de 300 mil vistos; especialista explica consequências**
+  - Fonte: Migalhas
+  - Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxOZmN6ZzBuX0dyWE9vM3c0RGJsQzZnQVZfb2pKdERVQ1QtQmxTcnFVRUVudjBzZmRHdHlkVEJMaHViT012Zy04M0RmWGREcVRHMVFCNWQwN0FpeTdhLXBNZFFzSnEzckJqaDRvbl9PZFNqWHZWbWZFUGJBM2VsdnRYT1hSNE45SEszOUkwVXFvNmNGTS1YNEtzdnhLWDJiUXZvTS1YbHNtMlJfRm9FTnN1d1p3?oc=5
+- **Visto americano: nova regra limita a três as alterações na entrevista**
+  - Fonte: Viagem e Turismo
+  - Link: https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMTQtS3laX0diMXV0RTdzX0xkblJmNjBBZFZhbHNMbFpMQmt2S0ozSlpPZkx6VGh3YUFrTUYyLW1HYXRRc1pnQ0J5WTVZS29sdHQtbWFVem9HbmtZTEdJN3p4Z255RDZwdDBzajE4cHEtOFd4R1pLRjUxU0xEa0loRVlfcXM5djBvd3liS0tUMWRQT2lMQWpfUVE1N1E0aXVfYUpGaU1ydVBUQXp0VGlHdjJPMXhXS0Q3YjZVakNXRWFXZw?oc=5
 
 ### brasileiros nos Estados Unidos
 
-- **Abstenção nos EUA cai de cerca de 72% para 67% no segundo turno**
-  - Fonte: CNN Brasil
-  - Link: https://news.google.com/rss/articles/CBMixgFBVV95cUxQeHltV1JULVNUUW9pQWZpdzk4alNFbVJ2d21rTm1kNGJqZzI4RmQtYnA2YjZvRXZ5UGp1dEFrSUVQc0FDOE1vMnFWaGVyaGFBOGstOS1TUkhrZExuZWFIQ2ZiS3ZWOEtmLXkwZ2haT2pEa2E3ZWJfMEdxN2doRkZ0cHJLQW1iQVRsYU9GRDJWMFBCR3ZBaDk0MmtmY3E3eTRtMG9ZUS1mX3d0b1JuZXhaYklKUDFRUUZUV2ZsQlNyVUlOU0V6X0E?oc=5
-- **Flávio vence nos Estados Unidos no segundo turno; veja os números**
-  - Fonte: Congresso em Foco
-  - Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxQV3ROcmcxdUFna3hKTkMxMFJ0RUtEWUdKYWYwRTVkS2psM1NSendBbXN1b1FTSkdsMkFKOE00TGtBQVFIR3pEYkRXeWRZX1YxX3doMVJyVjM4cm5RYkhrWkxjcFJHbkdiUUJ5M0dRZDRTRDZ0aXZQLWdzanN0aTRYZFkyM2F1dm51bXYwNy1YTkVacmUxQnVJSlNmSEFMZjdwYnpuRHZKbi1hN19XWmRpZlRkZ0Q?oc=5
+- **Congressistas democratas dos EUA parabenizam Lula e pedem reconhecimento de Trump**
+  - Fonte: Folha de S.Paulo
+  - Link: https://news.google.com/rss/articles/CBMiywFBVV95cUxOUzRWdVAzSkdHNEZHM0R3aVI5dmpVcUV1S0dxTlp3MC1FeHZmZEIwMEswaC1Iemx2RHJEWWdZZ1loMkJOcm5QZ1MtVVZQQmVLb3p3d1E0RVA3bmc0QUtHYTAxSzdJaWlJM2VfczJTeW9qQi1lZXZJWFNPdlJicjV6SVI0ODdGZzE0RnZfT1NpX2szRmFJUDdrX1BXMGQySDcxWTktYzVkWUhLbUFyVGkzdDl1bmZuZmRlaFg2VFQ2d25WdFhITGEyU21Kdw?oc=5
+- **Lula vira em Nova York, e Flávio vence em Orlando e 5 cidades: veja como foi o 2º turno nos EUA**
+  - Fonte: G1
+  - Link: https://news.google.com/rss/articles/CBMivgFBVV95cUxNenpCZUpvVVBYZ2o1V3VEWWowUmM4MWIzdXFDNFFXbmh2VTN1ZVg2NmFuYTBZOWN6akhWb2lCWEVvZVhDX1ZGNnR0SXI0dzFKMUxtc1JGTFB0b0xLaDhjUDFVWXpVakZ0SUtZWWdUX21EYUdmR1JKQzhhaUhORW5HemFCV1RDYWJHdXBEN3drZEhLVlgxdkN4NDBfVmM1QlRiUEEyTjlaYXBQVUpVYzQ5eTNqeHN1STZ6b1IzOWxB0gHMAUFVX3lxTE5aTmVLbm5ld1JYLXhFcDlYMDdiZk9QNTNZWUJvSGxHWWt3aE9WcE9hTTRHVzV0bkEzdUlTZzRvQzA1clJsZEY1M01OTkxjWGdEZXNMV0dHaFVPY2dVamk4QTNBTGRYTk0ySHZRQzhacktINmhNWGhjZ0szTFhzVm9fV1RNbFhUMTdSeEVZSmJla2xqYmhZbXJKUG9XOUtTVU10UjhKbWkwRm5rQTlHLXE1M3JGRGU0UzRXaUhoMGJ3Q0xJOGZRZTBXQVhkUQ?oc=5
 
 ### asilo nos EUA
 
