@@ -1,8 +1,8 @@
 # Relatório diário — Imigração e brasileiros nos EUA
 
-Gerado em: 2026-10-27 13:59 EDT
+Gerado em: 2026-10-27 18:11 EDT
 
-Arquivo original: `2026-10-27-13-59-tendencias-imigracao.md`
+Arquivo original: `2026-10-27-18-11-tendencias-imigracao.md`
 
 ## Objetivo
 
@@ -15,20 +15,20 @@ Este relatório serve como base para criação de artigos atualizados para o blo
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMizwFBVV95cUxQdDViWXZGRXlKRlc2ZGNmRlUwN1FaN0V3bWI4NXl6ZHZTSUZYWHN2UUNndkpuWXdKdllURnRfaHpqWE95SVRqd2pNdE5hY1hEY0w5UnVqRTg4ZVhZTGVKbWhFTEE5bGJKZnNsQ1N4ckVJNVpnQ2ZPbmdadUhFZG10Z3hyV09XbmROUkg2Q0JLeGZBRzN2ZzE1TVcwQkF4azE4eEwtZXUtc1JrdV9UYkY3UksybkY4ZHkwRnZ4Z1BJTl9Pc2RoVDhuMkRMcUJYakXSAd4BQVVfeXFMT29xWlpZcDNnazRIZDNSTVhad1JOdWVSYTFRMzlYUmhYTlRkUGJoWElGdV96WVBtVlcxcFJuTnhtU0FZM2xxNFp4YTRvdkRfX3UtdTBxQ3VkeW9mTkZjRjhrMUUxVjl5c0lmcFptQTdka3lQQlRiNGlWcXRhQkJWSkIyOC1qVHd2b0x1SmpXZzhaekxIcm51TmhIdEJoR1hDTmg3WkozQXFLSV83REZHTFpCWUM4QUYyWG1vYTh4REViWUlnMXlEVUhkTWlOTUNFZWtvQWdXckZjeUxFZ1VB?oc=5
 
-2. **ICE é criticado por chamar de 'falso e gay' relato sobre migrante deportado**
-   - Fonte: UOL Notícias
-   - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMi1gFBVV95cUxOeHRTb2dKbkNhRVhzVldkcU05cTNzNDNPYlo5WEQyLTZhaVFXaEtnNmctbWhRTUQxLTczWm5oa2Z6VXpSN1ZKakVEUDAzLUt2c191VFJCVzBjRUttWEROQ19nRUstSkw0cjZGTE9uUU5DMVZQeGQ5cHZkb3JNWjBoeDVYcUszejU4Q2czTEQ3OGF1N0ExdWhPTW9YRS0yR1JhQ1d6UnZGOVY1dkVSc0NJbUxRMUpMTUFDczNYY2haRGg5eEEwQjViMHJSWHB5aFptV1B5UEFB?oc=5
-
-3. **Departamento de imigração dos EUA diz que Ramagem é imigrante ilegal e violou leis**
+2. **Departamento de imigração dos EUA diz que Ramagem é imigrante ilegal e violou leis**
    - Fonte: Agência Pública
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxQblMtbUw3NXJ3YktyMVpjdTBGRF93SXV1QjVIRk5wYkV6QXVJTzNiOVhFWTZTNWRqb0pJR1BoYUV6eG9TcVZKaGpDR0dyM01kLUZxUFFxVk5zOXlzWU1SalZXRDd6dkwxUENSTGoxNlZzWUhrZm8zU1NpVnNaVzFZeU8xRnJpRl9DaHFaTm1aaW8tZUwyZ1lxcXNsY2V3LWo4dmxjTjQ1SkN5eFlSVDBkd0dB0gG3AUFVX3lxTE0yZXl1a3BwaFRkUURUYnh2TG9vQUQ1b2h0eWQ3cG05WnVaMGtOUExSallyRHd5elIwUnVDLUUyd0t5aGZWWHBQVENBR2VsMjZuZjM4UUotc1VaUjRYWV9kaWktZFlFRTZ4dk1PNU5zZi1RNnhYVnM0U1BTbWVnMkFXWFFiQk91MVdNU21ULVVuOEY1RTJBMUlsOVNrMEhFZmdhMlgzdDh5akVQLVJKdTZSMWVOMFJYNA?oc=5
 
-4. **Departamento de imigração dos EUA confirma que Ramagem responde a processo de deportação, mas ex-deputado nega**
+3. **Departamento de imigração dos EUA confirma que Ramagem responde a processo de deportação, mas ex-deputado nega**
    - Fonte: AcheiUSA
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNXpZbWpXSldzUDJWSHR6SEZLbm5EMi10ajhnUDdHbUNRQnRDRnMzQjR3aTVtanhHQ3UwRkZWSGk2cGhLVHNUSUExQkZzaDQwbTdjeHdIbG1nN0k2UERTODFLazA5aWg4Qm0yU0RWc0NlTEFMQXNUVUd5aWhiUWtHeGloM3lmaTNFUGxzaFJjTDh0VWotSHUyZlFGcmhCTTBUcVlIZ21sdGd2bnktRGw1WWU0NE15U2h0R0NYUzRQeE5XcGhvY0xVdG9VaWp6c1dLTndXY0lCVm1ldw?oc=5
+
+4. **ICE é criticado por chamar de 'falso e gay' relato sobre migrante deportado**
+   - Fonte: UOL Notícias
+   - Termo monitorado: imigração EUA
+   - Link: https://news.google.com/rss/articles/CBMi1gFBVV95cUxOeHRTb2dKbkNhRVhzVldkcU05cTNzNDNPYlo5WEQyLTZhaVFXaEtnNmctbWhRTUQxLTczWm5oa2Z6VXpSN1ZKakVEUDAzLUt2c191VFJCVzBjRUttWEROQ19nRUstSkw0cjZGTE9uUU5DMVZQeGQ5cHZkb3JNWjBoeDVYcUszejU4Q2czTEQ3OGF1N0ExdWhPTW9YRS0yR1JhQ1d6UnZGOVY1dkVSc0NJbUxRMUpMTUFDczNYY2haRGg5eEEwQjViMHJSWHB5aFptV1B5UEFB?oc=5
 
 5. **Do papel ao digital: USCIS exige e-filing obrigatório**
    - Fonte: Migalhas
@@ -51,9 +51,9 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 - **Imigração argentina nega apresentação de plano de voo aos EUA que incluísse Flávio Bolsonaro e família**
   - Fonte: O GLOBO
   - Link: https://news.google.com/rss/articles/CBMizwFBVV95cUxQdDViWXZGRXlKRlc2ZGNmRlUwN1FaN0V3bWI4NXl6ZHZTSUZYWHN2UUNndkpuWXdKdllURnRfaHpqWE95SVRqd2pNdE5hY1hEY0w5UnVqRTg4ZVhZTGVKbWhFTEE5bGJKZnNsQ1N4ckVJNVpnQ2ZPbmdadUhFZG10Z3hyV09XbmROUkg2Q0JLeGZBRzN2ZzE1TVcwQkF4azE4eEwtZXUtc1JrdV9UYkY3UksybkY4ZHkwRnZ4Z1BJTl9Pc2RoVDhuMkRMcUJYakXSAd4BQVVfeXFMT29xWlpZcDNnazRIZDNSTVhad1JOdWVSYTFRMzlYUmhYTlRkUGJoWElGdV96WVBtVlcxcFJuTnhtU0FZM2xxNFp4YTRvdkRfX3UtdTBxQ3VkeW9mTkZjRjhrMUUxVjl5c0lmcFptQTdka3lQQlRiNGlWcXRhQkJWSkIyOC1qVHd2b0x1SmpXZzhaekxIcm51TmhIdEJoR1hDTmg3WkozQXFLSV83REZHTFpCWUM4QUYyWG1vYTh4REViWUlnMXlEVUhkTWlOTUNFZWtvQWdXckZjeUxFZ1VB?oc=5
-- **ICE é criticado por chamar de 'falso e gay' relato sobre migrante deportado**
-  - Fonte: UOL Notícias
-  - Link: https://news.google.com/rss/articles/CBMi1gFBVV95cUxOeHRTb2dKbkNhRVhzVldkcU05cTNzNDNPYlo5WEQyLTZhaVFXaEtnNmctbWhRTUQxLTczWm5oa2Z6VXpSN1ZKakVEUDAzLUt2c191VFJCVzBjRUttWEROQ19nRUstSkw0cjZGTE9uUU5DMVZQeGQ5cHZkb3JNWjBoeDVYcUszejU4Q2czTEQ3OGF1N0ExdWhPTW9YRS0yR1JhQ1d6UnZGOVY1dkVSc0NJbUxRMUpMTUFDczNYY2haRGg5eEEwQjViMHJSWHB5aFptV1B5UEFB?oc=5
+- **Departamento de imigração dos EUA diz que Ramagem é imigrante ilegal e violou leis**
+  - Fonte: Agência Pública
+  - Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxQblMtbUw3NXJ3YktyMVpjdTBGRF93SXV1QjVIRk5wYkV6QXVJTzNiOVhFWTZTNWRqb0pJR1BoYUV6eG9TcVZKaGpDR0dyM01kLUZxUFFxVk5zOXlzWU1SalZXRDd6dkwxUENSTGoxNlZzWUhrZm8zU1NpVnNaVzFZeU8xRnJpRl9DaHFaTm1aaW8tZUwyZ1lxcXNsY2V3LWo4dmxjTjQ1SkN5eFlSVDBkd0dB0gG3AUFVX3lxTE0yZXl1a3BwaFRkUURUYnh2TG9vQUQ1b2h0eWQ3cG05WnVaMGtOUExSallyRHd5elIwUnVDLUUyd0t5aGZWWHBQVENBR2VsMjZuZjM4UUotc1VaUjRYWV9kaWktZFlFRTZ4dk1PNU5zZi1RNnhYVnM0U1BTbWVnMkFXWFFiQk91MVdNU21ULVVuOEY1RTJBMUlsOVNrMEhFZmdhMlgzdDh5akVQLVJKdTZSMWVOMFJYNA?oc=5
 
 ### USCIS
 
@@ -66,48 +66,48 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### green card
 
+- **Com vitória de Lula, busca por green card explode e demanda aumenta 2.154%**
+  - Fonte: Metrópoles
+  - Link: https://news.google.com/rss/articles/CBMixgFBVV95cUxNckxrWHZGUW9meXBRQzE2cFphTjVDLUlzUC0xQkk0M3JfUzl3QV9QNHdqaTVtanBTRHpkdGMzeHdJUDNrajYzT0pIeVpEWmVnWU01eW9BcFVCNnQ2OGM0dVJaZWpDQmVyMmd1eVJIWkgtdHN3RmhKam5jWEMyLWFoVHNtTWcxZzBHREs4U3l4dTFHdF92Q0V6cl9jTktidy02TnBEdGFBUzZJLWpoQmlMX2VXRVBPZHRJRG9fTE5xcGtBRWZDVlE?oc=5
 - **Brasileiros desbaratam rede de fraudes de casamentos por green card nos EUA**
   - Fonte: Folha de S.Paulo
   - Link: https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTnBnQktWVjVwaXJ6VVRvMWRjaWpRYXN6WF9mTGYxUURxWWxyWmZ0QXlxR0doSGo1MGlLazRaWjJ2SXdWNnROZVFOZUFJYm5CX3RRVnZ3dktkRjh6TEtBWnpVdlhlMzBDSGpfSmlYQ1lCS0xsbWZHejhaTEJZeWlpSWZYR1RKcDRHcGh3RkZsUHQ4ejFZdjQtdXV6QWJOSzl3Y0l6ay1TcGdKU0ZqcXF0Ykh2QzRqdmpBbHRBVlFwb0ZEckE?oc=5
-- **Justiça dos EUA obriga reabertura da loteria do green card DV-2027**
-  - Fonte: Migalhas
-  - Link: https://news.google.com/rss/articles/CBMirAFBVV95cUxNd3NPYlZlcHVFUVlURXd3UHEtZVl3OWZkNVpxWlVoS1J4TGo4N3RqTENNOEc0aHdmY3U1Rlp1RGNKSElkaVZPVWk4S0diNFJ3R2psd3R6c1B3YkNZYkg1bUtTX1R4MTVwYi05eHNqMXJicDZ2YWNxU2Q1ZmM0TXNFQllZRE5ZQndHQk9Dd0pJLTRiTzBCV000SVl6aFNnX1N1WGZoUmhpN3hUOWlN?oc=5
 
 ### visto americano
 
-- **Visto americano: nova regra pode encarecer alterações na data da entrevista**
-  - Fonte: Gazeta do Povo
-  - Link: https://news.google.com/rss/articles/CBMikgFBVV95cUxQWXF3NG5YV1A0ZERpSGRZSGR3V0w1WHBJYkJnSGZ6Z3NsUTA3NHZ2WUMzbmJDV1hEMjdwSmdiMFNBNHN2MEpMNlFvT0Z3WHVCeDM4WENtMVh3S1JqUHpsS3RWZ05fTUw5TEk0Q2REUW5EejNFbWJOUmpOQnVXcGhhMFMzSzREYTZoNUdmSkxyd1hKdw?oc=5
-- **EUA revogam mais de 300 mil vistos; especialista explica consequências**
-  - Fonte: Migalhas
-  - Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxOZmN6ZzBuX0dyWE9vM3c0RGJsQzZnQVZfb2pKdERVQ1QtQmxTcnFVRUVudjBzZmRHdHlkVEJMaHViT012Zy04M0RmWGREcVRHMVFCNWQwN0FpeTdhLXBNZFFzSnEzckJqaDRvbl9PZFNqWHZWbWZFUGJBM2VsdnRYT1hSNE45SEszOUkwVXFvNmNGTS1YNEtzdnhLWDJiUXZvTS1YbHNtMlJfRm9FTnN1d1p3?oc=5
+- **Governo Trump dará visto para Flávio Bolsonaro e permitirá entrada dele nos EUA**
+  - Fonte: G1
+  - Link: https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQVFMb3M5YUdqdkdPaVdMZWZNQVQ2cWtDSTFnTE13NF9jYzBTdTM4ZlJ5V09BLVF6UU4tTzktdjh4NkxfV2JObVNib3hjdlRTR2FPbGhkbzBDNkZCLVpSTkNOR0hWOGEwbkZUN3RCR1AxTVBMcnd4S0NtQTJuZlBZNldSMG0xMmpRNTJDNVA1cERGV09HR3BBOG1vdWY5dkt1VHRhcWx6OE5RbmdfbjJVV0dMM3ZaZ2RS0gHHAUFVX3lxTFBmZzhVZUlmR3lXTGlvS3RoT0F5SGFybFpweVpKdVVVZ0N3WnVxZ1JzUEkycE1zR291VmdVNG9maHVfYW9zMUhiclhCSWdSMWJOM296b3VLWGdTM0FSWlRUaVBET1cydmhjanFqYlQ5WHBvR1R0RFlLZDFaZHIyQjdhdWh2ZXRvVE5lcmVxWjRtTVNkNXkxQWdYNHkxQmVRMVBWakdtMkNTNHoxcm9WZnZxelFxaURHOUwtMWJoZDlldkZ3eGdKcjA?oc=5
+- **EUA dizem que concederão vistos a Flávio Bolsonaro e sua família**
+  - Fonte: Estadão
+  - Link: https://news.google.com/rss/articles/CBMidkFVX3lxTE5Ub19jWjhZLTQ3RlBGUGg3Y0phTGhsamtnWGRGc2lVMXEwR0hyYUtUSXBsOWVleVZCZERQRm9QLVl5d1l6S0ZUSEdsUTlQd2NBb0VZSWlZcGRKWklfSW5oelJPNWUxYjlzb2N4dFVTUGxmRDExTnfSAXtBVV95cUxOeWZDUjZMTndvY0s2Qk94QkUtU05RNkJER2RzbzQzZDg1eXc4dEdnclNwaEFJSW44SHRQRWxQc0I1VktzOHZzdnkySkZnbEUwX2MtQUl5NndxVnVGZUFfZ0F5VE5FTG1sQjhGWjlyNi1UdENwZVA3ek5oclE?oc=5
 
 ### brasileiros nos Estados Unidos
 
-- **New York Times aponta que interferência de Trump no Brasil atrapalha os EUA: 'Passado intrometido e contraproducente'**
-  - Fonte: O GLOBO
-  - Link: https://news.google.com/rss/articles/CBMilgJBVV95cUxNYmdIemJ6RUtjbE1hWjZKWnM3bW5GdkdfdzZPZmdoWEhXNkxZRkt1UWpxRkVIcV9aNTZTT1ZWeERrbV9jbEtNc0h1UWpoczNIWkhXNWQ2R1E2UHB6LUNTUW8wbVRuX29NUUpjc05CcTJsWjFKZHpPdXliV2FoeENUM0dOOEFJdnk2UzBWbWFUdHI4OURMRnp6dXlMeTBLWXBDeWhhRjRHamYtRXBBTjZJNm9XaDFjQ3E5S0tIR3U3NUs3cTI5OWtyUFctaVRNcTB6QVFKZXA4UDNPQVZGeF9OZWplZFNyUUQwb0x1TlctQVNsVlFFdHRadlRXSGJvYXpzaUcwSEpLZjAwN2t6UGZLdElPMktOd9IBpAJBVV95cUxQVXl1TFZscUlXbjVNbkNaMllpMjdUQ2ZCVzZVTHNoRUxRTkhyNWxTNlZOckctbWp0TzVCQ1B6MmdGaDJmQ3VfYU8tNnRxVVl1TTVqV2dEMFVfNXdwNzVsT2FnNzN5RkF3c3lVV3laeXhUMTZqbVFNb0VyV3NPN0VlN2dFLXpnMEcwQWFZNUxBRDI1YnNOVXhrNzZ2d3ZHWE5iUDd0NnBsTXdqeXR2Ump0NDVFYnRXcUh6SVVoMTZWZTZTd3I3TktJdlRLX1ZXT015Qm42WGpEWERJazNBSXg4SzIzbFNUb19reG9YckdwM3hmRE8zMmFpQmRHQllCRDdzSGk0SkJSMGtxUW1uWW9iWThwZlA2R1hrelRGSmhEZ01aM2dD?oc=5
-- **O que reação de Trump à vitória de Lula diz sobre relação entre Brasil e EUA**
-  - Fonte: BBC
-  - Link: https://news.google.com/rss/articles/CBMiY0FVX3lxTFBTWmpzcV9FeGJsMTRTQUJYQ3ViWF9WOVdtX0xWVjJrb0RvNklMWnBMaU96cGl1c0NKSjdjT2FaMUR0WHBKUDhpT3c3Z1BiNURQT2QyaFB1UTM1MEZPQ0k4TDVDaw?oc=5
+- **Número de brasileiros querendo emigrar para os Estados Unidos dispara após reeleição de Lula**
+  - Fonte: Folha de S.Paulo
+  - Link: https://news.google.com/rss/articles/CBMi2gFBVV95cUxNYnRZdWFJT2xYRVJaOXdWYUUzR3hIOS1fejIxUDYza2VqYWNWMExQNW4wckc2ODhoUmZLMmk1cV9LMGdLTC1NVjBGWGZETlpyVzFYZXJHcHcyb3o4czhKX0RVRFdkLW54LTVGdzBxeC1vSkh6YklKbGZ5a0NyQXJKWU55V2hnakx4dHg4VTRncE9BbFAwLVNhNzh2dkQ4SVlRd1U1UWhrZjBzTXFZalZjMFFlSS1HR2dtZFVnQTlCM0NHODVzX3dTWnVNWk03Y2tXbGhJblVvLTFpdw?oc=5
+- **Mudança no governo nos EUA pode alterar status de brasileiros com asilo**
+  - Fonte: Band
+  - Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxPbDdJX1RIZGJ2WWNKOThLa3JGZU9rU3RkcXg3QkRhOUJZeE43ZXJNOTBXcG85cUE1M3VJZmpweV9ncEdieURmQlBvdG5HMzNNTUpKXzJJcG5PeGtRM2FreG9YNjRqTVVzVkY5dFRLYTJrcnl5ZUZBeTRyS2NVUlhHZWs3TFZWYjY2bzdaXzlnWUtVMEJ0bHVfYkJfNnAtaF9ZU08wMlNaTkJKdk9FeGR4RTJvcVNkZw?oc=5
 
 ### asilo nos EUA
 
-- **Flávio planeja asilo político nos EUA e se encontrará com Eduardo nesta quarta-feira**
-  - Fonte: Jovem Pan
-  - Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxQLXMwSzQ5LVRKYXJIMFE4UnF3X1J3a0s4V0RwM3laS0U2QWhJYy11eU5NbVpwSWo4THBpVWtLaE9IMFc2T1h1ZlV6YV9ycWxLYklraDR6VWJySXFoOG5QbmhnU3FyVEdZTENoTG4tTS1RTHJVcUJUUUJLOFI3RUxsSlp4WF9BNG14QkY4Z29xV1V3aFc5TE1fNXY0aTN0TTN1ZGJrTTd2OWctQTFzU1g0RHh4MzVRbmFZRFE?oc=5
 - **Flávio fugiu com a família para os EUA e pedirá asilo político a Trump**
   - Fonte: Metrópoles
   - Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxQTFNxM3pEMmw4RzVRQTExWmRranhNRHg5YjBNSFpIa2pGNzJ0X1k4N2hITWFXZ0xaUGNHV05yeXVZNFFveWJVcGtaTnNxM2hOamIxSExmdVZnZDR6cGtRNF9vN3RYWVV4NHRJRVNMZTJ6SDI4cFc0MmNMaVVmZTVOd2t3NTVsRDgwWkhYRWt2WkxsSURMTFBKOHVUNFdDNjhHNUZvbjYzYlpxSUhHYzNIM3dVZHd2VXBKY1E?oc=5
+- **Flávio planeja asilo político nos EUA e se encontrará com Eduardo nesta quarta-feira**
+  - Fonte: Jovem Pan
+  - Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxQLXMwSzQ5LVRKYXJIMFE4UnF3X1J3a0s4V0RwM3laS0U2QWhJYy11eU5NbVpwSWo4THBpVWtLaE9IMFc2T1h1ZlV6YV9ycWxLYklraDR6VWJySXFoOG5QbmhnU3FyVEdZTENoTG4tTS1RTHJVcUJUUUJLOFI3RUxsSlp4WF9BNG14QkY4Z29xV1V3aFc5TE1fNXY0aTN0TTN1ZGJrTTd2OWctQTFzU1g0RHh4MzVRbmFZRFE?oc=5
 
 ### ICE immigration
 
+- **Prisões do ICE aumentam na Califórnia antes de eleição**
+  - Fonte: UOL Notícias
+  - Link: https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVUN1eUl2RVpDM2U2dTRMUy1SRE9sRUpBRk1vTnc1em1FWG5tRUROX1Jta1pxQVVnQ1lIUDBZYmFQeTBRazVsdkoyaWxPTDQzNk9Lel9nWEd3aVV1MFFLdWMwa2l3LVp4ZG5NbVlkY1B3TGxrejhvTFFXeVBHWHV3dzZTOGIzSEZ2Y2d2OFV2SDhMWFRMMDg1d0haZUJKNXpHdmxRal9uN2RBd25MdzFKNG9iZmdZV01lMHFoT1NQb3A5eENpUWJ5bg?oc=5
 - **Polícia Civil de Santa Catarina, em cooperação com o ICE, prende foragido da Justiça brasileira em Orlando, nos EUA**
   - Fonte: Polícia Civil de Santa Catarina (PCSC)
   - Link: https://news.google.com/rss/articles/CBMiQ0FVX3lxTE93VDJmeTk1LUFsYTJqOEZTM1FZcmJmSXB5UEdnNzB3SklGcUtzMGFXYjRmZzVCZjhLS3k1Z1NMZXktVjg?oc=5
-- **Homem é baleado em Nova York dentro de carro por agentes do ICE**
-  - Fonte: Agência Brasil
-  - Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxOcmtmc3VDU1poSF9CajNHYm9fbnFSSlNCZHNOZlhZV2VVc2NFVFZJYjZZajNDd3ZSRlZXNjJkTWZ3cy1HVFdibV9ZUnM3OUk5MjlJUDM1QVVxNWlGVDhjQlpRa0NzbV9fRDR6QTFMVGUzRWlsSDNUSjhHTWtjTUdabjVOV2pUaVZPTmVLTjFJZl8yZk9JNkhhYVhqQ1Rld2tzR2hobTJOcmNETVJjREFuYXNzSU9FU3JPYW5XZzcxUDZ1RUp3?oc=5
 
 
 ## Termos monitorados
