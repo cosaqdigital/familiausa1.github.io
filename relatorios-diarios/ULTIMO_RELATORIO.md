@@ -1,8 +1,8 @@
 # Relatório diário — Imigração e brasileiros nos EUA
 
-Gerado em: 2026-10-26 18:38 EDT
+Gerado em: 2026-10-27 00:59 EDT
 
-Arquivo original: `2026-10-26-18-38-tendencias-imigracao.md`
+Arquivo original: `2026-10-27-00-59-tendencias-imigracao.md`
 
 ## Objetivo
 
@@ -15,20 +15,20 @@ Este relatório serve como base para criação de artigos atualizados para o blo
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxQblMtbUw3NXJ3YktyMVpjdTBGRF93SXV1QjVIRk5wYkV6QXVJTzNiOVhFWTZTNWRqb0pJR1BoYUV6eG9TcVZKaGpDR0dyM01kLUZxUFFxVk5zOXlzWU1SalZXRDd6dkwxUENSTGoxNlZzWUhrZm8zU1NpVnNaVzFZeU8xRnJpRl9DaHFaTm1aaW8tZUwyZ1lxcXNsY2V3LWo4dmxjTjQ1SkN5eFlSVDBkd0dB0gG3AUFVX3lxTE0yZXl1a3BwaFRkUURUYnh2TG9vQUQ1b2h0eWQ3cG05WnVaMGtOUExSallyRHd5elIwUnVDLUUyd0t5aGZWWHBQVENBR2VsMjZuZjM4UUotc1VaUjRYWV9kaWktZFlFRTZ4dk1PNU5zZi1RNnhYVnM0U1BTbWVnMkFXWFFiQk91MVdNU21ULVVuOEY1RTJBMUlsOVNrMEhFZmdhMlgzdDh5akVQLVJKdTZSMWVOMFJYNA?oc=5
 
-2. **EUA dizem que Ramagem violou leis de imigração e está sujeito a deportação**
+2. **Trump insulta Noruega e rejeita imigrantes do país após ficar sem Nobel da Paz**
+   - Fonte: Valor Econômico
+   - Termo monitorado: imigração EUA
+   - Link: https://news.google.com/rss/articles/CBMiywFBVV95cUxPUHB2UVZhaWZoN1BDWmxTVDlvcnN0NTFERGxhWE1zSkt0ZzZqUHctVzk0UGRDbzdRT2RvUVBybkFYR0hzZmQ5SXBJOTlzdkhwMGNjWGpkaHpiMjJSUHVJQzVrakxQR2dmQXQ3Tzl0SmtjNFFUR01iV3hTQ05OdkRPUUREZUVBRURMWW5va0tYRkE4TkJacVFpNGVNUWhFbjVOd2JfbXVmV2pRUGs5RklyNVFyWDN1NWh0Y0hBMFpuZGppSVFZb1NJYWNDVdIB2gFBVV95cUxNN1RVWVdRaUlsUXkwY2F2cWN0ODAzN2hZUVZDWDR0ZVVsV003WExXcHQ5R1gwZE9jcS1ldGZPUTNVVklpRTZwQ051Q192Vm9EYW1MVlR2OFAzOWdyTHlwMWc2anByRUo3bGljNmdaSDJZQV9xMUVvdmNCOFNsR3ZKaHQ3c04zdmtmRjRvZ2REMVNTZC1tOGJoRmRhcFhpeUVIQlBEMjNJamNxQmFFcW9FOTYxN1hpQWJNNWdtNDJSZHBMYi13b0c4NHE3akdBMTktTlFPRlZNclM5QQ?oc=5
+
+3. **EUA dizem que Ramagem violou leis de imigração e está sujeito a deportação**
    - Fonte: CartaCapital
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxPTXlxb2syQ1dzSWdpY2ptdFI5SDA2LWNhR2F3MktfdW1WMnBBNnBIdTBLbUpvN2pubkhLRmhhYXBwODdJLVBJT3YxaFV1RjI0X1czbnhBOUpFM2JWcnZTUEVTNVVHVGFOeW9ZVG5RVjd3ejNFZTlGbEd4bmlRSWxaRF9Ka0lYWk0tbl9BV1JrTy00WUR2ZEcyMVJIRjAwRDhfUzcxWUNfMGNqdjlIaHp3Q2pqY05qYW8?oc=5
 
-3. **6 em cada 10 imigrantes brasileiros detidos nos EUA pelo ICE são deportados**
+4. **6 em cada 10 imigrantes brasileiros detidos nos EUA pelo ICE são deportados**
    - Fonte: Folha de S.Paulo
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSktGcEdYbmZ6SUUzOHRSdWNOazg0VUZTRGFlTUFGSDEtd1NEQkg2WGJHek1ib1pNUWE3R29GYXV6ODNZZnJpQ3J6R0F6QU9LWTlCTktUc016eS1IcV9BeG15andyOEpnTEh5WGtsakpGbTllZmN2MGpsOTJVcUFXQ2Q5S19ZWkYwMDFodldaT0RhMWpfczZZUlhfa0FDd0Rtbm16WG5BTWxwb3dpbjZpOEsxUVoxdHljYlJ2OG1pOTRMODQ?oc=5
-
-4. **Governo Trump diz que revogou mais de 300 mil vistos americanos**
-   - Fonte: CNN Brasil
-   - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdzg2ZXN2TVRocVJxNnAtSFByOUg0ZlhweHpVdDR5R3ZtTmtFcDdIQmpCMGNiQW9lOTVxRXpBczlmOG5VcldKb1hnSl9MTENhMnotM21WUy1mZGtUXzBqc2dyeXgyc3plNXoyRkxaZ1p2dm5OVEFRZjRobXFTUEZaaXpCMTdiRG1INXZtcU1qY1F0ZkRqSWRCYXdkeG8tTEVObzhEUkFzZ1p1Um8?oc=5
 
 5. **Do papel ao digital: USCIS exige e-filing obrigatório**
    - Fonte: Migalhas
@@ -51,18 +51,18 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 - **Departamento de imigração dos EUA diz que Ramagem é imigrante ilegal e violou leis**
   - Fonte: Agência Pública
   - Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxQblMtbUw3NXJ3YktyMVpjdTBGRF93SXV1QjVIRk5wYkV6QXVJTzNiOVhFWTZTNWRqb0pJR1BoYUV6eG9TcVZKaGpDR0dyM01kLUZxUFFxVk5zOXlzWU1SalZXRDd6dkwxUENSTGoxNlZzWUhrZm8zU1NpVnNaVzFZeU8xRnJpRl9DaHFaTm1aaW8tZUwyZ1lxcXNsY2V3LWo4dmxjTjQ1SkN5eFlSVDBkd0dB0gG3AUFVX3lxTE0yZXl1a3BwaFRkUURUYnh2TG9vQUQ1b2h0eWQ3cG05WnVaMGtOUExSallyRHd5elIwUnVDLUUyd0t5aGZWWHBQVENBR2VsMjZuZjM4UUotc1VaUjRYWV9kaWktZFlFRTZ4dk1PNU5zZi1RNnhYVnM0U1BTbWVnMkFXWFFiQk91MVdNU21ULVVuOEY1RTJBMUlsOVNrMEhFZmdhMlgzdDh5akVQLVJKdTZSMWVOMFJYNA?oc=5
-- **EUA dizem que Ramagem violou leis de imigração e está sujeito a deportação**
-  - Fonte: CartaCapital
-  - Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxPTXlxb2syQ1dzSWdpY2ptdFI5SDA2LWNhR2F3MktfdW1WMnBBNnBIdTBLbUpvN2pubkhLRmhhYXBwODdJLVBJT3YxaFV1RjI0X1czbnhBOUpFM2JWcnZTUEVTNVVHVGFOeW9ZVG5RVjd3ejNFZTlGbEd4bmlRSWxaRF9Ka0lYWk0tbl9BV1JrTy00WUR2ZEcyMVJIRjAwRDhfUzcxWUNfMGNqdjlIaHp3Q2pqY05qYW8?oc=5
+- **Trump insulta Noruega e rejeita imigrantes do país após ficar sem Nobel da Paz**
+  - Fonte: Valor Econômico
+  - Link: https://news.google.com/rss/articles/CBMiywFBVV95cUxPUHB2UVZhaWZoN1BDWmxTVDlvcnN0NTFERGxhWE1zSkt0ZzZqUHctVzk0UGRDbzdRT2RvUVBybkFYR0hzZmQ5SXBJOTlzdkhwMGNjWGpkaHpiMjJSUHVJQzVrakxQR2dmQXQ3Tzl0SmtjNFFUR01iV3hTQ05OdkRPUUREZUVBRURMWW5va0tYRkE4TkJacVFpNGVNUWhFbjVOd2JfbXVmV2pRUGs5RklyNVFyWDN1NWh0Y0hBMFpuZGppSVFZb1NJYWNDVdIB2gFBVV95cUxNN1RVWVdRaUlsUXkwY2F2cWN0ODAzN2hZUVZDWDR0ZVVsV003WExXcHQ5R1gwZE9jcS1ldGZPUTNVVklpRTZwQ051Q192Vm9EYW1MVlR2OFAzOWdyTHlwMWc2anByRUo3bGljNmdaSDJZQV9xMUVvdmNCOFNsR3ZKaHQ3c04zdmtmRjRvZ2REMVNTZC1tOGJoRmRhcFhpeUVIQlBEMjNJamNxQmFFcW9FOTYxN1hpQWJNNWdtNDJSZHBMYi13b0c4NHE3akdBMTktTlFPRlZNclM5QQ?oc=5
 
 ### USCIS
 
 - **Do papel ao digital: USCIS exige e-filing obrigatório**
   - Fonte: Migalhas
   - Link: https://news.google.com/rss/articles/CBMimgFBVV95cUxPU3lXOWsxRDdlbEh4anpHUmp2amh5SHpCaUlWVmtIa3VqWFpYTWZ0Ujh1NlV0d1N4TUw1cmN6cG5UdWZ1c0ZZdG1hMGV6eWY3STQ5SldkTmpudHhCcHlaZXZoTFRIdkdXRm5Za1NPRkd3LWs5dl93N1poWmZ3cm1fTFA1NHN4SllBWGlRRk12WTNtM2djNGw3VWtB?oc=5
-- **Imigrantes nos EUA devem informar mudança de endereço ao governo em até 10 dias**
-  - Fonte: Gazeta Brazilian News
-  - Link: https://news.google.com/rss/articles/CBMi0gFBVV95cUxPV2xTaXNQTWJnWnJXb2tBUFk2U3JFLU5DX0pGajdtN0c0NUdCaHh4QUduX1A0VUp5UVhYT3dlYVJMMEFjYkFOYXdXOVM3TzdRenVQeHF2QThzd09qSkpxMW1tSlNHOFVwWVpCVmxhdnY4UXpGcTZ1MDE4MVR5MnZZdC1uVHlXc2VsaVg5RUVXLXNXUUppUHRYY0VPUlNOSFVIMF9GM3hKeWpQQW9FWVBOdVpBN042d2pYOWZjNTM1OG1UeXJ0Y0lDTEpFQjhvWTFPM0E?oc=5
+- **EUA podem negar pedidos de imigração sem dar chance para o envio de novos documentos | SEGS Portal...**
+  - Fonte: SEGS Portal Nacional
+  - Link: https://news.google.com/rss/articles/CBMivwFBVV95cUxNTEd3WDBXamNBN0FoU3RoOWNjaW1HWVNOVVowWnVEWGpDNDJlZWR0bFd6X0VxT3NuQ2hEYWpyVnF6aTRPVWxwQVlmRkl6WDR6bDM0dElZb3FKaWFMQk03SnE5NzUxODQzVVV4aVJJTzE4YVdDdWJaOFVldW1STTFFQ0htQmt3Y0lUYXRCcUNtRkVHMjVUYjNsY2U0bDFxeXFDei1QMWJhbXp6c3ZjWUFCMHBtTzBLbldZNS1TSmc5NNIBxAFBVV95cUxPUjNtc2FHSU5OVHUtNnpPREQ2anpYa0hwaHBNWS1Bbm1aNFpjSlRpNlFfZVJ1SC1oaXNULV9CQnA2ZU5oa29uQ3YwbnlHNU9fUHhuSTVSeXIxcEFkdXVTWlNVcUU4SGFIdUxwckZ5SnlZOGJmVFlESUJEZDRES3Q5MjJFYl85QlNtTjFFUnhUYzdGQzY3a1NTZzhrc1NpX2JYbXE3MF9LVHA5ZGFTOGxOTlVCRndWaG92YjUyVHNyd2VYUUJa?oc=5
 
 ### green card
 
@@ -84,12 +84,12 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### brasileiros nos Estados Unidos
 
+- **Trump questiona eleição brasileira e Alckmin rebate: “equivocado”**
+  - Fonte: Agência Brasil
+  - Link: https://news.google.com/rss/articles/CBMivAFBVV95cUxQWUpKcDdGekNFdWNUSFA4bWVJX3lQRDZ0SUZhZ0VSQ3VseXRpamFXdnpMT3Y2OU9zb1J4YlpLamtPU0JQcjJkWGhOcEhiV29Qano1Zk1JMU9mcU5DakZjbEhBM3ZoRzJUUG42dklsSEZKRGdfU1E3dWVRckF4Nk9vU2tlTUR6b2JmbFBYRUt3OFdvZDFZU0lpRXBrcWx3NGl0cXBLaVpua2JUTDhnZFdCUWZLYkJtc190dmtfTA?oc=5
 - **Lula e Trump: o que está em jogo na relação entre Brasil e Estados Unidos após as eleições?**
   - Fonte: Jovem Pan
   - Link: https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMmM0RjZ1TTF2dWJRekhxQ1NEMWRlalNxSW1vSEFrdnZUd3FlOVJ5LXhqd0JpSVc2S0VWaHdqdzZOR0lRWEU4RlhNYy1OSE9kWGk2VHp2dkdpNzBEbWdURmVVYXpDSXhDYkpOWUFrU0Jyb2RWZHFRa2xiajdhQjAtRjlNdGJCMHprWjUzaVA3U1hqSWtNYnE5X2dFNnJKRUVYeDE4di1kcWFrd2ljbktFWTI3TC1Sd0hSMjQtTjN3a0Y?oc=5
-- **Congressistas democratas dos EUA parabenizam Lula e pedem reconhecimento de Trump**
-  - Fonte: Folha de S.Paulo
-  - Link: https://news.google.com/rss/articles/CBMiywFBVV95cUxOUzRWdVAzSkdHNEZHM0R3aVI5dmpVcUV1S0dxTlp3MC1FeHZmZEIwMEswaC1Iemx2RHJEWWdZZ1loMkJOcm5QZ1MtVVZQQmVLb3p3d1E0RVA3bmc0QUtHYTAxSzdJaWlJM2VfczJTeW9qQi1lZXZJWFNPdlJicjV6SVI0ODdGZzE0RnZfT1NpX2szRmFJUDdrX1BXMGQySDcxWTktYzVkWUhLbUFyVGkzdDl1bmZuZmRlaFg2VFQ2d25WdFhITGEyU21Kdw?oc=5
 
 ### asilo nos EUA
 
