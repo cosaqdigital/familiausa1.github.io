@@ -4,7 +4,7 @@ slug: "eleicoes-nos-estados-unidos-2026-quando-serao-o-que-esta-em-jogo"
 title: "Eleições nos Estados Unidos 2026: quando serão e o que está em jogo?"
 h1: "Eleições nos Estados Unidos 2026: quando serão e o que está em jogo?"
 description: "Entenda as eleições de 2026 nos Estados Unidos: data, o que são as midterms, o que será eleito para Câmara e Senado e por que brasileiros devem acompanhar."
-category: "Imigracao e legalizacao"
+category: "Noticias dos EUA"
 tags:
   - "eleição nos Estados Unidos"
   - "eleições nos Estados Unidos 2026"
@@ -18,7 +18,7 @@ tags:
   - "Senado americano"
 featured: false
 datePublished: "2026-09-06"
-dateModified: "2026-10-08"
+dateModified: "2026-10-28"
 readingTime: "13 min de leitura"
 image: "https://familiausa1.com/assets/images/familiausa1-share.svg"
 excerpt: "Em 3 de novembro de 2026, os americanos voltarão às urnas para escolher toda a Câmara dos Representantes e aproximadamente um terço do Senado. Entenda por que essa eleição de meio de mandato importa também para brasileiros."
