@@ -12,6 +12,9 @@ const canonical = `https://familiausa1.com${target}`;
     <meta name="robots" content="noindex, follow" />
     <link rel="canonical" href={canonical} />
     <meta http-equiv="refresh" content={`0; url=${target}`} />
+    <script is:inline define:vars={{ target }}>
+      window.location.replace(target);
+    </script>
   </head>
   <body>
     <main>
