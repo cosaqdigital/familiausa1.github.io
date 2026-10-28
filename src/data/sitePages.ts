@@ -74,9 +74,9 @@ export const sitePages: SitePage[] = [
   },
   {
     path: "/eleicoes-brasil-2026.html",
-    title: "Eleições Brasil 2026 ao vivo: 2º turno | FamiliaUSA1",
-    description: "Acompanhe a apuração oficial do 2º turno das eleições brasileiras de 2026 com dados do TSE e atualização automática.",
-    lastmod: "2026-10-06",
+    title: "Resultados Eleições Brasil 2026: 2º turno | FamiliaUSA1",
+    description: "Acompanhe os resultados oficiais do 2º turno das eleições brasileiras de 2026, com dados do TSE, comparação de candidatos, apuração e governos estaduais.",
+    lastmod: "2026-10-28",
     priority: "0.9"
   },
   {
