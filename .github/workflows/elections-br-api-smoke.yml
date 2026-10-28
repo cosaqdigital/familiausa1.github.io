@@ -143,3 +143,19 @@ jobs:
         run: |
           set -euo pipefail
           curl             --fail             --silent             --show-error             --location             --max-time 30             --connect-timeout 10             https://familiausa1.com/eleicoes-brasil-2026.html             | grep -F "Resultados oficiais em um painel simples de acompanhar"
+
+
+      - name: Validate candidate photo delivery
+        shell: bash
+        run: |
+          set -euo pipefail
+          curl --fail --silent --show-error --location --max-time 30 \
+            "https://images.weserv.nl/?url=www.tse.jus.br/imagens/imagens/lula/%2540%2540images/image-200-93d51d895f8ebc8900bf3e02c7052bef.png&w=360&h=420&fit=cover&output=webp" \
+            --output /tmp/lula.webp
+
+          curl --fail --silent --show-error --location --max-time 30 \
+            "https://images.weserv.nl/?url=www.tse.jus.br/imagens/imagens/flavio-bolsonaro/%2540%2540images/image-200-7092d276831e3453f70c59d07d5c9ae7.png&w=360&h=420&fit=cover&output=webp" \
+            --output /tmp/flavio.webp
+
+          test -s /tmp/lula.webp
+          test -s /tmp/flavio.webp
