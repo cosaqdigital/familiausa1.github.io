@@ -22,6 +22,12 @@ if (!fs.existsSync(source)) {
   console.log("assets/ copiado para dist/assets.");
 }
 
+const publicAssetsSource = path.join(root, "public", "assets");
+if (fs.existsSync(publicAssetsSource)) {
+  fs.cpSync(publicAssetsSource, target, { recursive: true, force: true });
+  console.log("public/assets mesclado em dist/assets.");
+}
+
 for (const fileName of publicRootFiles) {
   const sourceFile = path.join(root, fileName);
   if (!fs.existsSync(sourceFile)) {
