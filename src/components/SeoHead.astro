@@ -13,6 +13,7 @@ interface Props {
   schemas?: SchemaObject[];
   locale?: string;
   alternates?: AlternateLink[];
+  noindex?: boolean;
 }
 
 const {
@@ -23,7 +24,8 @@ const {
   type = "website",
   schemas = [],
   locale = "pt_BR",
-  alternates = []
+  alternates = [],
+  noindex = false
 } = Astro.props;
 ---
 <!-- Google tag (gtag.js) -->
@@ -45,7 +47,7 @@ const {
 <title>{title}</title>
 <meta name="description" content={description} />
 <meta name="author" content="FamiliaUSA1" />
-<meta name="robots" content="index, follow" />
+<meta name="robots" content={noindex ? "noindex, follow" : "index, follow"} />
 <link rel="canonical" href={canonical} />
 {alternates.map((alternate) => (
   <link rel="alternate" hreflang={alternate.hreflang} href={alternate.href} />
