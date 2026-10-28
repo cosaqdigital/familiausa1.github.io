@@ -1,8 +1,8 @@
 # Relatório diário — Imigração e brasileiros nos EUA
 
-Gerado em: 2026-10-28 14:20 EDT
+Gerado em: 2026-10-28 18:32 EDT
 
-Arquivo original: `2026-10-28-14-20-tendencias-imigracao.md`
+Arquivo original: `2026-10-28-18-32-tendencias-imigracao.md`
 
 ## Objetivo
 
@@ -10,15 +10,15 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ## Principais assuntos do dia
 
-1. **Quais seriam os caminhos possíveis para Flávio Bolsonaro ficar legalmente nos EUA**
-   - Fonte: BBC
-   - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMiY0FVX3lxTE5Gd0V0aDhjTkNJSFczSnpjVG1SSmxDdEpIaUJrcWdOVUFrZGFtWTZTYW9KNWtPVXFGLWFnY1gzRGlzR1NHMVpWdXgwdkdKZ2RWbUJNVkhyeFhxY3BZWXpobUtuUQ?oc=5
-
-2. **Imigração argentina nega apresentação de plano de voo aos EUA que incluísse Flávio Bolsonaro e família**
+1. **Imigração argentina nega apresentação de plano de voo aos EUA que incluísse Flávio Bolsonaro e família**
    - Fonte: O GLOBO
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMizwFBVV95cUxQdDViWXZGRXlKRlc2ZGNmRlUwN1FaN0V3bWI4NXl6ZHZTSUZYWHN2UUNndkpuWXdKdllURnRfaHpqWE95SVRqd2pNdE5hY1hEY0w5UnVqRTg4ZVhZTGVKbWhFTEE5bGJKZnNsQ1N4ckVJNVpnQ2ZPbmdadUhFZG10Z3hyV09XbmROUkg2Q0JLeGZBRzN2ZzE1TVcwQkF4azE4eEwtZXUtc1JrdV9UYkY3UksybkY4ZHkwRnZ4Z1BJTl9Pc2RoVDhuMkRMcUJYakXSAd4BQVVfeXFMT29xWlpZcDNnazRIZDNSTVhad1JOdWVSYTFRMzlYUmhYTlRkUGJoWElGdV96WVBtVlcxcFJuTnhtU0FZM2xxNFp4YTRvdkRfX3UtdTBxQ3VkeW9mTkZjRjhrMUUxVjl5c0lmcFptQTdka3lQQlRiNGlWcXRhQkJWSkIyOC1qVHd2b0x1SmpXZzhaekxIcm51TmhIdEJoR1hDTmg3WkozQXFLSV83REZHTFpCWUM4QUYyWG1vYTh4REViWUlnMXlEVUhkTWlOTUNFZWtvQWdXckZjeUxFZ1VB?oc=5
+
+2. **Quais seriam os caminhos possíveis para Flávio Bolsonaro ficar legalmente nos EUA**
+   - Fonte: BBC
+   - Termo monitorado: imigração EUA
+   - Link: https://news.google.com/rss/articles/CBMiY0FVX3lxTE5Gd0V0aDhjTkNJSFczSnpjVG1SSmxDdEpIaUJrcWdOVUFrZGFtWTZTYW9KNWtPVXFGLWFnY1gzRGlzR1NHMVpWdXgwdkdKZ2RWbUJNVkhyeFhxY3BZWXpobUtuUQ?oc=5
 
 3. **Decisão de tribunal dos EUA permite manter imigrantes presos sem audiência de fiança**
    - Fonte: AcheiUSA
@@ -48,12 +48,12 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### imigração EUA
 
-- **Quais seriam os caminhos possíveis para Flávio Bolsonaro ficar legalmente nos EUA**
-  - Fonte: BBC
-  - Link: https://news.google.com/rss/articles/CBMiY0FVX3lxTE5Gd0V0aDhjTkNJSFczSnpjVG1SSmxDdEpIaUJrcWdOVUFrZGFtWTZTYW9KNWtPVXFGLWFnY1gzRGlzR1NHMVpWdXgwdkdKZ2RWbUJNVkhyeFhxY3BZWXpobUtuUQ?oc=5
 - **Imigração argentina nega apresentação de plano de voo aos EUA que incluísse Flávio Bolsonaro e família**
   - Fonte: O GLOBO
   - Link: https://news.google.com/rss/articles/CBMizwFBVV95cUxQdDViWXZGRXlKRlc2ZGNmRlUwN1FaN0V3bWI4NXl6ZHZTSUZYWHN2UUNndkpuWXdKdllURnRfaHpqWE95SVRqd2pNdE5hY1hEY0w5UnVqRTg4ZVhZTGVKbWhFTEE5bGJKZnNsQ1N4ckVJNVpnQ2ZPbmdadUhFZG10Z3hyV09XbmROUkg2Q0JLeGZBRzN2ZzE1TVcwQkF4azE4eEwtZXUtc1JrdV9UYkY3UksybkY4ZHkwRnZ4Z1BJTl9Pc2RoVDhuMkRMcUJYakXSAd4BQVVfeXFMT29xWlpZcDNnazRIZDNSTVhad1JOdWVSYTFRMzlYUmhYTlRkUGJoWElGdV96WVBtVlcxcFJuTnhtU0FZM2xxNFp4YTRvdkRfX3UtdTBxQ3VkeW9mTkZjRjhrMUUxVjl5c0lmcFptQTdka3lQQlRiNGlWcXRhQkJWSkIyOC1qVHd2b0x1SmpXZzhaekxIcm51TmhIdEJoR1hDTmg3WkozQXFLSV83REZHTFpCWUM4QUYyWG1vYTh4REViWUlnMXlEVUhkTWlOTUNFZWtvQWdXckZjeUxFZ1VB?oc=5
+- **Quais seriam os caminhos possíveis para Flávio Bolsonaro ficar legalmente nos EUA**
+  - Fonte: BBC
+  - Link: https://news.google.com/rss/articles/CBMiY0FVX3lxTE5Gd0V0aDhjTkNJSFczSnpjVG1SSmxDdEpIaUJrcWdOVUFrZGFtWTZTYW9KNWtPVXFGLWFnY1gzRGlzR1NHMVpWdXgwdkdKZ2RWbUJNVkhyeFhxY3BZWXpobUtuUQ?oc=5
 
 ### USCIS
 
@@ -84,21 +84,21 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### brasileiros nos Estados Unidos
 
-- **Número de brasileiros que querem emigrar para os EUA dispara após eleição de Lula**
-  - Fonte: Folha de S.Paulo
-  - Link: https://news.google.com/rss/articles/CBMi2gFBVV95cUxNYnRZdWFJT2xYRVJaOXdWYUUzR3hIOS1fejIxUDYza2VqYWNWMExQNW4wckc2ODhoUmZLMmk1cV9LMGdLTC1NVjBGWGZETlpyVzFYZXJHcHcyb3o4czhKX0RVRFdkLW54LTVGdzBxeC1vSkh6YklKbGZ5a0NyQXJKWU55V2hnakx4dHg4VTRncE9BbFAwLVNhNzh2dkQ4SVlRd1U1UWhrZjBzTXFZalZjMFFlSS1HR2dtZFVnQTlCM0NHODVzX3dTWnVNWk03Y2tXbGhJblVvLTFpdw?oc=5
-- **Como a fuga de Flávio para os EUA alimenta o bolsonarismo no Brasil**
-  - Fonte: Nexo Jornal
-  - Link: https://news.google.com/rss/articles/CBMivwFBVV95cUxOVXVpRU54V1I0QlhhM1pBWENsQjZlVzB3Z2JPbnNxSE1TZ1NiWWM0MGFHMHlLb29fb0NFbElFbFVaN1hYYlZJcWJoMVd4TWxlUWJUVkE5ZTdTM0pYSXc1YUJoUFVzYng2WGE5aGFuX1l1a0pWdnE3enl0dXFOMDFsU0ZWRHl0UHJkSmlLcWRVWHpiMFROaUVXLUJZT2xUNkVEZmhXVENfbTJ0eElQdE5DaHhZY2pvRHVzTlpJczViZw?oc=5
+- **Em carta, Flávio agradece Milei e Trump por apoio para fugir do Brasil**
+  - Fonte: Agência Brasil
+  - Link: https://news.google.com/rss/articles/CBMixgFBVV95cUxNZngtVkhCUnZDNGFfdTNsbWwzRjBzTk9VLU5fX0toTG5iWDlLcnhLRlFpNFlCaEFlRk5XeUdUYmVsUk9IcHRxNFNoaUlzZDQtbk05VmhuY2NsQWIwOW9JLWc4NVdrdW9hSjZQdk0wYzE0Z05ILU1ULVJfTkJCdEo4UEFrU3BzNzhFTUlzclpoT2Zkc0pLMkpKZ1VtSzBVRTdQdmw1eVJqMkRCRjBadEtNaDZJOWtBcVZiTGRWajhqUmEzY2U1TkE?oc=5
+- **'Estados Unidos do Brazil': carta na qual Flávio se diz 'presidente eleito' usou brasão nacional substituído na ditadura**
+  - Fonte: O GLOBO
+  - Link: https://news.google.com/rss/articles/CBMihAJBVV95cUxQY1g5NHE2OUxZaDBHYTUybGktamllU2ZaSnIxYzQ3Rk94anZqa2dIRHFfazBwdno4VjVyWGtsWGk1WUFPdlRCYUJYMVdqNlhQSlRaOXNMQXotOWMyaWl0ZjVWdUtZR2w5Vl9RU2pxX1JFRFJIX1A3MmdxSUVJRU8yQ0ZOaDNObjRNTEVENWV1Q1lsbE1majhUbFRSb0d2ZnFtUEprWkZFMnkyVzVLMmpCTDExdjZ3R01BaER5cHExelJRemp1ZzRyZjEtclBKLW5ZZnJicTZ2LURTVlFVOUtaVE52NmZtVmk0ZDZhQW0yZ1VsMl95azc1MFdGNU5kazN3RjFQRdIBkwJBVV95cUxNV2xtTFJhUVdWeEVsS19jakRhcGltV0l6UzJhdUFONGEzdTBxWmFvSldxcThkSTgzeFU0cHAyUXhQU2JXeXBTSGlsRU5FWldDOEd1djhXMFJwLUFvRm85X1VXUjNpcTdTMC1iUGxUMVN3U3RYazhvYVczMkJldXR4Y3FEZHE2LXM2eGQtMWZIN2lMekVPSkFKdTMxSEtZNHJuMWlxT2dyUkt2cXZETDVRN05wRHRsLV9veWpEazFMaGJyYnlaMGs4TmZFMEV0Zkh2MW03aHlvUTV6UUwzTzllQmk1dHNNbFNVb2s3S3cybnVpTjBXZUw5N2ZCSmM4MWNuSWl4NGNZNEpwMEI5TWQybk5Kcw?oc=5
 
 ### asilo nos EUA
 
+- **Cidadania italiana pode ser obstáculo a eventual asilo de Flávio nos EUA**
+  - Fonte: CNN Brasil
+  - Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxOUmd5cEQ4ZmVkVFlmb01TRWU2bnZSOURfeU04b0xsUEM3VDFrSWNDZElZNU4wQmNwc2JxYVRQNW91WVQ2eG9yem5ub3Q4RF8tQjl4NVNqVndOWWFFYm1rcDc2c1J0VEpyeGI5Ti1jLTdTaUxDRko0dVpRbGF0aUJscGVPa3Jucnpuc1E1RHUwNVdnNGRCYnpJbV95V1dyY1dxVnZnNDdMRzVqNVljcE5pMw?oc=5
 - **Democratas dos EUA criticam plano do governo Trump de conceder visto a Flávio Bolsonaro**
   - Fonte: G1
   - Link: https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQlp3cWJsVmhpSUdsS0swREFoNHpaYW1PVUNURzJFcnlCMWxpU2VaZnIyX1ZUcl9kRHlET3dKOWh4aVEyVlZVMWJqbUNyNWpoVWpEUzZTUjZybGNrYl8wWWJZcWRlbk5tMjUwVzlhUUQ1SVJ1ckY3Z2RVRGtSbDVKcWR4ejdxNy1zRkFLeVhIQ2FFb01fUFlEcmp0Z194U2JjS25RTjNuVzJiMWR0b3Z6di11QmZBTVlETWVmNVY4WnBEN21FUm84c3lqYlhHT1Bq0gHfAUFVX3lxTE5ZajBHT05LbmIyTkVESnU0RnZRc2VCRDV6OEJVMEk1QnU3UlotZl9ROWNaRUFFRWR3TGFNcHk1cVMzUEVPTDU3UjF1djAwRTR6WW01Vm16a3ZOWnF2R2pLVnluY2NlWlR5YW5QaGtXSmlHeGZFM2ZuWnZFazNKQm9hWjljcEEzM2tfaVVaN0tuQWp2VFk4TWdfNWU3dHZXRVkwSmRoOXlISGRVeWRaTmJ0NFVpX0V6M2dKOUpRXzR0cGU5UHh1T1JQcUEtRVY0bnNrZmliZ25Lcy1HZTNfd28?oc=5
-- **Governo americano concedeu asilo a Flávio, diz aliado de Trump**
-  - Fonte: Congresso em Foco
-  - Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxPWWhrRWU3VjlkSHFGdHJDX1haTGNtR1FnTHE5djRHM2V0WjlZSWhsbGx3YUJqSHp4NTdMVW5JTENSWnpCdi1jNjhma0lBd0pMNTdBc1d0elUxcUNOdzhac3gyS0ZRbkpiSlh2WEJ0RllnUFpzcDhDTjdmeEZBUWJST2tkM1J4amJxN1FRNFJkMmhabVByMHl4eFdyUWhsU3JXcmdOY3c0ODJXVFVZY2JhTA?oc=5
 
 ### ICE immigration
 
