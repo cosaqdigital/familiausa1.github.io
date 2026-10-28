@@ -1346,9 +1346,15 @@
   </url>
   <url>
     <loc>https://familiausa1.com/sobre.html</loc>
-    <lastmod>2026-09-05</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://familiausa1.com/autores/wendel.html</loc>
+    <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://familiausa1.com/termos-de-uso.html</loc>
