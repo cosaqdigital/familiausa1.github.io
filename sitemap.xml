@@ -31,20 +31,8 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://familiausa1.com/articles/a-verdade-sobre-morar-nos-eua.html</loc>
-    <lastmod>2026-05-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://familiausa1.com/articles/abrir-empresa-nos-eua-legaliza-minha-situacao.html</loc>
     <lastmod>2026-06-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://familiausa1.com/articles/adjustment-of-status-eua-brasileiros-2026.html</loc>
-    <lastmod>2026-05-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -344,7 +332,7 @@
   </url>
   <url>
     <loc>https://familiausa1.com/articles/eleicoes-nos-estados-unidos-2026-quando-serao-o-que-esta-em-jogo.html</loc>
-    <lastmod>2026-10-08</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -445,18 +433,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://familiausa1.com/articles/green-card-nova-regra-uscis-brasileiros-sair-dos-eua-2026.html</loc>
-    <lastmod>2026-05-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://familiausa1.com/articles/green-card-regras-mais-rigidas-pedido-fora-dos-eua-2026.html</loc>
-    <lastmod>2026-06-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://familiausa1.com/articles/guia-completo-disney-orlando-2026-brasileiros.html</loc>
     <lastmod>2026-05-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -542,7 +518,7 @@
   </url>
   <url>
     <loc>https://familiausa1.com/articles/lula-nos-eua-trump-impactos-brasileiros-2026.html</loc>
-    <lastmod>2026-09-17</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -746,7 +722,7 @@
   </url>
   <url>
     <loc>https://familiausa1.com/articles/o-que-sao-eleicoes-meio-de-mandato-eua-midterms-2026.html</loc>
-    <lastmod>2026-10-08</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -794,7 +770,7 @@
   </url>
   <url>
     <loc>https://familiausa1.com/articles/portugal-endurece-cidadania-comparacao-eua-brasileiros.html</loc>
-    <lastmod>2026-09-04</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -955,12 +931,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://familiausa1.com/articles/sair-dos-eua-para-green-card-riscos-2026.html</loc>
-    <lastmod>2026-05-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://familiausa1.com/articles/salario-minimo-nos-eua-quanto-da-para-ganhar-em-2026.html</loc>
     <lastmod>2026-09-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -1046,7 +1016,7 @@
   </url>
   <url>
     <loc>https://familiausa1.com/articles/tiros-evento-trump-white-house-correspondents-dinner-2026.html</loc>
-    <lastmod>2026-09-17</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1139,6 +1109,12 @@
     <lastmod>2026-06-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://familiausa1.com/autores/wendel.html</loc>
+    <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://familiausa1.com/blog.html</loc>
@@ -1349,12 +1325,6 @@
     <lastmod>2026-10-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://familiausa1.com/autores/wendel.html</loc>
-    <lastmod>2026-10-28</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://familiausa1.com/termos-de-uso.html</loc>
