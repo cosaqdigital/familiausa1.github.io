@@ -1,0 +1,52 @@
+name: Import official TSE presidential photos
+
+on:
+  push:
+    branches:
+      - fix/election-dashboard-visuals
+    paths:
+      - ".github/workflows/import-tse-photos.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - name: Checkout branch
+        uses: actions/checkout@v4
+        with:
+          ref: fix/election-dashboard-visuals
+
+      - name: Download official TSE photo archive
+        shell: bash
+        run: |
+          set -euo pipefail
+          curl --fail --silent --show-error --location --max-time 60 \
+            "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_BR_div.zip" \
+            --output /tmp/fotos.zip
+
+          mkdir -p public/assets/elections/2026
+          unzip -p /tmp/fotos.zip FBR280002542548_div.jpg > public/assets/elections/2026/lula.jpg
+          unzip -p /tmp/fotos.zip FBR280002551544_div.jpg > public/assets/elections/2026/flavio-bolsonaro.jpg
+
+          test -s public/assets/elections/2026/lula.jpg
+          test -s public/assets/elections/2026/flavio-bolsonaro.jpg
+
+      - name: Commit local candidate photos
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/assets/elections/2026/lula.jpg public/assets/elections/2026/flavio-bolsonaro.jpg
+
+          if git diff --cached --quiet; then
+            echo "Official candidate photos are already up to date."
+            exit 0
+          fi
+
+          git commit -m "assets: add official TSE presidential photos"
+          git push origin HEAD:fix/election-dashboard-visuals
