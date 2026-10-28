@@ -83,6 +83,24 @@
       "targetSlug": "pedido-green-card-dentro-ou-fora-dos-eua-riscos",
       "dateRetired": "2026-10-28",
       "reason": "Consolidacao do artigo introdutorio de adjustment of status no guia comparativo mais completo sobre ajuste de status e processamento consular."
+    },
+    {
+      "slug": "a-verdade-sobre-morar-nos-eua",
+      "targetSlug": "vale-a-pena-morar-nos-eua-em-2026-a-verdade-sem-filtro",
+      "dateRetired": "2026-10-28",
+      "reason": "Consolidacao de artigo curto e sobreposto sobre realidade de morar nos EUA no guia mais completo de decisao sobre morar nos Estados Unidos."
+    },
+    {
+      "slug": "brasil-x-eua-diferencas-que-pesam-na-rotina",
+      "targetSlug": "vale-a-pena-morar-nos-eua-em-2026-a-verdade-sem-filtro",
+      "dateRetired": "2026-10-28",
+      "reason": "Consolidacao de comparacao generica Brasil x EUA no guia mais completo sobre rotina, custo, adaptacao e decisao de morar nos EUA."
+    },
+    {
+      "slug": "5-erros-que-brasileiros-cometem-ao-chegar-nos-eua",
+      "targetSlug": "primeiros-30-dias-nos-eua",
+      "dateRetired": "2026-10-28",
+      "reason": "Consolidacao de artigo curto sobre erros de recem-chegados no checklist mais completo dos primeiros 30 dias nos EUA."
     }
   ]
 }
