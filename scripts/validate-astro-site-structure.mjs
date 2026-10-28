@@ -29,6 +29,7 @@ const rootPages = [
   "brazil-election-2026.html",
   "eleicoes-eua-2026.html",
   "sobre.html",
+  "autores/wendel.html",
   "contato.html",
   "politica-de-privacidade.html",
   "politica-de-cookies.html",

@@ -12,6 +12,7 @@ type ArticleForLayout = PilotArticle & {
   canonical?: string;
   h1?: string;
   language?: "pt-BR" | "en-US";
+  noindex?: boolean;
 };
 
 interface Props {
@@ -25,6 +26,13 @@ const canonical = article.canonical ?? canonicalUrl(articleUrl(article.slug));
 const heading = article.h1 ?? article.title;
 const image = article.image ?? DEFAULT_IMAGE;
 const aboutUrl = `${SITE_URL}/sobre.html`;
+const editorialLeadUrl = `${SITE_URL}/autores/wendel.html`;
+const editorialLead = {
+  "@type": "Person",
+  name: "Wendel",
+  url: editorialLeadUrl,
+  affiliation: { "@type": "Organization", name: "FamiliaUSA1", url: SITE_URL }
+};
 
 const blogPosting = {
   "@context": "https://schema.org",
@@ -36,6 +44,7 @@ const blogPosting = {
   dateModified: article.dateModified,
   inLanguage: "pt-BR",
   author: { "@type": "Organization", name: "FamiliaUSA1", url: aboutUrl, logo: { "@type": "ImageObject", url: `${SITE_URL}/assets/images/familiausa1-share.svg` } },
+  editor: editorialLead,
   publisher: { "@type": "Organization", name: "FamiliaUSA1", url: SITE_URL, logo: { "@type": "ImageObject", url: `${SITE_URL}/assets/images/familiausa1-share.svg` } },
   mainEntityOfPage: { "@type": "WebPage", "@id": canonical },
   image
@@ -62,7 +71,7 @@ const aboutUrlForSchema = isEnglish ? `${SITE_URL}/brazil-election-2026.html` : 
 blogPosting.inLanguage = isEnglish ? "en-US" : "pt-BR";
 blogPosting.author.url = aboutUrlForSchema;
 ---
-<PageLayout title={article.title} description={article.description} canonical={canonical} image={image} type="article" schemas={schemas}>
+<PageLayout title={article.title} description={article.description} canonical={canonical} image={image} type="article" schemas={schemas} noindex={Boolean(article.noindex)}>
   <header class="narrow-container article-header">
     <nav class="breadcrumb" aria-label="Breadcrumb">
       {isEnglish ? (
@@ -86,12 +95,14 @@ blogPosting.author.url = aboutUrlForSchema;
       {isEnglish ? (
         <>
           <span>By FamiliaUSA1</span>
+          <span>Editorial lead: <a href="/autores/wendel.html">Wendel</a></span>
           <span>Updated {article.dateModified}</span>
           <span>{article.readingTime}</span>
         </>
       ) : (
         <>
           <span>Por <a href="/sobre.html">FamiliaUSA1</a></span>
+          <span>Responsável editorial: <a href="/autores/wendel.html">Wendel</a></span>
           <span>Atualizado em {article.dateModified}</span>
           <span>{article.readingTime}</span>
         </>

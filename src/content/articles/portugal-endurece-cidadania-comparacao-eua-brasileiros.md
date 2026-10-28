@@ -1,5 +1,6 @@
 ---
 draft: false
+noindex: true
 slug: "portugal-endurece-cidadania-comparacao-eua-brasileiros"
 title: "Portugal endurece cidadania em 2026: o que brasileiros podem aprender antes de escolher os EUA"
 h1: "Portugal endurece cidadania em 2026: o que brasileiros podem aprender antes de escolher os EUA"
@@ -13,7 +14,7 @@ tags:
   - "brasileiros-nos-eua"
 featured: false
 datePublished: "2026-05-24"
-dateModified: "2026-09-04"
+dateModified: "2026-10-28"
 readingTime: "12 min de leitura"
 image: "https://familiausa1.com/assets/images/familiausa1-share.svg"
 excerpt: "A nova Lei da Nacionalidade portuguesa entrou em vigor em maio de 2026 e aumentou exigências para naturalização. Para brasileiros que comparam Portugal e Estados Unidos, a principal lição é entender qual relógio legal está sendo contado em cada país."

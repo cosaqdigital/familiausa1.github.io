@@ -1,5 +1,6 @@
 ---
 draft: false
+noindex: true
 slug: "lula-nos-eua-trump-impactos-brasileiros-2026"
 title: "Lula e Trump em 2026: o que aconteceu depois da reunião de maio"
 h1: "Lula e Trump em 2026: o que aconteceu depois da reunião de maio"
@@ -14,7 +15,7 @@ tags:
   - "brasileiros nos Estados Unidos"
 featured: false
 datePublished: "2026-05-07"
-dateModified: "2026-09-17"
+dateModified: "2026-10-28"
 readingTime: "12 min de leitura"
 image: "https://familiausa1.com/assets/images/familiausa1-share.svg"
 excerpt: "A reunião de 7 de maio abriu um canal de negociação comercial, mas os meses seguintes trouxeram tarifas adicionais, contestação brasileira e novas rodadas de diálogo. Veja a cronologia e o que isso significa na prática."

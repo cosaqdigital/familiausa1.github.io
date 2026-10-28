@@ -1,0 +1,79 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { SITE_URL } from "../../data/pilotContent";
+
+const title = "Wendel — responsável editorial do Família USA 1";
+const description = "Conheça Wendel, responsável editorial do Família USA 1, e como funciona a revisão de conteúdos sobre vida de brasileiros nos Estados Unidos.";
+const canonical = `${SITE_URL}/autores/wendel.html`;
+const image = `${SITE_URL}/assets/images/familiausa1/familiausa1-sobre.webp`;
+
+const schemas = [
+  {
+    "@context": "https://schema.org",
+    "@type": "ProfilePage",
+    name: title,
+    description,
+    url: canonical,
+    inLanguage: "pt-BR",
+    mainEntity: {
+      "@type": "Person",
+      name: "Wendel",
+      url: canonical,
+      image,
+      jobTitle: "Responsável editorial",
+      affiliation: {
+        "@type": "Organization",
+        name: "Família USA 1",
+        url: SITE_URL
+      }
+    }
+  }
+];
+---
+
+<BaseLayout title={title} description={description} canonical={canonical} image={image} schemas={schemas}>
+  <header class="narrow-container article-header">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="/index.html">Início</a>
+      <span><a href="/sobre.html">Sobre</a></span>
+      <span>Wendel</span>
+    </nav>
+    <div class="eyebrow">Responsável editorial</div>
+    <h1>Wendel — Família USA 1</h1>
+    <p class="lead">Responsável pela organização e revisão editorial dos conteúdos em português do Família USA 1.</p>
+  </header>
+
+  <section class="narrow-container article-content">
+    <article>
+      <figure class="card" style="overflow: hidden; padding: 0;">
+        <img
+          src="/assets/images/familiausa1/familiausa1-sobre.webp"
+          alt="Família brasileira responsável pelo projeto Família USA 1"
+          loading="eager"
+          style="display: block; width: 100%; height: auto;"
+        />
+      </figure>
+
+      <h2>Sobre o trabalho editorial</h2>
+      <p>Wendel participa do Família USA 1 como responsável editorial, acompanhando a organização das pautas, a clareza dos textos, a atualização de páginas e a qualidade das fontes usadas no portal.</p>
+      <p>O projeto nasce da experiência de uma família brasileira vivendo nos Estados Unidos. Essa vivência ajuda a escolher perguntas relevantes e mostrar situações do cotidiano, mas experiência pessoal não é apresentada como substituta de regra oficial ou aconselhamento profissional.</p>
+
+      <h2>Como os conteúdos são revisados</h2>
+      <p>Antes de um conteúdo ser tratado como guia ou atualização, a revisão editorial busca separar três camadas: experiência da família, explicação informativa e informação que precisa ser confirmada em fonte oficial.</p>
+      <ul>
+        <li>Em imigração e vistos, priorizamos USCIS, Department of State e outras fontes governamentais aplicáveis.</li>
+        <li>Em saúde, finanças, impostos e temas jurídicos, deixamos claro que o conteúdo é informativo e não substitui orientação individual.</li>
+        <li>Datas de atualização são usadas quando existe revisão real de conteúdo, fontes ou contexto.</li>
+        <li>Quando páginas tratam da mesma intenção de busca, o objetivo é consolidá-las em um guia mais útil em vez de repetir o mesmo assunto.</li>
+      </ul>
+
+      <h2>O que esta página não afirma</h2>
+      <p>O Família USA 1 não apresenta Wendel como advogado, médico, contador ou consultor financeiro. O papel descrito aqui é editorial: organizar, revisar, contextualizar e tornar o conteúdo mais transparente para o leitor.</p>
+
+      <h2>Correções</h2>
+      <p>Encontrou informação desatualizada ou um erro? Envie a URL e o trecho pela página de <a href="/contato.html">Contato</a>. O objetivo é corrigir conteúdo verificável e manter o histórico editorial mais confiável.</p>
+
+      <p><a href="/sobre.html">Conheça também a história e a política editorial do Família USA 1.</a></p>
+    </article>
+  </section>
+</BaseLayout>
