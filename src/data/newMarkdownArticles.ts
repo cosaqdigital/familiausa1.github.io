@@ -8,6 +8,7 @@ type MarkdownContentComponent = any;
 type MarkdownModule = {
   frontmatter: {
     draft?: boolean;
+    noindex?: boolean;
     slug?: string;
     title?: string;
     description?: string;
@@ -31,6 +32,7 @@ type MarkdownModule = {
 
 export type NewMarkdownArticle = LegacyGeneratedArticle & {
   source: "markdown";
+  noindex?: boolean;
   Content: MarkdownContentComponent;
 };
 
@@ -71,6 +73,7 @@ export const newMarkdownArticles: NewMarkdownArticle[] = Object.entries(markdown
 
     return {
       source: "markdown" as const,
+      noindex: Boolean(frontmatter.noindex),
       slug,
       title,
       cardTitle: h1,
