@@ -4,7 +4,7 @@ slug: "o-que-sao-eleicoes-meio-de-mandato-eua-midterms-2026"
 title: "O que são as eleições de meio de mandato nos EUA? Entenda as Midterms 2026"
 h1: "O que são as eleições de meio de mandato nos EUA? Entenda as Midterms 2026"
 description: "Entenda o que são as midterms nos Estados Unidos, por que acontecem a cada dois anos, o que será eleito em 2026 e o que muda se o controle do Congresso mudar."
-category: "Imigracao e legalizacao"
+category: "Noticias dos EUA"
 tags:
   - "o que são eleições de meio de mandato"
   - "midterms 2026"
@@ -18,7 +18,7 @@ tags:
   - "eleição americana 2026"
 featured: false
 datePublished: "2026-09-06"
-dateModified: "2026-10-08"
+dateModified: "2026-10-28"
 readingTime: "14 min de leitura"
 image: "https://familiausa1.com/assets/images/familiausa1-share.svg"
 excerpt: "As midterms são eleições para o Congresso realizadas no meio do mandato presidencial. Em 2026, toda a Câmara e aproximadamente um terço do Senado estarão em disputa."
