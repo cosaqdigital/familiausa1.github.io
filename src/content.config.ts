@@ -8,6 +8,7 @@ const articles = defineCollection({
   }),
   schema: z.object({
     draft: z.boolean().default(false),
+    noindex: z.boolean().default(false).optional(),
     slug: z.string(),
     title: z.string(),
     h1: z.string().optional(),
