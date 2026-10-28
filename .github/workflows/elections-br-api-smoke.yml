@@ -1,0 +1,145 @@
+name: Monitor Brazil Elections API
+
+on:
+  workflow_dispatch:
+  pull_request:
+    paths:
+      - "src/pages/eleicoes-brasil-2026.astro"
+      - "src/pages/brazil-election-2026.astro"
+      - ".github/workflows/elections-br-api-smoke.yml"
+  push:
+    branches:
+      - main
+    paths:
+      - "src/pages/eleicoes-brasil-2026.astro"
+      - "src/pages/brazil-election-2026.astro"
+      - ".github/workflows/elections-br-api-smoke.yml"
+  schedule:
+    - cron: "25 12 * * *"
+
+permissions:
+  contents: read
+
+concurrency:
+  group: elections-br-api-smoke
+  cancel-in-progress: true
+
+jobs:
+  smoke:
+    name: Production API smoke test
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+
+    steps:
+      - name: Validate endpoint, JSON and CORS
+        shell: bash
+        env:
+          API_URL: https://familiausa1-elections-api.vercel.app/api/eleicoes/2026/segundo-turno
+          ALLOWED_ORIGIN: https://familiausa1.com
+        run: |
+          set -euo pipefail
+
+          workdir="$(mktemp -d)"
+          headers="$workdir/headers.txt"
+          body="$workdir/body.json"
+
+          http_code="$(
+            curl               --silent               --show-error               --location               --max-time 30               --connect-timeout 10               --header "Accept: application/json"               --header "Origin: $ALLOWED_ORIGIN"               --dump-header "$headers"               --output "$body"               --write-out "%{http_code}"               "$API_URL"
+          )"
+
+          if [ "$http_code" != "200" ]; then
+            echo "Election API returned HTTP $http_code"
+            cat "$body" || true
+            exit 1
+          fi
+
+          tr -d '\r' < "$headers" > "$headers.clean"
+          if ! grep -Fxi "access-control-allow-origin: $ALLOWED_ORIGIN" "$headers.clean"; then
+            echo "Expected CORS origin was not returned."
+            cat "$headers.clean"
+            exit 1
+          fi
+
+          BODY_PATH="$body" node --input-type=module <<'NODE'
+          import fs from "node:fs";
+
+          const path = process.env.BODY_PATH;
+          const raw = fs.readFileSync(path, "utf8");
+          let payload;
+
+          try {
+            payload = JSON.parse(raw);
+          } catch (error) {
+            console.error("Election API did not return valid JSON.");
+            console.error(raw.slice(0, 1000));
+            process.exit(1);
+          }
+
+          if (!payload || typeof payload !== "object") {
+            console.error("Election API returned an invalid payload.");
+            process.exit(1);
+          }
+
+          if (typeof payload.status !== "string" || payload.status.length === 0) {
+            console.error("Election API payload is missing a status string.");
+            process.exit(1);
+          }
+
+          const groups = [];
+          const seen = new Set();
+
+          function walk(value) {
+            if (!value || typeof value !== "object") return;
+            if (Array.isArray(value)) {
+              value.forEach(walk);
+              return;
+            }
+
+            if (Array.isArray(value.candidates) && value.candidates.length) {
+              const key = [
+                value.scope,
+                value.officeCode,
+                value.officeName,
+                value.electionId
+              ].filter(Boolean).join("|");
+
+              if (!seen.has(key)) {
+                seen.add(key);
+                groups.push(value);
+              }
+            }
+
+            Object.values(value).forEach(walk);
+          }
+
+          walk(payload);
+
+          const presidential = groups.find((group) =>
+            String(group.officeCode ?? "").padStart(4, "0") === "0001" ||
+            String(group.officeName ?? "").toLowerCase().includes("presidente")
+          );
+
+          if (["ready", "counting", "finalized"].includes(payload.status) && !presidential) {
+            console.error(`API status is ${payload.status}, but no presidential result group was found.`);
+            process.exit(1);
+          }
+
+          if (presidential && presidential.candidates.length < 2) {
+            console.error("Presidential result group has fewer than two candidates.");
+            process.exit(1);
+          }
+
+          console.log(JSON.stringify({
+            ok: true,
+            status: payload.status,
+            snapshotAt: payload.snapshotAt ?? null,
+            presidentialCandidates: presidential?.candidates?.length ?? 0,
+            groups: groups.length
+          }, null, 2));
+          NODE
+
+      - name: Validate production page is reachable
+        shell: bash
+        run: |
+          set -euo pipefail
+          curl             --fail             --silent             --show-error             --location             --max-time 30             --connect-timeout 10             https://familiausa1.com/eleicoes-brasil-2026.html             | grep -F "Resultados oficiais em um painel simples de acompanhar"
