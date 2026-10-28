@@ -59,6 +59,30 @@
       "targetSlug": "o-que-sao-eleicoes-meio-de-mandato-eua-midterms-2026",
       "dateRetired": "2026-10-08",
       "reason": "Consolidacao de duas URLs com a mesma intencao de busca sobre o que sao as Midterms 2026, preservando como principal a URL ja indexada pelo Google."
+    },
+    {
+      "slug": "green-card-nova-regra-uscis-brasileiros-sair-dos-eua-2026",
+      "targetSlug": "pedido-green-card-dentro-ou-fora-dos-eua-riscos",
+      "dateRetired": "2026-10-28",
+      "reason": "Consolidacao de noticia temporal sobre nova regra/saida dos EUA no guia evergreen de ajuste de status, processamento consular e riscos de sair do pais."
+    },
+    {
+      "slug": "green-card-regras-mais-rigidas-pedido-fora-dos-eua-2026",
+      "targetSlug": "pedido-green-card-dentro-ou-fora-dos-eua-riscos",
+      "dateRetired": "2026-10-28",
+      "reason": "Consolidacao de artigo sobre regras mais rigidas no guia evergreen de green card dentro ou fora dos EUA, reduzindo sobreposicao de intencao."
+    },
+    {
+      "slug": "sair-dos-eua-para-green-card-riscos-2026",
+      "targetSlug": "pedido-green-card-dentro-ou-fora-dos-eua-riscos",
+      "dateRetired": "2026-10-28",
+      "reason": "Consolidacao de artigo sobre riscos de sair dos EUA no guia principal que cobre unlawful presence, processamento consular e inadmissibilidade."
+    },
+    {
+      "slug": "adjustment-of-status-eua-brasileiros-2026",
+      "targetSlug": "pedido-green-card-dentro-ou-fora-dos-eua-riscos",
+      "dateRetired": "2026-10-28",
+      "reason": "Consolidacao do artigo introdutorio de adjustment of status no guia comparativo mais completo sobre ajuste de status e processamento consular."
     }
   ]
 }
