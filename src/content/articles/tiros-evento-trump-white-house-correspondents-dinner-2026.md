@@ -1,5 +1,6 @@
 ---
 draft: false
+noindex: true
 slug: "tiros-evento-trump-white-house-correspondents-dinner-2026"
 title: "Ataque no jantar de correspondentes de 2026: o que aconteceu e o que veio depois"
 h1: "Ataque no jantar de correspondentes de 2026: o que aconteceu e o que veio depois"
@@ -13,7 +14,7 @@ tags:
   - "noticias dos Estados Unidos"
 featured: false
 datePublished: "2026-04-26"
-dateModified: "2026-09-17"
+dateModified: "2026-10-28"
 readingTime: "10 min de leitura"
 image: "https://familiausa1.com/assets/images/familiausa1-share.svg"
 excerpt: "O ataque de 25 de abril de 2026 no Washington Hilton deixou de ser apenas uma notícia em desenvolvimento: houve acusação federal, indiciamento e declaração de inocência do acusado. Veja o que está confirmado e o que continua sendo alegação em processo judicial."
