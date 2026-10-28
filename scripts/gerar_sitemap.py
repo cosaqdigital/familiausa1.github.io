@@ -174,6 +174,8 @@ def adicionar_artigos_markdown(entradas):
         frontmatter = extrair_frontmatter(texto)
         if frontmatter.get("draft", "").lower() == "true":
             continue
+        if frontmatter.get("noindex", "").lower() == "true":
+            continue
 
         slug = frontmatter.get("slug") or arquivo.stem
         lastmod = (
