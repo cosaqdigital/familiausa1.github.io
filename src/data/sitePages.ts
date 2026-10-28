@@ -97,8 +97,15 @@ export const sitePages: SitePage[] = [
     path: "/sobre.html",
     title: "Sobre o Família USA 1: brasileiros vivendo nos EUA",
     description: "Conheça a família por trás do Família USA 1 e o projeto criado para compartilhar experiências reais sobre a vida nos EUA.",
-    lastmod: "2026-09-05",
+    lastmod: "2026-10-28",
     priority: "0.7"
+  },
+  {
+    path: "/autores/wendel.html",
+    title: "Wendel — responsável editorial do Família USA 1",
+    description: "Conheça Wendel, responsável editorial do Família USA 1, e como funciona a revisão de conteúdos sobre vida de brasileiros nos Estados Unidos.",
+    lastmod: "2026-10-28",
+    priority: "0.6"
   },
   {
     path: "/contato.html",
