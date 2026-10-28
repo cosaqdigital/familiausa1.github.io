@@ -12,6 +12,7 @@ type ArticleForLayout = PilotArticle & {
   canonical?: string;
   h1?: string;
   language?: "pt-BR" | "en-US";
+  noindex?: boolean;
 };
 
 interface Props {
@@ -70,7 +71,7 @@ const aboutUrlForSchema = isEnglish ? `${SITE_URL}/brazil-election-2026.html` : 
 blogPosting.inLanguage = isEnglish ? "en-US" : "pt-BR";
 blogPosting.author.url = aboutUrlForSchema;
 ---
-<PageLayout title={article.title} description={article.description} canonical={canonical} image={image} type="article" schemas={schemas}>
+<PageLayout title={article.title} description={article.description} canonical={canonical} image={image} type="article" schemas={schemas} noindex={Boolean(article.noindex)}>
   <header class="narrow-container article-header">
     <nav class="breadcrumb" aria-label="Breadcrumb">
       {isEnglish ? (
