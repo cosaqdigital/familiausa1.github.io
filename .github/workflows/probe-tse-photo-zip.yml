@@ -1,0 +1,26 @@
+name: Probe TSE presidential photos archive
+
+on:
+  push:
+    branches:
+      - fix/election-dashboard-visuals
+    paths:
+      - ".github/workflows/probe-tse-photo-zip.yml"
+
+permissions:
+  contents: read
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - name: Download and inspect official TSE archive
+        shell: bash
+        run: |
+          set -euo pipefail
+          curl --fail --silent --show-error --location --max-time 60 \
+            "https://cdn.tse.jus.br/estatistica/sead/eleicoes/eleicoes2026/fotos/foto_cand2026_BR_div.zip" \
+            --output /tmp/fotos.zip
+          echo "ARCHIVE_BYTES=$(wc -c < /tmp/fotos.zip)"
+          unzip -l /tmp/fotos.zip | sed -n '1,160p'
