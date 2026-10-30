@@ -1,8 +1,8 @@
 # Relatório diário — Imigração e brasileiros nos EUA
 
-Gerado em: 2026-10-30 13:59 EDT
+Gerado em: 2026-10-30 18:16 EDT
 
-Arquivo original: `2026-10-30-13-59-tendencias-imigracao.md`
+Arquivo original: `2026-10-30-18-16-tendencias-imigracao.md`
 
 ## Objetivo
 
@@ -10,30 +10,30 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ## Principais assuntos do dia
 
-1. **Vazamento expõe dados de mais de 41 mil funcionários da imigração dos EUA**
+1. **Imigração nos EUA: os gráficos que mostram impacto do 2º mandato de Trump**
+   - Fonte: BBC
+   - Termo monitorado: imigração EUA
+   - Link: https://news.google.com/rss/articles/CBMiY0FVX3lxTE90N0E2cm9Va0c5cE9YeWJ3T2RsNkVlMDRXM2dXRkcxSGtNV09MZVhuRlNXMjhiSHRaS2Z4cDFZb1ZYR2xrdWxHbnlRTUVvcVBWdV9BLUlHdXVCY1NLeDBiWWhwSdIBaEFVX3lxTE5xbmEtT3RBOTNCS1o1VnJWYVBSVzVXUjJteTZEeTEwd3dsRTFSZkNuQjNMdExjZjRKa2pfUkt5eTVtQmFTU21aa21HNmllcUhkRzVHUk1rb3d2TDdrN1p0UUZnUklqYTBm?oc=5
+
+2. **Vazamento expõe dados de mais de 41 mil funcionários da imigração dos EUA**
    - Fonte: Jovem Pan
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMiwgFBVV95cUxQa2lHTzhkeURoZXhPYjdqX25xbXBScUctblIwcWlaWTMwTmRPd2xKcVM5MlJ4b18xaF9kOEVhOHUta3F6S3g5TVF6NDVHSG0xaHdJcVhaUHhmYWRGd3gyZFg2eDVvVTdVM0FHQ0pzLW1JakdsTEh1blhZUGNNY1F3UzVmY0pLUDdVbEpvZjBXNHlXLVNmUWdBLUFUbnFqbVAwOUozcG9tUzZZSVlfdkxkLTc4TVNjb2ZnRXhuYmdkcU53QQ?oc=5
 
-2. **5 gráficos que mostram impacto do 2º mandato de Trump sobre a imigração nos EUA**
-   - Fonte: Terra
-   - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMi9wFBVV95cUxPcC1leGJ3MzI2OXI4Z3VoTGkxZlVTVWFMMWJPQ2JSdWowZTFwRm91aFczdG1HSURUWTRxbTNsbHNCNHpXS01NWXVMTnBkcjhJVW4zdjdHQUo0Z1JyR2V1ck0xeXp1T3gwN3BMcXctdW5TNFpQR0ZVUUp4TkhyeFBDUkg0dmw0NHFoUTNjRFlJRVEyY1Q0Yms4QXBHVWZTaExEQmVvXzdyMEx5Vk91VHJ5OWcwTkExYlA2MnpvckRJenNGTDE3MktieFF1blR3WEwxYjVQNFJmWWIxVjJjTEY4UnBZbF8zR256b0dVeVM1WDdoTEx4VDR3?oc=5
-
-3. **Vistos e Green Card para os EUA no programa Pode Falar | Andreza Chestnut**
-   - Fonte: Diário do Poder
-   - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxPTUxMcXRhNXFnMUktZTZ5U3Q0dWthSEJRRUt4TnUxUDR0OHUtUE9CQTQxbUlkeEJFbzJyWGtDSlZYRG9QYnAwekZNZGtveHZ0S2dMSEctQnZTTl9sQVp3UTlXckNnd3NydzFmSmlKajZ2NXltb3hlbWJUZDdVeERLMm9GOHhoSkh4QzN4WnBpN0w3VDNxb19xYlROWk1sVTlOWVBwVFFUUWtPdXpTeGtrRGVn0gG3AUFVX3lxTFB1Y0hwOHJsTzlVNF9RY3h2Q2piaVVsSWJkeVN6bFRSNURueHhDZXU5UUtGMXgydENsakwwb3NINEtMS2Y4OU5pVEpMYXk3Ym1aLUd6bENoRTJGdEEwWlBTZ1g0T0J3em1Gek9Fbk13cDdudEZaZXpuTDJmMS1ad1dPTVRrNWRja2NGOWdBQnBZeVFDc3NueXYycHFWb242SmFFTVdvUTQ1ZEc1R0FPUHp6VmVCMENfaw?oc=5
-
-4. **Departamento de imigração dos EUA confirma que Ramagem responde a processo de deportação, mas ex-deputado nega**
+3. **Departamento de imigração dos EUA confirma que Ramagem responde a processo de deportação, mas ex-deputado nega**
    - Fonte: AcheiUSA
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNXpZbWpXSldzUDJWSHR6SEZLbm5EMi10ajhnUDdHbUNRQnRDRnMzQjR3aTVtanhHQ3UwRkZWSGk2cGhLVHNUSUExQkZzaDQwbTdjeHdIbG1nN0k2UERTODFLazA5aWg4Qm0yU0RWc0NlTEFMQXNUVUd5aWhiUWtHeGloM3lmaTNFUGxzaFJjTDh0VWotSHUyZlFGcmhCTTBUcVlIZ21sdGd2bnktRGw1WWU0NE15U2h0R0NYUzRQeE5XcGhvY0xVdG9VaWp6c1dLTndXY0lCVm1ldw?oc=5
 
-5. **Aprovações de cidadania americana caem 73% no primeiro ano do segundo mandato de Trump**
-   - Fonte: Gazeta Brazilian News
+4. **Vistos e Green Card para os EUA no programa Pode Falar | Andreza Chestnut**
+   - Fonte: Diário do Poder
+   - Termo monitorado: imigração EUA
+   - Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxPTUxMcXRhNXFnMUktZTZ5U3Q0dWthSEJRRUt4TnUxUDR0OHUtUE9CQTQxbUlkeEJFbzJyWGtDSlZYRG9QYnAwekZNZGtveHZ0S2dMSEctQnZTTl9sQVp3UTlXckNnd3NydzFmSmlKajZ2NXltb3hlbWJUZDdVeERLMm9GOHhoSkh4QzN4WnBpN0w3VDNxb19xYlROWk1sVTlOWVBwVFFUUWtPdXpTeGtrRGVn0gG3AUFVX3lxTFB1Y0hwOHJsTzlVNF9RY3h2Q2piaVVsSWJkeVN6bFRSNURueHhDZXU5UUtGMXgydENsakwwb3NINEtMS2Y4OU5pVEpMYXk3Ym1aLUd6bENoRTJGdEEwWlBTZ1g0T0J3em1Gek9Fbk13cDdudEZaZXpuTDJmMS1ad1dPTVRrNWRja2NGOWdBQnBZeVFDc3NueXYycHFWb242SmFFTVdvUTQ1ZEc1R0FPUHp6VmVCMENfaw?oc=5
+
+5. **Mais de 70% dos novos green cards na Flórida foram concedidos a quem já vivia nos EUA**
+   - Fonte: AcheiUSA
    - Termo monitorado: USCIS
-   - Link: https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNlNTMTJJS2REdnJ4ZXVJcHRyenNEek5QNlhWVUZKbXpUcjFGb2JLd1NsdFpPcVJCUGN2ZE5UdzZnZGd2QUl3WUdfT2VLWkktTnBmbWtGOFhGbVdHbUR4Z1Z0X0RWeXRFdTBfbjBaMWFJeGw1NnpraXEtNHY3VHVmakxENGlURVdmcGVrX3RoNE5qeU9DZ1VyRjYtVXZpN3ZwRV81dUpfQ2puWXdpSElVWmN2b3UyNEN5TGJHZzl2d1k3dVFzc2poQVhsZjBqdUQ3bzZEX3lBQmhZZw?oc=5
+   - Link: https://news.google.com/rss/articles/CBMiwwFBVV95cUxObTdSVEdXcHB0Yy12MUpnRjNjY2RBSmQ2VHJ1aFQ5bnlxZWI4UkoyYU44dnBRM3VWNzJpcHA1ZENnNVBVSklPV1MyZnl2dFdXZFluX0JJRERKTm9oUnMtYUNITUJlLUJVSlhjQ3ptbGVfNWVJdGduendqSGhqNmdNTkdXRV94RUZjaHBDMGhkNkRVZ0JwUGFxTEdrbGxfYk9ycW8zOHFTa3ZTVWc2VnZqenczWmduV3NHTTZ0cUlFYmVLdE0?oc=5
 
 
 ## Sugestões de artigos para publicar
@@ -48,30 +48,30 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### imigração EUA
 
+- **Imigração nos EUA: os gráficos que mostram impacto do 2º mandato de Trump**
+  - Fonte: BBC
+  - Link: https://news.google.com/rss/articles/CBMiY0FVX3lxTE90N0E2cm9Va0c5cE9YeWJ3T2RsNkVlMDRXM2dXRkcxSGtNV09MZVhuRlNXMjhiSHRaS2Z4cDFZb1ZYR2xrdWxHbnlRTUVvcVBWdV9BLUlHdXVCY1NLeDBiWWhwSdIBaEFVX3lxTE5xbmEtT3RBOTNCS1o1VnJWYVBSVzVXUjJteTZEeTEwd3dsRTFSZkNuQjNMdExjZjRKa2pfUkt5eTVtQmFTU21aa21HNmllcUhkRzVHUk1rb3d2TDdrN1p0UUZnUklqYTBm?oc=5
 - **Vazamento expõe dados de mais de 41 mil funcionários da imigração dos EUA**
   - Fonte: Jovem Pan
   - Link: https://news.google.com/rss/articles/CBMiwgFBVV95cUxQa2lHTzhkeURoZXhPYjdqX25xbXBScUctblIwcWlaWTMwTmRPd2xKcVM5MlJ4b18xaF9kOEVhOHUta3F6S3g5TVF6NDVHSG0xaHdJcVhaUHhmYWRGd3gyZFg2eDVvVTdVM0FHQ0pzLW1JakdsTEh1blhZUGNNY1F3UzVmY0pLUDdVbEpvZjBXNHlXLVNmUWdBLUFUbnFqbVAwOUozcG9tUzZZSVlfdkxkLTc4TVNjb2ZnRXhuYmdkcU53QQ?oc=5
-- **5 gráficos que mostram impacto do 2º mandato de Trump sobre a imigração nos EUA**
-  - Fonte: Terra
-  - Link: https://news.google.com/rss/articles/CBMi9wFBVV95cUxPcC1leGJ3MzI2OXI4Z3VoTGkxZlVTVWFMMWJPQ2JSdWowZTFwRm91aFczdG1HSURUWTRxbTNsbHNCNHpXS01NWXVMTnBkcjhJVW4zdjdHQUo0Z1JyR2V1ck0xeXp1T3gwN3BMcXctdW5TNFpQR0ZVUUp4TkhyeFBDUkg0dmw0NHFoUTNjRFlJRVEyY1Q0Yms4QXBHVWZTaExEQmVvXzdyMEx5Vk91VHJ5OWcwTkExYlA2MnpvckRJenNGTDE3MktieFF1blR3WEwxYjVQNFJmWWIxVjJjTEY4UnBZbF8zR256b0dVeVM1WDdoTEx4VDR3?oc=5
 
 ### USCIS
 
-- **Aprovações de cidadania americana caem 73% no primeiro ano do segundo mandato de Trump**
-  - Fonte: Gazeta Brazilian News
-  - Link: https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNlNTMTJJS2REdnJ4ZXVJcHRyenNEek5QNlhWVUZKbXpUcjFGb2JLd1NsdFpPcVJCUGN2ZE5UdzZnZGd2QUl3WUdfT2VLWkktTnBmbWtGOFhGbVdHbUR4Z1Z0X0RWeXRFdTBfbjBaMWFJeGw1NnpraXEtNHY3VHVmakxENGlURVdmcGVrX3RoNE5qeU9DZ1VyRjYtVXZpN3ZwRV81dUpfQ2puWXdpSElVWmN2b3UyNEN5TGJHZzl2d1k3dVFzc2poQVhsZjBqdUQ3bzZEX3lBQmhZZw?oc=5
 - **Mais de 70% dos novos green cards na Flórida foram concedidos a quem já vivia nos EUA**
   - Fonte: AcheiUSA
   - Link: https://news.google.com/rss/articles/CBMiwwFBVV95cUxObTdSVEdXcHB0Yy12MUpnRjNjY2RBSmQ2VHJ1aFQ5bnlxZWI4UkoyYU44dnBRM3VWNzJpcHA1ZENnNVBVSklPV1MyZnl2dFdXZFluX0JJRERKTm9oUnMtYUNITUJlLUJVSlhjQ3ptbGVfNWVJdGduendqSGhqNmdNTkdXRV94RUZjaHBDMGhkNkRVZ0JwUGFxTEdrbGxfYk9ycW8zOHFTa3ZTVWc2VnZqenczWmduV3NHTTZ0cUlFYmVLdE0?oc=5
+- **Do papel ao digital: USCIS exige e-filing obrigatório**
+  - Fonte: Migalhas
+  - Link: https://news.google.com/rss/articles/CBMimgFBVV95cUxPU3lXOWsxRDdlbEh4anpHUmp2amh5SHpCaUlWVmtIa3VqWFpYTWZ0Ujh1NlV0d1N4TUw1cmN6cG5UdWZ1c0ZZdG1hMGV6eWY3STQ5SldkTmpudHhCcHlaZXZoTFRIdkdXRm5Za1NPRkd3LWs5dl93N1poWmZ3cm1fTFA1NHN4SllBWGlRRk12WTNtM2djNGw3VWtB?oc=5
 
 ### green card
 
 - **Governo Trump deve acelerar processo de green card de Flávio, diz NYT**
   - Fonte: CNN Brasil
   - Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxNTEpTNkpkNTZDU1E4bEpVLXNyR1BrNTFydWdtaTJ6Y0tHT0VIQm8yZS1IQWFKZWUyUXNTOWpueUJkbm95M3Rsd2dKSkRwMkNGNU5xQ3hlYUxSTDcwZ01DVHplYVJ4TlRGbzh3STNENmYzaEt3M1ZJSUF6QmluUDFsRVU5NzFsNzd4bjYwSG0tVmZsLWg0dktZZElmOUdGNnNlam5SV2FuNlBiTkZZM28ycTJR?oc=5
-- **Flávio Bolsonaro precisa agarrar-se a Trump nem que seja para arrumar um green card**
-  - Fonte: Estadão
-  - Link: https://news.google.com/rss/articles/CBMi3AFBVV95cUxNRDhJb3hrWXhRV3BuXzd2NFVPbnlvQnpBdFB2cHVoOC1wSVBZMnp1NThtajU4alFGYTFhMWZQQ1kwRlU1ZUMtR3h6aUJzQlFPakVnWk5ZaGdmaTdvalc2YThCRjRpVUxaR1hqYVNwZDE5bHpTOTVmQ2QwR0pEemgxN3gyTGtfYmdpZHlOYWNHYVN5TjFFYXN6UnoxYWtxZVVBc2dvY0s4X2hFVWN5OGhWVms1cmNIOGpuWW5GZEdoT3kwM3lQeU1uSUdsLThXMDI4QWlRYXhhTU1yd3Ft?oc=5
+- **Em carta, deputados dos EUA questionam papel de Trump na fuga de Flávio Bolsonaro e emissão de greencard**
+  - Fonte: G1
+  - Link: https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQWpFNnRxcnBhdmw3RWZXNlVSVUJYQlI3VmlmSE9rb1lYcENkUmtLdjFOcFRDR2xhQUtaaGhscjYwMVRjSzRvNExVRE9LYnU2N2ViUndWQURmWjNsbmVWbU8wdzZVT3k5N2NMNjk1NmN1dzEzZ25RdHVtUHBZUEJzajdtd1RTSHd3ZVlJU3ZyTGNBOUI4ekF1ZGZEY2FGZzBHbE5pczlEQUd3V3RHR09oNUs1TFd1LU5GR0pXRzhvVGxFQWFQNVlwSENKMktYTUt0azQ5S9IB4wFBVV95cUxPNnFLT1E0OE8xRWxnZzk4YWFyU25ZMnFOdWx2YmJ1ZTZJRndfakg0TWFTZnFIQVZUZXBqb2p3V3B1RWtGMXdRUGI3WjhGMXJWN0I3U3ZfOWdSYjJzU2p5ZGZUbHBGbXhwUjQ1Vk9VVkQ1R21sc0ktWkR0Q0M5NXJndzhsNGpXRGhxV2pjVUpzazRvU004azdDTGNkcmUtd29pNWRyZERhUFBmSkh4RjVCLTVjQ3Vzd3RqSldvcGxfVzN0ck1iUFdyYXljVGdFZnhCcVpfaGYyMEdvX0MzVlIxek9LQQ?oc=5
 
 ### visto americano
 
@@ -87,9 +87,9 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 - **Brasileiros concorrem nas eleições dos EUA e fazem oposição a Trump; saiba quem são**
   - Fonte: G1
   - Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxPUDZmMVEybHR5NENYMHd2YlkxRDZFazdndFlaeGhBS3JpeEF1eHZaM21CR0NkYmEzcTNiZWVGMkhTX0dxSkhWbkVnRVB2M3VNV1BJTzdqQU5DdmF3QUFyUVdybHB3cThlTnFwRERRVG1EcnhIcFNaLVY5VmRCZzdZVm9wM3dQbzhtMTJLQWZuUXFINi1TTUV0NnI4YnVIRVhVT0VmU3dfRjQtLWh5RDRwbUpLX0lTT0F3ZWfSAcgBQVVfeXFMT0ZUTERuODdlTmpDa0dxd05hT0FKbzlzNTdXZW1XNkpfZ0JYeHd2V0l5bEVjdF94VnowZkpPelIzcmQ4UFY3Wk81Q0Zmc2ZVek1YYU1RRlZpQlV4Z2VoQ3d6Nld1cGZ6ZmhrX3RJWFJlSnRMenFfeF9hMlRHYWwxUS1vNVNRR0RsaDQxcmFHejMzM25xTldFbjd5dnJ6MlpkeS02cmVMd2xmcHR4a2E5UFJ2R3dRRG91TGdGeGV5NVAxNFFPZkZiV08?oc=5
-- **Embaixada dos EUA em Brasília destacou em relatório vitória ‘definitiva’ de Lula**
-  - Fonte: ICL Notícias
-  - Link: https://news.google.com/rss/articles/CBMic0FVX3lxTFBuVUdXRGpUc3VjS0xuR2g1aGw4aG03Tk9JQlRBaTFHMUZXc2ZZeGZFamxRb2ZGX0loWEpfcGVnUVJBZVNHamlLeHRSOTBObktsdFdzaVBtcFpaQmNHWmU3eXZvRVdkMnU4aUlXREhtM1BIU1U?oc=5
+- **Número de brasileiros que querem emigrar para os EUA dispara após eleição de Lula**
+  - Fonte: Folha de S.Paulo
+  - Link: https://news.google.com/rss/articles/CBMi2gFBVV95cUxNYnRZdWFJT2xYRVJaOXdWYUUzR3hIOS1fejIxUDYza2VqYWNWMExQNW4wckc2ODhoUmZLMmk1cV9LMGdLTC1NVjBGWGZETlpyVzFYZXJHcHcyb3o4czhKX0RVRFdkLW54LTVGdzBxeC1vSkh6YklKbGZ5a0NyQXJKWU55V2hnakx4dHg4VTRncE9BbFAwLVNhNzh2dkQ4SVlRd1U1UWhrZjBzTXFZalZjMFFlSS1HR2dtZFVnQTlCM0NHODVzX3dTWnVNWk03Y2tXbGhJblVvLTFpdw?oc=5
 
 ### asilo nos EUA
 
