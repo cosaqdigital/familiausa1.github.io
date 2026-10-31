@@ -1,5 +1,6 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
+import ElectionReadingPaths from "../components/ElectionReadingPaths.astro";
 import { SITE_URL } from "../data/pilotContent";
 
 const title = "Resultados Eleições Brasil 2026: 2º turno | FamiliaUSA1";
@@ -184,6 +185,8 @@ const alternates = [
       </details>
     </section>
   </section>
+
+  <ElectionReadingPaths focus="brasil" />
 
   <script define:vars={{ apiBase }}>
     const endpoint = `${apiBase.replace(/\/$/, "")}/api/eleicoes/2026/segundo-turno`;
