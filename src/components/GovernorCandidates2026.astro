@@ -1,0 +1,260 @@
+---
+type Candidate = {
+  name: string;
+  party: string;
+  imageFile: string;
+  initials: string;
+  photoAuthor: string;
+  license: string;
+  licenseUrl?: string;
+};
+
+type Race = {
+  state: string;
+  abbreviation: string;
+  emphasis?: boolean;
+  candidates: Candidate[];
+};
+
+const races: Race[] = [
+  {
+    state: "Flórida",
+    abbreviation: "FL",
+    emphasis: true,
+    candidates: [
+      {
+        name: "Byron Donalds",
+        party: "Partido Republicano",
+        imageFile: "Byron Donalds portrait (118th Congress).jpg",
+        initials: "BD",
+        photoAuthor: "Câmara dos Representantes dos EUA",
+        license: "Domínio público"
+      },
+      {
+        name: "David Jolly",
+        party: "Partido Democrata",
+        imageFile: "David Jolly.jpg",
+        initials: "DJ",
+        photoAuthor: "Congresso dos EUA",
+        license: "Domínio público"
+      }
+    ]
+  },
+  {
+    state: "Texas",
+    abbreviation: "TX",
+    candidates: [
+      {
+        name: "Greg Abbott",
+        party: "Partido Republicano",
+        imageFile: "Greg Abbott 2015.jpg",
+        initials: "GA",
+        photoAuthor: "J Dimas",
+        license: "CC BY 2.0",
+        licenseUrl: "https://creativecommons.org/licenses/by/2.0/"
+      },
+      {
+        name: "Gina Hinojosa",
+        party: "Partido Democrata",
+        imageFile: "GinaHinojosa.jpg",
+        initials: "GH",
+        photoAuthor: "BlueCrystal7897",
+        license: "CC BY-SA 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  {
+    state: "Califórnia",
+    abbreviation: "CA",
+    candidates: [
+      {
+        name: "Xavier Becerra",
+        party: "Partido Democrata",
+        imageFile: "HHS Xavier Becerra.jpg",
+        initials: "XB",
+        photoAuthor: "Departamento de Saúde dos EUA",
+        license: "Domínio público"
+      },
+      {
+        name: "Steve Hilton",
+        party: "Partido Republicano",
+        imageFile: "Steve Hilton Madera 2026.jpg",
+        initials: "SH",
+        photoAuthor: "TaurusEmerald",
+        license: "CC BY-SA 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  {
+    state: "Arizona",
+    abbreviation: "AZ",
+    candidates: [
+      {
+        name: "Andy Biggs",
+        party: "Partido Republicano",
+        imageFile: "Andy Biggs official portrait (headshot).jpg",
+        initials: "AB",
+        photoAuthor: "Congresso dos EUA",
+        license: "Domínio público"
+      },
+      {
+        name: "Katie Hobbs",
+        party: "Partido Democrata",
+        imageFile: "Katie Hobbs 2026.jpg",
+        initials: "KH",
+        photoAuthor: "Gage Skidmore",
+        license: "CC BY-SA 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    ]
+  },
+  {
+    state: "Nova York",
+    abbreviation: "NY",
+    candidates: [
+      {
+        name: "Bruce Blakeman",
+        party: "Partido Republicano",
+        imageFile: "Blakeman Profile Picture.jpg",
+        initials: "BB",
+        photoAuthor: "Arthur Raslich",
+        license: "CC BY-SA 4.0",
+        licenseUrl: "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      {
+        name: "Kathy Hochul",
+        party: "Partido Democrata",
+        imageFile: "Kathy Hochul official portrait.jpg",
+        initials: "KH",
+        photoAuthor: "Congresso dos EUA",
+        license: "Domínio público"
+      }
+    ]
+  }
+];
+
+const commonsFile = (file: string) =>
+  "https://commons.wikimedia.org/wiki/File:" + encodeURIComponent(file.replaceAll(" ", "_"));
+const commonsImage = (file: string) =>
+  "https://commons.wikimedia.org/wiki/Special:FilePath/" + encodeURIComponent(file.replaceAll(" ", "_")) + "?width=400";
+---
+<section class="container gov-candidates-section" id="candidatos-governadores-2026" aria-labelledby="gov-candidates-heading">
+  <div class="gov-candidates-intro">
+    <div>
+      <span class="eyebrow">Eleições estaduais · 3 de novembro</span>
+      <h2 id="gov-candidates-heading">Quem disputa os governos estaduais em 2026?</h2>
+      <p>
+        Conheça, pelas fotos e pelos nomes, os candidatos dos partidos Republicano e Democrata em cinco estados
+        selecionados. A <strong>Flórida</strong> aparece primeiro por fazer parte do destaque editorial do FamiliaUSA1.
+      </p>
+    </div>
+    <span class="gov-candidates-update">Candidaturas conferidas em 31/10/2026</span>
+  </div>
+
+  <div class="gov-races-grid">
+    {races.map((race) => (
+      <section class:list={["gov-state-card", { "gov-state-card-featured": race.emphasis }]} aria-labelledby={"gov-state-" + race.abbreviation}>
+        <div class="gov-state-heading">
+          <div>
+            <span class="gov-state-eyebrow">Governador · {race.abbreviation}</span>
+            <h3 id={"gov-state-" + race.abbreviation}>{race.state}</h3>
+          </div>
+          {race.emphasis && <span class="gov-state-feature-label">Destaque Flórida</span>}
+        </div>
+        <div class="gov-candidate-pair">
+          {race.candidates.map((candidate) => (
+            <article class="gov-candidate">
+              <div class="gov-portrait">
+                <span aria-hidden="true" class="gov-portrait-fallback">{candidate.initials}</span>
+                <img
+                  src={commonsImage(candidate.imageFile)}
+                  alt={"Retrato de " + candidate.name + ", candidato ao governo de " + race.state}
+                  width="160"
+                  height="190"
+                  loading="lazy"
+                  decoding="async"
+                  referrerpolicy="no-referrer"
+                />
+              </div>
+              <div class="gov-candidate-copy">
+                <h4>{candidate.name}</h4>
+                <p class="gov-party">{candidate.party}</p>
+                <p class="gov-photo-credit">
+                  Foto: <a href={commonsFile(candidate.imageFile)} target="_blank" rel="noopener noreferrer">{candidate.photoAuthor}</a>
+                  {" · "}
+                  {candidate.licenseUrl
+                    ? <a href={candidate.licenseUrl} target="_blank" rel="noopener noreferrer">{candidate.license}</a>
+                    : <span>{candidate.license}</span>}
+                </p>
+              </div>
+            </article>
+          ))}
+        </div>
+        <div class="gov-state-links">
+          <a href="https://www.nga.org/governors/elections/" target="_blank" rel="noopener noreferrer">
+            Conferir candidaturas na Associação Nacional de Governadores
+          </a>
+          {race.abbreviation === "FL" && (
+            <a href="/articles/eleicoes-florida-2026-o-que-acompanhar.html">Entenda a eleição da Flórida</a>
+          )}
+        </div>
+      </section>
+    ))}
+  </div>
+
+  <p class="gov-candidates-disclaimer">
+    <strong>Como usar esta lista:</strong> seleção informativa de cinco estados e dos candidatos dos dois maiores
+    partidos, não uma relação completa de todos os participantes da eleição. Não indica preferência, projeções,
+    liderança ou vencedores. Outros partidos e candidatos podem constar nas cédulas; consulte as autoridades
+    eleitorais estaduais para a lista oficial. As fotos são ilustrativas de identificação e podem ser de anos anteriores.
+    Enquadramento visual ajustado pelo layout, com créditos e licenças vinculados aos arquivos originais.
+    Os resultados preliminares, quando disponíveis, aparecem separadamente no painel de apuração.
+  </p>
+</section>
+
+<style>
+  .gov-candidates-section{padding-top:44px;padding-bottom:46px}
+  .gov-candidates-intro{display:flex;justify-content:space-between;gap:28px;align-items:end;margin-bottom:26px}
+  .gov-candidates-intro>div{max-width:825px}
+  .gov-candidates-intro h2{margin:9px 0 12px;color:var(--navy);font-family:var(--font-display);font-size:clamp(2rem,4vw,3.4rem);line-height:1.08;letter-spacing:-.035em}
+  .gov-candidates-intro p,.gov-candidates-disclaimer{color:var(--ink-soft);line-height:1.65}
+  .gov-candidates-update{flex-shrink:0;font-size:.8rem;color:var(--muted);font-weight:700}
+  .gov-races-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px}
+  .gov-state-card{background:#fff;border:1px solid var(--line);border-radius:22px;padding:clamp(17px,2.5vw,25px);box-shadow:var(--shadow-soft)}
+  .gov-state-card-featured{grid-column:1/-1;background:linear-gradient(115deg,#fffaf1,#fff)}
+  .gov-state-heading{display:flex;justify-content:space-between;align-items:center;gap:14px;margin-bottom:19px}
+  .gov-state-heading h3{margin:5px 0 0;font-family:var(--font-display);font-size:clamp(1.45rem,2.3vw,2.05rem);color:var(--navy)}
+  .gov-state-eyebrow{color:var(--terracotta);font-size:.73rem;text-transform:uppercase;letter-spacing:.09em;font-weight:850}
+  .gov-state-feature-label{font-size:.76rem;color:var(--navy);border:1px solid var(--line);border-radius:100px;padding:7px 10px}
+  .gov-candidate-pair{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}
+  .gov-candidate{display:flex;gap:13px;align-items:start;min-width:0}
+  .gov-portrait{position:relative;flex:0 0 clamp(80px,9vw,112px);height:clamp(108px,12vw,142px);overflow:hidden;border-radius:13px;background:#e7e5e0;display:flex;align-items:center;justify-content:center}
+  .gov-portrait-fallback{font-size:1.65rem;color:#65768b;font-weight:850}
+  .gov-portrait img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:center 22%}
+  .gov-candidate-copy{min-width:0;padding-top:3px}
+  .gov-candidate h4{font-size:clamp(1rem,1.5vw,1.2rem);line-height:1.25;color:var(--navy);margin:0 0 7px}
+  .gov-party{font-size:.82rem;color:var(--ink-soft);font-weight:700;margin:0 0 12px}
+  .gov-photo-credit{color:var(--muted);font-size:.68rem;line-height:1.5;margin:0;overflow-wrap:anywhere}
+  .gov-photo-credit a,.gov-state-links a{color:inherit;text-underline-offset:2px}
+  .gov-photo-credit a:hover,.gov-state-links a:hover{color:var(--navy)}
+  .gov-state-links{display:flex;gap:12px 22px;flex-wrap:wrap;border-top:1px solid var(--line);margin-top:18px;padding-top:14px;font-size:.76rem;color:var(--ink-soft)}
+  .gov-candidates-disclaimer{font-size:.82rem;margin:20px 0 0;max-width:1000px}
+  @media(max-width:1000px){
+    .gov-candidate{flex-direction:column}
+    .gov-portrait{width:100%;height:150px;flex:none}
+    .gov-candidates-intro{align-items:start;flex-direction:column;gap:4px}
+  }
+  @media(max-width:670px){
+    .gov-races-grid{grid-template-columns:1fr}
+    .gov-state-card-featured{grid-column:auto}
+    .gov-candidate{flex-direction:row}
+    .gov-portrait{width:90px;height:116px;flex:0 0 90px}
+  }
+  @media(max-width:420px){
+    .gov-candidate-pair{gap:12px}
+    .gov-candidate{flex-direction:column}
+    .gov-portrait{width:100%;height:155px;flex:none}
+  }
+</style>
