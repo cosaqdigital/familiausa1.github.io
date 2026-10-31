@@ -13,6 +13,8 @@ type Race = {
   state: string;
   abbreviation: string;
   emphasis?: boolean;
+  sourceUrl: string;
+  sourceLabel: string;
   candidates: Candidate[];
 };
 
@@ -20,6 +22,8 @@ const races: Race[] = [
   {
     state: "Flórida",
     abbreviation: "FL",
+    sourceUrl: "https://dos.elections.myflorida.com/candidates/CanList.asp?OfficeCode=GOV&elecid=20261103-GEN",
+    sourceLabel: "Lista oficial da Flórida",
     emphasis: true,
     candidates: [
       {
@@ -43,6 +47,8 @@ const races: Race[] = [
   {
     state: "Texas",
     abbreviation: "TX",
+    sourceUrl: "https://www.sos.state.tx.us/elections/forms/2026-ballot-cert.pdf",
+    sourceLabel: "Cédula certificada do Texas",
     candidates: [
       {
         name: "Greg Abbott",
@@ -67,6 +73,8 @@ const races: Race[] = [
   {
     state: "Califórnia",
     abbreviation: "CA",
+    sourceUrl: "https://voterguide.sos.ca.gov/candidates/governor-candidate-statements.htm",
+    sourceLabel: "Guia oficial da Califórnia",
     candidates: [
       {
         name: "Xavier Becerra",
@@ -90,6 +98,8 @@ const races: Race[] = [
   {
     state: "Arizona",
     abbreviation: "AZ",
+    sourceUrl: "https://azsos.gov/elections",
+    sourceLabel: "Secretaria de Estado do Arizona",
     candidates: [
       {
         name: "Andy Biggs",
@@ -113,6 +123,8 @@ const races: Race[] = [
   {
     state: "Nova York",
     abbreviation: "NY",
+    sourceUrl: "https://www.nycvotes.org/whats-on-the-ballot/2026-general-election-voter-guide/governor/",
+    sourceLabel: "Guia eleitoral oficial de Nova York",
     candidates: [
       {
         name: "Bruce Blakeman",
@@ -193,9 +205,7 @@ const commonsImage = (file: string) =>
           ))}
         </div>
         <div class="gov-state-links">
-          <a href="https://www.nga.org/governors/elections/" target="_blank" rel="noopener noreferrer">
-            Conferir candidaturas na Associação Nacional de Governadores
-          </a>
+          <a href={race.sourceUrl} target="_blank" rel="noopener noreferrer">{race.sourceLabel}</a>
           {race.abbreviation === "FL" && (
             <a href="/articles/eleicoes-florida-2026-o-que-acompanhar.html">Entenda a eleição da Flórida</a>
           )}
@@ -213,6 +223,14 @@ const commonsImage = (file: string) =>
     Os resultados preliminares, quando disponíveis, aparecem separadamente no painel de apuração.
   </p>
 </section>
+
+<script>
+  document.querySelectorAll<HTMLImageElement>(".gov-portrait img").forEach((portrait) => {
+    const hideBrokenPhoto = () => { portrait.style.display = "none"; };
+    if (portrait.complete && portrait.naturalWidth === 0) hideBrokenPhoto();
+    else portrait.addEventListener("error", hideBrokenPhoto, { once: true });
+  });
+</script>
 
 <style>
   .gov-candidates-section{padding-top:44px;padding-bottom:46px}
