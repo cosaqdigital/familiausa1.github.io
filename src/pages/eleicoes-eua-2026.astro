@@ -1,6 +1,7 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
 import ElectionReadingPaths from "../components/ElectionReadingPaths.astro";
+import GovernorCandidates2026 from "../components/GovernorCandidates2026.astro";
 import { SITE_URL } from "../data/pilotContent";
 
 const title = "Eleições EUA 2026 ao vivo: Midterms | FamiliaUSA1";
@@ -81,6 +82,8 @@ const apiBase = import.meta.env.PUBLIC_US_ELECTIONS_API_BASE_URL || "https://fam
       </span>
     </div>
   </section>
+
+  <GovernorCandidates2026 />
 
   <ElectionReadingPaths focus="eua" />
 
