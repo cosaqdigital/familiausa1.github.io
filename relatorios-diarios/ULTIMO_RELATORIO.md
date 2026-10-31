@@ -1,8 +1,8 @@
 # Relatório diário — Imigração e brasileiros nos EUA
 
-Gerado em: 2026-10-30 18:16 EDT
+Gerado em: 2026-10-31 01:36 EDT
 
-Arquivo original: `2026-10-30-18-16-tendencias-imigracao.md`
+Arquivo original: `2026-10-31-01-36-tendencias-imigracao.md`
 
 ## Objetivo
 
@@ -20,15 +20,15 @@ Este relatório serve como base para criação de artigos atualizados para o blo
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMiwgFBVV95cUxQa2lHTzhkeURoZXhPYjdqX25xbXBScUctblIwcWlaWTMwTmRPd2xKcVM5MlJ4b18xaF9kOEVhOHUta3F6S3g5TVF6NDVHSG0xaHdJcVhaUHhmYWRGd3gyZFg2eDVvVTdVM0FHQ0pzLW1JakdsTEh1blhZUGNNY1F3UzVmY0pLUDdVbEpvZjBXNHlXLVNmUWdBLUFUbnFqbVAwOUozcG9tUzZZSVlfdkxkLTc4TVNjb2ZnRXhuYmdkcU53QQ?oc=5
 
-3. **Departamento de imigração dos EUA confirma que Ramagem responde a processo de deportação, mas ex-deputado nega**
-   - Fonte: AcheiUSA
-   - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNXpZbWpXSldzUDJWSHR6SEZLbm5EMi10ajhnUDdHbUNRQnRDRnMzQjR3aTVtanhHQ3UwRkZWSGk2cGhLVHNUSUExQkZzaDQwbTdjeHdIbG1nN0k2UERTODFLazA5aWg4Qm0yU0RWc0NlTEFMQXNUVUd5aWhiUWtHeGloM3lmaTNFUGxzaFJjTDh0VWotSHUyZlFGcmhCTTBUcVlIZ21sdGd2bnktRGw1WWU0NE15U2h0R0NYUzRQeE5XcGhvY0xVdG9VaWp6c1dLTndXY0lCVm1ldw?oc=5
-
-4. **Vistos e Green Card para os EUA no programa Pode Falar | Andreza Chestnut**
+3. **Vistos e Green Card para os EUA no programa Pode Falar | Andreza Chestnut**
    - Fonte: Diário do Poder
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxPTUxMcXRhNXFnMUktZTZ5U3Q0dWthSEJRRUt4TnUxUDR0OHUtUE9CQTQxbUlkeEJFbzJyWGtDSlZYRG9QYnAwekZNZGtveHZ0S2dMSEctQnZTTl9sQVp3UTlXckNnd3NydzFmSmlKajZ2NXltb3hlbWJUZDdVeERLMm9GOHhoSkh4QzN4WnBpN0w3VDNxb19xYlROWk1sVTlOWVBwVFFUUWtPdXpTeGtrRGVn0gG3AUFVX3lxTFB1Y0hwOHJsTzlVNF9RY3h2Q2piaVVsSWJkeVN6bFRSNURueHhDZXU5UUtGMXgydENsakwwb3NINEtMS2Y4OU5pVEpMYXk3Ym1aLUd6bENoRTJGdEEwWlBTZ1g0T0J3em1Gek9Fbk13cDdudEZaZXpuTDJmMS1ad1dPTVRrNWRja2NGOWdBQnBZeVFDc3NueXYycHFWb242SmFFTVdvUTQ1ZEc1R0FPUHp6VmVCMENfaw?oc=5
+
+4. **Hackers expõem dados de 41 mil agentes de imigração dos EUA**
+   - Fonte: UOL
+   - Termo monitorado: imigração EUA
+   - Link: https://news.google.com/rss/articles/CBMivAFBVV95cUxOeFQwM3lVZmVIS0xPQ282b2tkaHhzSnA3MlpsajlibEFralUzdjFBUDB3dFRVZXVRT0NId0dXRWlZdE93aGF3blFyRWYyY2ZYekZtdG9VYUlxY0FGOENuNnBRcEdhN3IwVXVjWVhqOURsZkFLMU1YWjcxZUF3c2FpVlhjTUl1dlgtMTAxTUdPSUlGNFNBV2ZxZ21GRW1LRXM2anhCaVNqckNYb1pxTkNHQVVCWThpcUtnN09WYw?oc=5
 
 5. **Mais de 70% dos novos green cards na Flórida foram concedidos a quem já vivia nos EUA**
    - Fonte: AcheiUSA
@@ -66,18 +66,18 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### green card
 
-- **Governo Trump deve acelerar processo de green card de Flávio, diz NYT**
-  - Fonte: CNN Brasil
-  - Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxNTEpTNkpkNTZDU1E4bEpVLXNyR1BrNTFydWdtaTJ6Y0tHT0VIQm8yZS1IQWFKZWUyUXNTOWpueUJkbm95M3Rsd2dKSkRwMkNGNU5xQ3hlYUxSTDcwZ01DVHplYVJ4TlRGbzh3STNENmYzaEt3M1ZJSUF6QmluUDFsRVU5NzFsNzd4bjYwSG0tVmZsLWg0dktZZElmOUdGNnNlam5SV2FuNlBiTkZZM28ycTJR?oc=5
 - **Em carta, deputados dos EUA questionam papel de Trump na fuga de Flávio Bolsonaro e emissão de greencard**
   - Fonte: G1
   - Link: https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQWpFNnRxcnBhdmw3RWZXNlVSVUJYQlI3VmlmSE9rb1lYcENkUmtLdjFOcFRDR2xhQUtaaGhscjYwMVRjSzRvNExVRE9LYnU2N2ViUndWQURmWjNsbmVWbU8wdzZVT3k5N2NMNjk1NmN1dzEzZ25RdHVtUHBZUEJzajdtd1RTSHd3ZVlJU3ZyTGNBOUI4ekF1ZGZEY2FGZzBHbE5pczlEQUd3V3RHR09oNUs1TFd1LU5GR0pXRzhvVGxFQWFQNVlwSENKMktYTUt0azQ5S9IB4wFBVV95cUxPNnFLT1E0OE8xRWxnZzk4YWFyU25ZMnFOdWx2YmJ1ZTZJRndfakg0TWFTZnFIQVZUZXBqb2p3V3B1RWtGMXdRUGI3WjhGMXJWN0I3U3ZfOWdSYjJzU2p5ZGZUbHBGbXhwUjQ1Vk9VVkQ1R21sc0ktWkR0Q0M5NXJndzhsNGpXRGhxV2pjVUpzazRvU004azdDTGNkcmUtd29pNWRyZERhUFBmSkh4RjVCLTVjQ3Vzd3RqSldvcGxfVzN0ck1iUFdyYXljVGdFZnhCcVpfaGYyMEdvX0MzVlIxek9LQQ?oc=5
+- **Governo Trump deve acelerar processo de green card de Flávio, diz NYT**
+  - Fonte: CNN Brasil
+  - Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxNTEpTNkpkNTZDU1E4bEpVLXNyR1BrNTFydWdtaTJ6Y0tHT0VIQm8yZS1IQWFKZWUyUXNTOWpueUJkbm95M3Rsd2dKSkRwMkNGNU5xQ3hlYUxSTDcwZ01DVHplYVJ4TlRGbzh3STNENmYzaEt3M1ZJSUF6QmluUDFsRVU5NzFsNzd4bjYwSG0tVmZsLWg0dktZZElmOUdGNnNlam5SV2FuNlBiTkZZM28ycTJR?oc=5
 
 ### visto americano
 
-- **Do visto humanitário ao risco de deportação, entenda a situação jurídica de Flávio Bolsonaro após a fuga para os EUA**
+- **Flávio Bolsonaro recebeu visto humanitário e usou passaporte cancelado para entrar nos Estados Unidos**
   - Fonte: O GLOBO
-  - Link: https://news.google.com/rss/articles/CBMihAJBVV95cUxQMEl2NWJWQWVIeDBUc001c2ZROG56eTFuWWZNSGxzQXcwVzdWY1R5Q0M5M2dBRkxKZXVEa256M2gtMEE2TlRlR0l0amJYMnBTajRJWDV2YnhCYUZDcGJLcVJORnl6Wndoc1YxVTlsemxGbDdZdFpLSEZoWkNadm1tVWNnVDNXNUVMNWtXc1h1V2wtSUV3UFVoNnFjVkVPck9mQlYzUk9CQ2g4RjJlekJmRV9UM0g3SGFHTndaZHkzWGZ0ZVRROUtaSDVnQmpVLWdMYkxHT1RwSDFsLW45VHRrVVc4azB4ZTVhbzlHbUJIOXpjZXJjUmVkbWxha2NtOFc3U2VNUtIBkwJBVV95cUxPaXFaVnJ0WTE5c0tmVGV6U2xBMkNaa2xxOVZfbEZJdV85OXE1OTViU1hzcEVoRmNWdkNaSFQ3M3h6bUNiTGV6OUpKdEVBNUZPejJTZ2FVREdIeVcwNGpoS1NpM3JpVnBnSlViWUtfV3FKckZLc2pJSTF0X0VuRjBiR0x3TFJUWlQtdEsyQy1EeFBPRmliZTg1eW5SU3lGM3d4ZktVaEY4WUNFVDFtbE81VWNWV2NueWFSYjdVNlRCSFJBRGZhLWhvWGhrMEJTUEhFeTJRWm5NV2JBN0RhTzkzcnFqem9sSC1SM0t0OWRJMkEzY2VUd2xIenRNaWhyRmlpWm5yTGE0XzVxVFZmaDRnNXZVMA?oc=5
+  - Link: https://news.google.com/rss/articles/CBMi3AFBVV95cUxOLVZxY2loT25kbll1OHdHNHdoa2ZaMDIxR09yLXdjQkRaazd0UC1yNk1uNmxpVjVCa2pQYTBSOVpkNFBqcFduVV9kUW9vSUEtaUtJSXh0LXZmeGNqazVEd3hYQXI1TFpTYldacnYwb3VLekpRUldKdjBuTGRFY2pSOFFWbHBkTXgtRks2WVhZcDN5ZldJVEh2THhaWDFybXNFYWp1eS1HVkt2b0N5d1ZpNDhFX19rV2tMRXFjZGg5Smw4RktEd3dfMGt3UmdUNHRXcGxGYnc0ZXZHaEZ50gHrAUFVX3lxTE5uZkxncFU2SGZlN0oxWnRLX2E4RjMtZzhkSjFPUnlyR1ZBNHdQdDd5YXBteHZjdlBhU0lHaXNyZnpSUjF0Y2x5MHBxSXFmZGxwOHlyTlpqQnhYNFNIdGxRQmVuRTFnNVZVYjYtYzR6TzdHVlE0WTZoYVVvQmVIOEVVLUYtRHVTUndqdE1Ja1ZYOXpucFpDMXFCNXZqVnBjeEtoTmoxZk5ZNGdxZ3NZT2lINTVDS0dVbm9mYnI0cW5VTlpfVllMZmtaOTIwd1p3NWh2VGFCNVdIVG9DVlg1N0ZwRWRuaWdsRm5RZEk?oc=5
 - **Brasil só dará visto livre a indicado embaixador se EUA liberar para Viotti**
   - Fonte: CNN Brasil
   - Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxOR3FkMGowUUVIRUdSMC1aZFdVZDdyUWtURDN1TVBmcmo3M0l0RndaZ1dIWURuMWg4QnoyX0o2a1ZfV3U0S2djNUs0SnpOTHd4VUFNUEhTTXo5Z1lfQ0d3bG55TXdRYmREczdSSm1mc2twcDY5QmxkeFdNRXQ0TUR2MGxVYVAxS2VwVXlJOXZMQlNmc0EzVVNOVjBfX3dwOVBXbl9TdnVlS2xaeURQdVZ4MzRLWVE?oc=5
@@ -87,9 +87,9 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 - **Brasileiros concorrem nas eleições dos EUA e fazem oposição a Trump; saiba quem são**
   - Fonte: G1
   - Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxPUDZmMVEybHR5NENYMHd2YlkxRDZFazdndFlaeGhBS3JpeEF1eHZaM21CR0NkYmEzcTNiZWVGMkhTX0dxSkhWbkVnRVB2M3VNV1BJTzdqQU5DdmF3QUFyUVdybHB3cThlTnFwRERRVG1EcnhIcFNaLVY5VmRCZzdZVm9wM3dQbzhtMTJLQWZuUXFINi1TTUV0NnI4YnVIRVhVT0VmU3dfRjQtLWh5RDRwbUpLX0lTT0F3ZWfSAcgBQVVfeXFMT0ZUTERuODdlTmpDa0dxd05hT0FKbzlzNTdXZW1XNkpfZ0JYeHd2V0l5bEVjdF94VnowZkpPelIzcmQ4UFY3Wk81Q0Zmc2ZVek1YYU1RRlZpQlV4Z2VoQ3d6Nld1cGZ6ZmhrX3RJWFJlSnRMenFfeF9hMlRHYWwxUS1vNVNRR0RsaDQxcmFHejMzM25xTldFbjd5dnJ6MlpkeS02cmVMd2xmcHR4a2E5UFJ2R3dRRG91TGdGeGV5NVAxNFFPZkZiV08?oc=5
-- **Número de brasileiros que querem emigrar para os EUA dispara após eleição de Lula**
-  - Fonte: Folha de S.Paulo
-  - Link: https://news.google.com/rss/articles/CBMi2gFBVV95cUxNYnRZdWFJT2xYRVJaOXdWYUUzR3hIOS1fejIxUDYza2VqYWNWMExQNW4wckc2ODhoUmZLMmk1cV9LMGdLTC1NVjBGWGZETlpyVzFYZXJHcHcyb3o4czhKX0RVRFdkLW54LTVGdzBxeC1vSkh6YklKbGZ5a0NyQXJKWU55V2hnakx4dHg4VTRncE9BbFAwLVNhNzh2dkQ4SVlRd1U1UWhrZjBzTXFZalZjMFFlSS1HR2dtZFVnQTlCM0NHODVzX3dTWnVNWk03Y2tXbGhJblVvLTFpdw?oc=5
+- **Trump e Obama intensificam campanha na reta final das eleições nos EUA**
+  - Fonte: CNN Brasil
+  - Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxPWk55c1Rna2pvcjVRMGlqNkZBa3V1SG5VMGpZUnF3a3RTZl9MdEZPOGV2NDlLWG83QnFzWTNmMWRfZFlBLVRXbHlRSEJNTFAzNklvWlhuOVB4YUhXbE9qREhieU1pZzRHekZSMGk4MEQxa2IxTi00WWxZekk0M2dnT2JicWJWNTc2NnFHR0sxTDBpaGJ2R3h6ZjR5TjhzUlY2djNTbTVVS0tRSDRlOHN0dDlTUU4?oc=5
 
 ### asilo nos EUA
 
