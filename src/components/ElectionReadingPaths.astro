@@ -1,0 +1,71 @@
+---
+interface LinkItem { href: string; title: string; description: string }
+type Focus = "home" | "central" | "brasil" | "eua";
+interface Props { focus: Focus }
+const { focus } = Astro.props;
+const groups: Record<Focus, { title: string; lead: string; links: LinkItem[] }> = {
+  home: {
+    title: "Guias eleitorais para entender os resultados",
+    lead: "Entenda a apuração brasileira, as Midterms e as disputas da Flórida antes de acompanhar os números.",
+    links: [
+      { href: "/articles/eleicoes-brasil-2026-como-acompanhar-segundo-turno.html", title: "Como acompanhar o segundo turno", description: "Onde consultar a apuração oficial do Brasil." },
+      { href: "/articles/como-funciona-apuracao-eleicoes-brasil-2026.html", title: "Como funciona a apuração brasileira", description: "Da votação à totalização dos resultados." },
+      { href: "/articles/o-que-sao-eleicoes-meio-de-mandato-eua-midterms-2026.html", title: "O que são as Midterms dos EUA", description: "Como funcionam as eleições para o Congresso." }
+    ]
+  },
+  central: {
+    title: "Leia os guias das eleições de 2026",
+    lead: "Dois sistemas eleitorais diferentes, com regras e fontes oficiais próprias.",
+    links: [
+      { href: "/articles/eleicoes-brasil-2026-como-acompanhar-segundo-turno.html", title: "Segundo turno: como acompanhar", description: "Horários, dados e cobertura brasileira." },
+      { href: "/articles/como-funciona-apuracao-eleicoes-brasil-2026.html", title: "Entenda a apuração no Brasil", description: "Como os votos são totalizados pelo TSE." },
+      { href: "/articles/o-que-sao-eleicoes-meio-de-mandato-eua-midterms-2026.html", title: "Guia das Midterms 2026", description: "O que é eleito para Câmara e Senado." },
+      { href: "/articles/eleicoes-florida-2026-o-que-acompanhar.html", title: "Eleições da Flórida em 2026", description: "Resultados estaduais e certificação." }
+    ]
+  },
+  brasil: {
+    title: "Entenda os dados da eleição brasileira",
+    lead: "Consulte os guias para interpretar a apuração e conferir fontes oficiais.",
+    links: [
+      { href: "/articles/como-funciona-apuracao-eleicoes-brasil-2026.html", title: "Como funciona a apuração", description: "Votação, totalização e divulgação de resultados." },
+      { href: "/articles/eleicoes-brasil-2026-como-acompanhar-segundo-turno.html", title: "Como acompanhar o segundo turno", description: "Guia para brasileiros dentro e fora do país." },
+      { href: "/articles/brazil-election-2026-results-time-us.html", title: "Brazil election results in English", description: "Um guia em inglês para leitores nos EUA." }
+    ]
+  },
+  eua: {
+    title: "Guias das Midterms nos Estados Unidos",
+    lead: "A eleição geral de 3 de novembro inclui disputas para o Congresso e outros cargos. Os resultados preliminares não substituem a certificação oficial.",
+    links: [
+      { href: "/articles/o-que-sao-eleicoes-meio-de-mandato-eua-midterms-2026.html", title: "O que são as eleições de meio de mandato", description: "Câmara, Senado e funcionamento das Midterms." },
+      { href: "/articles/eleicoes-florida-2026-o-que-acompanhar.html", title: "Como acompanhar as eleições da Flórida", description: "Corridas estaduais, apuração e resultados oficiais." },
+      { href: "/articles/eleicoes-nos-estados-unidos-2026-quando-serao-o-que-esta-em-jogo.html", title: "Eleições EUA 2026: datas e disputas", description: "Veja o calendário e os cargos em disputa." }
+    ]
+  }
+};
+const group = groups[focus];
+---
+<section class="container election-reading-paths" aria-labelledby={`election-reading-${focus}`}>
+  <header class="reading-paths-heading">
+    <h2 id={`election-reading-${focus}`}>{group.title}</h2>
+    <p>{group.lead}</p>
+  </header>
+  <ul class="reading-paths-list">
+    {group.links.map((item) => (
+      <li>
+        <a href={item.href}>{item.title}</a>
+        <p>{item.description}</p>
+      </li>
+    ))}
+  </ul>
+</section>
+<style>
+  .election-reading-paths{margin-top:36px;margin-bottom:42px;padding-top:26px;padding-bottom:28px;border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
+  .reading-paths-heading{max-width:850px}
+  .reading-paths-heading h2{margin:0 0 12px;color:var(--navy);font-family:var(--font-display);font-size:clamp(1.55rem,3vw,2.45rem)}
+  .reading-paths-heading p,.reading-paths-list p{color:var(--ink-soft);line-height:1.65}
+  .reading-paths-list{list-style:none;padding:0;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin:24px 0 0}
+  .reading-paths-list li{background:#fff;border:1px solid var(--line);border-radius:16px;padding:18px}
+  .reading-paths-list a{color:var(--navy);font-weight:800;text-decoration:underline;text-underline-offset:3px}
+  .reading-paths-list p{margin:9px 0 0;font-size:.94rem}
+  @media(max-width:680px){.reading-paths-list{grid-template-columns:1fr}}
+</style>
