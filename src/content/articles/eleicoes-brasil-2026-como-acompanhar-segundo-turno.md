@@ -1,7 +1,7 @@
 ---
 draft: false
 slug: "eleicoes-brasil-2026-como-acompanhar-segundo-turno"
-title: "Eleições Brasil 2026: como acompanhar o 2º turno ao vivo | FamiliaUSA1"
+title: "Segundo turno 2026: como acompanhar a apuração"
 h1: "Eleições Brasil 2026: como acompanhar o 2º turno ao vivo"
 description: "Veja quando será o 2º turno das eleições de 2026, o que estará em disputa e como acompanhar a apuração em tempo real pelo FamiliaUSA1."
 category: "Relação Brasil-EUA"

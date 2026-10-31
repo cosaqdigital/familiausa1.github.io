@@ -1,7 +1,7 @@
 ---
 draft: false
 slug: "como-funciona-apuracao-eleicoes-brasil-2026"
-title: "Como funciona a apuração das eleições no Brasil em 2026 | FamiliaUSA1"
+title: "Como funciona a apuração das eleições de 2026"
 h1: "Como funciona a apuração das eleições no Brasil em 2026"
 description: "Entenda de forma simples como a votação termina, como os resultados são totalizados pelo TSE e como acompanhar a apuração de 2026."
 category: "Relação Brasil-EUA"

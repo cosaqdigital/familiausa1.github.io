@@ -1,7 +1,7 @@
 ---
 draft: false
 slug: "how-brazil-presidential-runoff-election-works-2026"
-title: "How Brazil's Presidential Runoff Election Works in 2026 | FamiliaUSA1"
+title: "How Brazil’s Presidential Runoff Works in 2026"
 h1: "How Brazil's Presidential Runoff Election Works in 2026"
 description: "A clear guide to Brazil's 2026 presidential runoff: why a second round happens, when voting takes place, how votes are counted and where to follow live results."
 category: "Noticias dos EUA"

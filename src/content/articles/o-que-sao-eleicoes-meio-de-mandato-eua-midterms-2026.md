@@ -1,7 +1,7 @@
 ---
 draft: false
 slug: "o-que-sao-eleicoes-meio-de-mandato-eua-midterms-2026"
-title: "O que são as eleições de meio de mandato nos EUA? Entenda as Midterms 2026"
+title: "Midterms 2026: o que são as eleições de meio de mandato?"
 h1: "O que são as eleições de meio de mandato nos EUA? Entenda as Midterms 2026"
 description: "Entenda o que são as midterms nos Estados Unidos, por que acontecem a cada dois anos, o que será eleito em 2026 e o que muda se o controle do Congresso mudar."
 category: "Noticias dos EUA"

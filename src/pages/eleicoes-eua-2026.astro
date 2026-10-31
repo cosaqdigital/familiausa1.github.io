@@ -1,5 +1,6 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
+import ElectionReadingPaths from "../components/ElectionReadingPaths.astro";
 import { SITE_URL } from "../data/pilotContent";
 
 const title = "Eleições EUA 2026 ao vivo: Midterms | FamiliaUSA1";
@@ -80,6 +81,8 @@ const apiBase = import.meta.env.PUBLIC_US_ELECTIONS_API_BASE_URL || "https://fam
       </span>
     </div>
   </section>
+
+  <ElectionReadingPaths focus="eua" />
 
   <script define:vars={{ apiBase }}>
     const statusCard = document.getElementById("us-election-status");

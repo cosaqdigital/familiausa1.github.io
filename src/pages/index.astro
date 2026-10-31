@@ -1,5 +1,6 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
+import ElectionReadingPaths from "../components/ElectionReadingPaths.astro";
 import ChecklistCTA from "../components/ChecklistCTA.astro";
 import HomeHero from "../components/home/HomeHero.astro";
 import HomeSection from "../components/home/HomeSection.astro";
@@ -178,6 +179,8 @@ const videoSchema = {
     .elections-home-section{margin-top:28px}.elections-home-card{display:grid;grid-template-columns:1.4fr .6fr;gap:28px;align-items:center;border:1px solid var(--line);border-radius:var(--radius-lg);padding:clamp(24px,4vw,38px);background:linear-gradient(135deg,#fffaf1 0%,#f4eee3 100%);box-shadow:var(--shadow-soft)}.elections-home-copy h2{margin:10px 0 12px;color:var(--navy);font-family:var(--font-display);font-size:clamp(2rem,4vw,3.15rem);letter-spacing:-.04em}.elections-home-copy p{max-width:760px;color:var(--ink-soft)}.elections-home-dates{display:grid;gap:12px}.elections-home-dates div{display:grid;gap:2px;border:1px solid rgba(30,26,20,.09);border-radius:18px;padding:15px 17px;background:rgba(255,255,255,.72)}.elections-home-dates strong{color:var(--terracotta);font-size:1.25rem}.elections-home-dates span{color:var(--ink-soft);font-size:.9rem;font-weight:800}@media(max-width:760px){.elections-home-card{grid-template-columns:1fr}}
   </style>
 
+
+  <ElectionReadingPaths focus="home" />
 
   <HomeGuideCards guides={portalGuideCards} />
 
