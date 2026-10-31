@@ -1,7 +1,7 @@
 ---
 draft: false
 slug: "eleicoes-florida-2026-o-que-acompanhar"
-title: "Eleições da Flórida 2026: o que acompanhar no Election Day | FamiliaUSA1"
+title: "Eleições da Flórida 2026: o que acompanhar"
 h1: "Eleições da Flórida 2026: o que brasileiros devem acompanhar"
 description: "Veja como acompanhar as eleições da Flórida em 2026, quais tipos de disputa importam e como interpretar resultados preliminares no Election Day."
 category: "Notícias dos EUA"
