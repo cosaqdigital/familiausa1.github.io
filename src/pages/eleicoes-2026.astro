@@ -1,5 +1,6 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
+import ElectionReadingPaths from "../components/ElectionReadingPaths.astro";
 import { SITE_URL } from "../data/pilotContent";
 
 const title = "Eleições 2026: Brasil e Estados Unidos ao vivo | FamiliaUSA1";
@@ -61,6 +62,8 @@ const schema = {
       <p>No Brasil, a apuração é centralizada pelo TSE. Nos Estados Unidos, os resultados da noite eleitoral são preliminares e dependem de autoridades estaduais e locais até a certificação. O FamiliaUSA1 organiza essas informações em páginas separadas para facilitar o acompanhamento.</p>
     </div>
   </section>
+
+  <ElectionReadingPaths focus="central" />
 
   <style>
     .elections-hub-hero{padding:clamp(90px,11vw,145px) 0 clamp(50px,7vw,85px);color:#fffaf1;background:radial-gradient(circle at 82% 30%,rgba(54,101,152,.45),transparent 27rem),linear-gradient(120deg,#0d1725 0%,#14263d 62%,#263f60 100%)}
