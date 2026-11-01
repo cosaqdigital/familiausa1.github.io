@@ -1,8 +1,8 @@
 # Relatório diário — Imigração e brasileiros nos EUA
 
-Gerado em: 2026-10-31 17:30 EDT
+Gerado em: 2026-11-01 01:58 EDT
 
-Arquivo original: `2026-10-31-17-30-tendencias-imigracao.md`
+Arquivo original: `2026-11-01-01-58-tendencias-imigracao.md`
 
 ## Objetivo
 
@@ -66,45 +66,45 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### green card
 
-- **Governo Trump deve acelerar processo de green card de Flávio, diz NYT**
-  - Fonte: CNN Brasil
-  - Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxNTEpTNkpkNTZDU1E4bEpVLXNyR1BrNTFydWdtaTJ6Y0tHT0VIQm8yZS1IQWFKZWUyUXNTOWpueUJkbm95M3Rsd2dKSkRwMkNGNU5xQ3hlYUxSTDcwZ01DVHplYVJ4TlRGbzh3STNENmYzaEt3M1ZJSUF6QmluUDFsRVU5NzFsNzd4bjYwSG0tVmZsLWg0dktZZElmOUdGNnNlam5SV2FuNlBiTkZZM28ycTJR?oc=5
 - **Trump já espera que Flávio Bolsonaro solicite um green card, diz ‘NY Times’**
   - Fonte: CartaCapital
   - Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTzdqRlpJTHM5VjVjUi0wQmZkT3hwZlQ4b2UxMm5JT2pGZTJ5N1dIemFyOEZGYW1xUWpRc2VRUTlVWU5NaWJjVlFLd1VhX1RwNTJpRXg3cXJvc0Z3TEItaEtoT2hsWG1yNHRnSXhqd1NpX2RDMVZOeTN3RGU5alRZX3MxTGJoRHdMci10bG04X1ctRHU1Zks0ZWJGUGlyaHlJSUFXZDhLWGMwVUJNc1JhUF9nSGJnampZOVlN?oc=5
+- **Governo Trump deve acelerar pedido de green card de Flávio Bolsonaro, diz NYT**
+  - Fonte: Vero Notícias
+  - Link: https://news.google.com/rss/articles/CBMirAFBVV95cUxNSVZjbjhhdVlEa2l6ZENRc0ZZV2dIaVVvdEtxMTZSd3lYd2Z5TFhscVdZV21TWWwwY2xyQnlFOHF1V3M2YWRMYUZIUmZ6ZE43b0dfMUdSclpacnNYQk5FMXVPbnV0ZlFQaElNeVIzWVEyWm5IbXZmMXV2X2xDUDNxaDN0aDdObWplcTc2NUpXQmh2MENuYjZ1S2RpNy1TTVJqV0N6LThJaVAtbnQz?oc=5
 
 ### visto americano
 
-- **Flávio Bolsonaro recebeu visto humanitário e usou passaporte cancelado para entrar nos Estados Unidos**
-  - Fonte: O GLOBO
-  - Link: https://news.google.com/rss/articles/CBMi3AFBVV95cUxOLVZxY2loT25kbll1OHdHNHdoa2ZaMDIxR09yLXdjQkRaazd0UC1yNk1uNmxpVjVCa2pQYTBSOVpkNFBqcFduVV9kUW9vSUEtaUtJSXh0LXZmeGNqazVEd3hYQXI1TFpTYldacnYwb3VLekpRUldKdjBuTGRFY2pSOFFWbHBkTXgtRks2WVhZcDN5ZldJVEh2THhaWDFybXNFYWp1eS1HVkt2b0N5d1ZpNDhFX19rV2tMRXFjZGg5Smw4RktEd3dfMGt3UmdUNHRXcGxGYnc0ZXZHaEZ50gHrAUFVX3lxTE5uZkxncFU2SGZlN0oxWnRLX2E4RjMtZzhkSjFPUnlyR1ZBNHdQdDd5YXBteHZjdlBhU0lHaXNyZnpSUjF0Y2x5MHBxSXFmZGxwOHlyTlpqQnhYNFNIdGxRQmVuRTFnNVZVYjYtYzR6TzdHVlE0WTZoYVVvQmVIOEVVLUYtRHVTUndqdE1Ja1ZYOXpucFpDMXFCNXZqVnBjeEtoTmoxZk5ZNGdxZ3NZT2lINTVDS0dVbm9mYnI0cW5VTlpfVllMZmtaOTIwd1p3NWh2VGFCNVdIVG9DVlg1N0ZwRWRuaWdsRm5RZEk?oc=5
+- **Em carta, deputados dos EUA questionam papel de Trump na fuga de Flávio Bolsonaro e emissão de visto**
+  - Fonte: G1
+  - Link: https://news.google.com/rss/articles/CBMixwFBVV95cUxQanBsZDhqVUV3OTl1VjZwTVR4ZzltM1VWQUJrQm0teEhUZElCWE9ONDVxY0lfMGVBSDRUMU1Zb05GX056TjRaVkRJY0VLVjBQRlNTalFEdGh3aVU4eS1YWVVkRmptRUZRaUtIUVhHVjd4b3ZBRUlkXzNMcFdPRGRQa2tEODM2ZXltcjR0RElqRU44MTlkajRUTTBTc0kydTI2bUs0RDBpWlJhaW9vVkNWbFZKZWlyWkJUS2ZZbUxzV1ZxWnZwVEdR0gHWAUFVX3lxTFBYUU1ZMnpYZVZwR21TanBscU5jb3JRYUtvbkVMdVZTc0JEbWVPZHkzR2tRVzZ2dVllY1VYeWtLZEV2S1lxWUZzSDZ5Y0Q3OTVqM1FoTzA5Rl9xQ19wc25wbGgxYlNuSkhYMkctY3JBQ2Rwd0FfYkRnR19FSFdUUGhQWUZvMDNLMUg0bkgxcUw3RXRDYk5vczFXei1WMWppS3dyTDhYNlFOdXVZUnJZZG5Jd25acnlzN3ZkbG1XM0NlRGllM3hYUHBXaDFULXdMUzRTSW1LNWc?oc=5
 - **EUA negam visto a deputado sul-coreano e barram visita oficial ao Havaí**
   - Fonte: UOL Notícias
   - Link: https://news.google.com/rss/articles/CBMi3wFBVV95cUxQWHZrdHRKcmhvZFE4b0ZOMjBYaFFkbm50MmNGaTJSaXZhTmhEQmUtempfT3M1MWFQQWFtWlh4ckVZUGk1MXBsMVlHcVBCYThoT25ZZGNaSG4tNEVDOHpaSlF3a2g2SXhybGtUbEh4eE5jSWl3NGdSWHMtN2tuMm5NYng5c0dvRzZidXptTkNHWFJLNE1OU1phYzRTUVRaQUExX1pSNm1aYmdIbHRzajV4R0FwdUhzeTAwbUtpeFpCakhMbXg3U0xCbWFFcTRyWlQtNklKN2JzaWxhWlc3MFBz?oc=5
 
 ### brasileiros nos Estados Unidos
 
-- **Governo dos EUA 'não se envolveu diretamente' na saída de Flávio Bolsonaro do Brasil, diz Marco Rubio**
-  - Fonte: G1
-  - Link: https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZWtvaDBqeDJEQVRLbmt1cURmbWJRTDNRcnBUQjZPMGxMck51RGpaY010MFc4RWNvbi1Pc3lyOUVpVENYbkpRTXhneVRfSUd5c3ZmeE1mUXY0d0VoNDQ3cjhZTXpCRWFKN0NmUVdoQXNVeVY1UzRmVDkxczFaWmE3ZmpwMGY1OEhFcVNySy1aa0FJcjRuTkZTRnBWZzNfM2JMcVJFUnRiYUw1RlpoY3JhVWE5dmZ5ZTlQZkY1R0FYYVlGQ0txX1lqbGFYdHJkdUJTRDg1YXhfNS0xSzDSAeoBQVVfeXFMTmVfVHB5ak9SajRFbTlGRU9VbnFUMmR2aG5COTR3MlVsNkJUWkxwZ0VfMW1XSDFvTXpJNTE4Z3c3d05Uekdyak01VFAtcFVaV3JOTUl4LTdhV1dMNkwzUE56UE9XbTRWTXk4ajlpemRiZUxvT2ZrVGgtT3FGcFB2VUxvN2cyenV5UmljczYwZUU4Ym9VeldFVzhCMEg4RHdvamVIVk91UVFWZXN1OGRhWUVJRExxaHp1bDJDb3dVcnRxWk53QmZpVFJJbkZRWkdlWjhWdTdsbm9zZnJuYldJYVVDdG10eG9FQk5R?oc=5
-- **Chanceleres do Brasil e dos EUA se reunirão em dezembro, antes do G20**
-  - Fonte: Agência Brasil
-  - Link: https://news.google.com/rss/articles/CBMi5gFBVV95cUxQVUtmSEpVTUJMQjA0ZTdXSzZJeE9la3RHbFdYYkhzTk5ZTmI2OUJFbGhLTEZGTWozQVpGZnhnYWRJRDVCU3FkLVJzbU5oN1FCVDFJQ3hNOTNURHRza0RucUx1TWo5bEZUNFVfUkF6SkkyeklTU1JhUW1uWm0yckVnSHBDOThmU0Y2X3l0SHpXRzlUeFV4YUNoaTBmX3J5NkE5WUs1OGkwcjc4WDFuY1R5LTZTeWYyOVJ3eGd0aTdKdVkxTmF1NERfTzVPRURTQjJjVV9rR3BDaU9XQV9wbmNDS0ZkTmZ3dw?oc=5
+- **A nova etapa na disputa das tarifas entre Brasil e EUA**
+  - Fonte: VEJA
+  - Link: https://news.google.com/rss/articles/CBMilAFBVV95cUxPVWhhNEtnMHNvRjE3czNJdDJGNXpEV2cxOWJzUDVkWDNpVm96dFBJbnZQSHhwaElCSzZGd0RzeEs4WG1CUkZVYzJxZGM1YUxCdnB4dU16VzA3YVdmNC1TOUszbTZGN1dyVF93Y0RselJVelZReE1lYzJlaVdWS29hWXhGOHhHRjUzZlBWSlBHS3ZXY05Q?oc=5
+- **Trump diz não ter plano de encontrar Flávio Bolsonaro, mas que senador pode ficar quanto quiser nos EUA**
+  - Fonte: Folha de S.Paulo
+  - Link: https://news.google.com/rss/articles/CBMi4wFBVV95cUxPRVJ3M1V0aDFuZFhSTld0bkt4dl9PZ3dBZ25fd0k5T3oyUERPczI0eEdsS1BGeWRSNXY1aXB3Mk5pZzdYRHhPalktbi1MbWZTU3c2RDVZVno0ZmJlQzFja1hpakhYU1VCZW84Zi1YVlFiTDVYUjI4OGZQWXFPZGk4S1R2M185eUJMb1paZEZ5R0ZhdGxXN05wTW9reENYLWdrZlg4TDE1cFJNclM0aENRSUVnSGFVNjNWQlVQYXAwSHREZDNnd0pVa01pZ1pvMkRIM2NNZG0zMS1wWE9pOHlkZ2M2UQ?oc=5
 
 ### asilo nos EUA
 
 - **Flávio reúne argumentos para pedir asilo nos EUA e mostrar que sofre perseguição**
   - Fonte: Gazeta do Povo
   - Link: https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSWcwemd5LUZ3TUdJemJjT2pYcXo3QzhHbC1FRUQ4NjNQQzF0WnowSUtaMjF0YTM3cjFOMDZMYmNSV2V5eWNRVEhEM3Bvb3pObUJ2Qnc1NHo1NEtBYUJjVWZPRFlSVTM4VFY4VjhmY05wRzU5TFVMbExNWnl4aVhOTTZTck5jbEpEV1dPVTJSSGNFRmsycFRyNVZKbXJTRzIyOFZ4ZEpvZU1ZdjZIYVZwWi1VMDZhekV5RWk1X0NjRGc?oc=5
-- **Cidadania italiana pode ser obstáculo a eventual asilo de Flávio nos EUA**
-  - Fonte: CNN Brasil
-  - Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxOUmd5cEQ4ZmVkVFlmb01TRWU2bnZSOURfeU04b0xsUEM3VDFrSWNDZElZNU4wQmNwc2JxYVRQNW91WVQ2eG9yem5ub3Q4RF8tQjl4NVNqVndOWWFFYm1rcDc2c1J0VEpyeGI5Ti1jLTdTaUxDRko0dVpRbGF0aUJscGVPa3Jucnpuc1E1RHUwNVdnNGRCYnpJbV95V1dyY1dxVnZnNDdMRzVqNVljcE5pMw?oc=5
+- **Possível asilo a Flávio vai na contramão de decisões anteriores dos EUA**
+  - Fonte: UOL Notícias
+  - Link: https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWWtoWmlpV0p4ckRKbEJQcVMyS3p3UzZuWkVBcG1EeFZQMGY5cWp2ZTFRQy0tOVBnTEM5NVBnc3NOLV9FdWlLcEY1WDQxR3NsZzRrWFNMM0Q0YkNQOUw1ZU5TbC1iYVBJSHd2SVVoMGtTdHhxcEVkOXg5dWlld1ZUc2M3WktMenA2OG9Ka1NRcXU3dGxCdkpkaFFSQXFHeF9uMWl3NDhKVDY0RkZ6NWNUdWUxeHRDTmdDMEExd2ZlSTJBVnhTWXM1eW5jeTBoNHVUYW91eXRtWQ?oc=5
 
 ### ICE immigration
 
-- **Homem é baleado em Nova York dentro de carro por agentes do ICE**
-  - Fonte: Agência Brasil
-  - Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxOcmtmc3VDU1poSF9CajNHYm9fbnFSSlNCZHNOZlhZV2VVc2NFVFZJYjZZajNDd3ZSRlZXNjJkTWZ3cy1HVFdibV9ZUnM3OUk5MjlJUDM1QVVxNWlGVDhjQlpRa0NzbV9fRDR6QTFMVGUzRWlsSDNUSjhHTWtjTUdabjVOV2pUaVZPTmVLTjFJZl8yZk9JNkhhYVhqQ1Rld2tzR2hobTJOcmNETVJjREFuYXNzSU9FU3JPYW5XZzcxUDZ1RUp3?oc=5
+- **Agente do ICE aponta arma para pedestre durante operação em LA**
+  - Fonte: Poder360
+  - Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxPNjhwRG1CRVpUOXo5eEtZVTV4Z3U4Vi1vNzB4QkQ1VjNNcUhmU1FHdndRR2pMZHZKMGxPWk9LS3JfZ3UtNnZ2SExVTnYyRy13T3VvZ0dKUFpzejdKWXdFZjZOWWpGYk1qZ3ZRZmdSaGYtZXg1bUx4Z3RYYTZTSU9ZNWxBVTZ6UjI0cHZfSng1SmpraDk1QmhPRjZ5NzdhcmdVNHZYSXZqSTQ0SE43bjAyVg?oc=5
 - **Polícia Civil de Santa Catarina, em cooperação com o ICE, prende foragido da Justiça brasileira em Orlando, nos EUA**
   - Fonte: Polícia Civil de Santa Catarina (PCSC)
   - Link: https://news.google.com/rss/articles/CBMiQ0FVX3lxTE93VDJmeTk1LUFsYTJqOEZTM1FZcmJmSXB5UEdnNzB3SklGcUtzMGFXYjRmZzVCZjhLS3k1Z1NMZXktVjg?oc=5
