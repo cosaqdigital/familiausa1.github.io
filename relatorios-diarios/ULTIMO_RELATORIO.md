@@ -1,8 +1,8 @@
 # Relatório diário — Imigração e brasileiros nos EUA
 
-Gerado em: 2026-11-01 16:59 EST
+Gerado em: 2026-11-02 00:57 EST
 
-Arquivo original: `2026-11-01-16-59-tendencias-imigracao.md`
+Arquivo original: `2026-11-02-00-57-tendencias-imigracao.md`
 
 ## Objetivo
 
@@ -15,20 +15,20 @@ Este relatório serve como base para criação de artigos atualizados para o blo
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMiY0FVX3lxTE90N0E2cm9Va0c5cE9YeWJ3T2RsNkVlMDRXM2dXRkcxSGtNV09MZVhuRlNXMjhiSHRaS2Z4cDFZb1ZYR2xrdWxHbnlRTUVvcVBWdV9BLUlHdXVCY1NLeDBiWWhwSdIBaEFVX3lxTE5xbmEtT3RBOTNCS1o1VnJWYVBSVzVXUjJteTZEeTEwd3dsRTFSZkNuQjNMdExjZjRKa2pfUkt5eTVtQmFTU21aa21HNmllcUhkRzVHUk1rb3d2TDdrN1p0UUZnUklqYTBm?oc=5
 
-2. **Imigração, costumes e custo de vida motivam eleitores nos EUA em votação de meio de mandato**
+2. **‘Poder à Prova’: JN vai ao Texas para mostrar como a imigração e a inteligência artificial têm mobilizado o eleitor americano**
+   - Fonte: G1
+   - Termo monitorado: imigração EUA
+   - Link: https://news.google.com/rss/articles/CBMikgJBVV95cUxQeHpvSlh5WVI2OWM1d3pFejJ1eEhTNzZmaW0yazQtWGkxakxMYWU2cUVObWU2M2RIQlBfa2pld240ZEp1R2o2dDlMSkJIZFNqMTY5Q1FxU3pfZ1hRNlVZekhkMkEzNm5oYTRMOFhrSUJJY0t1VlVESWlENk9PcTJDRVlhMDdEV3NFcm1DejkyRUNYY0k5anEzM00tZlUwNjRBU0hjcnp1dDBkc1RhRmtUdmIyNjRWc0l4NmZMV185RkpwcURLc0FNak0ybXlMbzRLLUhyc1FjTVE4VlFEVjc1czJHMHVFMUg3eFlMbzhvbmpmc05VTVl3NEFMaUR0YnQxTjlwNVEwMGNXUU5xTDZ4VWRB0gGgAkFVX3lxTE1pVUpjX1d3MlNJUklUd2VwMnJOQm9QTnZmd2hCMkx4RVlWdjJLNHFhQUFyRTF2bVE5MjBELUJENnhfbUhvcnlrV2d2UENvOHB3OUNXLTYzUmRGVWxTeUxmZ0V3eENOMHhLRU1XeTM0U1cwb1dGOG5YNE9mLXlKLUlIWmpvd2F4RVU3eEpxa1FHRExHYzRWV05XRTJ1Ujd4MFR3dVdNbGM0Mkl2bTEzQ1VHMlFvWUxuOG9MNTNreVlfTmF5SEd4aXRiRHdUSUlobzBKY0thdlRJU0I4eFViY1A5Q2JXa3pmYXZqVFh3RU9jOHdnQm9oVlBhVUFZbk1vT2piREJjUlNEY1R4eGM5RS1ScU9FU3RqaXhkVW9xVVhmQQ?oc=5
+
+3. **Imigração, costumes e custo de vida motivam eleitores nos EUA em votação de meio de mandato**
    - Fonte: R7
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVmxmWnhJUGNjenBkazhxXzhKUFZIYkdrRXRuRXJfdEJreWthN1ZONXZjLTdqODBsSURldlR5M3ZMQ0h0LWlIT2Jzc2tGZFdDckNrdFctTTNXREpwT3RXMUQxcHRSdjI4UF9sSWVvRjh0d0VwZEtjVjU1dDFmTi0tZkFkb2xSaU1QemFaVGp2RjJ1aWc2cjZfRGlodkc0eUZrZWFGeElXZEk2VmNPSE1Qa3h6OTRfcENfemgwZ2xoRDlhYzcyeUpBS2l3eS1oaHZOdmo2ZA?oc=5
 
-3. **ICE usa 'Thriller', de Michael Jackson, em vídeo no Halloween para debochar de migrantes presos nos EUA**
-   - Fonte: O GLOBO
+4. **Corrupção preocupa mais que imigração na reta final das eleições nos EUA, aponta pesquisa**
+   - Fonte: VEJA
    - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMi6wFBVV95cUxOTmw3SlBzdm0xYkVRTXdSSXllZWJxbzg2VHBHblJTN1U2ekFrTGFkeXliMlhjeGlaRmpURllqOGRib3ozd1g4UFZSUi1CU3NmZjZyQl94RHFmSzhGZkV2VnlSMEFzanBYNWRUM3pUWlRJRVhHYWdjQjFETlAyUUFEcGNOR2FMdGNVal9zVkRMUmRZajFRTTBXRS1md1RTR2YwNm9Pd1lvRjZpUTNhLVBiWUNQYldlYzlvVDZTR0Jpc3NtMWNOVE1FUlYwV1dSc1lXd0NhZnBtRndGTkNVNzY0MkZWMkNWY3Z0Zklz0gH6AUFVX3lxTE00ZVRVcGh4Zjg0bU0wYjVmQThZUGxXQUI1Z05KZU9aRkhhOFo1a1VpNFpqV3hpVVNLdkQ0RVAxTXh2VWlRc3NyN0NJM0tJcS14R1J3Rll3MEZJTC1ZOUxtOHFVQzVoNnQ0cklOMjVmS1hYNTB1NFBGbTNfd0JsTUFOaHlaeDBGdndDR0V2aUt1azFpclFwNjBTUkJMLTF3RzJWbGx5eHFjcS1uaEN2VjRoMEV5T3lVUC04RU5HZDdIS2lBNzNXaXdYbERvYWRuOThXN09hX3lDR1d1NTB2VlUtV3Rfa29jRUpSVGU1VlR6MGozdmxrdkoyekE?oc=5
-
-4. **ICE publica vídeo em que debocha de migrantes presos nos EUA**
-   - Fonte: Poder360
-   - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMirgFBVV95cUxPWllVaWgzekpfbDZwMjNwbHlXMVY3T29WbjFQbTRQZ2x4bGZubk4wQk1VSzBKLTNQQWJKaWJnRWZ1elJZVnpBeWZKTll6NGwtX3k5Y1dXWHY1TVNfOHQtVDFFRUN6b2lIOGxhMXlmQzJvRDRGdWhqZTY2MTB5WTNtLURuTUZSOUJhQlp6OU5taXFfbnNVWFF1a1JmR1k3Xy1yNkJlRm9oMHRBc0Z1UkE?oc=5
+   - Link: https://news.google.com/rss/articles/CBMivgFBVV95cUxQSURpT3JFanhFa3pNSlNCeW5rUWMyd0NhdmozMC1RY25kZWdubFJhMkpNYjI4VUdIUEZSTzljaWJScTFkaU95N3hhMk5ITWQ4RlpIODFVRG12bXdjdk5JYzRpMk9obGdQY05XeVB0NFF3dHZfSFBMVkhpdnhYeEdOVm5GZGJQOElXdDF4Ni1PbTBhLXV1dkZ2R2huMjB4MG16UXJjUWhfNmNCeW5uR2VoSEdvLS1nelBxZHdXS3hn?oc=5
 
 5. **Mais de 70% dos novos green cards na Flórida foram concedidos a quem já vivia nos EUA**
    - Fonte: AcheiUSA
@@ -51,9 +51,9 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 - **Imigração nos EUA: os gráficos que mostram impacto do 2º mandato de Trump**
   - Fonte: BBC
   - Link: https://news.google.com/rss/articles/CBMiY0FVX3lxTE90N0E2cm9Va0c5cE9YeWJ3T2RsNkVlMDRXM2dXRkcxSGtNV09MZVhuRlNXMjhiSHRaS2Z4cDFZb1ZYR2xrdWxHbnlRTUVvcVBWdV9BLUlHdXVCY1NLeDBiWWhwSdIBaEFVX3lxTE5xbmEtT3RBOTNCS1o1VnJWYVBSVzVXUjJteTZEeTEwd3dsRTFSZkNuQjNMdExjZjRKa2pfUkt5eTVtQmFTU21aa21HNmllcUhkRzVHUk1rb3d2TDdrN1p0UUZnUklqYTBm?oc=5
-- **Imigração, costumes e custo de vida motivam eleitores nos EUA em votação de meio de mandato**
-  - Fonte: R7
-  - Link: https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVmxmWnhJUGNjenBkazhxXzhKUFZIYkdrRXRuRXJfdEJreWthN1ZONXZjLTdqODBsSURldlR5M3ZMQ0h0LWlIT2Jzc2tGZFdDckNrdFctTTNXREpwT3RXMUQxcHRSdjI4UF9sSWVvRjh0d0VwZEtjVjU1dDFmTi0tZkFkb2xSaU1QemFaVGp2RjJ1aWc2cjZfRGlodkc0eUZrZWFGeElXZEk2VmNPSE1Qa3h6OTRfcENfemgwZ2xoRDlhYzcyeUpBS2l3eS1oaHZOdmo2ZA?oc=5
+- **‘Poder à Prova’: JN vai ao Texas para mostrar como a imigração e a inteligência artificial têm mobilizado o eleitor americano**
+  - Fonte: G1
+  - Link: https://news.google.com/rss/articles/CBMikgJBVV95cUxQeHpvSlh5WVI2OWM1d3pFejJ1eEhTNzZmaW0yazQtWGkxakxMYWU2cUVObWU2M2RIQlBfa2pld240ZEp1R2o2dDlMSkJIZFNqMTY5Q1FxU3pfZ1hRNlVZekhkMkEzNm5oYTRMOFhrSUJJY0t1VlVESWlENk9PcTJDRVlhMDdEV3NFcm1DejkyRUNYY0k5anEzM00tZlUwNjRBU0hjcnp1dDBkc1RhRmtUdmIyNjRWc0l4NmZMV185RkpwcURLc0FNak0ybXlMbzRLLUhyc1FjTVE4VlFEVjc1czJHMHVFMUg3eFlMbzhvbmpmc05VTVl3NEFMaUR0YnQxTjlwNVEwMGNXUU5xTDZ4VWRB0gGgAkFVX3lxTE1pVUpjX1d3MlNJUklUd2VwMnJOQm9QTnZmd2hCMkx4RVlWdjJLNHFhQUFyRTF2bVE5MjBELUJENnhfbUhvcnlrV2d2UENvOHB3OUNXLTYzUmRGVWxTeUxmZ0V3eENOMHhLRU1XeTM0U1cwb1dGOG5YNE9mLXlKLUlIWmpvd2F4RVU3eEpxa1FHRExHYzRWV05XRTJ1Ujd4MFR3dVdNbGM0Mkl2bTEzQ1VHMlFvWUxuOG9MNTNreVlfTmF5SEd4aXRiRHdUSUlobzBKY0thdlRJU0I4eFViY1A5Q2JXa3pmYXZqVFh3RU9jOHdnQm9oVlBhVUFZbk1vT2piREJjUlNEY1R4eGM5RS1ScU9FU3RqaXhkVW9xVVhmQQ?oc=5
 
 ### USCIS
 
@@ -75,21 +75,21 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### visto americano
 
-- **Quer ganhar em dólar? Visto permite empreender nos EUA**
-  - Fonte: Terra
-  - Link: https://news.google.com/rss/articles/CBMi1AFBVV95cUxOOTZtamhQWnV6WmQyNmpXa1hYblBaOGRTbk9IVElTS2VuSWV2Um1mcENvX2FfREtpbnlOQTRMMlBZZWFtbFNYS3V5TnRYNXptSXRZNFoycHVJbjc0T01LX0VOcGw5bE5ZbzlEeXJ6TEYyUlVGbUEwVWowOURNNHJLQmZGbEQweTM4ejVwSkpCVlJHR294T3hnQ0U0RFR6aWNjRXBmbEJaMVlILURURWNTeFJhS05fblRVd3FJYXFZS2lGY2c1ZkpoeDhzYWVNSnZJMm5TNA?oc=5
-- **Trump autorizou entrada de Flávio nos EUA; senador deve receber visto de residência permanente, diz jornal**
-  - Fonte: Gazeta do Povo
-  - Link: https://news.google.com/rss/articles/CBMi2wFBVV95cUxOR3RMY2lGNEZQNC1KWVhEaGZmcGtxeTlQaVJ4cHJzTFJVSE5vaG5NSkpiT2o0a21jOUp3Y3hXcEE3VkRvcWRLbmROWXFMXy1fMm9wVW5YdEpyMG93dE1la1ZXcndZdDYtOUI4LXVmaHRoSDVnOWVjQ01BQWNDbXdPeFh5Z2pDck9jTDFVeVk5RUZxQUxwV0M4bXVURDV1aENTa0t6WGllSldCdXd1M1dzM09rUTVIU0l1dFQtVGZFdXUtTy1yS2RoaGJiLXFCUzRBdU5qUnVIdkJ6clk?oc=5
+- **Visto americano: nova regra limita a três as alterações na entrevista**
+  - Fonte: Viagem e Turismo
+  - Link: https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMTQtS3laX0diMXV0RTdzX0xkblJmNjBBZFZhbHNMbFpMQmt2S0ozSlpPZkx6VGh3YUFrTUYyLW1HYXRRc1pnQ0J5WTVZS29sdHQtbWFVem9HbmtZTEdJN3p4Z255RDZwdDBzajE4cHEtOFd4R1pLRjUxU0xEa0loRVlfcXM5djBvd3liS0tUMWRQT2lMQWpfUVE1N1E0aXVfYUpGaU1ydVBUQXp0VGlHdjJPMXhXS0Q3YjZVakNXRWFXZw?oc=5
+- **Seu compliance tem visto dos Estados Unidos?**
+  - Fonte: Nexo Jornal
+  - Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxNME9NbnJvQ1BPeUJwOUhiS3JzTjkzNzVUeV91YllEOWFLSkFjcGMzMVpsWGFhWGI1RFpvOVM4amFaaFI3QklfVTlPdFowUDJjMDI0dnJMRlZiVXpIZ253dE5QYjk4WHdDNWo2S2Vhc01pMlJoRU9MVDQxeHpfTWdvX05mMnRKTF9wWDJGRm9RNngtZVl4VDJfb3dSdXJSUHFweVY3VE8wV25xbmM?oc=5
 
 ### brasileiros nos Estados Unidos
 
-- **Flávio Bolsonaro pode ficar 'quanto tempo quiser' nos EUA, diz Trump**
-  - Fonte: O GLOBO
-  - Link: https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYTIwYno0MDB0RTJZYXpPcEJMV1VkRWVXWFk4VV9rQ3BMQnNEWENNazJZcUVhMUJDMEtMMExXSGI0a1FkY2loTjJKN3RuT3JnQlBKRE81Vmg5cm0zSDdkZ2R0WDd4N3NmdVo5M3pTcnlrY2NvNXVGZWRObjhrQ2xoU1hqeFNIeXRzMUsyWVRpVjhCV2QyeXVPRmVPcnJPYktOdTA0djRqbzFtZktRVmQxX1NUS2VvQ1Q0M3luTHRXQWc4Z9IB0AFBVV95cUxQeTRRY0YyQ1dsSmlRZFUyZDNYcHk3bUxKbmUwR1UtN3J0V1QzdUNvR29jeUVjQ0lVOTgyYV9UanBpWTZXSnQ5aGVJR2wtX3lld3AxQTNEN1UtdjFNTk1iOFVIb2hhSERVWjBmQUhWeTlxYVpJUjluN0FydXBxdHlSelZ2NjZSeldQTUFOTlo2RXZvYXJkZmRGSlpHOFF1RVpVeTBWUnJFR2MzTGRscUo1N252Y0JrVzdWVE1pUFdBZEpzT0RNQnhVdWx6MU9vazBV?oc=5
-- **Trump volta a atacar as eleições do Brasil e diz que Flávio Bolsonaro pode ficar nos EUA ‘pelo tempo que quiser’**
-  - Fonte: Opera Mundi
-  - Link: https://news.google.com/rss/articles/CBMi7AFBVV95cUxPX2hpVDdNS3FkWjRmejRVbUZXd0xnWWdtOU1MSGJzcTdRSkJIUGdCM2ZEOXNLXzNheVFtdFlPVnBBN3ZnQWc0WEhoX1Q2LWJPZWdlUEdzSmtaYjEyQTJDRjh0YjJqZ1l2Z3BCTTZrQmlJelRNT3VRY3FoLVNfbFpPNTd6clJGWWhZNUFVZk1VTWRjLW9PTm0xNmJrS1VGTWNyYVlDVFJKUkJSVk55ZnEyMjg4QlFEMHlMVlB4VnJncWpBOERLVVNoanB5S2xraWl6YUN0SDhMVVpUTDNvcEpsTVJfRVAtMmhvUnN2OQ?oc=5
+- **Eleição nos Estados Unidos define futuro de Trump nesta terça-feira**
+  - Fonte: Agência Brasil
+  - Link: https://news.google.com/rss/articles/CBMiygFBVV95cUxNd0VwM2lYNWx5WUJ2U2xxS3NaVE9xVnJDUl9ZbnRScmtBRWtTWnhESWt4UEFBa2ZUcU1XbTBxTm1oenhPZGNLNndDNXlpelRGeVY1QW1rcmhOSm1iNWpkbG9IREw3b3ppb1d4anNaMU03MHNUb2VvZ2N4R2VDQk81cnhkT25acDhORGFjSGdwb3RjZUFEcGpXLVhzMnNGVmJGWkJpWTVibHc5dUhFQlJPSTZWSm9Ib3VlNU1Sc0RodVMxaS1aX2U0RFRB?oc=5
+- **Avião com 85 brasileiros deportados pelos EUA desembarca em Belo Horizonte**
+  - Fonte: UOL Notícias
+  - Link: https://news.google.com/rss/articles/CBMi0gFBVV95cUxPM3VTMTBvOHdvMDlHLTYtSmZNVndzRmVFcnBGYlNZNXVTbmY1Q3hQQUVueEtJRWN1X1Fiem93NmlIOGFhOGpZUmhsRnB3clFxWU55X1I1LWlSdWh5b29EU3BIYXJ2T3A1SjFLQTBfWnBIbWVmQ0ctQUpXaEJXN3hqd01ra2FaMDIyNjkwTzAzTkowMmZnTzhwMUVNSlVMVko5NHpVcEtpa3FObU5NWmRzZjlHcDNHX1oxU2NmdWozenRMVTE2dG5CSXBGRWRfOTRuV3c?oc=5
 
 ### asilo nos EUA
 
