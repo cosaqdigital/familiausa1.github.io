@@ -1,8 +1,8 @@
 # Relatório diário — Imigração e brasileiros nos EUA
 
-Gerado em: 2026-11-03 14:29 EST
+Gerado em: 2026-11-03 18:20 EST
 
-Arquivo original: `2026-11-03-14-29-tendencias-imigracao.md`
+Arquivo original: `2026-11-03-18-20-tendencias-imigracao.md`
 
 ## Objetivo
 
@@ -25,10 +25,10 @@ Este relatório serve como base para criação de artigos atualizados para o blo
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMixwFBVV95cUxNbmE0YV9Td2xDZENOeUZCV2ZYeW52eW5LUHlScGRzU0k4U2JtbjY0SXN4dDlYc19YUlI2NF9VY3ptTTJQaDRyelROamlzOVNKZmNjZE5GOEptSkRrSGdIRDFrWkd6b2k0SmN6X1ROSUh6d19wS2Y3dll3SzdSeUlvNVVhWGNlQXA0bDBDT2E2UGVMaklkZ1RqNEtfS3JrSEFZMnNZbXRYYWMta3VnbExqSUg1UFB3YWlIVHpackY5TU5GRkt4eGFz?oc=5
 
-4. **Corrupção preocupa mais que imigração na reta final das eleições nos EUA, aponta pesquisa**
-   - Fonte: VEJA
+4. **ICE divulga prisões de estrangeiros acusados de votar ilegalmente**
+   - Fonte: CNN Brasil
    - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMivgFBVV95cUxQSURpT3JFanhFa3pNSlNCeW5rUWMyd0NhdmozMC1RY25kZWdubFJhMkpNYjI4VUdIUEZSTzljaWJScTFkaU95N3hhMk5ITWQ4RlpIODFVRG12bXdjdk5JYzRpMk9obGdQY05XeVB0NFF3dHZfSFBMVkhpdnhYeEdOVm5GZGJQOElXdDF4Ni1PbTBhLXV1dkZ2R2huMjB4MG16UXJjUWhfNmNCeW5uR2VoSEdvLS1nelBxZHdXS3hn?oc=5
+   - Link: https://news.google.com/rss/articles/CBMirgFBVV95cUxPUVlzdG95NnlUWkkzYjkzRkFvaHFvamNqajVtbzVRYjlIUkJVSHF0bDdnN2dHcVRpX29mc3RwaDZVWTZIaklORVhrbVVKbV90Mm5GWVpGVDhVQ25Lc2VZRV96dXo4MFVYd3hDUUlLZHlHRjlObmtjenJ1cDJNZUxxWGYyQ3NxNGp0RWM4dzFTOU1KeU9GSVJDWGlSZEM4b2JhWGhQOW9vOVJMem9qbnc?oc=5
 
 5. **Do papel ao digital: USCIS exige e-filing obrigatório**
    - Fonte: Migalhas
@@ -69,9 +69,9 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 - **Apesar de ter green card, Eduardo Bolsonaro não pode votar nas midterms nos EUA; entenda**
   - Fonte: CBN
   - Link: https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNFRZZ0ktb181VlFubTFMYkxhUEU1c0FLZHVjR3VEN0xRWjJ6Y2NEcWRTQVhtQndUbUM0dzBENExtSHZwU3MzSF9qTnJVVXBMcl8zUWduRi1yRFAwb0JmR2hxLW5NdXRPWGYyQkk2TlRaTThzV0pvVmpQbWhBTzJSQlByRXJMazVjNDdITUdmMENja1VyUlBhNXpBX1BVRGdKVGVvYWJpWnl1S0xSbHBNZjdtNHR6UGJwenBHX3VVcDlHUHBPRG9sY3Boa2tMaURXSkpnWHRR0gHkAUFVX3lxTFBXMl9ubnF3SGtZODRjdHJ5cjM3b1dzVlVFaDh4RFBMRk40UlZkSVVmbHhMNVNJUmJGMWtWcXI0dGEzU2YyV1FnNmczT0NLY0dUa01OM1FINkh4MHZTR01yU3BFM1NRSS1MelV1enhwcXJMaTdSQnhCTU5TaVFhSkNZYWQtbDBWa3lLY1Bmb2h6ZWlMemRlcGFQYmRXN2V1R2ZsSU9MTEVHckM0aUlGbVpDMjRtUkx0aEQtZG10ZDg3U3NBYlFjRFZZNUcxYUtyWjNVaVdFMXNkSmxOQlN5WVhXTTZRRQ?oc=5
-- **Trump já espera que Flávio Bolsonaro solicite um green card, diz ‘NY Times’**
-  - Fonte: CartaCapital
-  - Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTzdqRlpJTHM5VjVjUi0wQmZkT3hwZlQ4b2UxMm5JT2pGZTJ5N1dIemFyOEZGYW1xUWpRc2VRUTlVWU5NaWJjVlFLd1VhX1RwNTJpRXg3cXJvc0Z3TEItaEtoT2hsWG1yNHRnSXhqd1NpX2RDMVZOeTN3RGU5alRZX3MxTGJoRHdMci10bG04X1ctRHU1Zks0ZWJGUGlyaHlJSUFXZDhLWGMwVUJNc1JhUF9nSGJnampZOVlN?oc=5
+- **Green Card: o que é, como conseguir e quais são as vantagens sobre os vistos**
+  - Fonte: 4oito
+  - Link: https://news.google.com/rss/articles/CBMiswFBVV95cUxOUW1kTjE0cUFPMzQ3OXozLUMtYXdsRzBxLXc0cEZtYjY0ajIxU213UXZkQjZsSzlTQnplZi04UlBrVHAxZnVXVkJwRmpvRnMxWUJLRHVQeHZEblY2ZkJmWjFJQWdwbUhDRnBYT25Rd0dvSjBuZ0FNY1RTVE93TUh5Q3RKZVpWelFhUGtEVnctcDJaNktFYUZnTWllREFiamV6Z1RraUZFV2F0MnpNekpKRXE2bw?oc=5
 
 ### visto americano
 
@@ -87,9 +87,9 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 - **Eleições nos EUA: entenda a disputa nos 3 estados com mais brasileiros**
   - Fonte: G1
   - Link: https://news.google.com/rss/articles/CBMijAFBVV95cUxNSGNHaHUtaXpid0Q3WU9GWURIemsyMS1ONU5paF8tMS1sN3JEUzhQTkZCeTJrc1NNT3BkMjhvTWMxUnM0d3EyWUQtVW1STEQ1Y0JPZGV1U1kyLVRoa2xLVnV0VzcwRmFwYWFvZXJIeWp3LU8tcm5JUTRhTVhtQUlhS1RiZFVGZDkybXRoONIBmwFBVV95cUxNbUVEWFA0OC1LZjYxS0FRMUtLbkgtOXJhZkRLSndWOHRId1FwMTVlWEMyZ3pTZkVfdjEzSGYySUpKOTJGUUJtVWhPbmFGYUhCcGoyc1NYTll3emdhdVh0czVHRDZvbHgxeVlyUkxpc0JQTDNqR2pLOWxYVk01cVlrTkUtMVAyQVJsNFJBUHg4SGp4MWhMU1hGSm8tNA?oc=5
-- **O que dois anos de Trump fizeram com o comércio Brasil-EUA?**
-  - Fonte: VEJA
-  - Link: https://news.google.com/rss/articles/CBMimgFBVV95cUxNTWF5Y1BRbk5sQ1FoRGltd3NNQWZWOGNUUnQ1cFhpVkl0eW1uVE1KRXJsYzJEaVVUaEc4dXp1UWQ4SnkySWhYMWlOSDBQZzNyQVJqVloyb1RLWldsQ3dHbnNhcDVheEs0ZlpFOWZmS1ZNZXhZb1RZbWUxUnlwaXVIaHhvZWRnZ1BUOTdsZUMwZXB5dHlCb0dtUUdn?oc=5
+- **Brasil espera mudar relação com EUA após eleições americanas**
+  - Fonte: CNN Brasil
+  - Link: https://news.google.com/rss/articles/CBMipwFBVV95cUxQOVpOMjZ0ZkdfVEltMmRXanJZUU9aR1A0MDRXcEVsYVFXQk1xTnoyZkZNZUd3RWI4VzdKMjBORzFxNENiY0dkWTdRalpGclJOWEVVRGdkWVF5SVpETzQxYWNrSXZFalpmTGo1SmlIbUVCc094dlRHMnhIdkxvZVBldHBxbDlqakdBb2xwT1UtLTlWdmd3blZjY1VwZ1diZWhvYWo1ZDJFZw?oc=5
 
 ### asilo nos EUA
 
@@ -102,12 +102,12 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### ICE immigration
 
-- **ICE ameaça imigrantes em dia de eleição: 'Nós vamos encontrar você'**
-  - Fonte: UOL Notícias
-  - Link: https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRnlIZlNSYW9DMWFPb0RpdUhlOVJfeHZ6NXdxV05Hc2dmcUhScWdzQU5oTEppT3drY0hTMVpZQmhub0t3QkxTdzBjRHZaZ2RQWkNveGNMdXU5blcwSFMzSVNkYmZMRjB2UncxdTR3N0htdHpMb0hlSlZGQkZ4WExhemtYbURVTFdsdEU2eERxRlhxWEJWNWROV0NvX0U2SlFqQ1E1ZVg5MzczUFFzT0VkeGFCZ0U2THhQLVc5SzdvTnV1VnRxZE9BbUFjM1dvbjI3cldHcEZR?oc=5
-- **Juiz federal proíbe agentes do ICE e da Patrulha de Fronteira de abordarem pessoas com base em aparência latina**
-  - Fonte: Gazeta Brazilian News
-  - Link: https://news.google.com/rss/articles/CBMi_AFBVV95cUxOLU8xeTlGMkNmMl9JUE1tbGs5SEZSbHNmcnhkdlJNTEF6b2gtVzVyb2FocFZ4MXh5dFZBX0x1MmR5WTVCSmlCTVJEU0RJem1ONTdoMldzTmZvcy1URTdZRXNtM2hGRGxDSTFMeEVMRUk5aFY3N01mRWZsVDZodE1NR2dGVHNvR05XTkEzWnUzcU9kVHJIMVFtY1JPZHpRTXhIaGxiMEMzWkVhTDhWb0tSQV9UbmZ0TUgtOW5xMnJrb3FpUG1zUjNGOTFNUUxNRGxFY1lQQjBKVjZPOU9WSFFUcFVJTW9VTV9GZ0ZRT3RWOVlQNzYyek1PM2k1dTk?oc=5
+- **ICE ameaça imigrantes em publicação nas redes sociais durante eleições nos EUA**
+  - Fonte: Opera Mundi
+  - Link: https://news.google.com/rss/articles/CBMiwgFBVV95cUxPckEya08wSWUzLTVGNWxldGZ1M0JuOTZzWXFsSHp3b3ZvUlpmTmpNYy1ld09ZSTlTQ0ktVFVDeHVWem1XVXlDRXpLbEZoLWZwaERSZHBPUnpFcEZNdlNackF0UzNhNmlVUnM3aFhWRFJzNTdabFkxNnZldHNVRWVLOThqSUpOTlAwRkVqR3hEMWlWOWpyOG54QjJrTGFRdVRscWNCcE5Hb1Z0Q2owaDFFNXlGdWUtMVU0NDZEVjRJU0pfQQ?oc=5
+- **'Nós o encontraremos': ICE publica ameaça a imigrantes no dia das eleições nos EUA**
+  - Fonte: Rádio Itatiaia
+  - Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxPN0t2bjlRb3JVN0NmZU5qNjRhUGxRVjRLSkdDWk1ZQzNaQ3JsMktvSDh1bTM5MUNNUXp5M3d3UVUzWFdma2JMWV9MX1VqS0xnVV81SVVYTERjQjJmOTZHQXoxdktrcEpwejJINlZPc0k1MEpMcUNNZkxMR1pKRzJldk5Vdm9RWHNYeHZKdDZfNU1yZHlnVUhicDNCQzdhWE1jY0xRS194U2hFbmJtMVlGY0Z6ZW8?oc=5
 
 
 ## Termos monitorados
