@@ -1,8 +1,8 @@
 # Relatório diário — Imigração e brasileiros nos EUA
 
-Gerado em: 2026-11-02 16:41 EST
+Gerado em: 2026-11-02 19:56 EST
 
-Arquivo original: `2026-11-02-16-41-tendencias-imigracao.md`
+Arquivo original: `2026-11-02-19-56-tendencias-imigracao.md`
 
 ## Objetivo
 
@@ -15,15 +15,15 @@ Este relatório serve como base para criação de artigos atualizados para o blo
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMiY0FVX3lxTE90N0E2cm9Va0c5cE9YeWJ3T2RsNkVlMDRXM2dXRkcxSGtNV09MZVhuRlNXMjhiSHRaS2Z4cDFZb1ZYR2xrdWxHbnlRTUVvcVBWdV9BLUlHdXVCY1NLeDBiWWhwSdIBaEFVX3lxTE5xbmEtT3RBOTNCS1o1VnJWYVBSVzVXUjJteTZEeTEwd3dsRTFSZkNuQjNMdExjZjRKa2pfUkt5eTVtQmFTU21aa21HNmllcUhkRzVHUk1rb3d2TDdrN1p0UUZnUklqYTBm?oc=5
 
-2. **Medo de operações do ICE afasta imigrantes das urnas nos EUA**
+2. **Eleições nos EUA: alvos do ICE e pressionados pela inflação, latinos se viram contra Trump e são trunfo dos democratas**
+   - Fonte: G1
+   - Termo monitorado: imigração EUA
+   - Link: https://news.google.com/rss/articles/CBMi_AFBVV95cUxQbDNtcS00YXdlaTlZeFRTUjRsdWFCTUxsalVCWktpTWFMTHNNR0lBYXJpTUt3ckNFWVhkN0pZajZrQW04ZVBHd09KeExKeWdfTXN1akxjZGE1VWhqbVVLbkJUckpPTmVWRmpVU1BBXzUxWEN5aFR5SHlXVGpaT3JfUkxZTmZ4VFctcEN6d1FEU0dwcmtDS2p1RXdPOENvLXBQUUNfckJQUDhDWjM3ZE5xQjhlLW1xSTZhS3lILUhwUDhLcWFGbGdkNHVROTAtN2NmcE00cmp2Nm45VFhJYjh6b0tSMHloMmdHY09qN2ZZaHJZVWpNSW5FZEVPTHDSAYsCQVVfeXFMTUw4ZE5XNUpmR1FGckFQTkFLN3JtNk5CaVJSZG9peUFtTExaOXM4LVNyN0ZZZXdWTnZ4MG1zOTN5M0JyVkRCLU1IT0hPY1RjbkpMVHpUSlcyLUM2U3hWNkVPaGV1UmtFb3FiUHMzcmR4ZVk5VWZnX2hMSVJtcjBSQ0cwQ1NrRlpzOERLaUkyeWhUN09udmgxaV8zSkdmcXNraUNCTWJkZld2OWlaMzU0YU9SSEVURk55VGQ0MG9IRkw2TVpPcG9Za2xzZ2VRdUQ0OWhwYTlTdHBSN080em9MVWw3YXB1bUxYbmxHWU5pcUpXQVhES1VHYXZhSlhFaXQ2VWdrdjRIaGVaNERv?oc=5
+
+3. **Medo de operações do ICE afasta imigrantes das urnas nos EUA**
    - Fonte: Opera Mundi
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUGUxRG5ESWQwblNQOFhJU203WEtmQVgxejZoNUp3R3FuTmd0VVU2bHVqTXJ5cUVCNkxFNnFNUVZUWk5Rdm5SamJVbTFTTEVuajBfZUJZSEozNjlMUDdfM2M5UG5ESThRbk50Ql91WkZ3a1RfZkZ4c3NWSWVfYkluOTlfY2N6NVYxNTlsM1R1d0ZnZkY5UkV3QkhJcmdaNVFQRUdiODBINENpdw?oc=5
-
-3. **‘Poder à Prova’: JN vai ao Texas para mostrar como a imigração e a inteligência artificial têm mobilizado o eleitor americano**
-   - Fonte: G1
-   - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMikgJBVV95cUxQeHpvSlh5WVI2OWM1d3pFejJ1eEhTNzZmaW0yazQtWGkxakxMYWU2cUVObWU2M2RIQlBfa2pld240ZEp1R2o2dDlMSkJIZFNqMTY5Q1FxU3pfZ1hRNlVZekhkMkEzNm5oYTRMOFhrSUJJY0t1VlVESWlENk9PcTJDRVlhMDdEV3NFcm1DejkyRUNYY0k5anEzM00tZlUwNjRBU0hjcnp1dDBkc1RhRmtUdmIyNjRWc0l4NmZMV185RkpwcURLc0FNak0ybXlMbzRLLUhyc1FjTVE4VlFEVjc1czJHMHVFMUg3eFlMbzhvbmpmc05VTVl3NEFMaUR0YnQxTjlwNVEwMGNXUU5xTDZ4VWRB0gGgAkFVX3lxTE1pVUpjX1d3MlNJUklUd2VwMnJOQm9QTnZmd2hCMkx4RVlWdjJLNHFhQUFyRTF2bVE5MjBELUJENnhfbUhvcnlrV2d2UENvOHB3OUNXLTYzUmRGVWxTeUxmZ0V3eENOMHhLRU1XeTM0U1cwb1dGOG5YNE9mLXlKLUlIWmpvd2F4RVU3eEpxa1FHRExHYzRWV05XRTJ1Ujd4MFR3dVdNbGM0Mkl2bTEzQ1VHMlFvWUxuOG9MNTNreVlfTmF5SEd4aXRiRHdUSUlobzBKY0thdlRJU0I4eFViY1A5Q2JXa3pmYXZqVFh3RU9jOHdnQm9oVlBhVUFZbk1vT2piREJjUlNEY1R4eGM5RS1ScU9FU3RqaXhkVW9xVVhmQQ?oc=5
 
 4. **Corrupção preocupa mais que imigração na reta final das eleições nos EUA, aponta pesquisa**
    - Fonte: VEJA
@@ -51,9 +51,9 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 - **Imigração nos EUA: os gráficos que mostram impacto do 2º mandato de Trump**
   - Fonte: BBC
   - Link: https://news.google.com/rss/articles/CBMiY0FVX3lxTE90N0E2cm9Va0c5cE9YeWJ3T2RsNkVlMDRXM2dXRkcxSGtNV09MZVhuRlNXMjhiSHRaS2Z4cDFZb1ZYR2xrdWxHbnlRTUVvcVBWdV9BLUlHdXVCY1NLeDBiWWhwSdIBaEFVX3lxTE5xbmEtT3RBOTNCS1o1VnJWYVBSVzVXUjJteTZEeTEwd3dsRTFSZkNuQjNMdExjZjRKa2pfUkt5eTVtQmFTU21aa21HNmllcUhkRzVHUk1rb3d2TDdrN1p0UUZnUklqYTBm?oc=5
-- **Medo de operações do ICE afasta imigrantes das urnas nos EUA**
-  - Fonte: Opera Mundi
-  - Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUGUxRG5ESWQwblNQOFhJU203WEtmQVgxejZoNUp3R3FuTmd0VVU2bHVqTXJ5cUVCNkxFNnFNUVZUWk5Rdm5SamJVbTFTTEVuajBfZUJZSEozNjlMUDdfM2M5UG5ESThRbk50Ql91WkZ3a1RfZkZ4c3NWSWVfYkluOTlfY2N6NVYxNTlsM1R1d0ZnZkY5UkV3QkhJcmdaNVFQRUdiODBINENpdw?oc=5
+- **Eleições nos EUA: alvos do ICE e pressionados pela inflação, latinos se viram contra Trump e são trunfo dos democratas**
+  - Fonte: G1
+  - Link: https://news.google.com/rss/articles/CBMi_AFBVV95cUxQbDNtcS00YXdlaTlZeFRTUjRsdWFCTUxsalVCWktpTWFMTHNNR0lBYXJpTUt3ckNFWVhkN0pZajZrQW04ZVBHd09KeExKeWdfTXN1akxjZGE1VWhqbVVLbkJUckpPTmVWRmpVU1BBXzUxWEN5aFR5SHlXVGpaT3JfUkxZTmZ4VFctcEN6d1FEU0dwcmtDS2p1RXdPOENvLXBQUUNfckJQUDhDWjM3ZE5xQjhlLW1xSTZhS3lILUhwUDhLcWFGbGdkNHVROTAtN2NmcE00cmp2Nm45VFhJYjh6b0tSMHloMmdHY09qN2ZZaHJZVWpNSW5FZEVPTHDSAYsCQVVfeXFMTUw4ZE5XNUpmR1FGckFQTkFLN3JtNk5CaVJSZG9peUFtTExaOXM4LVNyN0ZZZXdWTnZ4MG1zOTN5M0JyVkRCLU1IT0hPY1RjbkpMVHpUSlcyLUM2U3hWNkVPaGV1UmtFb3FiUHMzcmR4ZVk5VWZnX2hMSVJtcjBSQ0cwQ1NrRlpzOERLaUkyeWhUN09udmgxaV8zSkdmcXNraUNCTWJkZld2OWlaMzU0YU9SSEVURk55VGQ0MG9IRkw2TVpPcG9Za2xzZ2VRdUQ0OWhwYTlTdHBSN080em9MVWw3YXB1bUxYbmxHWU5pcUpXQVhES1VHYXZhSlhFaXQ2VWdrdjRIaGVaNERv?oc=5
 
 ### USCIS
 
@@ -75,21 +75,21 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### visto americano
 
-- **Visto americano: nova regra limita a três as alterações na entrevista**
-  - Fonte: Viagem e Turismo
-  - Link: https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMTQtS3laX0diMXV0RTdzX0xkblJmNjBBZFZhbHNMbFpMQmt2S0ozSlpPZkx6VGh3YUFrTUYyLW1HYXRRc1pnQ0J5WTVZS29sdHQtbWFVem9HbmtZTEdJN3p4Z255RDZwdDBzajE4cHEtOFd4R1pLRjUxU0xEa0loRVlfcXM5djBvd3liS0tUMWRQT2lMQWpfUVE1N1E0aXVfYUpGaU1ydVBUQXp0VGlHdjJPMXhXS0Q3YjZVakNXRWFXZw?oc=5
-- **Visto americano: sistema tem nova regra para reagendar ou cancelar entrevistas**
-  - Fonte: Folha Vitória
-  - Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxQYk91QUFJMlE2Q1BYXzBtdTVpYXdvRjkwOHJTZWlSVEx1MFFhc0ItdHJIV3RqbXBtclVRWDRQdDM5cDFrOXV5R0prTWI0OW5uTHZfSVpIOV9xZmQxU1lHNDNXSk9hdDcwNmFPWmZnbTlYM0tJMW9TbjRyZVBWY1UyMWNvdExvUTlXaFp5VGlWMWctRXpZNWxXbTFjRWphMUdWX3NHRmJpXzB6T2M1cFJaRzlKNGczZ2s?oc=5
+- **Em carta, deputados dos EUA questionam papel de Trump na fuga de Flávio Bolsonaro e emissão de visto**
+  - Fonte: G1
+  - Link: https://news.google.com/rss/articles/CBMixwFBVV95cUxQanBsZDhqVUV3OTl1VjZwTVR4ZzltM1VWQUJrQm0teEhUZElCWE9ONDVxY0lfMGVBSDRUMU1Zb05GX056TjRaVkRJY0VLVjBQRlNTalFEdGh3aVU4eS1YWVVkRmptRUZRaUtIUVhHVjd4b3ZBRUlkXzNMcFdPRGRQa2tEODM2ZXltcjR0RElqRU44MTlkajRUTTBTc0kydTI2bUs0RDBpWlJhaW9vVkNWbFZKZWlyWkJUS2ZZbUxzV1ZxWnZwVEdR0gHWAUFVX3lxTFBYUU1ZMnpYZVZwR21TanBscU5jb3JRYUtvbkVMdVZTc0JEbWVPZHkzR2tRVzZ2dVllY1VYeWtLZEV2S1lxWUZzSDZ5Y0Q3OTVqM1FoTzA5Rl9xQ19wc25wbGgxYlNuSkhYMkctY3JBQ2Rwd0FfYkRnR19FSFdUUGhQWUZvMDNLMUg0bkgxcUw3RXRDYk5vczFXei1WMWppS3dyTDhYNlFOdXVZUnJZZG5Jd25acnlzN3ZkbG1XM0NlRGllM3hYUHBXaDFULXdMUzRTSW1LNWc?oc=5
+- **Veja quais são os 10 erros mais comuns na hora de preencher o formulário do visto americano**
+  - Fonte: R7 Entretenimento
+  - Link: https://news.google.com/rss/articles/CBMijAJBVV95cUxQbEUwT016X2lwVzFLRmhqeC15LWR2VUJ6bFl3VE5ORmdrTGY1MVNGOFRPOGszWXpXOU1mdFZpZWtXRUt0NFdoRjFJZWwyNjhRRGhjX0xOU1h0dzVsVjJMLWM5bEJjYnd1NENkWGtYNDRnUV9TLUlfSHlUcDl0Yk1zbmVCcmoxNUd1dHF0cGFFTF8zcTc3NVAzd0ZWMjZ5VE80eS1XVHRpTHJsV013MVdaN1ZHOEg5SmhlZldOVjlsdW91Zk5ka1NrMFNkX3A5NHNKTDZoYldWc0thR0RlNnJUblVRZmpjVURBb2RxSTh3LVp3VFJOUkJuUXV6aFhadjNGS1NjYXlMNTljSnFI?oc=5
 
 ### brasileiros nos Estados Unidos
 
 - **Como eleições nos EUA devem selar destino de Trump e futuro da relação com o Brasil em 4º mandato de Lula**
   - Fonte: BBC
   - Link: https://news.google.com/rss/articles/CBMiY0FVX3lxTE01UTlvOHYwYmNnakNabkpPa3c0NVRsQU54UXdoR1V5YnJMTktMbEQ2d1dJUi1mN19CZVNaajJ3bDk2SDlZbGgzc0k4TnBzeWZyRV9nOWFWSENjRE1rQzliOVdVONIBaEFVX3lxTE5Td0lhWkRpRFJfQ25wTnVGMG1CS2hYWVFOaGRvOGRERFB4ME1rWUVHaU5jTEZKX3o0YTVXWTcxSnFmV09JLTBSRFl5VHRXYUlvVUhNek9pbzZiUEFBT09qVVRXdzYycFNh?oc=5
-- **É dura a vida dos brasileiros que vivem nos EUA e lidam com a economia de Trump**
-  - Fonte: O GLOBO
-  - Link: https://news.google.com/rss/articles/CBMi2gFBVV95cUxNaGxLOTk1SGc4SGJsOV9HYzVCWmRlSWJwS2dLbVFnejVGbW5aaTBCYkJfcS1NVVUwMGlWRDh6cl80OWVyeTJ4UUVyVkJ1NVhfWkVUZkFxTVY5a1NrQ1NfU2VlbWlPSEVkNF9oVURkZDgzNUhFQ1ZJRTBxSW9kSUwwTUpwSXk0YnFHU3U4MmE2cDY0dVNyOVh1UDhwWXFqQmNjTzU3ZG56Yk5KMUxNaHZSbHNWTHRrTll1bWVkQy1mOFJMa21XaXlNR1Y4aGhvOXR5QXhiek80Z2xEQdIB6AFBVV95cUxNeXFsdExEenNDRko3bll1dWZHaE9zWnpadm53UjNUcVYwNTJVd1dueTh4LTE2Sjh6UjhkMVNfLXY0QXdKNjR5UFhUblZwWThGdm5jVGFfZ2poa3lYSjdtZ0lfTU5Zakl5NFFaTUR0Sm5ORGdzZEo4N2RTaXZ3dVpKUmoxd1lpNVRyMXMtQmtjckVYMy1lUGVMYnE0dFFqSEVVc24wZXRSa3BIYkpZVU1pTlVyQjMzWkRkTnpJWnIwTW0td3NkYVlLd3doZmxYX2NqTkJkM2lRR2ZtaXRqa1ZuVWh6UV9DdkRz?oc=5
+- **Eleição nos Estados Unidos define futuro de Trump nesta terça-feira**
+  - Fonte: Agência Brasil
+  - Link: https://news.google.com/rss/articles/CBMiygFBVV95cUxNd0VwM2lYNWx5WUJ2U2xxS3NaVE9xVnJDUl9ZbnRScmtBRWtTWnhESWt4UEFBa2ZUcU1XbTBxTm1oenhPZGNLNndDNXlpelRGeVY1QW1rcmhOSm1iNWpkbG9IREw3b3ppb1d4anNaMU03MHNUb2VvZ2N4R2VDQk81cnhkT25acDhORGFjSGdwb3RjZUFEcGpXLVhzMnNGVmJGWkJpWTVibHc5dUhFQlJPSTZWSm9Ib3VlNU1Sc0RodVMxaS1aX2U0RFRB?oc=5
 
 ### asilo nos EUA
 
