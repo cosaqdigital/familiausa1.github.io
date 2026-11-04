@@ -1,8 +1,8 @@
 # Relatório diário — Imigração e brasileiros nos EUA
 
-Gerado em: 2026-11-04 14:44 EST
+Gerado em: 2026-11-04 18:39 EST
 
-Arquivo original: `2026-11-04-14-44-tendencias-imigracao.md`
+Arquivo original: `2026-11-04-18-39-tendencias-imigracao.md`
 
 ## Objetivo
 
@@ -25,10 +25,10 @@ Este relatório serve como base para criação de artigos atualizados para o blo
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSkVuMXEwdWZkWGk0am9QbFY5MU5PZ19FbUJhOHhiU2ZDUXBQcEk0RFpYQzF0OGxpYnp5cDdTR24zcy1PcHpaZWZpN2VzLU5HTWpxZzNNZlZES3JxUWI4NW9rXzZ2ZTVVMDZkRTNDSzVUZ002cm5WNUVIZTN6c1RHV1luanlqM2hvTmkxdS02aC1QQXRjajNwbk9PaGE2QThyUXZmX3lBcGkzTFhLZWozQlY2MW9SMWxMa2ZrMUc5aFU3d2FlRXBtTtIBzgFBVV95cUxPUFQwcFJ0TFZwVW1SVkVKVjJIWUVlMHpWM0VVT1I4YmZwWjBESkJ6WHk0UUc0VWtOVFppQWdYc0JpSThodE12WjMxaW9uRGtncEdLczNpMGN6Qk5lLVQ3MnlYc2h6VXc1N2s3OWJHVjhaSUNqdm5nV0l6akdrdzZmV1BISXRrRzI1N2Nyandha3ZRcTBWdDItYlhKbkJmbnlkZ0htc3Q1ckJSZjd0czJOX0RFemwzMnl6WUlJYkgxcUM0dFl3OEk1U2FWYmNDdw?oc=5
 
-4. **Democratas tentam tirar poder de Trump sobre cortes de imigração**
-   - Fonte: Consultor Jurídico
+4. **Democratas conquistam o Congresso: o que muda para a imigração nos EUA**
+   - Fonte: Tribuna do Sertão
    - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMipAFBVV95cUxOTnR6RzV6QUlzMVduakZLYnpUSkRjMHBIS1AxYWMzNDhJMGxZeU1jSUVremp3TFZkR2tleUxoVTF6cUZueUVocWhUenNFM0dRdW53aUM3T0lUTWI4Zmd3ODN6UlI3RnBQcUxiYUxDb090U2UwWXlNUEpOMUtxTFNpSWNPQTNyX3ZXWnNRVDRZbUR3Y2lQSTIteml2eXRraUl4aFNOeA?oc=5
+   - Link: https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNGVvSFp4ZDdJQjNCR1NDQ1ZPWDUwNlZnVHNaR01WZEZZRHFLNzZlRXZNN2pXSlQxTTl0amg4ZHhibHBHd25LYVFidWxvQ1BoRFFkQV9oUlNaZ2J4MGljRXI0TGtkQ2xiQzZSVUNCMmJRQVF0TnJfOWdFQm5yUndRQ3NhWXNpa1JmcFkydGtleXh0ZnhGU0N3cTJyOXBQQU50dVRpWUxSZGdoSDI1RkMyYVNIeERUUXV4MWlpN2w0MVZUSmcwOHF6cGd6eFpTcDFJajVr?oc=5
 
 5. **A renovação do EAD deixou de ser presumida: O novo pacote do USCIS**
    - Fonte: Migalhas
@@ -84,12 +84,12 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### brasileiros nos Estados Unidos
 
-- **Eleições nos EUA: sete brasileiros são eleitos deputados estaduais**
-  - Fonte: G1
-  - Link: https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdXdjQ2RXcmJaQWJaSzF0Tnp0NHFMOTFURmRmaHVYS3MxeV9tLVFvbWkxWXFLUjNBMDBZVTdwVGhfQ240eWx4aGdPNm9qLUVsR0I1SVZJR3lSSk1Ka3hEZTUxQnBnZE9KZF9CZmVKLWJFdjMwWWl5ZTk3STY4cUt5XzUxS1R5MWVwRE51R2lyQUlxaHQzUVVqeUtScjlJOWhjRkRsOU5DcDJXbkNXTzBsb2NZa2VCX0FO0gHHAUFVX3lxTE4zNlMyTVJRWXNwaEZfaWNxLXpDa0pOMDFQdTlhbURMVWtTajRpZzZKSnpxZ0d2MkdxZ0FwT1RQQXNvMWgyN2hORy1fRlRiM08xOUt2MENSeUtQNzJmRTE0cDJlMHVvX1BmWVFnMXJDU0IyY2stN0ExUDFlenNNUGVaZU9zMGVWZ0lCVXh4Tm9nQU9KUUkxUzJpaGItRDVMSWRCMEpSejFFNE02RWYyOFpoSFVZdVpqcWR6aFBfT0YzekdYcTNFdEU?oc=5
-- **‘Devolveram esperança ao mundo’: norte-americanos atribuem ao Brasil inspiração para derrotar Trump**
-  - Fonte: CartaCapital
-  - Link: https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbHBIVkI3T0FGd0VwT1hNMkh0Q1JnRzVubXJNeGdhMnU1aExQa09mUlJwbzVlTFo0VHA2QWVjanZiUm1rcG5vcG9IMVhfXzVXOURTU1NVSkxfYnFscUtTODNvM1ktNzBWR1VxWVpwdkRadmJwWFdSY0x0S0dWTVZ5MkZZQnRrdnJ5dGgzZ1NTQ3BrRF9oSTlWcHdHTmE5amluYWlLdDlhdnowUHEtem9jOHBOdHFyVE1teWt1Nm13YWhlaTFGbHk5SFRZRmd3UkZZSDhJVQ?oc=5
+- **Sete brasileiros são eleitos para assembleias estaduais nos EUA**
+  - Fonte: Agência Brasil
+  - Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxNSzNFOHlUd0UwSzRuUmhpd09hRE1iY21rVENMbjR1bXh5Qm02S092YnNQUUVSdDFsYjREQzRRRlFIenZzMi1vZlhySDlXcUZUeWJWR2I1R2RCc2p4NlhNb0xuNXJsYmdPMjBGNFNKb19SalUtcy1JYWxULTg2N1V3MUFPUmRlMWc0NG5kMi00VjFRQ0dFNHh3SHBEckxPOFRaZkNBNnpSeGhoSk9wSE50UFRNV2M5M0dTMUdMUWhRaWRBVlRU?oc=5
+- **Brasileiros eleitos nos EUA: saiba quem são os 7 representantes para assembleias estaduais**
+  - Fonte: Valor Econômico
+  - Link: https://news.google.com/rss/articles/CBMi3AFBVV95cUxNRmxPcmpsTU5pVGpXQnR2YWFjSTk3T29GcWpxTWc4Y0hkdzMtSWhORWFldTZudmxKZTFFYVdUdTBIcG5QUWVUN1dKU0NvakZVMTZmblU0TUljMk4yaUpPUmY4N0JfZHA5ekt1S1VaTC1EOUlENzhEVzBvS2piSjBKSUdjam9IU1RWM21VN0lPa1l1MGVHc2ZZb0w2VUpfaHRtVWhiVUx1OUMwYjBzVHNCQy1uVWxtOHNDQ19mZlcyTjBPeTBWUmV1TkJCQWVGVWN5VEtxUnNIcmh4bDY50gHrAUFVX3lxTE9VUUt4U2laYlEtakdlOVhtRER4UXlMcDdzM0ZmMUxGSG0xcFZfUXNHd1U1cTNfWjhYcm9EOTA0dmI4RmhxZkNzdTlFcVRBc256QU1GcHBtclAwb1Uyb1QxdHpVOGRNWl9CaFhRdENtWTFJZUFhaWJINE5jR3pmMkRVNE01ekN6QjRKT0RubjUzV0s5eFZsSFB4NlY1R21RWUZUTy1hNlhjN2hDRWRyTzk1dEhsMW92SEkyUE80NlpqVmtMeUJZUVdDRDcxTW85N1dRazJHMEdTb2dTR3JMWS1XenU0aHQ4Y0l5TWc?oc=5
 
 ### asilo nos EUA
 
@@ -102,12 +102,12 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### ICE immigration
 
+- **ICE volta a prender imigrantes liberados pela Justiça após contestarem detenções**
+  - Fonte: Gazeta Brazilian News
+  - Link: https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZUY4TGhHdEFmTEFNWFlOTjJlbjVfU05FSGxKWENGcnFxcktYUWZrZEdicnpaTXlKV3BCM3kxUFhxR0NUcmIzSXA5bFNMQjhQbnczY1VTNm1hdVNxV3hxM1FuVE9Kb3FiRlRPcHdhM2tMSXhIU1JlX1VpVUgzSlBURlp6LU0wQVJHN1RKdVNxNkFxQ0R4WHhiQ0RETjlSNXo1TGtQakUxT2JUZV9WcEFtQS14OWplRE9qYnpVRUxzd2pFX3dSNFhyeUlxbTYzWGFTVDR3?oc=5
 - **ICE ameaça imigrantes em publicação nas redes sociais durante eleições nos EUA**
   - Fonte: Opera Mundi
   - Link: https://news.google.com/rss/articles/CBMiwgFBVV95cUxPckEya08wSWUzLTVGNWxldGZ1M0JuOTZzWXFsSHp3b3ZvUlpmTmpNYy1ld09ZSTlTQ0ktVFVDeHVWem1XVXlDRXpLbEZoLWZwaERSZHBPUnpFcEZNdlNackF0UzNhNmlVUnM3aFhWRFJzNTdabFkxNnZldHNVRWVLOThqSUpOTlAwRkVqR3hEMWlWOWpyOG54QjJrTGFRdVRscWNCcE5Hb1Z0Q2owaDFFNXlGdWUtMVU0NDZEVjRJU0pfQQ?oc=5
-- **Polícia Civil de Santa Catarina, em cooperação com o ICE, prende foragido da Justiça brasileira em Orlando, nos EUA**
-  - Fonte: Polícia Civil de Santa Catarina (PCSC)
-  - Link: https://news.google.com/rss/articles/CBMiQ0FVX3lxTE93VDJmeTk1LUFsYTJqOEZTM1FZcmJmSXB5UEdnNzB3SklGcUtzMGFXYjRmZzVCZjhLS3k1Z1NMZXktVjg?oc=5
 
 
 ## Termos monitorados
