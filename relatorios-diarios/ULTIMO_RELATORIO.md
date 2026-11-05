@@ -1,8 +1,8 @@
 # Relatório diário — Imigração e brasileiros nos EUA
 
-Gerado em: 2026-11-04 18:39 EST
+Gerado em: 2026-11-05 01:41 EST
 
-Arquivo original: `2026-11-04-18-39-tendencias-imigracao.md`
+Arquivo original: `2026-11-05-01-41-tendencias-imigracao.md`
 
 ## Objetivo
 
@@ -10,25 +10,25 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ## Principais assuntos do dia
 
-1. **Imigração nos EUA: os gráficos que mostram impacto do 2º mandato de Trump**
+1. **Sistema de imigração quebrou, diz deputada brasileira reeleita nos EUA**
+   - Fonte: CNN Brasil
+   - Termo monitorado: imigração EUA
+   - Link: https://news.google.com/rss/articles/CBMiswFBVV95cUxOYkc3WGVlbnJnN3JyVkY1NEVibVNIX2lhdW1feXM0RkZVUDJWTFVlZmt1d3BGckxnLVVDSzlHOVlLcmZFWDJQalZsUVhQOE9hYWp3ZlhmMENWTHRHSkp2cGJJNm9yN3E5b1l0RnRjRFE0MjlNNmNTNUZ4NlNDU1ZJR19zU0pIVE5nNVYxR3RqZGotaGIwV3ViVk5OQ2ZkRXVFYXA3M1Foa0dTaTJMYmEzbllnYw?oc=5
+
+2. **Imigração nos EUA: os gráficos que mostram impacto do 2º mandato de Trump**
    - Fonte: BBC
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMiY0FVX3lxTE90N0E2cm9Va0c5cE9YeWJ3T2RsNkVlMDRXM2dXRkcxSGtNV09MZVhuRlNXMjhiSHRaS2Z4cDFZb1ZYR2xrdWxHbnlRTUVvcVBWdV9BLUlHdXVCY1NLeDBiWWhwSdIBaEFVX3lxTE5xbmEtT3RBOTNCS1o1VnJWYVBSVzVXUjJteTZEeTEwd3dsRTFSZkNuQjNMdExjZjRKa2pfUkt5eTVtQmFTU21aa21HNmllcUhkRzVHUk1rb3d2TDdrN1p0UUZnUklqYTBm?oc=5
 
-2. **ICE faz post ameaçando imigrantes em dia de eleição: 'Nós vamos te rastrear'**
+3. **ICE faz post ameaçando imigrantes em dia de eleição: 'Nós vamos te rastrear'**
    - Fonte: G1
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNjQybTdUekJkMXhqTk45bjRSU29ZcGhvZ3NlLTVmOXJtV2llcU9KTUlybG8xQ0Z2QjJZMjN6azBsYkU1QjJ5MzJhNHJSaVV2Z1dtSzVTYzhEVlBxR0NXYnlDWm5EUFAyV3E1THZMaDFLSzNlcW5PM216eVpEb1RackVTcW9OazBJRVV2cHRfX0ZZWG5lR0xxWC1KYURNTWNBUThPZmNUMkZBdXJUU2RiUi1lZWQzem1oQmNNdUQzc05Tc2PSAdIBQVVfeXFMT1FJSTRlcHlETG5Id0lfS0RvcEJDamhiWGpsRTlucUU0Q3VJaVZfQlFDdy1yOEZJNDFSM1pUMDZ5a0hvRXRtOFFSRXk1Zm9mVjFBX0hwcUw4RDBTeHdXOV9heFZXc1BndjJIMmR5NXJidHBiaFV1V1VLSDZhejNvR0lTZXc3aC1ITzZnUjhrQ1RSdlk0SDRaMjZSdXA3SlVqSWhTaVBqb192MTM5aHVmcnJFWEtEM1dCdHRwRVNNaXQ2dEk0bEcyTjJQRGFTTTF0QUF3?oc=5
 
-3. **Latinos nos EUA se preocupam com economia e não com imigração, diz estrategista político**
+4. **Latinos nos EUA se preocupam com economia e não com imigração, diz estrategista político**
    - Fonte: Estadão
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSkVuMXEwdWZkWGk0am9QbFY5MU5PZ19FbUJhOHhiU2ZDUXBQcEk0RFpYQzF0OGxpYnp5cDdTR24zcy1PcHpaZWZpN2VzLU5HTWpxZzNNZlZES3JxUWI4NW9rXzZ2ZTVVMDZkRTNDSzVUZ002cm5WNUVIZTN6c1RHV1luanlqM2hvTmkxdS02aC1QQXRjajNwbk9PaGE2QThyUXZmX3lBcGkzTFhLZWozQlY2MW9SMWxMa2ZrMUc5aFU3d2FlRXBtTtIBzgFBVV95cUxPUFQwcFJ0TFZwVW1SVkVKVjJIWUVlMHpWM0VVT1I4YmZwWjBESkJ6WHk0UUc0VWtOVFppQWdYc0JpSThodE12WjMxaW9uRGtncEdLczNpMGN6Qk5lLVQ3MnlYc2h6VXc1N2s3OWJHVjhaSUNqdm5nV0l6akdrdzZmV1BISXRrRzI1N2Nyandha3ZRcTBWdDItYlhKbkJmbnlkZ0htc3Q1ckJSZjd0czJOX0RFemwzMnl6WUlJYkgxcUM0dFl3OEk1U2FWYmNDdw?oc=5
-
-4. **Democratas conquistam o Congresso: o que muda para a imigração nos EUA**
-   - Fonte: Tribuna do Sertão
-   - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNGVvSFp4ZDdJQjNCR1NDQ1ZPWDUwNlZnVHNaR01WZEZZRHFLNzZlRXZNN2pXSlQxTTl0amg4ZHhibHBHd25LYVFidWxvQ1BoRFFkQV9oUlNaZ2J4MGljRXI0TGtkQ2xiQzZSVUNCMmJRQVF0TnJfOWdFQm5yUndRQ3NhWXNpa1JmcFkydGtleXh0ZnhGU0N3cTJyOXBQQU50dVRpWUxSZGdoSDI1RkMyYVNIeERUUXV4MWlpN2w0MVZUSmcwOHF6cGd6eFpTcDFJajVr?oc=5
 
 5. **A renovação do EAD deixou de ser presumida: O novo pacote do USCIS**
    - Fonte: Migalhas
@@ -48,12 +48,12 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### imigração EUA
 
+- **Sistema de imigração quebrou, diz deputada brasileira reeleita nos EUA**
+  - Fonte: CNN Brasil
+  - Link: https://news.google.com/rss/articles/CBMiswFBVV95cUxOYkc3WGVlbnJnN3JyVkY1NEVibVNIX2lhdW1feXM0RkZVUDJWTFVlZmt1d3BGckxnLVVDSzlHOVlLcmZFWDJQalZsUVhQOE9hYWp3ZlhmMENWTHRHSkp2cGJJNm9yN3E5b1l0RnRjRFE0MjlNNmNTNUZ4NlNDU1ZJR19zU0pIVE5nNVYxR3RqZGotaGIwV3ViVk5OQ2ZkRXVFYXA3M1Foa0dTaTJMYmEzbllnYw?oc=5
 - **Imigração nos EUA: os gráficos que mostram impacto do 2º mandato de Trump**
   - Fonte: BBC
   - Link: https://news.google.com/rss/articles/CBMiY0FVX3lxTE90N0E2cm9Va0c5cE9YeWJ3T2RsNkVlMDRXM2dXRkcxSGtNV09MZVhuRlNXMjhiSHRaS2Z4cDFZb1ZYR2xrdWxHbnlRTUVvcVBWdV9BLUlHdXVCY1NLeDBiWWhwSdIBaEFVX3lxTE5xbmEtT3RBOTNCS1o1VnJWYVBSVzVXUjJteTZEeTEwd3dsRTFSZkNuQjNMdExjZjRKa2pfUkt5eTVtQmFTU21aa21HNmllcUhkRzVHUk1rb3d2TDdrN1p0UUZnUklqYTBm?oc=5
-- **ICE faz post ameaçando imigrantes em dia de eleição: 'Nós vamos te rastrear'**
-  - Fonte: G1
-  - Link: https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNjQybTdUekJkMXhqTk45bjRSU29ZcGhvZ3NlLTVmOXJtV2llcU9KTUlybG8xQ0Z2QjJZMjN6azBsYkU1QjJ5MzJhNHJSaVV2Z1dtSzVTYzhEVlBxR0NXYnlDWm5EUFAyV3E1THZMaDFLSzNlcW5PM216eVpEb1RackVTcW9OazBJRVV2cHRfX0ZZWG5lR0xxWC1KYURNTWNBUThPZmNUMkZBdXJUU2RiUi1lZWQzem1oQmNNdUQzc05Tc2PSAdIBQVVfeXFMT1FJSTRlcHlETG5Id0lfS0RvcEJDamhiWGpsRTlucUU0Q3VJaVZfQlFDdy1yOEZJNDFSM1pUMDZ5a0hvRXRtOFFSRXk1Zm9mVjFBX0hwcUw4RDBTeHdXOV9heFZXc1BndjJIMmR5NXJidHBiaFV1V1VLSDZhejNvR0lTZXc3aC1ITzZnUjhrQ1RSdlk0SDRaMjZSdXA3SlVqSWhTaVBqb192MTM5aHVmcnJFWEtEM1dCdHRwRVNNaXQ2dEk0bEcyTjJQRGFTTTF0QUF3?oc=5
 
 ### USCIS
 
