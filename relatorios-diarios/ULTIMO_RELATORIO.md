@@ -1,8 +1,8 @@
 # Relatório diário — Imigração e brasileiros nos EUA
 
-Gerado em: 2026-11-06 01:38 EST
+Gerado em: 2026-11-06 14:23 EST
 
-Arquivo original: `2026-11-06-01-38-tendencias-imigracao.md`
+Arquivo original: `2026-11-06-14-23-tendencias-imigracao.md`
 
 ## Objetivo
 
@@ -25,10 +25,10 @@ Este relatório serve como base para criação de artigos atualizados para o blo
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMiswFBVV95cUxOYkc3WGVlbnJnN3JyVkY1NEVibVNIX2lhdW1feXM0RkZVUDJWTFVlZmt1d3BGckxnLVVDSzlHOVlLcmZFWDJQalZsUVhQOE9hYWp3ZlhmMENWTHRHSkp2cGJJNm9yN3E5b1l0RnRjRFE0MjlNNmNTNUZ4NlNDU1ZJR19zU0pIVE5nNVYxR3RqZGotaGIwV3ViVk5OQ2ZkRXVFYXA3M1Foa0dTaTJMYmEzbllnYw?oc=5
 
-4. **Eleições nos EUA: o que a vitória dos Democratas pode mudar na política migratória do governo Trump**
-   - Fonte: MigraMundo
+4. **Operação mira grupo suspeito de levar brasileiros ilegalmente aos EUA**
+   - Fonte: Estado de Minas
    - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMivwFBVV95cUxPUDFSSDI5WmU0dHRmNFJUeUo4TlVZLVBEUnFmQW9lYlQwazJ0NTdLUGdRc05MZGlydFU0QWhvaVJrMlJ6a1lmZmN3R2MwMGdhYWhRWms1UG02NXpscTVub2dkN3lOX1ZBVHdyYmFoTzZpLXZQZXpKUUlqc25KeFdDYTdRZkJmZEpoM2kwNEcwcUhWTUVyMlBrQnk1aGh6SUlYNjJJYXdscWpjalZkQzdxUlhIdzdfbkxia1JvZUZ2QQ?oc=5
+   - Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQnM3eWF0YklfaXc0Y0p2Rklia2dvc284Q0VTTzVpRkZGTFJBVV9fZEZQV29BcW94MVREeXZHUC1rd3pOUG5WbllQc0JDU2ZEbkpfQlR5d2RLRnNwZjhWNHdTRnFzelZvODNoOUMwTUpJZTlHbzlIVWRHcmRoQl8tNEdjMHRsS3VXY2NNbGdYOWN2dnZvTm9JZDdZcFBLeXk5Uk1qSlA5YUJ3NnoxdGhTeEZMSWszSWxNbV800gHAAUFVX3lxTE8wQXppT3JPa3lqSHp1MzNkb2tFaGV6NnU0N01ycUpBempycVpiMGJHU0tDYkQ3OWxzaGJ6eHZiOHdadFNuSmdWekVVV3FEbFdLWkxob3RISnJJa0dxSjlxaXE0bG81X0J3X3l2WXhYQjNCVVJtMVh0S21IOEpGUUJwaGtwT29RcnM0M0JhNjBsTThVOC1RNWdXMkkyamtPN0VVTmJVR2cyWHFBZzZDYWFxajBOV1p5bE5zWl9sQkFzUA?oc=5
 
 5. **A renovação do EAD deixou de ser presumida: O novo pacote do USCIS**
    - Fonte: Migalhas
@@ -60,9 +60,9 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 - **A renovação do EAD deixou de ser presumida: O novo pacote do USCIS**
   - Fonte: Migalhas
   - Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVTVXdXdmbEFIZlhJYzBpWlZLTHdJNk15WU9iSG9vdWlhQXZtUmZNRU9QVTJ4OXNpX05lSVRmMDV5ZXJ1Uzhmc09uZ3ZOM2xaSWZha1IzTzFCSDBZWnpuVzVTeWhkbXB6SjdpSG5ab0VtTXhWTmdkT0lVd2Y0OTNjTXRUMWNkRVlkeXNLNjdrRW43V1JfRG1TaFZiMEd2V1pXbWxMVzNVWUJMTWM?oc=5
-- **Mais de 70% dos novos green cards na Flórida foram concedidos a quem já vivia nos EUA**
-  - Fonte: AcheiUSA
-  - Link: https://news.google.com/rss/articles/CBMiwwFBVV95cUxObTdSVEdXcHB0Yy12MUpnRjNjY2RBSmQ2VHJ1aFQ5bnlxZWI4UkoyYU44dnBRM3VWNzJpcHA1ZENnNVBVSklPV1MyZnl2dFdXZFluX0JJRERKTm9oUnMtYUNITUJlLUJVSlhjQ3ptbGVfNWVJdGduendqSGhqNmdNTkdXRV94RUZjaHBDMGhkNkRVZ0JwUGFxTEdrbGxfYk9ycW8zOHFTa3ZTVWc2VnZqenczWmduV3NHTTZ0cUlFYmVLdE0?oc=5
+- **EUA podem negar pedidos de imigração sem dar chance para o envio de novos documentos | SEGS Portal...**
+  - Fonte: SEGS Portal Nacional
+  - Link: https://news.google.com/rss/articles/CBMivwFBVV95cUxNTEd3WDBXamNBN0FoU3RoOWNjaW1HWVNOVVowWnVEWGpDNDJlZWR0bFd6X0VxT3NuQ2hEYWpyVnF6aTRPVWxwQVlmRkl6WDR6bDM0dElZb3FKaWFMQk03SnE5NzUxODQzVVV4aVJJTzE4YVdDdWJaOFVldW1STTFFQ0htQmt3Y0lUYXRCcUNtRkVHMjVUYjNsY2U0bDFxeXFDei1QMWJhbXp6c3ZjWUFCMHBtTzBLbldZNS1TSmc5NNIBxAFBVV95cUxPUjNtc2FHSU5OVHUtNnpPREQ2anpYa0hwaHBNWS1Bbm1aNFpjSlRpNlFfZVJ1SC1oaXNULV9CQnA2ZU5oa29uQ3YwbnlHNU9fUHhuSTVSeXIxcEFkdXVTWlNVcUU4SGFIdUxwckZ5SnlZOGJmVFlESUJEZDRES3Q5MjJFYl85QlNtTjFFUnhUYzdGQzY3a1NTZzhrc1NpX2JYbXE3MF9LVHA5ZGFTOGxOTlVCRndWaG92YjUyVHNyd2VYUUJa?oc=5
 
 ### green card
 
@@ -78,27 +78,27 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 - **Visto americano: espera por entrevista chega a cinco meses em São Paulo; veja prazos e como tentar antecipar**
   - Fonte: O GLOBO
   - Link: https://news.google.com/rss/articles/CBMi9gFBVV95cUxNbUcxTkVTeVQwcTJ3Yk1DUkg4alBybkE4NXg5VlNWNC1TOVlPRjRuSmh2YWJvLVZHc2RyWVdSRVVnbTlTX2tsRm96RzBCUmY3Z1QxcHIwc0E1Q0VDUHgzRm9EVmdDR1JobFFzZDlxeUduVnBiUnBMLXlFNk9YaVpUa0pUS2ZhZnRVc1I3ODc4dGpEemhjaUNFM2ZXcjdJWjAzemw4cGdYVmljUmdodC1HZ1E5WUtfb2hnNTZpU0tjUDUyMkpTSDBCQ0x6N0dlMHVqMEFpaGY3UUdiNlU1OEdjSE1LZW1QeVFkQzM2MkNaTmpxbHRhemfSAYQCQVVfeXFMT2NBbDZxWmNZZEpXOEVCV2ZJUlhOREoySW1oLWZob3lOZkE4OWd4TVlLcDNBaGh5TDF5RGZEekFTNnpvd3ZNVkY5QnRUdzE2dkFIeHg4VFh5RUJ1WVhwLVluOGw5N3VLYUh4LXZxSEFMX3VSOVNhTzR6bXVNMzd1RE14R0dqTjJ4QS1WQkFteFQ4UFBSUkRxTlYxaTVHZXVPMU4tUDJ0WUZMekRJZjZqYl9tQ0Y2eXVJUER4dEhiY2M5SHVUcDk4RTNITlRoaF9KdDZaU1RGRzNBbWZXVC0wT0ZMSzV3NkxiUW9yWnZfaUdOeFZwNW44bVV2a1ZxN2V3RTEyRkw?oc=5
-- **Visto americano: nova regra limita a três as alterações na entrevista**
-  - Fonte: Viagem e Turismo
-  - Link: https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMTQtS3laX0diMXV0RTdzX0xkblJmNjBBZFZhbHNMbFpMQmt2S0ozSlpPZkx6VGh3YUFrTUYyLW1HYXRRc1pnQ0J5WTVZS29sdHQtbWFVem9HbmtZTEdJN3p4Z255RDZwdDBzajE4cHEtOFd4R1pLRjUxU0xEa0loRVlfcXM5djBvd3liS0tUMWRQT2lMQWpfUVE1N1E0aXVfYUpGaU1ydVBUQXp0VGlHdjJPMXhXS0Q3YjZVakNXRWFXZw?oc=5
+- **Visto americano: espera por entrevista chega a cinco meses em São Paulo**
+  - Fonte: Mercado e Eventos
+  - Link: https://news.google.com/rss/articles/CBMizgFBVV95cUxOQUhCcmxoNXY3UjFKaTU0MjhTUTJPLTJJLXZiMG12YXNkWVVILXlKNzVmNGdiWG9oYTRsMVp0T2hCajZpWGltQmRCZVdMWWJjbVlBNGVHQkZtWDFnNXhuOHFaQlNzVWctNl9FR2czZkJPU29tN29XVVFfZFdxV2N3dlRWVEhKU0hxbGtaNUVEb1Y5YVhOdUk2ejVwMlEwREtjUW5KTnBhWDYtVkZqTFRpRFNvMnV1SU4ta2tmX2N3bnIzd2FQSUtUd2hOaVdpdw?oc=5
 
 ### brasileiros nos Estados Unidos
 
 - **Sete brasileiros são eleitos para assembleias estaduais nos EUA**
   - Fonte: Agência Brasil
   - Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxNSzNFOHlUd0UwSzRuUmhpd09hRE1iY21rVENMbjR1bXh5Qm02S092YnNQUUVSdDFsYjREQzRRRlFIenZzMi1vZlhySDlXcUZUeWJWR2I1R2RCc2p4NlhNb0xuNXJsYmdPMjBGNFNKb19SalUtcy1JYWxULTg2N1V3MUFPUmRlMWc0NG5kMi00VjFRQ0dFNHh3SHBEckxPOFRaZkNBNnpSeGhoSk9wSE50UFRNV2M5M0dTMUdMUWhRaWRBVlRU?oc=5
-- **De Duque de Caxias a deputado na Flórida: brasileiro eleito nos EUA critica abrigo a Flávio Bolsonaro e diz se espelhar em Erika Hilton**
-  - Fonte: BBC
-  - Link: https://news.google.com/rss/articles/CBMiY0FVX3lxTE9KWW5IZ3JzNmVTUFZGblM4R2hhT2dPMjVqdldPaU1vNGZtUnZSSUl2Zi15dlFWZGxlUUZ3MGZWSi1UT25hNFUwbDhDZHRTRUc5RzNyZERLMTVrdGI1MURVX2xnd9IBaEFVX3lxTFA1RXBSS01IQTk5cDRkOHhvUlN2Q2hDMS05cHQzOVhSMFFULWlSazhlV2VjVE1hdTVHYmZXSExIbjBXZEgwazFOSnFlOVlYU3lielI1X1B3MHRyTDlocXZKczlkRk1XRUZz?oc=5
+- **PF faz operação contra grupo suspeito de levar mais de 270 brasileiros aos EUA pelo México**
+  - Fonte: O GLOBO
+  - Link: https://news.google.com/rss/articles/CBMi4AFBVV95cUxOMElzR1ZvVE5GZFVfQy1wYmZSc2FSMDJkVzFwTEJ0U3VyeEZ4N0Y2ak5ZYkVLY3Q4VmxtZUpJUU5oQnppMDA1c3NpLTczZnM5Mnl3Y0Fwd2FjZXBvVkYycmc1TDVWSllyWjlJUUpnTm5vbWFBaDN4ZWZyLU9GSUtQQzJCRXA5TnplVnZDNUVXSGg5RjBjRW56bHVSWEFBbVNxeS1xZTZrdFZjdTJwQ29KV1E1Y2oxcDZ3UGR3Q2lGeDhJWFJ2bDZGT3NoQmduQmpGTjFwS0FZUEpFQXlFSzhpNQ?oc=5
 
 ### asilo nos EUA
 
+- **[humor] Imigrante brasileiro recém-chegado aos EUA descobre que seu asilo terá validade de dois anos**
+  - Fonte: revista piauí
+  - Link: https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQmlJbmh6Nlo5RUoxYkJockpDd2x0SmFKbksyc1o2MkJiaXpBSVZHNUNLRVp0djNmdzBUT01RN2tlX0NUT3dOYU5uazljMVE4NUt2cjd4UDE1bmlrUEFfUVV0empiMV9xOUUxd3BwaG9EX1J3TXF3M25TeHI5dWZ2Q1RTTmJPbEN1TjlUdGlfczhPd0w4Mk1GTWNacWFER1daMUJmVmhtRDZVWW9TbVhiMHlfT3h5V2xGdVdsbkoxWVlqeTZhNGE4Vk9yRnloajVh?oc=5
 - **Flávio reúne argumentos para pedir asilo nos EUA e mostrar que sofre perseguição**
   - Fonte: Gazeta do Povo
   - Link: https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSWcwemd5LUZ3TUdJemJjT2pYcXo3QzhHbC1FRUQ4NjNQQzF0WnowSUtaMjF0YTM3cjFOMDZMYmNSV2V5eWNRVEhEM3Bvb3pObUJ2Qnc1NHo1NEtBYUJjVWZPRFlSVTM4VFY4VjhmY05wRzU5TFVMbExNWnl4aVhOTTZTck5jbEpEV1dPVTJSSGNFRmsycFRyNVZKbXJTRzIyOFZ4ZEpvZU1ZdjZIYVZwWi1VMDZhekV5RWk1X0NjRGc?oc=5
-- **Cidadania italiana pode ser obstáculo a eventual asilo de Flávio nos EUA**
-  - Fonte: CNN Brasil
-  - Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxOUmd5cEQ4ZmVkVFlmb01TRWU2bnZSOURfeU04b0xsUEM3VDFrSWNDZElZNU4wQmNwc2JxYVRQNW91WVQ2eG9yem5ub3Q4RF8tQjl4NVNqVndOWWFFYm1rcDc2c1J0VEpyeGI5Ti1jLTdTaUxDRko0dVpRbGF0aUJscGVPa3Jucnpuc1E1RHUwNVdnNGRCYnpJbV95V1dyY1dxVnZnNDdMRzVqNVljcE5pMw?oc=5
 
 ### ICE immigration
 
