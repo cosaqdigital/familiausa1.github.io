@@ -1,8 +1,8 @@
 # Relatório diário — Imigração e brasileiros nos EUA
 
-Gerado em: 2026-11-05 18:37 EST
+Gerado em: 2026-11-06 01:38 EST
 
-Arquivo original: `2026-11-05-18-37-tendencias-imigracao.md`
+Arquivo original: `2026-11-06-01-38-tendencias-imigracao.md`
 
 ## Objetivo
 
@@ -25,10 +25,10 @@ Este relatório serve como base para criação de artigos atualizados para o blo
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMiswFBVV95cUxOYkc3WGVlbnJnN3JyVkY1NEVibVNIX2lhdW1feXM0RkZVUDJWTFVlZmt1d3BGckxnLVVDSzlHOVlLcmZFWDJQalZsUVhQOE9hYWp3ZlhmMENWTHRHSkp2cGJJNm9yN3E5b1l0RnRjRFE0MjlNNmNTNUZ4NlNDU1ZJR19zU0pIVE5nNVYxR3RqZGotaGIwV3ViVk5OQ2ZkRXVFYXA3M1Foa0dTaTJMYmEzbllnYw?oc=5
 
-4. **Motivados por imigração e dificuldades econômicas, latinos impulsionam ganhos democratas em redutos republicanos**
-   - Fonte: UOL Notícias
+4. **Eleições nos EUA: o que a vitória dos Democratas pode mudar na política migratória do governo Trump**
+   - Fonte: MigraMundo
    - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMiiwJBVV95cUxQSzlJR1FYS2V0NEZQNTJCM2oxZTJ3M29IY1hVSDc0UnJKWGNsUWZJY2dRZU8tS0k0S2kwNmM3ZVUyWWRRb01rcjIwZzRKXzFtZERwMnJYd0NjQ3p3Mzl0aTh1QnJRcUI2dDQ0SkE3czJDNTZuS01EYTd6X2V0cURlUmtNNzlpZS1vMm9LMUtJRTZ6WDFFZ1pWeVJnRlhsVzdHaTFJRHh3NHJGY0NULWJIeEVTWGctRGo2UEFueG1zYkpmYzg0X2h3NVVaWVc1RUlhTFJ5OFlOSjk5Qy12SWRuSDd1UTF5dU1XaHZCYnB6T19ZNXNucmd5TkJzbkdPMTJoU0hvTGRpdmdhRm8?oc=5
+   - Link: https://news.google.com/rss/articles/CBMivwFBVV95cUxPUDFSSDI5WmU0dHRmNFJUeUo4TlVZLVBEUnFmQW9lYlQwazJ0NTdLUGdRc05MZGlydFU0QWhvaVJrMlJ6a1lmZmN3R2MwMGdhYWhRWms1UG02NXpscTVub2dkN3lOX1ZBVHdyYmFoTzZpLXZQZXpKUUlqc25KeFdDYTdRZkJmZEpoM2kwNEcwcUhWTUVyMlBrQnk1aGh6SUlYNjJJYXdscWpjalZkQzdxUlhIdzdfbkxia1JvZUZ2QQ?oc=5
 
 5. **A renovação do EAD deixou de ser presumida: O novo pacote do USCIS**
    - Fonte: Migalhas
@@ -96,18 +96,18 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 - **Flávio reúne argumentos para pedir asilo nos EUA e mostrar que sofre perseguição**
   - Fonte: Gazeta do Povo
   - Link: https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSWcwemd5LUZ3TUdJemJjT2pYcXo3QzhHbC1FRUQ4NjNQQzF0WnowSUtaMjF0YTM3cjFOMDZMYmNSV2V5eWNRVEhEM3Bvb3pObUJ2Qnc1NHo1NEtBYUJjVWZPRFlSVTM4VFY4VjhmY05wRzU5TFVMbExNWnl4aVhOTTZTck5jbEpEV1dPVTJSSGNFRmsycFRyNVZKbXJTRzIyOFZ4ZEpvZU1ZdjZIYVZwWi1VMDZhekV5RWk1X0NjRGc?oc=5
-- **Possível asilo a Flávio vai na contramão de decisões anteriores dos EUA**
-  - Fonte: UOL Notícias
-  - Link: https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWWtoWmlpV0p4ckRKbEJQcVMyS3p3UzZuWkVBcG1EeFZQMGY5cWp2ZTFRQy0tOVBnTEM5NVBnc3NOLV9FdWlLcEY1WDQxR3NsZzRrWFNMM0Q0YkNQOUw1ZU5TbC1iYVBJSHd2SVVoMGtTdHhxcEVkOXg5dWlld1ZUc2M3WktMenA2OG9Ka1NRcXU3dGxCdkpkaFFSQXFHeF9uMWl3NDhKVDY0RkZ6NWNUdWUxeHRDTmdDMEExd2ZlSTJBVnhTWXM1eW5jeTBoNHVUYW91eXRtWQ?oc=5
+- **Cidadania italiana pode ser obstáculo a eventual asilo de Flávio nos EUA**
+  - Fonte: CNN Brasil
+  - Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxOUmd5cEQ4ZmVkVFlmb01TRWU2bnZSOURfeU04b0xsUEM3VDFrSWNDZElZNU4wQmNwc2JxYVRQNW91WVQ2eG9yem5ub3Q4RF8tQjl4NVNqVndOWWFFYm1rcDc2c1J0VEpyeGI5Ti1jLTdTaUxDRko0dVpRbGF0aUJscGVPa3Jucnpuc1E1RHUwNVdnNGRCYnpJbV95V1dyY1dxVnZnNDdMRzVqNVljcE5pMw?oc=5
 
 ### ICE immigration
 
 - **Polícia Civil de Santa Catarina, em cooperação com o ICE, prende foragido da Justiça brasileira em Orlando, nos EUA**
   - Fonte: Polícia Civil de Santa Catarina (PCSC)
   - Link: https://news.google.com/rss/articles/CBMiQ0FVX3lxTE93VDJmeTk1LUFsYTJqOEZTM1FZcmJmSXB5UEdnNzB3SklGcUtzMGFXYjRmZzVCZjhLS3k1Z1NMZXktVjg?oc=5
-- **ICE ameaça imigrantes em dia de eleição: 'Nós vamos encontrar você'**
-  - Fonte: UOL Notícias
-  - Link: https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRnlIZlNSYW9DMWFPb0RpdUhlOVJfeHZ6NXdxV05Hc2dmcUhScWdzQU5oTEppT3drY0hTMVpZQmhub0t3QkxTdzBjRHZaZ2RQWkNveGNMdXU5blcwSFMzSVNkYmZMRjB2UncxdTR3N0htdHpMb0hlSlZGQkZ4WExhemtYbURVTFdsdEU2eERxRlhxWEJWNWROV0NvX0U2SlFqQ1E1ZVg5MzczUFFzT0VkeGFCZ0U2THhQLVc5SzdvTnV1VnRxZE9BbUFjM1dvbjI3cldHcEZR?oc=5
+- **ICE ameaça imigrantes em publicação nas redes sociais durante eleições nos EUA**
+  - Fonte: Opera Mundi
+  - Link: https://news.google.com/rss/articles/CBMiwgFBVV95cUxPckEya08wSWUzLTVGNWxldGZ1M0JuOTZzWXFsSHp3b3ZvUlpmTmpNYy1ld09ZSTlTQ0ktVFVDeHVWem1XVXlDRXpLbEZoLWZwaERSZHBPUnpFcEZNdlNackF0UzNhNmlVUnM3aFhWRFJzNTdabFkxNnZldHNVRWVLOThqSUpOTlAwRkVqR3hEMWlWOWpyOG54QjJrTGFRdVRscWNCcE5Hb1Z0Q2owaDFFNXlGdWUtMVU0NDZEVjRJU0pfQQ?oc=5
 
 
 ## Termos monitorados
