@@ -1,8 +1,8 @@
 # Relatório diário — Imigração e brasileiros nos EUA
 
-Gerado em: 2026-11-06 18:06 EST
+Gerado em: 2026-11-07 00:55 EST
 
-Arquivo original: `2026-11-06-18-06-tendencias-imigracao.md`
+Arquivo original: `2026-11-07-00-55-tendencias-imigracao.md`
 
 ## Objetivo
 
@@ -25,10 +25,10 @@ Este relatório serve como base para criação de artigos atualizados para o blo
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMiswFBVV95cUxOYkc3WGVlbnJnN3JyVkY1NEVibVNIX2lhdW1feXM0RkZVUDJWTFVlZmt1d3BGckxnLVVDSzlHOVlLcmZFWDJQalZsUVhQOE9hYWp3ZlhmMENWTHRHSkp2cGJJNm9yN3E5b1l0RnRjRFE0MjlNNmNTNUZ4NlNDU1ZJR19zU0pIVE5nNVYxR3RqZGotaGIwV3ViVk5OQ2ZkRXVFYXA3M1Foa0dTaTJMYmEzbllnYw?oc=5
 
-4. **Freira americana que fala português lidera rede de apoio a imigrantes contra ações do ICE**
-   - Fonte: AcheiUSA
+4. **Entrevista | Latinos nos EUA se preocupam com economia e não com imigração, diz estrategista político**
+   - Fonte: Estadão
    - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMiygFBVV95cUxQQXM0dmhNSkNzcU1lSzdiNG1Nb2Izc1dEbUI5UXBHemVGb2RIY2NGMEYtR3dOTEJ1ZDJlTXdHZ0hTcUt5LVktMlk5cWZ6YTRKQVRCX2M2bmxsb1g3UENQVG1lTmY0TWVPb3RfZGxOMkJ4RXU0TmRZckd2bkh1VFp5Y1Y5bHVYQndXN0EwV19IbFpDdXhCWkk5WGk0QzdrOTQ2M1FfQUlRbHJINlFmeXhITDBKZGNmU3NaLUdHS2RONTFLbWhqTno5dW13?oc=5
+   - Link: https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSkVuMXEwdWZkWGk0am9QbFY5MU5PZ19FbUJhOHhiU2ZDUXBQcEk0RFpYQzF0OGxpYnp5cDdTR24zcy1PcHpaZWZpN2VzLU5HTWpxZzNNZlZES3JxUWI4NW9rXzZ2ZTVVMDZkRTNDSzVUZ002cm5WNUVIZTN6c1RHV1luanlqM2hvTmkxdS02aC1QQXRjajNwbk9PaGE2QThyUXZmX3lBcGkzTFhLZWozQlY2MW9SMWxMa2ZrMUc5aFU3d2FlRXBtTg?oc=5
 
 5. **A renovação do EAD deixou de ser presumida: O novo pacote do USCIS**
    - Fonte: Migalhas
@@ -66,12 +66,12 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### green card
 
-- **Agência de Comunicação - J-1, H-1B ou green card: qual visto o médico brasileiro precisa para trabalhar nos EUA**
-  - Fonte: Estadão Blue Studio
-  - Link: https://news.google.com/rss/articles/CBMi6AFBVV95cUxQc1N3SmFNWnBnVmFlZi1qZU1md1pDU2plX3hTeGNPSjdzbXkxa1ZyQlVIbjlDOW9vWUJhWEdBcjRHQWdhT3BuTEp2bDgyQ3U5cF9VbktvNFhUU3lWTFlkOUhaY0RsbHh4SFZYWVlYNmNPemRzbXo1ZkxTVEV4MlBkMW8wT1lqVkp0NS1LRWhyTGtSa09sTWpfa0RuaEpvSE01ZnRYRW4zeng4Rm9qVnZrcE9wVW05UjlSSF93UGtfeU9mTm54TGExRWJ0MGRyU1NOR3o5Z21IdWhqSXFIUEpSeFNKS3ZoWE5s?oc=5
 - **Brasileiros desbaratam rede de fraudes de casamentos por green card nos EUA**
   - Fonte: Folha de S.Paulo
   - Link: https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTnBnQktWVjVwaXJ6VVRvMWRjaWpRYXN6WF9mTGYxUURxWWxyWmZ0QXlxR0doSGo1MGlLazRaWjJ2SXdWNnROZVFOZUFJYm5CX3RRVnZ3dktkRjh6TEtBWnpVdlhlMzBDSGpfSmlYQ1lCS0xsbWZHejhaTEJZeWlpSWZYR1RKcDRHcGh3RkZsUHQ4ejFZdjQtdXV6QWJOSzl3Y0l6ay1TcGdKU0ZqcXF0Ykh2QzRqdmpBbHRBVlFwb0ZEckE?oc=5
+- **Agência de Comunicação - J-1, H-1B ou green card: qual visto o médico brasileiro precisa para trabalhar nos EUA**
+  - Fonte: Estadão Blue Studio
+  - Link: https://news.google.com/rss/articles/CBMi6AFBVV95cUxQc1N3SmFNWnBnVmFlZi1qZU1md1pDU2plX3hTeGNPSjdzbXkxa1ZyQlVIbjlDOW9vWUJhWEdBcjRHQWdhT3BuTEp2bDgyQ3U5cF9VbktvNFhUU3lWTFlkOUhaY0RsbHh4SFZYWVlYNmNPemRzbXo1ZkxTVEV4MlBkMW8wT1lqVkp0NS1LRWhyTGtSa09sTWpfa0RuaEpvSE01ZnRYRW4zeng4Rm9qVnZrcE9wVW05UjlSSF93UGtfeU9mTm54TGExRWJ0MGRyU1NOR3o5Z21IdWhqSXFIUEpSeFNKS3ZoWE5s?oc=5
 
 ### visto americano
 
@@ -87,9 +87,9 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 - **Sete brasileiros são eleitos para assembleias estaduais nos EUA**
   - Fonte: Agência Brasil
   - Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxNSzNFOHlUd0UwSzRuUmhpd09hRE1iY21rVENMbjR1bXh5Qm02S092YnNQUUVSdDFsYjREQzRRRlFIenZzMi1vZlhySDlXcUZUeWJWR2I1R2RCc2p4NlhNb0xuNXJsYmdPMjBGNFNKb19SalUtcy1JYWxULTg2N1V3MUFPUmRlMWc0NG5kMi00VjFRQ0dFNHh3SHBEckxPOFRaZkNBNnpSeGhoSk9wSE50UFRNV2M5M0dTMUdMUWhRaWRBVlRU?oc=5
-- **Eleições nos EUA: sete brasileiros são eleitos deputados estaduais**
-  - Fonte: G1
-  - Link: https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdXdjQ2RXcmJaQWJaSzF0Tnp0NHFMOTFURmRmaHVYS3MxeV9tLVFvbWkxWXFLUjNBMDBZVTdwVGhfQ240eWx4aGdPNm9qLUVsR0I1SVZJR3lSSk1Ka3hEZTUxQnBnZE9KZF9CZmVKLWJFdjMwWWl5ZTk3STY4cUt5XzUxS1R5MWVwRE51R2lyQUlxaHQzUVVqeUtScjlJOWhjRkRsOU5DcDJXbkNXTzBsb2NZa2VCX0FO0gHHAUFVX3lxTE4zNlMyTVJRWXNwaEZfaWNxLXpDa0pOMDFQdTlhbURMVWtTajRpZzZKSnpxZ0d2MkdxZ0FwT1RQQXNvMWgyN2hORy1fRlRiM08xOUt2MENSeUtQNzJmRTE0cDJlMHVvX1BmWVFnMXJDU0IyY2stN0ExUDFlenNNUGVaZU9zMGVWZ0lCVXh4Tm9nQU9KUUkxUzJpaGItRDVMSWRCMEpSejFFNE02RWYyOFpoSFVZdVpqcWR6aFBfT0YzekdYcTNFdEU?oc=5
+- **Brasileiros eleitos nos EUA: saiba quem são os 7 representantes para assembleias estaduais**
+  - Fonte: Valor Econômico
+  - Link: https://news.google.com/rss/articles/CBMi3AFBVV95cUxNRmxPcmpsTU5pVGpXQnR2YWFjSTk3T29GcWpxTWc4Y0hkdzMtSWhORWFldTZudmxKZTFFYVdUdTBIcG5QUWVUN1dKU0NvakZVMTZmblU0TUljMk4yaUpPUmY4N0JfZHA5ekt1S1VaTC1EOUlENzhEVzBvS2piSjBKSUdjam9IU1RWM21VN0lPa1l1MGVHc2ZZb0w2VUpfaHRtVWhiVUx1OUMwYjBzVHNCQy1uVWxtOHNDQ19mZlcyTjBPeTBWUmV1TkJCQWVGVWN5VEtxUnNIcmh4bDY50gHrAUFVX3lxTE9VUUt4U2laYlEtakdlOVhtRER4UXlMcDdzM0ZmMUxGSG0xcFZfUXNHd1U1cTNfWjhYcm9EOTA0dmI4RmhxZkNzdTlFcVRBc256QU1GcHBtclAwb1Uyb1QxdHpVOGRNWl9CaFhRdENtWTFJZUFhaWJINE5jR3pmMkRVNE01ekN6QjRKT0RubjUzV0s5eFZsSFB4NlY1R21RWUZUTy1hNlhjN2hDRWRyTzk1dEhsMW92SEkyUE80NlpqVmtMeUJZUVdDRDcxTW85N1dRazJHMEdTb2dTR3JMWS1XenU0aHQ4Y0l5TWc?oc=5
 
 ### asilo nos EUA
 
@@ -102,9 +102,9 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### ICE immigration
 
-- **Operação do ICE prende mais de 230 imigrantes nos EUA, incluindo 40 motoristas com carteira comercial**
-  - Fonte: Gazeta Brazilian News
-  - Link: https://news.google.com/rss/articles/CBMi7gFBVV95cUxPRFNmZVNKLVdfMG0tNURSYzNFQUFOcmpqLUY4MHVnREtCanpuMGVuZy1oamlsNnZoclFZZEZYU1loX0ZPLUhtc3Jja1VoSFlMdWZpd1dfTEN5RnR3U3BCeHd4eVhPNEdlZW5DZlpXTFo0MXhLZG1IS0FMQXY5YkF1ZHpRWkp2dlI0dTdkTEJCV3NXY1pUVkJnMjRvYmpfdFRYS3phVE1WZkJrZUJiS3E3WFk3Z2FLbmYySmhubjEyTW1zN2NBOHpoMWlRMUx0V24ydjYwSFo4cjJQeXYxR1JyakhESTFRZElVOW8wSnl3?oc=5
+- **ICE ameaça imigrantes em publicação nas redes sociais durante eleições nos EUA**
+  - Fonte: Opera Mundi
+  - Link: https://news.google.com/rss/articles/CBMiwgFBVV95cUxPckEya08wSWUzLTVGNWxldGZ1M0JuOTZzWXFsSHp3b3ZvUlpmTmpNYy1ld09ZSTlTQ0ktVFVDeHVWem1XVXlDRXpLbEZoLWZwaERSZHBPUnpFcEZNdlNackF0UzNhNmlVUnM3aFhWRFJzNTdabFkxNnZldHNVRWVLOThqSUpOTlAwRkVqR3hEMWlWOWpyOG54QjJrTGFRdVRscWNCcE5Hb1Z0Q2owaDFFNXlGdWUtMVU0NDZEVjRJU0pfQQ?oc=5
 - **Polícia Civil de Santa Catarina, em cooperação com o ICE, prende foragido da Justiça brasileira em Orlando, nos EUA**
   - Fonte: Polícia Civil de Santa Catarina (PCSC)
   - Link: https://news.google.com/rss/articles/CBMiQ0FVX3lxTE93VDJmeTk1LUFsYTJqOEZTM1FZcmJmSXB5UEdnNzB3SklGcUtzMGFXYjRmZzVCZjhLS3k1Z1NMZXktVjg?oc=5
