@@ -1,8 +1,8 @@
 # Relatório diário — Imigração e brasileiros nos EUA
 
-Gerado em: 2026-11-07 12:44 EST
+Gerado em: 2026-11-07 16:47 EST
 
-Arquivo original: `2026-11-07-12-44-tendencias-imigracao.md`
+Arquivo original: `2026-11-07-16-47-tendencias-imigracao.md`
 
 ## Objetivo
 
@@ -20,15 +20,15 @@ Este relatório serve como base para criação de artigos atualizados para o blo
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMiY0FVX3lxTE90N0E2cm9Va0c5cE9YeWJ3T2RsNkVlMDRXM2dXRkcxSGtNV09MZVhuRlNXMjhiSHRaS2Z4cDFZb1ZYR2xrdWxHbnlRTUVvcVBWdV9BLUlHdXVCY1NLeDBiWWhwSdIBaEFVX3lxTE5xbmEtT3RBOTNCS1o1VnJWYVBSVzVXUjJteTZEeTEwd3dsRTFSZkNuQjNMdExjZjRKa2pfUkt5eTVtQmFTU21aa21HNmllcUhkRzVHUk1rb3d2TDdrN1p0UUZnUklqYTBm?oc=5
 
-3. **Vitória democrata nos EUA manterá política anti-imigração**
-   - Fonte: iG Turismo
-   - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMivgFBVV95cUxPZnBqcHdoeFdCNXhPZmlUVF9hS2xRdE54amZzSHB5cWhXdjJJc1YtYlUzNXgxZ2hHbFpiSUphYWVNRUxJVXRKQ3Y3WDg1SWlnUFR5cXNFLVl6dHByald2TWFneFhqdWptWUdLR21GcEd5bVVtYm9HZ3VlOE1OVWNkWi05aWJ0Y0F1Uk9ZYXN3OUZWT2dLcFlsTFp2MUxPaVJFbEo5ZjEyVkc2Rkozbk41V3FDdDQtbTBjWTFKNXpn0gHDAUFVX3lxTFBVYnBtaWZCbzRfR3kzM0NoeGJFRW1qYndmSlQwRjVrRWhGY2lFYWVXUHJHRi1qSnlsNk9RUWZ1c3Vkb2JWV2lKd0RfZFRJc1RQWkhBMW5oRE5BTDNiaXVMOWdZYkRSbGtNakEtLVpXZnZCbk9LNFZDMWoxVEF3dFFRNlF1ejUzTTFjZ1NQOE53R3plNnM5S3MwZ1FPbXpKX3NWV3lUSzJCOUo3SmRpRndkQm5sT2tOX1RFTkQ3V29KNEZvNA?oc=5
-
-4. **Sistema de imigração quebrou, diz deputada brasileira reeleita nos EUA**
+3. **Sistema de imigração quebrou, diz deputada brasileira reeleita nos EUA**
    - Fonte: CNN Brasil
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMiswFBVV95cUxOYkc3WGVlbnJnN3JyVkY1NEVibVNIX2lhdW1feXM0RkZVUDJWTFVlZmt1d3BGckxnLVVDSzlHOVlLcmZFWDJQalZsUVhQOE9hYWp3ZlhmMENWTHRHSkp2cGJJNm9yN3E5b1l0RnRjRFE0MjlNNmNTNUZ4NlNDU1ZJR19zU0pIVE5nNVYxR3RqZGotaGIwV3ViVk5OQ2ZkRXVFYXA3M1Foa0dTaTJMYmEzbllnYw?oc=5
+
+4. **Vitória democrata nos EUA manterá política anti-imigração**
+   - Fonte: iG Turismo
+   - Termo monitorado: imigração EUA
+   - Link: https://news.google.com/rss/articles/CBMivgFBVV95cUxPZnBqcHdoeFdCNXhPZmlUVF9hS2xRdE54amZzSHB5cWhXdjJJc1YtYlUzNXgxZ2hHbFpiSUphYWVNRUxJVXRKQ3Y3WDg1SWlnUFR5cXNFLVl6dHByald2TWFneFhqdWptWUdLR21GcEd5bVVtYm9HZ3VlOE1OVWNkWi05aWJ0Y0F1Uk9ZYXN3OUZWT2dLcFlsTFp2MUxPaVJFbEo5ZjEyVkc2Rkozbk41V3FDdDQtbTBjWTFKNXpn0gHDAUFVX3lxTFBVYnBtaWZCbzRfR3kzM0NoeGJFRW1qYndmSlQwRjVrRWhGY2lFYWVXUHJHRi1qSnlsNk9RUWZ1c3Vkb2JWV2lKd0RfZFRJc1RQWkhBMW5oRE5BTDNiaXVMOWdZYkRSbGtNakEtLVpXZnZCbk9LNFZDMWoxVEF3dFFRNlF1ejUzTTFjZ1NQOE53R3plNnM5S3MwZ1FPbXpKX3NWV3lUSzJCOUo3SmRpRndkQm5sT2tOX1RFTkQ3V29KNEZvNA?oc=5
 
 5. **A renovação do EAD deixou de ser presumida: O novo pacote do USCIS**
    - Fonte: Migalhas
@@ -93,12 +93,12 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### asilo nos EUA
 
+- **[humor] Imigrante brasileiro recém-chegado aos EUA descobre que seu asilo terá validade de dois anos**
+  - Fonte: revista piauí
+  - Link: https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQmlJbmh6Nlo5RUoxYkJockpDd2x0SmFKbksyc1o2MkJiaXpBSVZHNUNLRVp0djNmdzBUT01RN2tlX0NUT3dOYU5uazljMVE4NUt2cjd4UDE1bmlrUEFfUVV0empiMV9xOUUxd3BwaG9EX1J3TXF3M25TeHI5dWZ2Q1RTTmJPbEN1TjlUdGlfczhPd0w4Mk1GTWNacWFER1daMUJmVmhtRDZVWW9TbVhiMHlfT3h5V2xGdVdsbkoxWVlqeTZhNGE4Vk9yRnloajVh?oc=5
 - **Flávio reúne argumentos para pedir asilo nos EUA e mostrar que sofre perseguição**
   - Fonte: Gazeta do Povo
   - Link: https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSWcwemd5LUZ3TUdJemJjT2pYcXo3QzhHbC1FRUQ4NjNQQzF0WnowSUtaMjF0YTM3cjFOMDZMYmNSV2V5eWNRVEhEM3Bvb3pObUJ2Qnc1NHo1NEtBYUJjVWZPRFlSVTM4VFY4VjhmY05wRzU5TFVMbExNWnl4aVhOTTZTck5jbEpEV1dPVTJSSGNFRmsycFRyNVZKbXJTRzIyOFZ4ZEpvZU1ZdjZIYVZwWi1VMDZhekV5RWk1X0NjRGc?oc=5
-- **Possível asilo a Flávio vai na contramão de decisões anteriores dos EUA**
-  - Fonte: UOL Notícias
-  - Link: https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWWtoWmlpV0p4ckRKbEJQcVMyS3p3UzZuWkVBcG1EeFZQMGY5cWp2ZTFRQy0tOVBnTEM5NVBnc3NOLV9FdWlLcEY1WDQxR3NsZzRrWFNMM0Q0YkNQOUw1ZU5TbC1iYVBJSHd2SVVoMGtTdHhxcEVkOXg5dWlld1ZUc2M3WktMenA2OG9Ka1NRcXU3dGxCdkpkaFFSQXFHeF9uMWl3NDhKVDY0RkZ6NWNUdWUxeHRDTmdDMEExd2ZlSTJBVnhTWXM1eW5jeTBoNHVUYW91eXRtWQ?oc=5
 
 ### ICE immigration
 
