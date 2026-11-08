@@ -1,8 +1,8 @@
 # Relatório diário — Imigração e brasileiros nos EUA
 
-Gerado em: 2026-11-08 00:57 EST
+Gerado em: 2026-11-08 12:55 EST
 
-Arquivo original: `2026-11-08-00-57-tendencias-imigracao.md`
+Arquivo original: `2026-11-08-12-55-tendencias-imigracao.md`
 
 ## Objetivo
 
@@ -69,9 +69,9 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 - **Brasileiros desbaratam rede de fraudes de casamentos por green card nos EUA**
   - Fonte: Folha de S.Paulo
   - Link: https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTnBnQktWVjVwaXJ6VVRvMWRjaWpRYXN6WF9mTGYxUURxWWxyWmZ0QXlxR0doSGo1MGlLazRaWjJ2SXdWNnROZVFOZUFJYm5CX3RRVnZ3dktkRjh6TEtBWnpVdlhlMzBDSGpfSmlYQ1lCS0xsbWZHejhaTEJZeWlpSWZYR1RKcDRHcGh3RkZsUHQ4ejFZdjQtdXV6QWJOSzl3Y0l6ay1TcGdKU0ZqcXF0Ykh2QzRqdmpBbHRBVlFwb0ZEckE?oc=5
-- **Abrir empresa nos EUA pode ajudar na obtenção do Green Card pelo EB-2 NIW?**
-  - Fonte: Rota Jurídica
-  - Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxPOE1xS0xIT2dTbHkzaTRiUkswU3IxaEU0OWFsdXlYNTBvWDhaTFNqS09KenhGRlZXYmoxNmlWLTQtZHBvNTVhR01selhZSVFnbXNuYmhFdTdMeHJzdEZLYjNYaHQyWmFxT1hFelJqTGFEaVZodUlEWEpZanJlNjA1NmNwMGFRRENFOG95VUhKd2J5cUJVeXVfZ0RkbTlLWkhwOTF4ak80bjVQT1kwMHgyOXJhc1JRdw?oc=5
+- **Fernanda Cortes: como funciona green card baseado em emprego nos Estados Unidos**
+  - Fonte: Pequenas Empresas & Grandes Negócios
+  - Link: https://news.google.com/rss/articles/CBMi9AFBVV95cUxOdFQ1TjFmS0xTNzlTdkR0MXpLMTlwcDFuLS1MN19hVFlTQ0loVzRnZGFaRndzRlc2NUpHVDBHT0RSZ2Rpd0ZHZEZGMmd3enRlUkY3elppMnZKbDE1dUowRUtUWkNkWDV3OEQ0VFRkSTk5TU0xMU9FQzI5SkFGOGM1MzlNcjV5VFUzalJ6WHBHNk5XcXRsdkdCR0dvVko2SGprdTZJT2pBeDNtUjlKVm82RjVDYVB6NVVkN2VVOFRpdVp3aHdONUt6bGxiamFOdHFzTThJQ0ZQOVpabEY4Q1lIRHkzYWN4eExmZVhyVUJXeW1jc3pn0gGDAkFVX3lxTE5yeDJXSDJXb0dpb01oVng1cUtqeXlVM08xTkdXNjNEZlJ3Qi1kcm02ejJNU1pOZlBUc3FuRkt0YllFNlRZNnRQR0t2NG5zMUY0dWhDN0FtNzNUME53bFdoMWhLX01fT0FRY2VPOGRCTHI0TXU1cU93N2lLWU9sN0t2aUFMS0pfbTdEUXZKOFNUalZiUUlUeGdxU3MyeV9LaXQ5Y09ieENIMEFOeVpVSUpzMXd3RFlEOHRCUFV6VU1JRXM3UUphWDl4TnZHSWFUNGtNNWhBN3RDWGs2ZVBIalBDaXh5SXdWcHF5bjVGZVR1eHRPTVVIZWtGRGpxU0JOSVZGVWc?oc=5
 
 ### visto americano
 
@@ -87,18 +87,18 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 - **Sete brasileiros são eleitos para assembleias estaduais nos EUA**
   - Fonte: Agência Brasil
   - Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxNSzNFOHlUd0UwSzRuUmhpd09hRE1iY21rVENMbjR1bXh5Qm02S092YnNQUUVSdDFsYjREQzRRRlFIenZzMi1vZlhySDlXcUZUeWJWR2I1R2RCc2p4NlhNb0xuNXJsYmdPMjBGNFNKb19SalUtcy1JYWxULTg2N1V3MUFPUmRlMWc0NG5kMi00VjFRQ0dFNHh3SHBEckxPOFRaZkNBNnpSeGhoSk9wSE50UFRNV2M5M0dTMUdMUWhRaWRBVlRU?oc=5
-- **De Duque de Caxias a deputado na Flórida: brasileiro eleito nos EUA critica abrigo a Flávio Bolsonaro e diz se espelhar em Erika Hilton**
-  - Fonte: BBC
-  - Link: https://news.google.com/rss/articles/CBMiY0FVX3lxTE9KWW5IZ3JzNmVTUFZGblM4R2hhT2dPMjVqdldPaU1vNGZtUnZSSUl2Zi15dlFWZGxlUUZ3MGZWSi1UT25hNFUwbDhDZHRTRUc5RzNyZERLMTVrdGI1MURVX2xnd9IBaEFVX3lxTFA1RXBSS01IQTk5cDRkOHhvUlN2Q2hDMS05cHQzOVhSMFFULWlSazhlV2VjVE1hdTVHYmZXSExIbjBXZEgwazFOSnFlOVlYU3lielI1X1B3MHRyTDlocXZKczlkRk1XRUZz?oc=5
+- **Brasileiros nos EUA preferem democratas e desaprovam governo Trump**
+  - Fonte: Vero Notícias
+  - Link: https://news.google.com/rss/articles/CBMinwFBVV95cUxOSEJuamxCTzZEWkg0OGdhVkQxMEZkR3kxM3YzSW1oa1FLYXA3SWszU3RRMnU0d2hraEdYdlVOV3FUSDZlczRhTUpUaWxTb2Mwb25yWnVEdEc5VElTdUhLa0NzU1U4a1AyRUNCWV9Ga2J2NG5vY01Ha2Ezd3VvS1M0TGIwMHVhQ1Y0VWltOVgyaXpRR0lTZXh2dW55SDhuVFk?oc=5
 
 ### asilo nos EUA
 
-- **[humor] Imigrante brasileiro recém-chegado aos EUA descobre que seu asilo terá validade de dois anos**
-  - Fonte: revista piauí
-  - Link: https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQmlJbmh6Nlo5RUoxYkJockpDd2x0SmFKbksyc1o2MkJiaXpBSVZHNUNLRVp0djNmdzBUT01RN2tlX0NUT3dOYU5uazljMVE4NUt2cjd4UDE1bmlrUEFfUVV0empiMV9xOUUxd3BwaG9EX1J3TXF3M25TeHI5dWZ2Q1RTTmJPbEN1TjlUdGlfczhPd0w4Mk1GTWNacWFER1daMUJmVmhtRDZVWW9TbVhiMHlfT3h5V2xGdVdsbkoxWVlqeTZhNGE4Vk9yRnloajVh?oc=5
 - **Flávio reúne argumentos para pedir asilo nos EUA e mostrar que sofre perseguição**
   - Fonte: Gazeta do Povo
   - Link: https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSWcwemd5LUZ3TUdJemJjT2pYcXo3QzhHbC1FRUQ4NjNQQzF0WnowSUtaMjF0YTM3cjFOMDZMYmNSV2V5eWNRVEhEM3Bvb3pObUJ2Qnc1NHo1NEtBYUJjVWZPRFlSVTM4VFY4VjhmY05wRzU5TFVMbExNWnl4aVhOTTZTck5jbEpEV1dPVTJSSGNFRmsycFRyNVZKbXJTRzIyOFZ4ZEpvZU1ZdjZIYVZwWi1VMDZhekV5RWk1X0NjRGc?oc=5
+- **Possível asilo a Flávio vai na contramão de decisões anteriores dos EUA**
+  - Fonte: UOL Notícias
+  - Link: https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWWtoWmlpV0p4ckRKbEJQcVMyS3p3UzZuWkVBcG1EeFZQMGY5cWp2ZTFRQy0tOVBnTEM5NVBnc3NOLV9FdWlLcEY1WDQxR3NsZzRrWFNMM0Q0YkNQOUw1ZU5TbC1iYVBJSHd2SVVoMGtTdHhxcEVkOXg5dWlld1ZUc2M3WktMenA2OG9Ka1NRcXU3dGxCdkpkaFFSQXFHeF9uMWl3NDhKVDY0RkZ6NWNUdWUxeHRDTmdDMEExd2ZlSTJBVnhTWXM1eW5jeTBoNHVUYW91eXRtWQ?oc=5
 
 ### ICE immigration
 
