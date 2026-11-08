@@ -1,8 +1,8 @@
 # Relatório diário — Imigração e brasileiros nos EUA
 
-Gerado em: 2026-11-07 16:47 EST
+Gerado em: 2026-11-08 00:57 EST
 
-Arquivo original: `2026-11-07-16-47-tendencias-imigracao.md`
+Arquivo original: `2026-11-08-00-57-tendencias-imigracao.md`
 
 ## Objetivo
 
@@ -25,10 +25,10 @@ Este relatório serve como base para criação de artigos atualizados para o blo
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMiswFBVV95cUxOYkc3WGVlbnJnN3JyVkY1NEVibVNIX2lhdW1feXM0RkZVUDJWTFVlZmt1d3BGckxnLVVDSzlHOVlLcmZFWDJQalZsUVhQOE9hYWp3ZlhmMENWTHRHSkp2cGJJNm9yN3E5b1l0RnRjRFE0MjlNNmNTNUZ4NlNDU1ZJR19zU0pIVE5nNVYxR3RqZGotaGIwV3ViVk5OQ2ZkRXVFYXA3M1Foa0dTaTJMYmEzbllnYw?oc=5
 
-4. **Vitória democrata nos EUA manterá política anti-imigração**
-   - Fonte: iG Turismo
+4. **Latinos nos EUA se preocupam com economia e não com imigração, diz estrategista político**
+   - Fonte: Estadão
    - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMivgFBVV95cUxPZnBqcHdoeFdCNXhPZmlUVF9hS2xRdE54amZzSHB5cWhXdjJJc1YtYlUzNXgxZ2hHbFpiSUphYWVNRUxJVXRKQ3Y3WDg1SWlnUFR5cXNFLVl6dHByald2TWFneFhqdWptWUdLR21GcEd5bVVtYm9HZ3VlOE1OVWNkWi05aWJ0Y0F1Uk9ZYXN3OUZWT2dLcFlsTFp2MUxPaVJFbEo5ZjEyVkc2Rkozbk41V3FDdDQtbTBjWTFKNXpn0gHDAUFVX3lxTFBVYnBtaWZCbzRfR3kzM0NoeGJFRW1qYndmSlQwRjVrRWhGY2lFYWVXUHJHRi1qSnlsNk9RUWZ1c3Vkb2JWV2lKd0RfZFRJc1RQWkhBMW5oRE5BTDNiaXVMOWdZYkRSbGtNakEtLVpXZnZCbk9LNFZDMWoxVEF3dFFRNlF1ejUzTTFjZ1NQOE53R3plNnM5S3MwZ1FPbXpKX3NWV3lUSzJCOUo3SmRpRndkQm5sT2tOX1RFTkQ3V29KNEZvNA?oc=5
+   - Link: https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSkVuMXEwdWZkWGk0am9QbFY5MU5PZ19FbUJhOHhiU2ZDUXBQcEk0RFpYQzF0OGxpYnp5cDdTR24zcy1PcHpaZWZpN2VzLU5HTWpxZzNNZlZES3JxUWI4NW9rXzZ2ZTVVMDZkRTNDSzVUZ002cm5WNUVIZTN6c1RHV1luanlqM2hvTmkxdS02aC1QQXRjajNwbk9PaGE2QThyUXZmX3lBcGkzTFhLZWozQlY2MW9SMWxMa2ZrMUc5aFU3d2FlRXBtTtIBzgFBVV95cUxPUFQwcFJ0TFZwVW1SVkVKVjJIWUVlMHpWM0VVT1I4YmZwWjBESkJ6WHk0UUc0VWtOVFppQWdYc0JpSThodE12WjMxaW9uRGtncEdLczNpMGN6Qk5lLVQ3MnlYc2h6VXc1N2s3OWJHVjhaSUNqdm5nV0l6akdrdzZmV1BISXRrRzI1N2Nyandha3ZRcTBWdDItYlhKbkJmbnlkZ0htc3Q1ckJSZjd0czJOX0RFemwzMnl6WUlJYkgxcUM0dFl3OEk1U2FWYmNDdw?oc=5
 
 5. **A renovação do EAD deixou de ser presumida: O novo pacote do USCIS**
    - Fonte: Migalhas
@@ -87,9 +87,9 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 - **Sete brasileiros são eleitos para assembleias estaduais nos EUA**
   - Fonte: Agência Brasil
   - Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxNSzNFOHlUd0UwSzRuUmhpd09hRE1iY21rVENMbjR1bXh5Qm02S092YnNQUUVSdDFsYjREQzRRRlFIenZzMi1vZlhySDlXcUZUeWJWR2I1R2RCc2p4NlhNb0xuNXJsYmdPMjBGNFNKb19SalUtcy1JYWxULTg2N1V3MUFPUmRlMWc0NG5kMi00VjFRQ0dFNHh3SHBEckxPOFRaZkNBNnpSeGhoSk9wSE50UFRNV2M5M0dTMUdMUWhRaWRBVlRU?oc=5
-- **Brasileiros eleitos nos EUA: saiba quem são os 7 representantes para assembleias estaduais**
-  - Fonte: Valor Econômico
-  - Link: https://news.google.com/rss/articles/CBMi3AFBVV95cUxNRmxPcmpsTU5pVGpXQnR2YWFjSTk3T29GcWpxTWc4Y0hkdzMtSWhORWFldTZudmxKZTFFYVdUdTBIcG5QUWVUN1dKU0NvakZVMTZmblU0TUljMk4yaUpPUmY4N0JfZHA5ekt1S1VaTC1EOUlENzhEVzBvS2piSjBKSUdjam9IU1RWM21VN0lPa1l1MGVHc2ZZb0w2VUpfaHRtVWhiVUx1OUMwYjBzVHNCQy1uVWxtOHNDQ19mZlcyTjBPeTBWUmV1TkJCQWVGVWN5VEtxUnNIcmh4bDY50gHrAUFVX3lxTE9VUUt4U2laYlEtakdlOVhtRER4UXlMcDdzM0ZmMUxGSG0xcFZfUXNHd1U1cTNfWjhYcm9EOTA0dmI4RmhxZkNzdTlFcVRBc256QU1GcHBtclAwb1Uyb1QxdHpVOGRNWl9CaFhRdENtWTFJZUFhaWJINE5jR3pmMkRVNE01ekN6QjRKT0RubjUzV0s5eFZsSFB4NlY1R21RWUZUTy1hNlhjN2hDRWRyTzk1dEhsMW92SEkyUE80NlpqVmtMeUJZUVdDRDcxTW85N1dRazJHMEdTb2dTR3JMWS1XenU0aHQ4Y0l5TWc?oc=5
+- **De Duque de Caxias a deputado na Flórida: brasileiro eleito nos EUA critica abrigo a Flávio Bolsonaro e diz se espelhar em Erika Hilton**
+  - Fonte: BBC
+  - Link: https://news.google.com/rss/articles/CBMiY0FVX3lxTE9KWW5IZ3JzNmVTUFZGblM4R2hhT2dPMjVqdldPaU1vNGZtUnZSSUl2Zi15dlFWZGxlUUZ3MGZWSi1UT25hNFUwbDhDZHRTRUc5RzNyZERLMTVrdGI1MURVX2xnd9IBaEFVX3lxTFA1RXBSS01IQTk5cDRkOHhvUlN2Q2hDMS05cHQzOVhSMFFULWlSazhlV2VjVE1hdTVHYmZXSExIbjBXZEgwazFOSnFlOVlYU3lielI1X1B3MHRyTDlocXZKczlkRk1XRUZz?oc=5
 
 ### asilo nos EUA
 
