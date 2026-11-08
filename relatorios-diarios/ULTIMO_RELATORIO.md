@@ -1,8 +1,8 @@
 # Relatório diário — Imigração e brasileiros nos EUA
 
-Gerado em: 2026-11-08 12:55 EST
+Gerado em: 2026-11-08 17:01 EST
 
-Arquivo original: `2026-11-08-12-55-tendencias-imigracao.md`
+Arquivo original: `2026-11-08-17-01-tendencias-imigracao.md`
 
 ## Objetivo
 
