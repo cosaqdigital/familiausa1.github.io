@@ -1,8 +1,8 @@
 # Relatório diário — Imigração e brasileiros nos EUA
 
-Gerado em: 2026-11-09 01:20 EST
+Gerado em: 2026-11-09 17:19 EST
 
-Arquivo original: `2026-11-09-01-20-tendencias-imigracao.md`
+Arquivo original: `2026-11-09-17-19-tendencias-imigracao.md`
 
 ## Objetivo
 
@@ -10,25 +10,25 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ## Principais assuntos do dia
 
-1. **Imigração nos EUA: os gráficos que mostram impacto do 2º mandato de Trump**
+1. **Trump sinaliza possível legalização de imigrantes indocumentados**
+   - Fonte: Jovem Pan
+   - Termo monitorado: imigração EUA
+   - Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxNR0NfbmFrd1ptOG9uTDNUVDJvdVZBRWg2WXNOZnFfd2llQ0dUTnpfaHliYWFfUEQ0MkNnUTM0eHJtTnZsYkJrNGh6RGRSUUctaWVfbGtjVmRIRHpMQW00a0hWdkhLQVVMTkpjZW5pR2hEeGF3ZGZtbmZYejhwSjZSUk45SE1RTWxmbTVpT1pZVUlzSnVIUU52Sk0tLWpRR2lST1QtZk0yY2k5T0V5SFM5cjJLcTRuUQ?oc=5
+
+2. **Imigração nos EUA: os gráficos que mostram impacto do 2º mandato de Trump**
    - Fonte: BBC
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMiY0FVX3lxTE90N0E2cm9Va0c5cE9YeWJ3T2RsNkVlMDRXM2dXRkcxSGtNV09MZVhuRlNXMjhiSHRaS2Z4cDFZb1ZYR2xrdWxHbnlRTUVvcVBWdV9BLUlHdXVCY1NLeDBiWWhwSdIBaEFVX3lxTE5xbmEtT3RBOTNCS1o1VnJWYVBSVzVXUjJteTZEeTEwd3dsRTFSZkNuQjNMdExjZjRKa2pfUkt5eTVtQmFTU21aa21HNmllcUhkRzVHUk1rb3d2TDdrN1p0UUZnUklqYTBm?oc=5
 
-2. **ICE faz post ameaçando imigrantes em dia de eleição: 'Nós vamos te rastrear'**
+3. **ICE faz post ameaçando imigrantes em dia de eleição: 'Nós vamos te rastrear'**
    - Fonte: G1
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNjQybTdUekJkMXhqTk45bjRSU29ZcGhvZ3NlLTVmOXJtV2llcU9KTUlybG8xQ0Z2QjJZMjN6azBsYkU1QjJ5MzJhNHJSaVV2Z1dtSzVTYzhEVlBxR0NXYnlDWm5EUFAyV3E1THZMaDFLSzNlcW5PM216eVpEb1RackVTcW9OazBJRVV2cHRfX0ZZWG5lR0xxWC1KYURNTWNBUThPZmNUMkZBdXJUU2RiUi1lZWQzem1oQmNNdUQzc05Tc2PSAdIBQVVfeXFMT1FJSTRlcHlETG5Id0lfS0RvcEJDamhiWGpsRTlucUU0Q3VJaVZfQlFDdy1yOEZJNDFSM1pUMDZ5a0hvRXRtOFFSRXk1Zm9mVjFBX0hwcUw4RDBTeHdXOV9heFZXc1BndjJIMmR5NXJidHBiaFV1V1VLSDZhejNvR0lTZXc3aC1ITzZnUjhrQ1RSdlk0SDRaMjZSdXA3SlVqSWhTaVBqb192MTM5aHVmcnJFWEtEM1dCdHRwRVNNaXQ2dEk0bEcyTjJQRGFTTTF0QUF3?oc=5
 
-3. **Sistema de imigração quebrou, diz deputada brasileira reeleita nos EUA**
-   - Fonte: CNN Brasil
+4. **Eleições nos EUA: o que a vitória dos Democratas pode mudar na política migratória do governo Trump**
+   - Fonte: MigraMundo
    - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMiswFBVV95cUxOYkc3WGVlbnJnN3JyVkY1NEVibVNIX2lhdW1feXM0RkZVUDJWTFVlZmt1d3BGckxnLVVDSzlHOVlLcmZFWDJQalZsUVhQOE9hYWp3ZlhmMENWTHRHSkp2cGJJNm9yN3E5b1l0RnRjRFE0MjlNNmNTNUZ4NlNDU1ZJR19zU0pIVE5nNVYxR3RqZGotaGIwV3ViVk5OQ2ZkRXVFYXA3M1Foa0dTaTJMYmEzbllnYw?oc=5
-
-4. **Latinos nos EUA se preocupam com economia e não com imigração, diz estrategista político**
-   - Fonte: Estadão
-   - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSkVuMXEwdWZkWGk0am9QbFY5MU5PZ19FbUJhOHhiU2ZDUXBQcEk0RFpYQzF0OGxpYnp5cDdTR24zcy1PcHpaZWZpN2VzLU5HTWpxZzNNZlZES3JxUWI4NW9rXzZ2ZTVVMDZkRTNDSzVUZ002cm5WNUVIZTN6c1RHV1luanlqM2hvTmkxdS02aC1QQXRjajNwbk9PaGE2QThyUXZmX3lBcGkzTFhLZWozQlY2MW9SMWxMa2ZrMUc5aFU3d2FlRXBtTtIBzgFBVV95cUxPUFQwcFJ0TFZwVW1SVkVKVjJIWUVlMHpWM0VVT1I4YmZwWjBESkJ6WHk0UUc0VWtOVFppQWdYc0JpSThodE12WjMxaW9uRGtncEdLczNpMGN6Qk5lLVQ3MnlYc2h6VXc1N2s3OWJHVjhaSUNqdm5nV0l6akdrdzZmV1BISXRrRzI1N2Nyandha3ZRcTBWdDItYlhKbkJmbnlkZ0htc3Q1ckJSZjd0czJOX0RFemwzMnl6WUlJYkgxcUM0dFl3OEk1U2FWYmNDdw?oc=5
+   - Link: https://news.google.com/rss/articles/CBMivwFBVV95cUxPUDFSSDI5WmU0dHRmNFJUeUo4TlVZLVBEUnFmQW9lYlQwazJ0NTdLUGdRc05MZGlydFU0QWhvaVJrMlJ6a1lmZmN3R2MwMGdhYWhRWms1UG02NXpscTVub2dkN3lOX1ZBVHdyYmFoTzZpLXZQZXpKUUlqc25KeFdDYTdRZkJmZEpoM2kwNEcwcUhWTUVyMlBrQnk1aGh6SUlYNjJJYXdscWpjalZkQzdxUlhIdzdfbkxia1JvZUZ2QQ?oc=5
 
 5. **A renovação do EAD deixou de ser presumida: O novo pacote do USCIS**
    - Fonte: Migalhas
@@ -48,12 +48,12 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### imigração EUA
 
+- **Trump sinaliza possível legalização de imigrantes indocumentados**
+  - Fonte: Jovem Pan
+  - Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxNR0NfbmFrd1ptOG9uTDNUVDJvdVZBRWg2WXNOZnFfd2llQ0dUTnpfaHliYWFfUEQ0MkNnUTM0eHJtTnZsYkJrNGh6RGRSUUctaWVfbGtjVmRIRHpMQW00a0hWdkhLQVVMTkpjZW5pR2hEeGF3ZGZtbmZYejhwSjZSUk45SE1RTWxmbTVpT1pZVUlzSnVIUU52Sk0tLWpRR2lST1QtZk0yY2k5T0V5SFM5cjJLcTRuUQ?oc=5
 - **Imigração nos EUA: os gráficos que mostram impacto do 2º mandato de Trump**
   - Fonte: BBC
   - Link: https://news.google.com/rss/articles/CBMiY0FVX3lxTE90N0E2cm9Va0c5cE9YeWJ3T2RsNkVlMDRXM2dXRkcxSGtNV09MZVhuRlNXMjhiSHRaS2Z4cDFZb1ZYR2xrdWxHbnlRTUVvcVBWdV9BLUlHdXVCY1NLeDBiWWhwSdIBaEFVX3lxTE5xbmEtT3RBOTNCS1o1VnJWYVBSVzVXUjJteTZEeTEwd3dsRTFSZkNuQjNMdExjZjRKa2pfUkt5eTVtQmFTU21aa21HNmllcUhkRzVHUk1rb3d2TDdrN1p0UUZnUklqYTBm?oc=5
-- **ICE faz post ameaçando imigrantes em dia de eleição: 'Nós vamos te rastrear'**
-  - Fonte: G1
-  - Link: https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNjQybTdUekJkMXhqTk45bjRSU29ZcGhvZ3NlLTVmOXJtV2llcU9KTUlybG8xQ0Z2QjJZMjN6azBsYkU1QjJ5MzJhNHJSaVV2Z1dtSzVTYzhEVlBxR0NXYnlDWm5EUFAyV3E1THZMaDFLSzNlcW5PM216eVpEb1RackVTcW9OazBJRVV2cHRfX0ZZWG5lR0xxWC1KYURNTWNBUThPZmNUMkZBdXJUU2RiUi1lZWQzem1oQmNNdUQzc05Tc2PSAdIBQVVfeXFMT1FJSTRlcHlETG5Id0lfS0RvcEJDamhiWGpsRTlucUU0Q3VJaVZfQlFDdy1yOEZJNDFSM1pUMDZ5a0hvRXRtOFFSRXk1Zm9mVjFBX0hwcUw4RDBTeHdXOV9heFZXc1BndjJIMmR5NXJidHBiaFV1V1VLSDZhejNvR0lTZXc3aC1ITzZnUjhrQ1RSdlk0SDRaMjZSdXA3SlVqSWhTaVBqb192MTM5aHVmcnJFWEtEM1dCdHRwRVNNaXQ2dEk0bEcyTjJQRGFTTTF0QUF3?oc=5
 
 ### USCIS
 
@@ -87,9 +87,9 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 - **Sete brasileiros são eleitos para assembleias estaduais nos EUA**
   - Fonte: Agência Brasil
   - Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxNSzNFOHlUd0UwSzRuUmhpd09hRE1iY21rVENMbjR1bXh5Qm02S092YnNQUUVSdDFsYjREQzRRRlFIenZzMi1vZlhySDlXcUZUeWJWR2I1R2RCc2p4NlhNb0xuNXJsYmdPMjBGNFNKb19SalUtcy1JYWxULTg2N1V3MUFPUmRlMWc0NG5kMi00VjFRQ0dFNHh3SHBEckxPOFRaZkNBNnpSeGhoSk9wSE50UFRNV2M5M0dTMUdMUWhRaWRBVlRU?oc=5
-- **Lorena Betts chegou aos EUA como babá e é uma dos sete brasileiros eleitos deputados**
-  - Fonte: G1
-  - Link: https://news.google.com/rss/articles/CBMijwFBVV95cUxNTFk1U3BFTV9FeFNpRFpaU2UwOHRYcGdkRGoxUnFJdGstM2VIellJOFRjWHJiQ001OE1zM1dseTVPQkoyVFZwLURYTzJPTkd4UWdpOTFGakJFaF9NbXRBSWJyWHdWY1FoSTJlNjh5Mk5Gcjl0c3MweGdPOW9jUWFOM21la2VGeHNreXJ6Y2FBMNIBngFBVV95cUxOc3FTSXhvU0ZYMkFWZlpvdnY3UnBwTDZSaHJjYzBmSjVQOXhOUkdhckpyeWlsMDI1NFFNckt2Zk9lMFhMLXdsRFZtMmVaelpna3NaUUpPY01YNWU1UDhNRzBRckVha0tYUW1sU0xoZ2VLOXpHbWdONUFQdGU0cl9MSjZ6YnJlWkNScU83SkxZbkJFNnp5UFA1eTR4SUpKZw?oc=5
+- **Sem agenda concreta, Brasil continuará fora da prioridade dos EUA**
+  - Fonte: Valor Econômico
+  - Link: https://news.google.com/rss/articles/CBMivAFBVV95cUxQYjBTWVVmOENjUnphVTN6M09NWFNROWVyTXJtb1k1WDVWQU0zYXFqRWVGZ3JjT091MDBUWXRKMGFsY0lMdm80OUVfT3VhS3Z2NGw2MDQ5OW1iR2h6YkotY21YOUxzTjZ5NGpOb0ZBV0UzOXc5djdRX0FPRUVSS04wU3U3a0tkRlRHMG5lck5tNnFvQ3hJWlZCa2liay1JWENZRkVoTUtlUmhqdGVjNXBTZGlyVlhvcnVacDQtUNIBywFBVV95cUxNZUJrVnhrSFBpN1o3X1ZIQ0JjVHRQcmFWbk9rZ0lnM3ZnNHBIZXJER1hGUlQxbEVzSHdnSlRuZ0RTcV9sel9FY0podXlMZkFQdEVuR3AwNXROZUhZWjktQWpwZmd2NGMzQUMwaEpqaUVTejdfT0VxWng2TUNfdjJXa1VfdVNESnZhLVV6eUR2RXZ4N2ZBN3BoYy1HOE1fYklMOElBdTBRaVdQQld2cFZ2WGhGWGlRU3FCVk9XUlFEbHdqa3ZZZHJYS3JHOA?oc=5
 
 ### asilo nos EUA
 
@@ -105,9 +105,9 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 - **Polícia Civil de Santa Catarina, em cooperação com o ICE, prende foragido da Justiça brasileira em Orlando, nos EUA**
   - Fonte: Polícia Civil de Santa Catarina (PCSC)
   - Link: https://news.google.com/rss/articles/CBMiQ0FVX3lxTE93VDJmeTk1LUFsYTJqOEZTM1FZcmJmSXB5UEdnNzB3SklGcUtzMGFXYjRmZzVCZjhLS3k1Z1NMZXktVjg?oc=5
-- **Executivo de SP que está legalmente nos EUA é preso acusado de dirigir bêbado, entregue ao ICE e levado para prisão de imigrantes ilegais**
-  - Fonte: G1
-  - Link: https://news.google.com/rss/articles/CBMinAJBVV95cUxQYThGdkl6RVI1NTFiZXNnR2xxcVk0V3dhQmlPRzZ5ZDgxei1tdGNiaER3UXpZUU95bTVoVEFTNVVYQ0VBbmdIYWdhVlJxZUF3bVZGclh3bDhJVjVmLTE3VWJDNWYwZWpKc0lXaXpsVXRXMk90VXN6VTFnTW9Bb1RGY2xqellPZzd5ekN0U29qbElRRHZMS0pRTEg3cl9FV1l1b1pmX0xLVGtsc3huYm1CalprVURXNWVJODNVS3JVSG84U09MYXVPajYweGlwb2xvdnlkT0hDMmZEcHJ6LUNaR2ppMnRQSS05WmN5TnFZYk40eFg1dC1GU0w4djdBRi1OREZheWotYkZRUXYyNGx2WnRUUEZwVWdGUkJraNIBqwJBVV95cUxORGRaVGVyekxwNWhxRkt4aFh2M3lxNEVTUTZnellnb2I5eEVBSzluSnRqVzdJRWlnaS14WS1QTktRNmNDal92MEZ2SHNjQVdxcllOQkllWnFvaEt3dVE5UEJ3NkpTSWY2WHdNWTN3dlI1aTRieW95SnA1eWpzZHFvZ0xaWkZIb0RuYlF1V1hmbk9MWThtZ0lqVXRERmRMUFBmYU8wak85ZXVIWndDZW9XdmlIaHpFZTBwVjBpQ3RqUW1BSjJRYWlYS0RzNlVkRWpJd1NkdWoxY0p5UU50ZlhCS1hFczlka3N5aTB4ZGxSdlZUalFGTjJ4c1VLODRGYnRTNHQxVWk3Q1VKTFFfTEZLNHRSMldybkltNTgxaXRRWENPMzl1SEhpaXU3aw?oc=5
+- **Homem é baleado em Nova York dentro de carro por agentes do ICE**
+  - Fonte: Agência Brasil
+  - Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxOcmtmc3VDU1poSF9CajNHYm9fbnFSSlNCZHNOZlhZV2VVc2NFVFZJYjZZajNDd3ZSRlZXNjJkTWZ3cy1HVFdibV9ZUnM3OUk5MjlJUDM1QVVxNWlGVDhjQlpRa0NzbV9fRDR6QTFMVGUzRWlsSDNUSjhHTWtjTUdabjVOV2pUaVZPTmVLTjFJZl8yZk9JNkhhYVhqQ1Rld2tzR2hobTJOcmNETVJjREFuYXNzSU9FU3JPYW5XZzcxUDZ1RUp3?oc=5
 
 
 ## Termos monitorados
