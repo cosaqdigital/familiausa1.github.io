@@ -1,8 +1,8 @@
 # Relatório diário — Imigração e brasileiros nos EUA
 
-Gerado em: 2026-11-09 17:19 EST
+Gerado em: 2026-11-09 20:29 EST
 
-Arquivo original: `2026-11-09-17-19-tendencias-imigracao.md`
+Arquivo original: `2026-11-09-20-29-tendencias-imigracao.md`
 
 ## Objetivo
 
@@ -10,25 +10,25 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ## Principais assuntos do dia
 
-1. **Trump sinaliza possível legalização de imigrantes indocumentados**
+1. **Trump admite que política anti-imigração foi 'dura demais' enquanto promove 'arquiteto' do ICE a chefe de Gabinete**
+   - Fonte: O GLOBO
+   - Termo monitorado: imigração EUA
+   - Link: https://news.google.com/rss/articles/CBMi-gFBVV95cUxPX2xSYjFBMFNkNnQzcllLMVFMNGJXc1h0UW1JanRBZEtJNDFOVTd3c05LaG9fN2EzYy0tMVM5d0h5azlnVEZZb3ZPX2hGMXFKeTItZ1FyanFkb2ZCZENqZXBDbFViOGVIdFFNYlBqNHVmU0VWX3ZvWTR2ZzVZVEI1OVEtWUo0akFaWElkekM4aFJ0elpnbkpiM2xESTFIc2ttNm1rTlg1LTAwZUZKSUhpQUlWMTdhMHpkMGREeWtWWmh4OEw0WnluYXRpSEtNa1IwWW83TXd1N2tnX2FlcmdsREs4SUxvZEctWW5xblZrNnNyM1lXUGRFMURR0gGIAkFVX3lxTE1FX3FMazdxdm1fYWtXN01WUHJMNzlENnliSmt0N09MaXo5cVRhbDlGcU9CRkhmTUxnOWt4Mkc0WjlVMXFjZ2Exck9PbWE1Yk80dURpel8zbEIyZ3oyU3llMU1lb2t3Q05mVHlrTGN4dkU4MnBEWWlPRXVhVEFTV1hUMVVGVWpxWEJQOTZmc3RyeFRGd0t3TmRRbTFmOVB5QTlWYkVENlo3YkNGSGJQNXZDRktZa0RnTFk5blY2MGtmeHJRN05PMURiU0xfcEhNQWlNNjRzREVOUG5Mc2FPN0dqMGN2N0NzV0cwazRVVF9fQ0JYcjl4T2xJWDlHb2NmcE5SanZTbjEzYQ?oc=5
+
+2. **Análise: Trump irrita base MAGA com declarações sobre imigração**
+   - Fonte: CNN Brasil
+   - Termo monitorado: imigração EUA
+   - Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMU9xRUI4SXZYbW5MLWFrVFFpVk5ib0V4QS1TbXVKekRXRVE1ajJQdmJuUFg3QUVuOEx1cHpwVmR3TjA2Nk9RLUE2MkFZWHNfTHZ2VHZ6VjZJb19hSWdYWnN5OXlxenk0bHctV3I2UFhLRnozU3hlcUQ2OGozQlN4b2ZiOWNWN0R1dC1xbi1GTFhoUFFCWnhuRnBza0RSaUtvYUF2OEVIb0tkQQ?oc=5
+
+3. **Trump sinaliza possível legalização de imigrantes indocumentados**
    - Fonte: Jovem Pan
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxNR0NfbmFrd1ptOG9uTDNUVDJvdVZBRWg2WXNOZnFfd2llQ0dUTnpfaHliYWFfUEQ0MkNnUTM0eHJtTnZsYkJrNGh6RGRSUUctaWVfbGtjVmRIRHpMQW00a0hWdkhLQVVMTkpjZW5pR2hEeGF3ZGZtbmZYejhwSjZSUk45SE1RTWxmbTVpT1pZVUlzSnVIUU52Sk0tLWpRR2lST1QtZk0yY2k5T0V5SFM5cjJLcTRuUQ?oc=5
 
-2. **Imigração nos EUA: os gráficos que mostram impacto do 2º mandato de Trump**
+4. **Imigração nos EUA: os gráficos que mostram impacto do 2º mandato de Trump**
    - Fonte: BBC
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMiY0FVX3lxTE90N0E2cm9Va0c5cE9YeWJ3T2RsNkVlMDRXM2dXRkcxSGtNV09MZVhuRlNXMjhiSHRaS2Z4cDFZb1ZYR2xrdWxHbnlRTUVvcVBWdV9BLUlHdXVCY1NLeDBiWWhwSdIBaEFVX3lxTE5xbmEtT3RBOTNCS1o1VnJWYVBSVzVXUjJteTZEeTEwd3dsRTFSZkNuQjNMdExjZjRKa2pfUkt5eTVtQmFTU21aa21HNmllcUhkRzVHUk1rb3d2TDdrN1p0UUZnUklqYTBm?oc=5
-
-3. **ICE faz post ameaçando imigrantes em dia de eleição: 'Nós vamos te rastrear'**
-   - Fonte: G1
-   - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNjQybTdUekJkMXhqTk45bjRSU29ZcGhvZ3NlLTVmOXJtV2llcU9KTUlybG8xQ0Z2QjJZMjN6azBsYkU1QjJ5MzJhNHJSaVV2Z1dtSzVTYzhEVlBxR0NXYnlDWm5EUFAyV3E1THZMaDFLSzNlcW5PM216eVpEb1RackVTcW9OazBJRVV2cHRfX0ZZWG5lR0xxWC1KYURNTWNBUThPZmNUMkZBdXJUU2RiUi1lZWQzem1oQmNNdUQzc05Tc2PSAdIBQVVfeXFMT1FJSTRlcHlETG5Id0lfS0RvcEJDamhiWGpsRTlucUU0Q3VJaVZfQlFDdy1yOEZJNDFSM1pUMDZ5a0hvRXRtOFFSRXk1Zm9mVjFBX0hwcUw4RDBTeHdXOV9heFZXc1BndjJIMmR5NXJidHBiaFV1V1VLSDZhejNvR0lTZXc3aC1ITzZnUjhrQ1RSdlk0SDRaMjZSdXA3SlVqSWhTaVBqb192MTM5aHVmcnJFWEtEM1dCdHRwRVNNaXQ2dEk0bEcyTjJQRGFTTTF0QUF3?oc=5
-
-4. **Eleições nos EUA: o que a vitória dos Democratas pode mudar na política migratória do governo Trump**
-   - Fonte: MigraMundo
-   - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMivwFBVV95cUxPUDFSSDI5WmU0dHRmNFJUeUo4TlVZLVBEUnFmQW9lYlQwazJ0NTdLUGdRc05MZGlydFU0QWhvaVJrMlJ6a1lmZmN3R2MwMGdhYWhRWms1UG02NXpscTVub2dkN3lOX1ZBVHdyYmFoTzZpLXZQZXpKUUlqc25KeFdDYTdRZkJmZEpoM2kwNEcwcUhWTUVyMlBrQnk1aGh6SUlYNjJJYXdscWpjalZkQzdxUlhIdzdfbkxia1JvZUZ2QQ?oc=5
 
 5. **A renovação do EAD deixou de ser presumida: O novo pacote do USCIS**
    - Fonte: Migalhas
@@ -48,12 +48,12 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### imigração EUA
 
-- **Trump sinaliza possível legalização de imigrantes indocumentados**
-  - Fonte: Jovem Pan
-  - Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxNR0NfbmFrd1ptOG9uTDNUVDJvdVZBRWg2WXNOZnFfd2llQ0dUTnpfaHliYWFfUEQ0MkNnUTM0eHJtTnZsYkJrNGh6RGRSUUctaWVfbGtjVmRIRHpMQW00a0hWdkhLQVVMTkpjZW5pR2hEeGF3ZGZtbmZYejhwSjZSUk45SE1RTWxmbTVpT1pZVUlzSnVIUU52Sk0tLWpRR2lST1QtZk0yY2k5T0V5SFM5cjJLcTRuUQ?oc=5
-- **Imigração nos EUA: os gráficos que mostram impacto do 2º mandato de Trump**
-  - Fonte: BBC
-  - Link: https://news.google.com/rss/articles/CBMiY0FVX3lxTE90N0E2cm9Va0c5cE9YeWJ3T2RsNkVlMDRXM2dXRkcxSGtNV09MZVhuRlNXMjhiSHRaS2Z4cDFZb1ZYR2xrdWxHbnlRTUVvcVBWdV9BLUlHdXVCY1NLeDBiWWhwSdIBaEFVX3lxTE5xbmEtT3RBOTNCS1o1VnJWYVBSVzVXUjJteTZEeTEwd3dsRTFSZkNuQjNMdExjZjRKa2pfUkt5eTVtQmFTU21aa21HNmllcUhkRzVHUk1rb3d2TDdrN1p0UUZnUklqYTBm?oc=5
+- **Trump admite que política anti-imigração foi 'dura demais' enquanto promove 'arquiteto' do ICE a chefe de Gabinete**
+  - Fonte: O GLOBO
+  - Link: https://news.google.com/rss/articles/CBMi-gFBVV95cUxPX2xSYjFBMFNkNnQzcllLMVFMNGJXc1h0UW1JanRBZEtJNDFOVTd3c05LaG9fN2EzYy0tMVM5d0h5azlnVEZZb3ZPX2hGMXFKeTItZ1FyanFkb2ZCZENqZXBDbFViOGVIdFFNYlBqNHVmU0VWX3ZvWTR2ZzVZVEI1OVEtWUo0akFaWElkekM4aFJ0elpnbkpiM2xESTFIc2ttNm1rTlg1LTAwZUZKSUhpQUlWMTdhMHpkMGREeWtWWmh4OEw0WnluYXRpSEtNa1IwWW83TXd1N2tnX2FlcmdsREs4SUxvZEctWW5xblZrNnNyM1lXUGRFMURR0gGIAkFVX3lxTE1FX3FMazdxdm1fYWtXN01WUHJMNzlENnliSmt0N09MaXo5cVRhbDlGcU9CRkhmTUxnOWt4Mkc0WjlVMXFjZ2Exck9PbWE1Yk80dURpel8zbEIyZ3oyU3llMU1lb2t3Q05mVHlrTGN4dkU4MnBEWWlPRXVhVEFTV1hUMVVGVWpxWEJQOTZmc3RyeFRGd0t3TmRRbTFmOVB5QTlWYkVENlo3YkNGSGJQNXZDRktZa0RnTFk5blY2MGtmeHJRN05PMURiU0xfcEhNQWlNNjRzREVOUG5Mc2FPN0dqMGN2N0NzV0cwazRVVF9fQ0JYcjl4T2xJWDlHb2NmcE5SanZTbjEzYQ?oc=5
+- **Análise: Trump irrita base MAGA com declarações sobre imigração**
+  - Fonte: CNN Brasil
+  - Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMU9xRUI4SXZYbW5MLWFrVFFpVk5ib0V4QS1TbXVKekRXRVE1ajJQdmJuUFg3QUVuOEx1cHpwVmR3TjA2Nk9RLUE2MkFZWHNfTHZ2VHZ6VjZJb19hSWdYWnN5OXlxenk0bHctV3I2UFhLRnozU3hlcUQ2OGozQlN4b2ZiOWNWN0R1dC1xbi1GTFhoUFFCWnhuRnBza0RSaUtvYUF2OEVIb0tkQQ?oc=5
 
 ### USCIS
 
@@ -87,9 +87,9 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 - **Sete brasileiros são eleitos para assembleias estaduais nos EUA**
   - Fonte: Agência Brasil
   - Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxNSzNFOHlUd0UwSzRuUmhpd09hRE1iY21rVENMbjR1bXh5Qm02S092YnNQUUVSdDFsYjREQzRRRlFIenZzMi1vZlhySDlXcUZUeWJWR2I1R2RCc2p4NlhNb0xuNXJsYmdPMjBGNFNKb19SalUtcy1JYWxULTg2N1V3MUFPUmRlMWc0NG5kMi00VjFRQ0dFNHh3SHBEckxPOFRaZkNBNnpSeGhoSk9wSE50UFRNV2M5M0dTMUdMUWhRaWRBVlRU?oc=5
-- **Sem agenda concreta, Brasil continuará fora da prioridade dos EUA**
-  - Fonte: Valor Econômico
-  - Link: https://news.google.com/rss/articles/CBMivAFBVV95cUxQYjBTWVVmOENjUnphVTN6M09NWFNROWVyTXJtb1k1WDVWQU0zYXFqRWVGZ3JjT091MDBUWXRKMGFsY0lMdm80OUVfT3VhS3Z2NGw2MDQ5OW1iR2h6YkotY21YOUxzTjZ5NGpOb0ZBV0UzOXc5djdRX0FPRUVSS04wU3U3a0tkRlRHMG5lck5tNnFvQ3hJWlZCa2liay1JWENZRkVoTUtlUmhqdGVjNXBTZGlyVlhvcnVacDQtUNIBywFBVV95cUxNZUJrVnhrSFBpN1o3X1ZIQ0JjVHRQcmFWbk9rZ0lnM3ZnNHBIZXJER1hGUlQxbEVzSHdnSlRuZ0RTcV9sel9FY0podXlMZkFQdEVuR3AwNXROZUhZWjktQWpwZmd2NGMzQUMwaEpqaUVTejdfT0VxWng2TUNfdjJXa1VfdVNESnZhLVV6eUR2RXZ4N2ZBN3BoYy1HOE1fYklMOElBdTBRaVdQQld2cFZ2WGhGWGlRU3FCVk9XUlFEbHdqa3ZZZHJYS3JHOA?oc=5
+- **Brasileiros nos EUA preferem democratas e desaprovam governo Trump**
+  - Fonte: Vero Notícias
+  - Link: https://news.google.com/rss/articles/CBMinwFBVV95cUxOSEJuamxCTzZEWkg0OGdhVkQxMEZkR3kxM3YzSW1oa1FLYXA3SWszU3RRMnU0d2hraEdYdlVOV3FUSDZlczRhTUpUaWxTb2Mwb25yWnVEdEc5VElTdUhLa0NzU1U4a1AyRUNCWV9Ga2J2NG5vY01Ha2Ezd3VvS1M0TGIwMHVhQ1Y0VWltOVgyaXpRR0lTZXh2dW55SDhuVFk?oc=5
 
 ### asilo nos EUA
 
