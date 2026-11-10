@@ -1,8 +1,8 @@
 # Relatório diário — Imigração e brasileiros nos EUA
 
-Gerado em: 2026-11-10 02:13 EST
+Gerado em: 2026-11-10 14:42 EST
 
-Arquivo original: `2026-11-10-02-13-tendencias-imigracao.md`
+Arquivo original: `2026-11-10-14-42-tendencias-imigracao.md`
 
 ## Objetivo
 
@@ -20,15 +20,15 @@ Este relatório serve como base para criação de artigos atualizados para o blo
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZTFrUlpGRzJkcGNpbkc3cWhTQnZkaWlrQXBtcnBNM0tGenFDbklJbE9pM1NrVnd3aWsxRWtmSS02cEl3ekxEdEl3eVNxUFRfR3R0U1RST0owTFdpN1VNaGtUdWk3TnFyYXZ1T2t2WE4xNGJ5UV9HdGl4d1VYcDZ0UmZla0hXZ1d3eDJQVlFGUWpqX2NyTGw0UDJ2cGw5R3BKTGxjaVI1UUZaano3UFRVc2VsQU1WUVBGV195ZmpKVDFoTHo3UlhpbWJ2S3hTT01XYXFJU2tjeGRBSkk?oc=5
 
-3. **Análise: Trump irrita base MAGA com declarações sobre imigração**
+3. **Imigração nos EUA: os gráficos que mostram impacto do 2º mandato de Trump**
+   - Fonte: BBC
+   - Termo monitorado: imigração EUA
+   - Link: https://news.google.com/rss/articles/CBMiY0FVX3lxTE90N0E2cm9Va0c5cE9YeWJ3T2RsNkVlMDRXM2dXRkcxSGtNV09MZVhuRlNXMjhiSHRaS2Z4cDFZb1ZYR2xrdWxHbnlRTUVvcVBWdV9BLUlHdXVCY1NLeDBiWWhwSdIBaEFVX3lxTE5xbmEtT3RBOTNCS1o1VnJWYVBSVzVXUjJteTZEeTEwd3dsRTFSZkNuQjNMdExjZjRKa2pfUkt5eTVtQmFTU21aa21HNmllcUhkRzVHUk1rb3d2TDdrN1p0UUZnUklqYTBm?oc=5
+
+4. **Análise: Trump irrita base MAGA com declarações sobre imigração**
    - Fonte: CNN Brasil
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMU9xRUI4SXZYbW5MLWFrVFFpVk5ib0V4QS1TbXVKekRXRVE1ajJQdmJuUFg3QUVuOEx1cHpwVmR3TjA2Nk9RLUE2MkFZWHNfTHZ2VHZ6VjZJb19hSWdYWnN5OXlxenk0bHctV3I2UFhLRnozU3hlcUQ2OGozQlN4b2ZiOWNWN0R1dC1xbi1GTFhoUFFCWnhuRnBza0RSaUtvYUF2OEVIb0tkQQ?oc=5
-
-4. **Trump sinaliza possível legalização de imigrantes indocumentados**
-   - Fonte: Jovem Pan
-   - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxNR0NfbmFrd1ptOG9uTDNUVDJvdVZBRWg2WXNOZnFfd2llQ0dUTnpfaHliYWFfUEQ0MkNnUTM0eHJtTnZsYkJrNGh6RGRSUUctaWVfbGtjVmRIRHpMQW00a0hWdkhLQVVMTkpjZW5pR2hEeGF3ZGZtbmZYejhwSjZSUk45SE1RTWxmbTVpT1pZVUlzSnVIUU52Sk0tLWpRR2lST1QtZk0yY2k5T0V5SFM5cjJLcTRuUQ?oc=5
 
 5. **A renovação do EAD deixou de ser presumida: O novo pacote do USCIS**
    - Fonte: Migalhas
@@ -78,36 +78,36 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 - **Visto americano: espera por entrevista chega a cinco meses em São Paulo; veja prazos e como tentar antecipar**
   - Fonte: O GLOBO
   - Link: https://news.google.com/rss/articles/CBMi9gFBVV95cUxNbUcxTkVTeVQwcTJ3Yk1DUkg4alBybkE4NXg5VlNWNC1TOVlPRjRuSmh2YWJvLVZHc2RyWVdSRVVnbTlTX2tsRm96RzBCUmY3Z1QxcHIwc0E1Q0VDUHgzRm9EVmdDR1JobFFzZDlxeUduVnBiUnBMLXlFNk9YaVpUa0pUS2ZhZnRVc1I3ODc4dGpEemhjaUNFM2ZXcjdJWjAzemw4cGdYVmljUmdodC1HZ1E5WUtfb2hnNTZpU0tjUDUyMkpTSDBCQ0x6N0dlMHVqMEFpaGY3UUdiNlU1OEdjSE1LZW1QeVFkQzM2MkNaTmpxbHRhemfSAYQCQVVfeXFMT2NBbDZxWmNZZEpXOEVCV2ZJUlhOREoySW1oLWZob3lOZkE4OWd4TVlLcDNBaGh5TDF5RGZEekFTNnpvd3ZNVkY5QnRUdzE2dkFIeHg4VFh5RUJ1WVhwLVluOGw5N3VLYUh4LXZxSEFMX3VSOVNhTzR6bXVNMzd1RE14R0dqTjJ4QS1WQkFteFQ4UFBSUkRxTlYxaTVHZXVPMU4tUDJ0WUZMekRJZjZqYl9tQ0Y2eXVJUER4dEhiY2M5SHVUcDk4RTNITlRoaF9KdDZaU1RGRzNBbWZXVC0wT0ZMSzV3NkxiUW9yWnZfaUdOeFZwNW44bVV2a1ZxN2V3RTEyRkw?oc=5
-- **Visto americano: nova regra limita a três as alterações na entrevista**
-  - Fonte: Viagem e Turismo
-  - Link: https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMTQtS3laX0diMXV0RTdzX0xkblJmNjBBZFZhbHNMbFpMQmt2S0ozSlpPZkx6VGh3YUFrTUYyLW1HYXRRc1pnQ0J5WTVZS29sdHQtbWFVem9HbmtZTEdJN3p4Z255RDZwdDBzajE4cHEtOFd4R1pLRjUxU0xEa0loRVlfcXM5djBvd3liS0tUMWRQT2lMQWpfUVE1N1E0aXVfYUpGaU1ydVBUQXp0VGlHdjJPMXhXS0Q3YjZVakNXRWFXZw?oc=5
+- **Visto americano: fila chega a cinco meses em São Paulo; veja como tentar antecipar entrevista**
+  - Fonte: Estadão
+  - Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxNeklSR0pncmxCSDkyS19uVVpMTFVxN3B4N1lOajlUaTF6eWtrVnVxc3VHTnBveHJUZ3NUME1lZlRjRHBDX1FsSXoxTzBaYjVlV04xeFF4TWVlT1FCQXdfdDFDaDQ5UHdSaFFyUDk1c2dWLW1oWDBQNjlqMU94WEk1bEptajdBcGZsWUExMlBzZTFoYzZtdzZMaVFHMGw3MlJYS3haQXoySFI1ck16QzFtT1ZhZ0JSckhBcFJvZktLOFRBWFdj0gHKAUFVX3lxTE1XekNMamloQ3lkSVVtMWlVTnk5elRDXzUxLTJULTJTMkFXejBPRkZkOE9aa1ZWY3lZM2phY3MtUHA5S1UxLVlrZVIwMWhLRHVIa2lvVDBua3FfZmhMWl9CME1OX3lFMWlvMm5feGRKY2NnUDJPR2FkemVUaFRFZDJwSXNpOTJVeEs4SWYtWW9ULTVjck9fREJ0V1drUHJXWUJTeFE1dG8zdE1NSng3RHBqcElKZXdqZzVuakZyR0hWcHZ2NjBXSWJkT1E?oc=5
 
 ### brasileiros nos Estados Unidos
 
-- **Após vitória de Lula, Rubio diz que EUA vão manter diálogo com o Brasil e cobra aprovação de indicado a embaixador**
-  - Fonte: G1
-  - Link: https://news.google.com/rss/articles/CBMi6gFBVV95cUxNN1NTb09QdHlzcTU3NW1aaEFKX0lPd1NwMkZpZE13LTNuaE5YMThacko2VVlINlUxSVlPM0t0eklvMHlyOG1CTm1rLTQ5SjIxUDNxdHZZeGhFLUVFR1JUdDlvMWtvWE1naUg4ak50M1p0TFZpMTFhOVNmMmtuQVFCYm1vb3l2ZjFmNkJmUFBXRXUtOTVtQnllQTFWdkZZZjRVU1l1MHVxNktKc2JIMDczSlFUc2FQQlBraTdkQUJYVkJXYmxqZ29iUERKSFJqRVo2MXlLN1A5aGRyLTJ5OTdkRG5sOTRMWXJFZlHSAfgBQVVfeXFMUGxRTVpBVnBsbmVfRURuak5ZYjhuYWRmOXUyT2RXLU9KNDd0XzI1UHkxSm9lYk9QamZKRlZIZ1lscnRuQk9PY2k4UlVuckdEbXBUenRoRi1ENXhzVld1Z0V2aW5nUkNoSEl1VTZLZ2pkYWhvaU1jZk5lNU1ubjRLZHhFY290RDFIaXlVNURfWkwyOU13ZnJaSlhmWXJTSkhwRUo0bnBjWEpjVTd5R1ZjUGFmckZwdW1jd0dRNUlQc0NmVGR1MFh5TnI5dnNYUWYyM21RV3MwUGRaa0FhQzFrT0ZXSlA5anpRR2RMQm5LQ1ZSdllRclRZaU8?oc=5
 - **Sete brasileiros são eleitos para assembleias estaduais nos EUA**
   - Fonte: Agência Brasil
   - Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxNSzNFOHlUd0UwSzRuUmhpd09hRE1iY21rVENMbjR1bXh5Qm02S092YnNQUUVSdDFsYjREQzRRRlFIenZzMi1vZlhySDlXcUZUeWJWR2I1R2RCc2p4NlhNb0xuNXJsYmdPMjBGNFNKb19SalUtcy1JYWxULTg2N1V3MUFPUmRlMWc0NG5kMi00VjFRQ0dFNHh3SHBEckxPOFRaZkNBNnpSeGhoSk9wSE50UFRNV2M5M0dTMUdMUWhRaWRBVlRU?oc=5
+- **Após vitória de Lula, Rubio diz que EUA vão manter diálogo com o Brasil e cobra aprovação de indicado a embaixador**
+  - Fonte: G1
+  - Link: https://news.google.com/rss/articles/CBMi6gFBVV95cUxNN1NTb09QdHlzcTU3NW1aaEFKX0lPd1NwMkZpZE13LTNuaE5YMThacko2VVlINlUxSVlPM0t0eklvMHlyOG1CTm1rLTQ5SjIxUDNxdHZZeGhFLUVFR1JUdDlvMWtvWE1naUg4ak50M1p0TFZpMTFhOVNmMmtuQVFCYm1vb3l2ZjFmNkJmUFBXRXUtOTVtQnllQTFWdkZZZjRVU1l1MHVxNktKc2JIMDczSlFUc2FQQlBraTdkQUJYVkJXYmxqZ29iUERKSFJqRVo2MXlLN1A5aGRyLTJ5OTdkRG5sOTRMWXJFZlHSAfgBQVVfeXFMUGxRTVpBVnBsbmVfRURuak5ZYjhuYWRmOXUyT2RXLU9KNDd0XzI1UHkxSm9lYk9QamZKRlZIZ1lscnRuQk9PY2k4UlVuckdEbXBUenRoRi1ENXhzVld1Z0V2aW5nUkNoSEl1VTZLZ2pkYWhvaU1jZk5lNU1ubjRLZHhFY290RDFIaXlVNURfWkwyOU13ZnJaSlhmWXJTSkhwRUo0bnBjWEpjVTd5R1ZjUGFmckZwdW1jd0dRNUlQc0NmVGR1MFh5TnI5dnNYUWYyM21RV3MwUGRaa0FhQzFrT0ZXSlA5anpRR2RMQm5LQ1ZSdllRclRZaU8?oc=5
 
 ### asilo nos EUA
 
 - **Flávio reúne argumentos para pedir asilo nos EUA e mostrar que sofre perseguição**
   - Fonte: Gazeta do Povo
   - Link: https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSWcwemd5LUZ3TUdJemJjT2pYcXo3QzhHbC1FRUQ4NjNQQzF0WnowSUtaMjF0YTM3cjFOMDZMYmNSV2V5eWNRVEhEM3Bvb3pObUJ2Qnc1NHo1NEtBYUJjVWZPRFlSVTM4VFY4VjhmY05wRzU5TFVMbExNWnl4aVhOTTZTck5jbEpEV1dPVTJSSGNFRmsycFRyNVZKbXJTRzIyOFZ4ZEpvZU1ZdjZIYVZwWi1VMDZhekV5RWk1X0NjRGc?oc=5
-- **Possível asilo a Flávio vai na contramão de decisões anteriores dos EUA**
-  - Fonte: UOL Notícias
-  - Link: https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWWtoWmlpV0p4ckRKbEJQcVMyS3p3UzZuWkVBcG1EeFZQMGY5cWp2ZTFRQy0tOVBnTEM5NVBnc3NOLV9FdWlLcEY1WDQxR3NsZzRrWFNMM0Q0YkNQOUw1ZU5TbC1iYVBJSHd2SVVoMGtTdHhxcEVkOXg5dWlld1ZUc2M3WktMenA2OG9Ka1NRcXU3dGxCdkpkaFFSQXFHeF9uMWl3NDhKVDY0RkZ6NWNUdWUxeHRDTmdDMEExd2ZlSTJBVnhTWXM1eW5jeTBoNHVUYW91eXRtWQ?oc=5
+- **Democratas dos EUA criticam plano do governo Trump de conceder visto a Flávio Bolsonaro**
+  - Fonte: G1
+  - Link: https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQlp3cWJsVmhpSUdsS0swREFoNHpaYW1PVUNURzJFcnlCMWxpU2VaZnIyX1ZUcl9kRHlET3dKOWh4aVEyVlZVMWJqbUNyNWpoVWpEUzZTUjZybGNrYl8wWWJZcWRlbk5tMjUwVzlhUUQ1SVJ1ckY3Z2RVRGtSbDVKcWR4ejdxNy1zRkFLeVhIQ2FFb01fUFlEcmp0Z194U2JjS25RTjNuVzJiMWR0b3Z6di11QmZBTVlETWVmNVY4WnBEN21FUm84c3lqYlhHT1Bq0gHfAUFVX3lxTE5ZajBHT05LbmIyTkVESnU0RnZRc2VCRDV6OEJVMEk1QnU3UlotZl9ROWNaRUFFRWR3TGFNcHk1cVMzUEVPTDU3UjF1djAwRTR6WW01Vm16a3ZOWnF2R2pLVnluY2NlWlR5YW5QaGtXSmlHeGZFM2ZuWnZFazNKQm9hWjljcEEzM2tfaVVaN0tuQWp2VFk4TWdfNWU3dHZXRVkwSmRoOXlISGRVeWRaTmJ0NFVpX0V6M2dKOUpRXzR0cGU5UHh1T1JQcUEtRVY0bnNrZmliZ25Lcy1HZTNfd28?oc=5
 
 ### ICE immigration
 
+- **Trump não deve reduzir operações do ICE após eleições, dizem autoridades**
+  - Fonte: Gazeta Brazilian News
+  - Link: https://news.google.com/rss/articles/CBMixwFBVV95cUxPNnVTNGVlTHIyVmdBakMybnI1MURpcGh1clJXck9hdE5vd0pmbWFyMEFKb1Q3ZUNDbDdVcnEwTjVXQWt6MXd4Y2lCNnh4eXdvaWtuZmtoaTFqSWxncWdpRndwX3BGNTJ5bDQtQTQyRjloTGdISFdDVjFKUm9jUFA2RWhSMkFCZ1RhRmN3LThNMnVPcnZjRWluOWNNX1NLUFRwNjZ6OVh1QlRPM0hXRWhvVHpaWEtOTkt4cU5mRzZZT2ItYVB6TmE0?oc=5
 - **Polícia Civil de Santa Catarina, em cooperação com o ICE, prende foragido da Justiça brasileira em Orlando, nos EUA**
   - Fonte: Polícia Civil de Santa Catarina (PCSC)
   - Link: https://news.google.com/rss/articles/CBMiQ0FVX3lxTE93VDJmeTk1LUFsYTJqOEZTM1FZcmJmSXB5UEdnNzB3SklGcUtzMGFXYjRmZzVCZjhLS3k1Z1NMZXktVjg?oc=5
-- **ICE ameaça imigrantes em publicação nas redes sociais durante eleições nos EUA**
-  - Fonte: Opera Mundi
-  - Link: https://news.google.com/rss/articles/CBMiwgFBVV95cUxPckEya08wSWUzLTVGNWxldGZ1M0JuOTZzWXFsSHp3b3ZvUlpmTmpNYy1ld09ZSTlTQ0ktVFVDeHVWem1XVXlDRXpLbEZoLWZwaERSZHBPUnpFcEZNdlNackF0UzNhNmlVUnM3aFhWRFJzNTdabFkxNnZldHNVRWVLOThqSUpOTlAwRkVqR3hEMWlWOWpyOG54QjJrTGFRdVRscWNCcE5Hb1Z0Q2owaDFFNXlGdWUtMVU0NDZEVjRJU0pfQQ?oc=5
 
 
 ## Termos monitorados
