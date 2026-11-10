@@ -1,8 +1,8 @@
 # Relatório diário — Imigração e brasileiros nos EUA
 
-Gerado em: 2026-11-09 20:29 EST
+Gerado em: 2026-11-10 02:13 EST
 
-Arquivo original: `2026-11-09-20-29-tendencias-imigracao.md`
+Arquivo original: `2026-11-10-02-13-tendencias-imigracao.md`
 
 ## Objetivo
 
@@ -15,20 +15,20 @@ Este relatório serve como base para criação de artigos atualizados para o blo
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMi-gFBVV95cUxPX2xSYjFBMFNkNnQzcllLMVFMNGJXc1h0UW1JanRBZEtJNDFOVTd3c05LaG9fN2EzYy0tMVM5d0h5azlnVEZZb3ZPX2hGMXFKeTItZ1FyanFkb2ZCZENqZXBDbFViOGVIdFFNYlBqNHVmU0VWX3ZvWTR2ZzVZVEI1OVEtWUo0akFaWElkekM4aFJ0elpnbkpiM2xESTFIc2ttNm1rTlg1LTAwZUZKSUhpQUlWMTdhMHpkMGREeWtWWmh4OEw0WnluYXRpSEtNa1IwWW83TXd1N2tnX2FlcmdsREs4SUxvZEctWW5xblZrNnNyM1lXUGRFMURR0gGIAkFVX3lxTE1FX3FMazdxdm1fYWtXN01WUHJMNzlENnliSmt0N09MaXo5cVRhbDlGcU9CRkhmTUxnOWt4Mkc0WjlVMXFjZ2Exck9PbWE1Yk80dURpel8zbEIyZ3oyU3llMU1lb2t3Q05mVHlrTGN4dkU4MnBEWWlPRXVhVEFTV1hUMVVGVWpxWEJQOTZmc3RyeFRGd0t3TmRRbTFmOVB5QTlWYkVENlo3YkNGSGJQNXZDRktZa0RnTFk5blY2MGtmeHJRN05PMURiU0xfcEhNQWlNNjRzREVOUG5Mc2FPN0dqMGN2N0NzV0cwazRVVF9fQ0JYcjl4T2xJWDlHb2NmcE5SanZTbjEzYQ?oc=5
 
-2. **Análise: Trump irrita base MAGA com declarações sobre imigração**
+2. **Falta de pessoal leva procuradoria nos EUA a deixar casos sem defesa**
+   - Fonte: UOL Notícias
+   - Termo monitorado: imigração EUA
+   - Link: https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZTFrUlpGRzJkcGNpbkc3cWhTQnZkaWlrQXBtcnBNM0tGenFDbklJbE9pM1NrVnd3aWsxRWtmSS02cEl3ekxEdEl3eVNxUFRfR3R0U1RST0owTFdpN1VNaGtUdWk3TnFyYXZ1T2t2WE4xNGJ5UV9HdGl4d1VYcDZ0UmZla0hXZ1d3eDJQVlFGUWpqX2NyTGw0UDJ2cGw5R3BKTGxjaVI1UUZaano3UFRVc2VsQU1WUVBGV195ZmpKVDFoTHo3UlhpbWJ2S3hTT01XYXFJU2tjeGRBSkk?oc=5
+
+3. **Análise: Trump irrita base MAGA com declarações sobre imigração**
    - Fonte: CNN Brasil
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMU9xRUI4SXZYbW5MLWFrVFFpVk5ib0V4QS1TbXVKekRXRVE1ajJQdmJuUFg3QUVuOEx1cHpwVmR3TjA2Nk9RLUE2MkFZWHNfTHZ2VHZ6VjZJb19hSWdYWnN5OXlxenk0bHctV3I2UFhLRnozU3hlcUQ2OGozQlN4b2ZiOWNWN0R1dC1xbi1GTFhoUFFCWnhuRnBza0RSaUtvYUF2OEVIb0tkQQ?oc=5
 
-3. **Trump sinaliza possível legalização de imigrantes indocumentados**
+4. **Trump sinaliza possível legalização de imigrantes indocumentados**
    - Fonte: Jovem Pan
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxNR0NfbmFrd1ptOG9uTDNUVDJvdVZBRWg2WXNOZnFfd2llQ0dUTnpfaHliYWFfUEQ0MkNnUTM0eHJtTnZsYkJrNGh6RGRSUUctaWVfbGtjVmRIRHpMQW00a0hWdkhLQVVMTkpjZW5pR2hEeGF3ZGZtbmZYejhwSjZSUk45SE1RTWxmbTVpT1pZVUlzSnVIUU52Sk0tLWpRR2lST1QtZk0yY2k5T0V5SFM5cjJLcTRuUQ?oc=5
-
-4. **Imigração nos EUA: os gráficos que mostram impacto do 2º mandato de Trump**
-   - Fonte: BBC
-   - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMiY0FVX3lxTE90N0E2cm9Va0c5cE9YeWJ3T2RsNkVlMDRXM2dXRkcxSGtNV09MZVhuRlNXMjhiSHRaS2Z4cDFZb1ZYR2xrdWxHbnlRTUVvcVBWdV9BLUlHdXVCY1NLeDBiWWhwSdIBaEFVX3lxTE5xbmEtT3RBOTNCS1o1VnJWYVBSVzVXUjJteTZEeTEwd3dsRTFSZkNuQjNMdExjZjRKa2pfUkt5eTVtQmFTU21aa21HNmllcUhkRzVHUk1rb3d2TDdrN1p0UUZnUklqYTBm?oc=5
 
 5. **A renovação do EAD deixou de ser presumida: O novo pacote do USCIS**
    - Fonte: Migalhas
@@ -51,9 +51,9 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 - **Trump admite que política anti-imigração foi 'dura demais' enquanto promove 'arquiteto' do ICE a chefe de Gabinete**
   - Fonte: O GLOBO
   - Link: https://news.google.com/rss/articles/CBMi-gFBVV95cUxPX2xSYjFBMFNkNnQzcllLMVFMNGJXc1h0UW1JanRBZEtJNDFOVTd3c05LaG9fN2EzYy0tMVM5d0h5azlnVEZZb3ZPX2hGMXFKeTItZ1FyanFkb2ZCZENqZXBDbFViOGVIdFFNYlBqNHVmU0VWX3ZvWTR2ZzVZVEI1OVEtWUo0akFaWElkekM4aFJ0elpnbkpiM2xESTFIc2ttNm1rTlg1LTAwZUZKSUhpQUlWMTdhMHpkMGREeWtWWmh4OEw0WnluYXRpSEtNa1IwWW83TXd1N2tnX2FlcmdsREs4SUxvZEctWW5xblZrNnNyM1lXUGRFMURR0gGIAkFVX3lxTE1FX3FMazdxdm1fYWtXN01WUHJMNzlENnliSmt0N09MaXo5cVRhbDlGcU9CRkhmTUxnOWt4Mkc0WjlVMXFjZ2Exck9PbWE1Yk80dURpel8zbEIyZ3oyU3llMU1lb2t3Q05mVHlrTGN4dkU4MnBEWWlPRXVhVEFTV1hUMVVGVWpxWEJQOTZmc3RyeFRGd0t3TmRRbTFmOVB5QTlWYkVENlo3YkNGSGJQNXZDRktZa0RnTFk5blY2MGtmeHJRN05PMURiU0xfcEhNQWlNNjRzREVOUG5Mc2FPN0dqMGN2N0NzV0cwazRVVF9fQ0JYcjl4T2xJWDlHb2NmcE5SanZTbjEzYQ?oc=5
-- **Análise: Trump irrita base MAGA com declarações sobre imigração**
-  - Fonte: CNN Brasil
-  - Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMU9xRUI4SXZYbW5MLWFrVFFpVk5ib0V4QS1TbXVKekRXRVE1ajJQdmJuUFg3QUVuOEx1cHpwVmR3TjA2Nk9RLUE2MkFZWHNfTHZ2VHZ6VjZJb19hSWdYWnN5OXlxenk0bHctV3I2UFhLRnozU3hlcUQ2OGozQlN4b2ZiOWNWN0R1dC1xbi1GTFhoUFFCWnhuRnBza0RSaUtvYUF2OEVIb0tkQQ?oc=5
+- **Falta de pessoal leva procuradoria nos EUA a deixar casos sem defesa**
+  - Fonte: UOL Notícias
+  - Link: https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZTFrUlpGRzJkcGNpbkc3cWhTQnZkaWlrQXBtcnBNM0tGenFDbklJbE9pM1NrVnd3aWsxRWtmSS02cEl3ekxEdEl3eVNxUFRfR3R0U1RST0owTFdpN1VNaGtUdWk3TnFyYXZ1T2t2WE4xNGJ5UV9HdGl4d1VYcDZ0UmZla0hXZ1d3eDJQVlFGUWpqX2NyTGw0UDJ2cGw5R3BKTGxjaVI1UUZaano3UFRVc2VsQU1WUVBGV195ZmpKVDFoTHo3UlhpbWJ2S3hTT01XYXFJU2tjeGRBSkk?oc=5
 
 ### USCIS
 
@@ -69,9 +69,9 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 - **Brasileiros desbaratam rede de fraudes de casamentos por green card nos EUA**
   - Fonte: Folha de S.Paulo
   - Link: https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTnBnQktWVjVwaXJ6VVRvMWRjaWpRYXN6WF9mTGYxUURxWWxyWmZ0QXlxR0doSGo1MGlLazRaWjJ2SXdWNnROZVFOZUFJYm5CX3RRVnZ3dktkRjh6TEtBWnpVdlhlMzBDSGpfSmlYQ1lCS0xsbWZHejhaTEJZeWlpSWZYR1RKcDRHcGh3RkZsUHQ4ejFZdjQtdXV6QWJOSzl3Y0l6ay1TcGdKU0ZqcXF0Ykh2QzRqdmpBbHRBVlFwb0ZEckE?oc=5
-- **Fernanda Cortes: como funciona green card baseado em emprego nos Estados Unidos**
-  - Fonte: Pequenas Empresas & Grandes Negócios
-  - Link: https://news.google.com/rss/articles/CBMi9AFBVV95cUxOdFQ1TjFmS0xTNzlTdkR0MXpLMTlwcDFuLS1MN19hVFlTQ0loVzRnZGFaRndzRlc2NUpHVDBHT0RSZ2Rpd0ZHZEZGMmd3enRlUkY3elppMnZKbDE1dUowRUtUWkNkWDV3OEQ0VFRkSTk5TU0xMU9FQzI5SkFGOGM1MzlNcjV5VFUzalJ6WHBHNk5XcXRsdkdCR0dvVko2SGprdTZJT2pBeDNtUjlKVm82RjVDYVB6NVVkN2VVOFRpdVp3aHdONUt6bGxiamFOdHFzTThJQ0ZQOVpabEY4Q1lIRHkzYWN4eExmZVhyVUJXeW1jc3pn0gGDAkFVX3lxTE5yeDJXSDJXb0dpb01oVng1cUtqeXlVM08xTkdXNjNEZlJ3Qi1kcm02ejJNU1pOZlBUc3FuRkt0YllFNlRZNnRQR0t2NG5zMUY0dWhDN0FtNzNUME53bFdoMWhLX01fT0FRY2VPOGRCTHI0TXU1cU93N2lLWU9sN0t2aUFMS0pfbTdEUXZKOFNUalZiUUlUeGdxU3MyeV9LaXQ5Y09ieENIMEFOeVpVSUpzMXd3RFlEOHRCUFV6VU1JRXM3UUphWDl4TnZHSWFUNGtNNWhBN3RDWGs2ZVBIalBDaXh5SXdWcHF5bjVGZVR1eHRPTVVIZWtGRGpxU0JOSVZGVWc?oc=5
+- **Justiça dos EUA obriga reabertura da loteria do green card DV-2027**
+  - Fonte: Migalhas
+  - Link: https://news.google.com/rss/articles/CBMirAFBVV95cUxNd3NPYlZlcHVFUVlURXd3UHEtZVl3OWZkNVpxWlVoS1J4TGo4N3RqTENNOEc0aHdmY3U1Rlp1RGNKSElkaVZPVWk4S0diNFJ3R2psd3R6c1B3YkNZYkg1bUtTX1R4MTVwYi05eHNqMXJicDZ2YWNxU2Q1ZmM0TXNFQllZRE5ZQndHQk9Dd0pJLTRiTzBCV000SVl6aFNnX1N1WGZoUmhpN3hUOWlN?oc=5
 
 ### visto americano
 
@@ -84,12 +84,12 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### brasileiros nos Estados Unidos
 
+- **Após vitória de Lula, Rubio diz que EUA vão manter diálogo com o Brasil e cobra aprovação de indicado a embaixador**
+  - Fonte: G1
+  - Link: https://news.google.com/rss/articles/CBMi6gFBVV95cUxNN1NTb09QdHlzcTU3NW1aaEFKX0lPd1NwMkZpZE13LTNuaE5YMThacko2VVlINlUxSVlPM0t0eklvMHlyOG1CTm1rLTQ5SjIxUDNxdHZZeGhFLUVFR1JUdDlvMWtvWE1naUg4ak50M1p0TFZpMTFhOVNmMmtuQVFCYm1vb3l2ZjFmNkJmUFBXRXUtOTVtQnllQTFWdkZZZjRVU1l1MHVxNktKc2JIMDczSlFUc2FQQlBraTdkQUJYVkJXYmxqZ29iUERKSFJqRVo2MXlLN1A5aGRyLTJ5OTdkRG5sOTRMWXJFZlHSAfgBQVVfeXFMUGxRTVpBVnBsbmVfRURuak5ZYjhuYWRmOXUyT2RXLU9KNDd0XzI1UHkxSm9lYk9QamZKRlZIZ1lscnRuQk9PY2k4UlVuckdEbXBUenRoRi1ENXhzVld1Z0V2aW5nUkNoSEl1VTZLZ2pkYWhvaU1jZk5lNU1ubjRLZHhFY290RDFIaXlVNURfWkwyOU13ZnJaSlhmWXJTSkhwRUo0bnBjWEpjVTd5R1ZjUGFmckZwdW1jd0dRNUlQc0NmVGR1MFh5TnI5dnNYUWYyM21RV3MwUGRaa0FhQzFrT0ZXSlA5anpRR2RMQm5LQ1ZSdllRclRZaU8?oc=5
 - **Sete brasileiros são eleitos para assembleias estaduais nos EUA**
   - Fonte: Agência Brasil
   - Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxNSzNFOHlUd0UwSzRuUmhpd09hRE1iY21rVENMbjR1bXh5Qm02S092YnNQUUVSdDFsYjREQzRRRlFIenZzMi1vZlhySDlXcUZUeWJWR2I1R2RCc2p4NlhNb0xuNXJsYmdPMjBGNFNKb19SalUtcy1JYWxULTg2N1V3MUFPUmRlMWc0NG5kMi00VjFRQ0dFNHh3SHBEckxPOFRaZkNBNnpSeGhoSk9wSE50UFRNV2M5M0dTMUdMUWhRaWRBVlRU?oc=5
-- **Brasileiros nos EUA preferem democratas e desaprovam governo Trump**
-  - Fonte: Vero Notícias
-  - Link: https://news.google.com/rss/articles/CBMinwFBVV95cUxOSEJuamxCTzZEWkg0OGdhVkQxMEZkR3kxM3YzSW1oa1FLYXA3SWszU3RRMnU0d2hraEdYdlVOV3FUSDZlczRhTUpUaWxTb2Mwb25yWnVEdEc5VElTdUhLa0NzU1U4a1AyRUNCWV9Ga2J2NG5vY01Ha2Ezd3VvS1M0TGIwMHVhQ1Y0VWltOVgyaXpRR0lTZXh2dW55SDhuVFk?oc=5
 
 ### asilo nos EUA
 
@@ -105,9 +105,9 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 - **Polícia Civil de Santa Catarina, em cooperação com o ICE, prende foragido da Justiça brasileira em Orlando, nos EUA**
   - Fonte: Polícia Civil de Santa Catarina (PCSC)
   - Link: https://news.google.com/rss/articles/CBMiQ0FVX3lxTE93VDJmeTk1LUFsYTJqOEZTM1FZcmJmSXB5UEdnNzB3SklGcUtzMGFXYjRmZzVCZjhLS3k1Z1NMZXktVjg?oc=5
-- **Homem é baleado em Nova York dentro de carro por agentes do ICE**
-  - Fonte: Agência Brasil
-  - Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxOcmtmc3VDU1poSF9CajNHYm9fbnFSSlNCZHNOZlhZV2VVc2NFVFZJYjZZajNDd3ZSRlZXNjJkTWZ3cy1HVFdibV9ZUnM3OUk5MjlJUDM1QVVxNWlGVDhjQlpRa0NzbV9fRDR6QTFMVGUzRWlsSDNUSjhHTWtjTUdabjVOV2pUaVZPTmVLTjFJZl8yZk9JNkhhYVhqQ1Rld2tzR2hobTJOcmNETVJjREFuYXNzSU9FU3JPYW5XZzcxUDZ1RUp3?oc=5
+- **ICE ameaça imigrantes em publicação nas redes sociais durante eleições nos EUA**
+  - Fonte: Opera Mundi
+  - Link: https://news.google.com/rss/articles/CBMiwgFBVV95cUxPckEya08wSWUzLTVGNWxldGZ1M0JuOTZzWXFsSHp3b3ZvUlpmTmpNYy1ld09ZSTlTQ0ktVFVDeHVWem1XVXlDRXpLbEZoLWZwaERSZHBPUnpFcEZNdlNackF0UzNhNmlVUnM3aFhWRFJzNTdabFkxNnZldHNVRWVLOThqSUpOTlAwRkVqR3hEMWlWOWpyOG54QjJrTGFRdVRscWNCcE5Hb1Z0Q2owaDFFNXlGdWUtMVU0NDZEVjRJU0pfQQ?oc=5
 
 
 ## Termos monitorados
