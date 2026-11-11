@@ -1,8 +1,8 @@
 # Relatório diário — Imigração e brasileiros nos EUA
 
-Gerado em: 2026-11-10 18:17 EST
+Gerado em: 2026-11-11 01:10 EST
 
-Arquivo original: `2026-11-10-18-17-tendencias-imigracao.md`
+Arquivo original: `2026-11-11-01-10-tendencias-imigracao.md`
 
 ## Objetivo
 
@@ -20,10 +20,10 @@ Este relatório serve como base para criação de artigos atualizados para o blo
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMiY0FVX3lxTE90N0E2cm9Va0c5cE9YeWJ3T2RsNkVlMDRXM2dXRkcxSGtNV09MZVhuRlNXMjhiSHRaS2Z4cDFZb1ZYR2xrdWxHbnlRTUVvcVBWdV9BLUlHdXVCY1NLeDBiWWhwSdIBaEFVX3lxTE5xbmEtT3RBOTNCS1o1VnJWYVBSVzVXUjJteTZEeTEwd3dsRTFSZkNuQjNMdExjZjRKa2pfUkt5eTVtQmFTU21aa21HNmllcUhkRzVHUk1rb3d2TDdrN1p0UUZnUklqYTBm?oc=5
 
-3. **Falta de pessoal leva procuradoria nos EUA a deixar casos sem defesa**
+3. **Mulher autista processa governo dos EUA após prisão por agentes do ICE**
    - Fonte: UOL Notícias
    - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZTFrUlpGRzJkcGNpbkc3cWhTQnZkaWlrQXBtcnBNM0tGenFDbklJbE9pM1NrVnd3aWsxRWtmSS02cEl3ekxEdEl3eVNxUFRfR3R0U1RST0owTFdpN1VNaGtUdWk3TnFyYXZ1T2t2WE4xNGJ5UV9HdGl4d1VYcDZ0UmZla0hXZ1d3eDJQVlFGUWpqX2NyTGw0UDJ2cGw5R3BKTGxjaVI1UUZaano3UFRVc2VsQU1WUVBGV195ZmpKVDFoTHo3UlhpbWJ2S3hTT01XYXFJU2tjeGRBSkk?oc=5
+   - Link: https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZjB2TmpsYlhad0VJQXJsclZ6RGMycmZDUm5vRnM5R2thVXRPMXpRQmJKcVdWczNBRlZEcHBLS1hCUnpqQ3dzSWx0eHpxOWdRZ1VXRUQ5NW5SdExEQXNSQm1Ga2Nhc1lPWUtVX2RmbHVyWFg1cVc0R1pNZk5reEZ2dWd4ZEM0cENjZ2hRcWpUT1kwUldBSmdESk5jNWFydHNuNUViRzI0T1RveUxNSGsxcmZQSERQUUN6emwtMVA2UnByWFRqQ19BMzJkVFdGaGJyQXNLSlo0ME1oMnl5X1ln?oc=5
 
 4. **Trump sinaliza possível legalização de imigrantes indocumentados**
    - Fonte: Jovem Pan
@@ -87,9 +87,9 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 - **Sete brasileiros são eleitos para assembleias estaduais nos EUA**
   - Fonte: Agência Brasil
   - Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxNSzNFOHlUd0UwSzRuUmhpd09hRE1iY21rVENMbjR1bXh5Qm02S092YnNQUUVSdDFsYjREQzRRRlFIenZzMi1vZlhySDlXcUZUeWJWR2I1R2RCc2p4NlhNb0xuNXJsYmdPMjBGNFNKb19SalUtcy1JYWxULTg2N1V3MUFPUmRlMWc0NG5kMi00VjFRQ0dFNHh3SHBEckxPOFRaZkNBNnpSeGhoSk9wSE50UFRNV2M5M0dTMUdMUWhRaWRBVlRU?oc=5
-- **Rubio diz que EUA manterão diálogo com o Brasil durante governo Lula**
-  - Fonte: O GLOBO
-  - Link: https://news.google.com/rss/articles/CBMixgFBVV95cUxQb0VaYzR2VE9tRFFpLU9NQWVEYXQzZUZ5bDhMRDRIYi0zMWMwU1prNXNCV2VMdjNiOUtGWUdyeGRoLUkwV2pXREIwMXdtN0d3Z01PeXR5bU9DQ19QWW5vLUxzX2x6aXp1NnRuNUZVOVVzUTR1RmhiYm1RTkZIeThYX3lyeDA1VzFuVTdIc1NOZzktSUFSazR1a1VHaE1MZlNHdEcxdXlJMHJjT0UxLXhvZVFlX0RKSmREdnJTU0QtTkpWV2VFemfSAdQBQVVfeXFMUFY1bU1QNXo5V21pZlpjZldzeXF5RkZfaEE5dXNKZ29tMWNnbEY5VUI5ODlDNjhKcEVUWE15SU0zWmJfM0htcU91RkFNMUZBMmRLT3d5RE14bFFfVVlZdzRlcTcwSm9YVXBPV0dqdktJbkhZN3VrcFRyOXY3YWw5VUJ1QTc2SjI3TUlPNzU1NTFNdUpmZUxmQ1pTZ3pyOFM0cnNaLUdjaFlQTTIxSldOQWRrRmIyUkh2NDM2UDdkeTNWZ01UcE5BYWFBNTQ3Wjk0dk1abjc?oc=5
+- **Após vitória de Lula, Rubio diz que EUA vão manter diálogo com o Brasil e cobra aprovação de indicado a embaixador**
+  - Fonte: G1
+  - Link: https://news.google.com/rss/articles/CBMi6gFBVV95cUxNN1NTb09QdHlzcTU3NW1aaEFKX0lPd1NwMkZpZE13LTNuaE5YMThacko2VVlINlUxSVlPM0t0eklvMHlyOG1CTm1rLTQ5SjIxUDNxdHZZeGhFLUVFR1JUdDlvMWtvWE1naUg4ak50M1p0TFZpMTFhOVNmMmtuQVFCYm1vb3l2ZjFmNkJmUFBXRXUtOTVtQnllQTFWdkZZZjRVU1l1MHVxNktKc2JIMDczSlFUc2FQQlBraTdkQUJYVkJXYmxqZ29iUERKSFJqRVo2MXlLN1A5aGRyLTJ5OTdkRG5sOTRMWXJFZlHSAfgBQVVfeXFMUGxRTVpBVnBsbmVfRURuak5ZYjhuYWRmOXUyT2RXLU9KNDd0XzI1UHkxSm9lYk9QamZKRlZIZ1lscnRuQk9PY2k4UlVuckdEbXBUenRoRi1ENXhzVld1Z0V2aW5nUkNoSEl1VTZLZ2pkYWhvaU1jZk5lNU1ubjRLZHhFY290RDFIaXlVNURfWkwyOU13ZnJaSlhmWXJTSkhwRUo0bnBjWEpjVTd5R1ZjUGFmckZwdW1jd0dRNUlQc0NmVGR1MFh5TnI5dnNYUWYyM21RV3MwUGRaa0FhQzFrT0ZXSlA5anpRR2RMQm5LQ1ZSdllRclRZaU8?oc=5
 
 ### asilo nos EUA
 
