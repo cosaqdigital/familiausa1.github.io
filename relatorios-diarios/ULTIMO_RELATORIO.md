@@ -1,8 +1,8 @@
 # Relatório diário — Imigração e brasileiros nos EUA
 
-Gerado em: 2026-11-11 01:10 EST
+Gerado em: 2026-11-11 14:34 EST
 
-Arquivo original: `2026-11-11-01-10-tendencias-imigracao.md`
+Arquivo original: `2026-11-11-14-34-tendencias-imigracao.md`
 
 ## Objetivo
 
@@ -10,25 +10,25 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ## Principais assuntos do dia
 
-1. **Trump admite que política anti-imigração foi 'dura demais' enquanto promove 'arquiteto' do ICE a chefe de Gabinete**
+1. **O novo cenário da imigração para os EUA em 2026, por Maria Eduarda Reis**
+   - Fonte: TN Petróleo
+   - Termo monitorado: imigração EUA
+   - Link: https://news.google.com/rss/articles/CBMipwFBVV95cUxQb05nVEtNZ1lXSzk5d3M3UlRrZmdzOFNXdUtjbThDa2o0eGQwTDNidnhoVF9udjhzZy1pZEMxcVJycDQ1Q2dkRGVEUWhmdWRXQ1dsUzljU25NQVdSOS1JenY1OXpBcDFBV3RnbDA0dnd3SkJjS0E4czJsQVdrTzU3Q29aX3RLYkN1MmdFWkt2Z3pycTlKQ09hODFzSVZqZms2ZzF3RFJJRQ?oc=5
+
+2. **Trump admite que política anti-imigração foi 'dura demais' enquanto promove 'arquiteto' do ICE a chefe de Gabinete**
    - Fonte: O GLOBO
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMi-gFBVV95cUxPX2xSYjFBMFNkNnQzcllLMVFMNGJXc1h0UW1JanRBZEtJNDFOVTd3c05LaG9fN2EzYy0tMVM5d0h5azlnVEZZb3ZPX2hGMXFKeTItZ1FyanFkb2ZCZENqZXBDbFViOGVIdFFNYlBqNHVmU0VWX3ZvWTR2ZzVZVEI1OVEtWUo0akFaWElkekM4aFJ0elpnbkpiM2xESTFIc2ttNm1rTlg1LTAwZUZKSUhpQUlWMTdhMHpkMGREeWtWWmh4OEw0WnluYXRpSEtNa1IwWW83TXd1N2tnX2FlcmdsREs4SUxvZEctWW5xblZrNnNyM1lXUGRFMURR0gGIAkFVX3lxTE1FX3FMazdxdm1fYWtXN01WUHJMNzlENnliSmt0N09MaXo5cVRhbDlGcU9CRkhmTUxnOWt4Mkc0WjlVMXFjZ2Exck9PbWE1Yk80dURpel8zbEIyZ3oyU3llMU1lb2t3Q05mVHlrTGN4dkU4MnBEWWlPRXVhVEFTV1hUMVVGVWpxWEJQOTZmc3RyeFRGd0t3TmRRbTFmOVB5QTlWYkVENlo3YkNGSGJQNXZDRktZa0RnTFk5blY2MGtmeHJRN05PMURiU0xfcEhNQWlNNjRzREVOUG5Mc2FPN0dqMGN2N0NzV0cwazRVVF9fQ0JYcjl4T2xJWDlHb2NmcE5SanZTbjEzYQ?oc=5
 
-2. **Imigração nos EUA: os gráficos que mostram impacto do 2º mandato de Trump**
+3. **Imigração nos EUA: os gráficos que mostram impacto do 2º mandato de Trump**
    - Fonte: BBC
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMiY0FVX3lxTE90N0E2cm9Va0c5cE9YeWJ3T2RsNkVlMDRXM2dXRkcxSGtNV09MZVhuRlNXMjhiSHRaS2Z4cDFZb1ZYR2xrdWxHbnlRTUVvcVBWdV9BLUlHdXVCY1NLeDBiWWhwSdIBaEFVX3lxTE5xbmEtT3RBOTNCS1o1VnJWYVBSVzVXUjJteTZEeTEwd3dsRTFSZkNuQjNMdExjZjRKa2pfUkt5eTVtQmFTU21aa21HNmllcUhkRzVHUk1rb3d2TDdrN1p0UUZnUklqYTBm?oc=5
 
-3. **Mulher autista processa governo dos EUA após prisão por agentes do ICE**
+4. **EUA mantêm prisões de imigrantes após Trump admitir rigor excessivo**
    - Fonte: UOL Notícias
    - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZjB2TmpsYlhad0VJQXJsclZ6RGMycmZDUm5vRnM5R2thVXRPMXpRQmJKcVdWczNBRlZEcHBLS1hCUnpqQ3dzSWx0eHpxOWdRZ1VXRUQ5NW5SdExEQXNSQm1Ga2Nhc1lPWUtVX2RmbHVyWFg1cVc0R1pNZk5reEZ2dWd4ZEM0cENjZ2hRcWpUT1kwUldBSmdESk5jNWFydHNuNUViRzI0T1RveUxNSGsxcmZQSERQUUN6emwtMVA2UnByWFRqQ19BMzJkVFdGaGJyQXNLSlo0ME1oMnl5X1ln?oc=5
-
-4. **Trump sinaliza possível legalização de imigrantes indocumentados**
-   - Fonte: Jovem Pan
-   - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxNR0NfbmFrd1ptOG9uTDNUVDJvdVZBRWg2WXNOZnFfd2llQ0dUTnpfaHliYWFfUEQ0MkNnUTM0eHJtTnZsYkJrNGh6RGRSUUctaWVfbGtjVmRIRHpMQW00a0hWdkhLQVVMTkpjZW5pR2hEeGF3ZGZtbmZYejhwSjZSUk45SE1RTWxmbTVpT1pZVUlzSnVIUU52Sk0tLWpRR2lST1QtZk0yY2k5T0V5SFM5cjJLcTRuUQ?oc=5
+   - Link: https://news.google.com/rss/articles/CBMi2gFBVV95cUxPS2NPNHE2MTJVN241MTdfYURKYWVqVlBCQUMxRXhoYUJnNXhJSFB4cVJhOE9nQmNxbVpfR0ZPYWZOXzdnSXp3c3JNWDhnQUJCZTJpT0VuUWRpZm0td2xDX21fSnctT09wU1FPYWMtRGphQnFvc0l2TFRhTGJNeFVYZGxmTW1ObzZZMUplQk1CZ1pTUHpwYzJNSWVzclVqQnRGR2JmWlZ2SHdrWW8tQk0ya2Y4RG9kdEVnZ25xWmxYLUk3dklKX0pURUc3WngxWUwyR24zWnlaWUcwUQ?oc=5
 
 5. **A renovação do EAD deixou de ser presumida: O novo pacote do USCIS**
    - Fonte: Migalhas
@@ -48,12 +48,12 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### imigração EUA
 
+- **O novo cenário da imigração para os EUA em 2026, por Maria Eduarda Reis**
+  - Fonte: TN Petróleo
+  - Link: https://news.google.com/rss/articles/CBMipwFBVV95cUxQb05nVEtNZ1lXSzk5d3M3UlRrZmdzOFNXdUtjbThDa2o0eGQwTDNidnhoVF9udjhzZy1pZEMxcVJycDQ1Q2dkRGVEUWhmdWRXQ1dsUzljU25NQVdSOS1JenY1OXpBcDFBV3RnbDA0dnd3SkJjS0E4czJsQVdrTzU3Q29aX3RLYkN1MmdFWkt2Z3pycTlKQ09hODFzSVZqZms2ZzF3RFJJRQ?oc=5
 - **Trump admite que política anti-imigração foi 'dura demais' enquanto promove 'arquiteto' do ICE a chefe de Gabinete**
   - Fonte: O GLOBO
   - Link: https://news.google.com/rss/articles/CBMi-gFBVV95cUxPX2xSYjFBMFNkNnQzcllLMVFMNGJXc1h0UW1JanRBZEtJNDFOVTd3c05LaG9fN2EzYy0tMVM5d0h5azlnVEZZb3ZPX2hGMXFKeTItZ1FyanFkb2ZCZENqZXBDbFViOGVIdFFNYlBqNHVmU0VWX3ZvWTR2ZzVZVEI1OVEtWUo0akFaWElkekM4aFJ0elpnbkpiM2xESTFIc2ttNm1rTlg1LTAwZUZKSUhpQUlWMTdhMHpkMGREeWtWWmh4OEw0WnluYXRpSEtNa1IwWW83TXd1N2tnX2FlcmdsREs4SUxvZEctWW5xblZrNnNyM1lXUGRFMURR0gGIAkFVX3lxTE1FX3FMazdxdm1fYWtXN01WUHJMNzlENnliSmt0N09MaXo5cVRhbDlGcU9CRkhmTUxnOWt4Mkc0WjlVMXFjZ2Exck9PbWE1Yk80dURpel8zbEIyZ3oyU3llMU1lb2t3Q05mVHlrTGN4dkU4MnBEWWlPRXVhVEFTV1hUMVVGVWpxWEJQOTZmc3RyeFRGd0t3TmRRbTFmOVB5QTlWYkVENlo3YkNGSGJQNXZDRktZa0RnTFk5blY2MGtmeHJRN05PMURiU0xfcEhNQWlNNjRzREVOUG5Mc2FPN0dqMGN2N0NzV0cwazRVVF9fQ0JYcjl4T2xJWDlHb2NmcE5SanZTbjEzYQ?oc=5
-- **Imigração nos EUA: os gráficos que mostram impacto do 2º mandato de Trump**
-  - Fonte: BBC
-  - Link: https://news.google.com/rss/articles/CBMiY0FVX3lxTE90N0E2cm9Va0c5cE9YeWJ3T2RsNkVlMDRXM2dXRkcxSGtNV09MZVhuRlNXMjhiSHRaS2Z4cDFZb1ZYR2xrdWxHbnlRTUVvcVBWdV9BLUlHdXVCY1NLeDBiWWhwSdIBaEFVX3lxTE5xbmEtT3RBOTNCS1o1VnJWYVBSVzVXUjJteTZEeTEwd3dsRTFSZkNuQjNMdExjZjRKa2pfUkt5eTVtQmFTU21aa21HNmllcUhkRzVHUk1rb3d2TDdrN1p0UUZnUklqYTBm?oc=5
 
 ### USCIS
 
@@ -78,9 +78,9 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 - **Visto americano: espera por entrevista chega a cinco meses em São Paulo; veja prazos e como tentar antecipar**
   - Fonte: O GLOBO
   - Link: https://news.google.com/rss/articles/CBMi9gFBVV95cUxNbUcxTkVTeVQwcTJ3Yk1DUkg4alBybkE4NXg5VlNWNC1TOVlPRjRuSmh2YWJvLVZHc2RyWVdSRVVnbTlTX2tsRm96RzBCUmY3Z1QxcHIwc0E1Q0VDUHgzRm9EVmdDR1JobFFzZDlxeUduVnBiUnBMLXlFNk9YaVpUa0pUS2ZhZnRVc1I3ODc4dGpEemhjaUNFM2ZXcjdJWjAzemw4cGdYVmljUmdodC1HZ1E5WUtfb2hnNTZpU0tjUDUyMkpTSDBCQ0x6N0dlMHVqMEFpaGY3UUdiNlU1OEdjSE1LZW1QeVFkQzM2MkNaTmpxbHRhemfSAYQCQVVfeXFMT2NBbDZxWmNZZEpXOEVCV2ZJUlhOREoySW1oLWZob3lOZkE4OWd4TVlLcDNBaGh5TDF5RGZEekFTNnpvd3ZNVkY5QnRUdzE2dkFIeHg4VFh5RUJ1WVhwLVluOGw5N3VLYUh4LXZxSEFMX3VSOVNhTzR6bXVNMzd1RE14R0dqTjJ4QS1WQkFteFQ4UFBSUkRxTlYxaTVHZXVPMU4tUDJ0WUZMekRJZjZqYl9tQ0Y2eXVJUER4dEhiY2M5SHVUcDk4RTNITlRoaF9KdDZaU1RGRzNBbWZXVC0wT0ZMSzV3NkxiUW9yWnZfaUdOeFZwNW44bVV2a1ZxN2V3RTEyRkw?oc=5
-- **Visto americano: fila chega a cinco meses em São Paulo; veja como tentar antecipar entrevista**
-  - Fonte: Estadão
-  - Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxNeklSR0pncmxCSDkyS19uVVpMTFVxN3B4N1lOajlUaTF6eWtrVnVxc3VHTnBveHJUZ3NUME1lZlRjRHBDX1FsSXoxTzBaYjVlV04xeFF4TWVlT1FCQXdfdDFDaDQ5UHdSaFFyUDk1c2dWLW1oWDBQNjlqMU94WEk1bEptajdBcGZsWUExMlBzZTFoYzZtdzZMaVFHMGw3MlJYS3haQXoySFI1ck16QzFtT1ZhZ0JSckhBcFJvZktLOFRBWFdj0gHKAUFVX3lxTE1XekNMamloQ3lkSVVtMWlVTnk5elRDXzUxLTJULTJTMkFXejBPRkZkOE9aa1ZWY3lZM2phY3MtUHA5S1UxLVlrZVIwMWhLRHVIa2lvVDBua3FfZmhMWl9CME1OX3lFMWlvMm5feGRKY2NnUDJPR2FkemVUaFRFZDJwSXNpOTJVeEs4SWYtWW9ULTVjck9fREJ0V1drUHJXWUJTeFE1dG8zdE1NSng3RHBqcElKZXdqZzVuakZyR0hWcHZ2NjBXSWJkT1E?oc=5
+- **Visto americano: nova regra limita a três as alterações na entrevista**
+  - Fonte: Viagem e Turismo
+  - Link: https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMTQtS3laX0diMXV0RTdzX0xkblJmNjBBZFZhbHNMbFpMQmt2S0ozSlpPZkx6VGh3YUFrTUYyLW1HYXRRc1pnQ0J5WTVZS29sdHQtbWFVem9HbmtZTEdJN3p4Z255RDZwdDBzajE4cHEtOFd4R1pLRjUxU0xEa0loRVlfcXM5djBvd3liS0tUMWRQT2lMQWpfUVE1N1E0aXVfYUpGaU1ydVBUQXp0VGlHdjJPMXhXS0Q3YjZVakNXRWFXZw?oc=5
 
 ### brasileiros nos Estados Unidos
 
@@ -96,15 +96,15 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 - **Flávio reúne argumentos para pedir asilo nos EUA e mostrar que sofre perseguição**
   - Fonte: Gazeta do Povo
   - Link: https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSWcwemd5LUZ3TUdJemJjT2pYcXo3QzhHbC1FRUQ4NjNQQzF0WnowSUtaMjF0YTM3cjFOMDZMYmNSV2V5eWNRVEhEM3Bvb3pObUJ2Qnc1NHo1NEtBYUJjVWZPRFlSVTM4VFY4VjhmY05wRzU5TFVMbExNWnl4aVhOTTZTck5jbEpEV1dPVTJSSGNFRmsycFRyNVZKbXJTRzIyOFZ4ZEpvZU1ZdjZIYVZwWi1VMDZhekV5RWk1X0NjRGc?oc=5
-- **Possível asilo a Flávio vai na contramão de decisões anteriores dos EUA**
-  - Fonte: UOL Notícias
-  - Link: https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWWtoWmlpV0p4ckRKbEJQcVMyS3p3UzZuWkVBcG1EeFZQMGY5cWp2ZTFRQy0tOVBnTEM5NVBnc3NOLV9FdWlLcEY1WDQxR3NsZzRrWFNMM0Q0YkNQOUw1ZU5TbC1iYVBJSHd2SVVoMGtTdHhxcEVkOXg5dWlld1ZUc2M3WktMenA2OG9Ka1NRcXU3dGxCdkpkaFFSQXFHeF9uMWl3NDhKVDY0RkZ6NWNUdWUxeHRDTmdDMEExd2ZlSTJBVnhTWXM1eW5jeTBoNHVUYW91eXRtWQ?oc=5
+- **Democratas dos EUA criticam plano do governo Trump de conceder visto a Flávio Bolsonaro**
+  - Fonte: G1
+  - Link: https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQlp3cWJsVmhpSUdsS0swREFoNHpaYW1PVUNURzJFcnlCMWxpU2VaZnIyX1ZUcl9kRHlET3dKOWh4aVEyVlZVMWJqbUNyNWpoVWpEUzZTUjZybGNrYl8wWWJZcWRlbk5tMjUwVzlhUUQ1SVJ1ckY3Z2RVRGtSbDVKcWR4ejdxNy1zRkFLeVhIQ2FFb01fUFlEcmp0Z194U2JjS25RTjNuVzJiMWR0b3Z6di11QmZBTVlETWVmNVY4WnBEN21FUm84c3lqYlhHT1Bq0gHfAUFVX3lxTE5ZajBHT05LbmIyTkVESnU0RnZRc2VCRDV6OEJVMEk1QnU3UlotZl9ROWNaRUFFRWR3TGFNcHk1cVMzUEVPTDU3UjF1djAwRTR6WW01Vm16a3ZOWnF2R2pLVnluY2NlWlR5YW5QaGtXSmlHeGZFM2ZuWnZFazNKQm9hWjljcEEzM2tfaVVaN0tuQWp2VFk4TWdfNWU3dHZXRVkwSmRoOXlISGRVeWRaTmJ0NFVpX0V6M2dKOUpRXzR0cGU5UHh1T1JQcUEtRVY0bnNrZmliZ25Lcy1HZTNfd28?oc=5
 
 ### ICE immigration
 
-- **Trump não deve reduzir operações do ICE após eleições, dizem autoridades**
+- **Investigação revela que ao menos 19 agentes do ICE tinham histórico de má conduta antes da contratação**
   - Fonte: Gazeta Brazilian News
-  - Link: https://news.google.com/rss/articles/CBMixwFBVV95cUxPNnVTNGVlTHIyVmdBakMybnI1MURpcGh1clJXck9hdE5vd0pmbWFyMEFKb1Q3ZUNDbDdVcnEwTjVXQWt6MXd4Y2lCNnh4eXdvaWtuZmtoaTFqSWxncWdpRndwX3BGNTJ5bDQtQTQyRjloTGdISFdDVjFKUm9jUFA2RWhSMkFCZ1RhRmN3LThNMnVPcnZjRWluOWNNX1NLUFRwNjZ6OVh1QlRPM0hXRWhvVHpaWEtOTkt4cU5mRzZZT2ItYVB6TmE0?oc=5
+  - Link: https://news.google.com/rss/articles/CBMi8AFBVV95cUxPN1dBdDFPRjA4Nl83U2VQWTJqSS1sSUJ0WUp2eVNLQWJmUUxjZE40ZEQydTJaRUJER1N4X1Z1eUEtM29fMkdwWkxhdUJOa2NmMUZ5bUNpMzFTLWMzR0MwRHdPQ3RsN1pXdlRfa040bmdCMlFLVDlTb0hSdzBQc0ZOVHlQU0dVVlN0WFlROUF3VU1pTDlkTDdiNUh2cS0wY0w3V1ByVzZBeGEzWHhaU2ZFeVR0bzV4anJubGFPcE5SWDVYZWtFNThueUJIMllWa3VJTHFXUWpDbHYtOUhrZGFWUEhCS0ktbFlXNk1vVE9ncXc?oc=5
 - **Polícia Civil de Santa Catarina, em cooperação com o ICE, prende foragido da Justiça brasileira em Orlando, nos EUA**
   - Fonte: Polícia Civil de Santa Catarina (PCSC)
   - Link: https://news.google.com/rss/articles/CBMiQ0FVX3lxTE93VDJmeTk1LUFsYTJqOEZTM1FZcmJmSXB5UEdnNzB3SklGcUtzMGFXYjRmZzVCZjhLS3k1Z1NMZXktVjg?oc=5
