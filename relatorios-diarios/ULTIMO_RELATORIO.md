@@ -1,8 +1,8 @@
 # Relatório diário — Imigração e brasileiros nos EUA
 
-Gerado em: 2026-11-11 19:40 EST
+Gerado em: 2026-11-12 02:06 EST
 
-Arquivo original: `2026-11-11-19-40-tendencias-imigracao.md`
+Arquivo original: `2026-11-12-02-06-tendencias-imigracao.md`
 
 ## Objetivo
 
@@ -10,25 +10,25 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ## Principais assuntos do dia
 
-1. **O novo cenário da imigração para os EUA em 2026, por Maria Eduarda Reis**
+1. **Prisões de imigrantes continuam nos EUA após derrota republicana nas midterms, apesar de críticas de Trump**
+   - Fonte: G1
+   - Termo monitorado: imigração EUA
+   - Link: https://news.google.com/rss/articles/CBMi7gFBVV95cUxNMzktU3ZsbnNsUDdxaldobHR1eHUtM3dHRHYwWFdMbENXam1FVl8zOFAyeVZ4eTE4bWoteEZtc2dFZXIxd09Ka2ZHWlJjb2JvX0JqaFRoYzF6Szl6SGs0a1c3LUJDRFNQNFBLMEt0UUtsd1RnWVgxQS15QzR1eXpyS181Zmk2cjRFRUMtY0lJOGFVcHpucEZNdEpGbk91QUthRGJXVnlMdVdkRnNPYjZUckpkSV95M1FmNGR2YXNvM2dUd1ZGNXpqUW9TRU95QVk1WEI3QWpEZkN3Q01ibTBJZDEzQ0hjb0pfeGVWNW1B0gH8AUFVX3lxTE5HWEZWeVk1cWRBbFFjaEgteVg4QUVRaURxMHA4Z2paQmpJejJmRXJkT3JnN0V4aUlfQmcyeDJ1UVhtZUFNZUI3YzN2Q3RjUkx5eWRjTjVNVmJ0aGtIcE0tLXlBZy1QYlJ2OFFIbk9UQ09YLURGMnd3VUtLU2RtVkZHVFJxQnZWRG9EUFdGZlEtdGVEMmdhVWwxMWZpaEZZNDQ5dlgyU0FFMG5aYWNXX01YTkx6T1UtRmtYRVRvYm9aQm5EQkRjX29qUkNrOU1sU1phUlRkaXdwX3drdkRfWkFhRjdsQXdPOVI2YVdFZWtKX2kxVFM1d0ZvbktnUg?oc=5
+
+2. **O novo cenário da imigração para os EUA em 2026, por Maria Eduarda Reis**
    - Fonte: TN Petróleo
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMipwFBVV95cUxQb05nVEtNZ1lXSzk5d3M3UlRrZmdzOFNXdUtjbThDa2o0eGQwTDNidnhoVF9udjhzZy1pZEMxcVJycDQ1Q2dkRGVEUWhmdWRXQ1dsUzljU25NQVdSOS1JenY1OXpBcDFBV3RnbDA0dnd3SkJjS0E4czJsQVdrTzU3Q29aX3RLYkN1MmdFWkt2Z3pycTlKQ09hODFzSVZqZms2ZzF3RFJJRQ?oc=5
-
-2. **Trump admite que política anti-imigração foi 'dura demais' enquanto promove 'arquiteto' do ICE a chefe de Gabinete**
-   - Fonte: O GLOBO
-   - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMi-gFBVV95cUxPX2xSYjFBMFNkNnQzcllLMVFMNGJXc1h0UW1JanRBZEtJNDFOVTd3c05LaG9fN2EzYy0tMVM5d0h5azlnVEZZb3ZPX2hGMXFKeTItZ1FyanFkb2ZCZENqZXBDbFViOGVIdFFNYlBqNHVmU0VWX3ZvWTR2ZzVZVEI1OVEtWUo0akFaWElkekM4aFJ0elpnbkpiM2xESTFIc2ttNm1rTlg1LTAwZUZKSUhpQUlWMTdhMHpkMGREeWtWWmh4OEw0WnluYXRpSEtNa1IwWW83TXd1N2tnX2FlcmdsREs4SUxvZEctWW5xblZrNnNyM1lXUGRFMURR0gGIAkFVX3lxTE1FX3FMazdxdm1fYWtXN01WUHJMNzlENnliSmt0N09MaXo5cVRhbDlGcU9CRkhmTUxnOWt4Mkc0WjlVMXFjZ2Exck9PbWE1Yk80dURpel8zbEIyZ3oyU3llMU1lb2t3Q05mVHlrTGN4dkU4MnBEWWlPRXVhVEFTV1hUMVVGVWpxWEJQOTZmc3RyeFRGd0t3TmRRbTFmOVB5QTlWYkVENlo3YkNGSGJQNXZDRktZa0RnTFk5blY2MGtmeHJRN05PMURiU0xfcEhNQWlNNjRzREVOUG5Mc2FPN0dqMGN2N0NzV0cwazRVVF9fQ0JYcjl4T2xJWDlHb2NmcE5SanZTbjEzYQ?oc=5
 
 3. **Caravana de 1,5 mil imigrantes segue rumo aos EUA após vitória dos democratas**
    - Fonte: Gazeta do Povo
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxPeE9VSGZxZThRbWxQNkVjenl3N3BNc2JObGZYTWZ3S2RFbm1YTTJUem1HbXdaSXd5YWlZRTc1YTl1d1hQcEVJZk1hVlZRbVFiRm1UX2FSRkdaUEFYOGdockdLcjh6Z0RHbEhLOXU4eFp0M0MxcEx0WkpzMjN5Qk41Q3BBX204a3ZGeXNjSXJzUUNmYk1VdWZxb2dOaUNqMFQzMTQtT2g0alVuM2Q1eGUyUmk0OW5NUQ?oc=5
 
-4. **Falta de pessoal leva procuradoria nos EUA a deixar casos sem defesa**
-   - Fonte: UOL Notícias
+4. **Trump admite que política anti-imigração foi 'dura demais' enquanto promove 'arquiteto' do ICE a chefe de Gabinete**
+   - Fonte: O GLOBO
    - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZTFrUlpGRzJkcGNpbkc3cWhTQnZkaWlrQXBtcnBNM0tGenFDbklJbE9pM1NrVnd3aWsxRWtmSS02cEl3ekxEdEl3eVNxUFRfR3R0U1RST0owTFdpN1VNaGtUdWk3TnFyYXZ1T2t2WE4xNGJ5UV9HdGl4d1VYcDZ0UmZla0hXZ1d3eDJQVlFGUWpqX2NyTGw0UDJ2cGw5R3BKTGxjaVI1UUZaano3UFRVc2VsQU1WUVBGV195ZmpKVDFoTHo3UlhpbWJ2S3hTT01XYXFJU2tjeGRBSkk?oc=5
+   - Link: https://news.google.com/rss/articles/CBMi-gFBVV95cUxPX2xSYjFBMFNkNnQzcllLMVFMNGJXc1h0UW1JanRBZEtJNDFOVTd3c05LaG9fN2EzYy0tMVM5d0h5azlnVEZZb3ZPX2hGMXFKeTItZ1FyanFkb2ZCZENqZXBDbFViOGVIdFFNYlBqNHVmU0VWX3ZvWTR2ZzVZVEI1OVEtWUo0akFaWElkekM4aFJ0elpnbkpiM2xESTFIc2ttNm1rTlg1LTAwZUZKSUhpQUlWMTdhMHpkMGREeWtWWmh4OEw0WnluYXRpSEtNa1IwWW83TXd1N2tnX2FlcmdsREs4SUxvZEctWW5xblZrNnNyM1lXUGRFMURR0gGIAkFVX3lxTE1FX3FMazdxdm1fYWtXN01WUHJMNzlENnliSmt0N09MaXo5cVRhbDlGcU9CRkhmTUxnOWt4Mkc0WjlVMXFjZ2Exck9PbWE1Yk80dURpel8zbEIyZ3oyU3llMU1lb2t3Q05mVHlrTGN4dkU4MnBEWWlPRXVhVEFTV1hUMVVGVWpxWEJQOTZmc3RyeFRGd0t3TmRRbTFmOVB5QTlWYkVENlo3YkNGSGJQNXZDRktZa0RnTFk5blY2MGtmeHJRN05PMURiU0xfcEhNQWlNNjRzREVOUG5Mc2FPN0dqMGN2N0NzV0cwazRVVF9fQ0JYcjl4T2xJWDlHb2NmcE5SanZTbjEzYQ?oc=5
 
 5. **A renovação do EAD deixou de ser presumida: O novo pacote do USCIS**
    - Fonte: Migalhas
@@ -48,12 +48,12 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### imigração EUA
 
+- **Prisões de imigrantes continuam nos EUA após derrota republicana nas midterms, apesar de críticas de Trump**
+  - Fonte: G1
+  - Link: https://news.google.com/rss/articles/CBMi7gFBVV95cUxNMzktU3ZsbnNsUDdxaldobHR1eHUtM3dHRHYwWFdMbENXam1FVl8zOFAyeVZ4eTE4bWoteEZtc2dFZXIxd09Ka2ZHWlJjb2JvX0JqaFRoYzF6Szl6SGs0a1c3LUJDRFNQNFBLMEt0UUtsd1RnWVgxQS15QzR1eXpyS181Zmk2cjRFRUMtY0lJOGFVcHpucEZNdEpGbk91QUthRGJXVnlMdVdkRnNPYjZUckpkSV95M1FmNGR2YXNvM2dUd1ZGNXpqUW9TRU95QVk1WEI3QWpEZkN3Q01ibTBJZDEzQ0hjb0pfeGVWNW1B0gH8AUFVX3lxTE5HWEZWeVk1cWRBbFFjaEgteVg4QUVRaURxMHA4Z2paQmpJejJmRXJkT3JnN0V4aUlfQmcyeDJ1UVhtZUFNZUI3YzN2Q3RjUkx5eWRjTjVNVmJ0aGtIcE0tLXlBZy1QYlJ2OFFIbk9UQ09YLURGMnd3VUtLU2RtVkZHVFJxQnZWRG9EUFdGZlEtdGVEMmdhVWwxMWZpaEZZNDQ5dlgyU0FFMG5aYWNXX01YTkx6T1UtRmtYRVRvYm9aQm5EQkRjX29qUkNrOU1sU1phUlRkaXdwX3drdkRfWkFhRjdsQXdPOVI2YVdFZWtKX2kxVFM1d0ZvbktnUg?oc=5
 - **O novo cenário da imigração para os EUA em 2026, por Maria Eduarda Reis**
   - Fonte: TN Petróleo
   - Link: https://news.google.com/rss/articles/CBMipwFBVV95cUxQb05nVEtNZ1lXSzk5d3M3UlRrZmdzOFNXdUtjbThDa2o0eGQwTDNidnhoVF9udjhzZy1pZEMxcVJycDQ1Q2dkRGVEUWhmdWRXQ1dsUzljU25NQVdSOS1JenY1OXpBcDFBV3RnbDA0dnd3SkJjS0E4czJsQVdrTzU3Q29aX3RLYkN1MmdFWkt2Z3pycTlKQ09hODFzSVZqZms2ZzF3RFJJRQ?oc=5
-- **Trump admite que política anti-imigração foi 'dura demais' enquanto promove 'arquiteto' do ICE a chefe de Gabinete**
-  - Fonte: O GLOBO
-  - Link: https://news.google.com/rss/articles/CBMi-gFBVV95cUxPX2xSYjFBMFNkNnQzcllLMVFMNGJXc1h0UW1JanRBZEtJNDFOVTd3c05LaG9fN2EzYy0tMVM5d0h5azlnVEZZb3ZPX2hGMXFKeTItZ1FyanFkb2ZCZENqZXBDbFViOGVIdFFNYlBqNHVmU0VWX3ZvWTR2ZzVZVEI1OVEtWUo0akFaWElkekM4aFJ0elpnbkpiM2xESTFIc2ttNm1rTlg1LTAwZUZKSUhpQUlWMTdhMHpkMGREeWtWWmh4OEw0WnluYXRpSEtNa1IwWW83TXd1N2tnX2FlcmdsREs4SUxvZEctWW5xblZrNnNyM1lXUGRFMURR0gGIAkFVX3lxTE1FX3FMazdxdm1fYWtXN01WUHJMNzlENnliSmt0N09MaXo5cVRhbDlGcU9CRkhmTUxnOWt4Mkc0WjlVMXFjZ2Exck9PbWE1Yk80dURpel8zbEIyZ3oyU3llMU1lb2t3Q05mVHlrTGN4dkU4MnBEWWlPRXVhVEFTV1hUMVVGVWpxWEJQOTZmc3RyeFRGd0t3TmRRbTFmOVB5QTlWYkVENlo3YkNGSGJQNXZDRktZa0RnTFk5blY2MGtmeHJRN05PMURiU0xfcEhNQWlNNjRzREVOUG5Mc2FPN0dqMGN2N0NzV0cwazRVVF9fQ0JYcjl4T2xJWDlHb2NmcE5SanZTbjEzYQ?oc=5
 
 ### USCIS
 
@@ -78,9 +78,9 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 - **Visto americano: espera por entrevista chega a cinco meses em São Paulo; veja prazos e como tentar antecipar**
   - Fonte: O GLOBO
   - Link: https://news.google.com/rss/articles/CBMi9gFBVV95cUxNbUcxTkVTeVQwcTJ3Yk1DUkg4alBybkE4NXg5VlNWNC1TOVlPRjRuSmh2YWJvLVZHc2RyWVdSRVVnbTlTX2tsRm96RzBCUmY3Z1QxcHIwc0E1Q0VDUHgzRm9EVmdDR1JobFFzZDlxeUduVnBiUnBMLXlFNk9YaVpUa0pUS2ZhZnRVc1I3ODc4dGpEemhjaUNFM2ZXcjdJWjAzemw4cGdYVmljUmdodC1HZ1E5WUtfb2hnNTZpU0tjUDUyMkpTSDBCQ0x6N0dlMHVqMEFpaGY3UUdiNlU1OEdjSE1LZW1QeVFkQzM2MkNaTmpxbHRhemfSAYQCQVVfeXFMT2NBbDZxWmNZZEpXOEVCV2ZJUlhOREoySW1oLWZob3lOZkE4OWd4TVlLcDNBaGh5TDF5RGZEekFTNnpvd3ZNVkY5QnRUdzE2dkFIeHg4VFh5RUJ1WVhwLVluOGw5N3VLYUh4LXZxSEFMX3VSOVNhTzR6bXVNMzd1RE14R0dqTjJ4QS1WQkFteFQ4UFBSUkRxTlYxaTVHZXVPMU4tUDJ0WUZMekRJZjZqYl9tQ0Y2eXVJUER4dEhiY2M5SHVUcDk4RTNITlRoaF9KdDZaU1RGRzNBbWZXVC0wT0ZMSzV3NkxiUW9yWnZfaUdOeFZwNW44bVV2a1ZxN2V3RTEyRkw?oc=5
-- **Brasil condiciona agrément a visto de embaixadora dos EUA**
-  - Fonte: CNN Brasil
-  - Link: https://news.google.com/rss/articles/CBMiowFBVV95cUxPMC1id0FuaWhQc2E3d19IWHJBUkpFV3F2X0c5Q2wwRHFscmdZM2JmcXNlekVRdzRFTnREQXVBT3NtTnBzSVRSc282RHRUa1M2cjFnRFZiMUN0MTl2TWlEZFVZdUdLdzRwZjk1SGsxc09sbUVMWi1zZHhtZC1mQ3Y3QV9nMm9aUGxyVFJ5NFNXS1NMRVRRM3pRQ3BVWFFLWDE2N3hR?oc=5
+- **Visto americano: nova regra limita a três as alterações na entrevista**
+  - Fonte: Viagem e Turismo
+  - Link: https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMTQtS3laX0diMXV0RTdzX0xkblJmNjBBZFZhbHNMbFpMQmt2S0ozSlpPZkx6VGh3YUFrTUYyLW1HYXRRc1pnQ0J5WTVZS29sdHQtbWFVem9HbmtZTEdJN3p4Z255RDZwdDBzajE4cHEtOFd4R1pLRjUxU0xEa0loRVlfcXM5djBvd3liS0tUMWRQT2lMQWpfUVE1N1E0aXVfYUpGaU1ydVBUQXp0VGlHdjJPMXhXS0Q3YjZVakNXRWFXZw?oc=5
 
 ### brasileiros nos Estados Unidos
 
