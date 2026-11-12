@@ -1,0 +1,77 @@
+---
+interface Props {
+  title?: string;
+}
+
+const { title } = Astro.props;
+---
+
+<aside class="editorial-info-box">
+  <span class="editorial-info-marker" aria-hidden="true">i</span>
+  <div class="editorial-info-body">
+    {title && <p class="editorial-info-title"><strong>{title}</strong></p>}
+    <div class="editorial-info-content">
+      <slot />
+    </div>
+  </div>
+</aside>
+
+<style>
+  .editorial-info-box {
+    display: grid;
+    grid-template-columns: auto minmax(0, 1fr);
+    gap: 0.9rem;
+    width: 100%;
+    max-width: 100%;
+    min-width: 0;
+    margin: 1.75rem 0;
+    border: 1px solid rgba(40, 91, 105, 0.22);
+    border-left: 0.3rem solid #356f7e;
+    border-radius: 1rem;
+    padding: clamp(1rem, 2.5vw, 1.25rem);
+    color: var(--ink-soft, #4c463d);
+    background: #f0f8fa;
+  }
+
+  .editorial-info-marker {
+    display: inline-grid;
+    width: 1.75rem;
+    height: 1.75rem;
+    place-items: center;
+    border: 0.1rem solid #356f7e;
+    border-radius: 50%;
+    color: #244f5a;
+    font-weight: 900;
+    line-height: 1;
+  }
+
+  .editorial-info-body {
+    min-width: 0;
+  }
+
+  .editorial-info-title {
+    margin: 0 0 0.45rem;
+    color: #244f5a;
+    line-height: 1.35;
+  }
+
+  .editorial-info-content {
+    min-width: 0;
+    line-height: 1.65;
+    overflow-wrap: anywhere;
+  }
+
+  :global(.editorial-info-content > :first-child) {
+    margin-top: 0;
+  }
+
+  :global(.editorial-info-content > :last-child) {
+    margin-bottom: 0;
+  }
+
+  @media (max-width: 30rem) {
+    .editorial-info-box {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

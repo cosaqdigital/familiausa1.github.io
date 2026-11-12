@@ -1,0 +1,77 @@
+---
+interface Props {
+  title?: string;
+}
+
+const { title } = Astro.props;
+---
+
+<aside class="editorial-tip-box">
+  <span class="editorial-tip-marker" aria-hidden="true">✓</span>
+  <div class="editorial-tip-body">
+    {title && <p class="editorial-tip-title"><strong>{title}</strong></p>}
+    <div class="editorial-tip-content">
+      <slot />
+    </div>
+  </div>
+</aside>
+
+<style>
+  .editorial-tip-box {
+    display: grid;
+    grid-template-columns: auto minmax(0, 1fr);
+    gap: 0.9rem;
+    width: 100%;
+    max-width: 100%;
+    min-width: 0;
+    margin: 1.75rem 0;
+    border: 1px solid rgba(47, 92, 79, 0.22);
+    border-left: 0.3rem solid var(--green, #2f5c4f);
+    border-radius: 1rem;
+    padding: clamp(1rem, 2.5vw, 1.25rem);
+    color: var(--ink-soft, #4c463d);
+    background: #f0f7f3;
+  }
+
+  .editorial-tip-marker {
+    display: inline-grid;
+    width: 1.75rem;
+    height: 1.75rem;
+    place-items: center;
+    border-radius: 50%;
+    color: #fff;
+    background: var(--green, #2f5c4f);
+    font-weight: 900;
+    line-height: 1;
+  }
+
+  .editorial-tip-body {
+    min-width: 0;
+  }
+
+  .editorial-tip-title {
+    margin: 0 0 0.45rem;
+    color: #23483e;
+    line-height: 1.35;
+  }
+
+  .editorial-tip-content {
+    min-width: 0;
+    line-height: 1.65;
+    overflow-wrap: anywhere;
+  }
+
+  :global(.editorial-tip-content > :first-child) {
+    margin-top: 0;
+  }
+
+  :global(.editorial-tip-content > :last-child) {
+    margin-bottom: 0;
+  }
+
+  @media (max-width: 30rem) {
+    .editorial-tip-box {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>
