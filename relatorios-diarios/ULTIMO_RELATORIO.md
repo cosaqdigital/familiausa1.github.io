@@ -1,8 +1,8 @@
 # Relatório diário — Imigração e brasileiros nos EUA
 
-Gerado em: 2026-11-11 14:34 EST
+Gerado em: 2026-11-11 19:40 EST
 
-Arquivo original: `2026-11-11-14-34-tendencias-imigracao.md`
+Arquivo original: `2026-11-11-19-40-tendencias-imigracao.md`
 
 ## Objetivo
 
@@ -20,15 +20,15 @@ Este relatório serve como base para criação de artigos atualizados para o blo
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMi-gFBVV95cUxPX2xSYjFBMFNkNnQzcllLMVFMNGJXc1h0UW1JanRBZEtJNDFOVTd3c05LaG9fN2EzYy0tMVM5d0h5azlnVEZZb3ZPX2hGMXFKeTItZ1FyanFkb2ZCZENqZXBDbFViOGVIdFFNYlBqNHVmU0VWX3ZvWTR2ZzVZVEI1OVEtWUo0akFaWElkekM4aFJ0elpnbkpiM2xESTFIc2ttNm1rTlg1LTAwZUZKSUhpQUlWMTdhMHpkMGREeWtWWmh4OEw0WnluYXRpSEtNa1IwWW83TXd1N2tnX2FlcmdsREs4SUxvZEctWW5xblZrNnNyM1lXUGRFMURR0gGIAkFVX3lxTE1FX3FMazdxdm1fYWtXN01WUHJMNzlENnliSmt0N09MaXo5cVRhbDlGcU9CRkhmTUxnOWt4Mkc0WjlVMXFjZ2Exck9PbWE1Yk80dURpel8zbEIyZ3oyU3llMU1lb2t3Q05mVHlrTGN4dkU4MnBEWWlPRXVhVEFTV1hUMVVGVWpxWEJQOTZmc3RyeFRGd0t3TmRRbTFmOVB5QTlWYkVENlo3YkNGSGJQNXZDRktZa0RnTFk5blY2MGtmeHJRN05PMURiU0xfcEhNQWlNNjRzREVOUG5Mc2FPN0dqMGN2N0NzV0cwazRVVF9fQ0JYcjl4T2xJWDlHb2NmcE5SanZTbjEzYQ?oc=5
 
-3. **Imigração nos EUA: os gráficos que mostram impacto do 2º mandato de Trump**
-   - Fonte: BBC
+3. **Caravana de 1,5 mil imigrantes segue rumo aos EUA após vitória dos democratas**
+   - Fonte: Gazeta do Povo
    - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMiY0FVX3lxTE90N0E2cm9Va0c5cE9YeWJ3T2RsNkVlMDRXM2dXRkcxSGtNV09MZVhuRlNXMjhiSHRaS2Z4cDFZb1ZYR2xrdWxHbnlRTUVvcVBWdV9BLUlHdXVCY1NLeDBiWWhwSdIBaEFVX3lxTE5xbmEtT3RBOTNCS1o1VnJWYVBSVzVXUjJteTZEeTEwd3dsRTFSZkNuQjNMdExjZjRKa2pfUkt5eTVtQmFTU21aa21HNmllcUhkRzVHUk1rb3d2TDdrN1p0UUZnUklqYTBm?oc=5
+   - Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxPeE9VSGZxZThRbWxQNkVjenl3N3BNc2JObGZYTWZ3S2RFbm1YTTJUem1HbXdaSXd5YWlZRTc1YTl1d1hQcEVJZk1hVlZRbVFiRm1UX2FSRkdaUEFYOGdockdLcjh6Z0RHbEhLOXU4eFp0M0MxcEx0WkpzMjN5Qk41Q3BBX204a3ZGeXNjSXJzUUNmYk1VdWZxb2dOaUNqMFQzMTQtT2g0alVuM2Q1eGUyUmk0OW5NUQ?oc=5
 
-4. **EUA mantêm prisões de imigrantes após Trump admitir rigor excessivo**
+4. **Falta de pessoal leva procuradoria nos EUA a deixar casos sem defesa**
    - Fonte: UOL Notícias
    - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMi2gFBVV95cUxPS2NPNHE2MTJVN241MTdfYURKYWVqVlBCQUMxRXhoYUJnNXhJSFB4cVJhOE9nQmNxbVpfR0ZPYWZOXzdnSXp3c3JNWDhnQUJCZTJpT0VuUWRpZm0td2xDX21fSnctT09wU1FPYWMtRGphQnFvc0l2TFRhTGJNeFVYZGxmTW1ObzZZMUplQk1CZ1pTUHpwYzJNSWVzclVqQnRGR2JmWlZ2SHdrWW8tQk0ya2Y4RG9kdEVnZ25xWmxYLUk3dklKX0pURUc3WngxWUwyR24zWnlaWUcwUQ?oc=5
+   - Link: https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZTFrUlpGRzJkcGNpbkc3cWhTQnZkaWlrQXBtcnBNM0tGenFDbklJbE9pM1NrVnd3aWsxRWtmSS02cEl3ekxEdEl3eVNxUFRfR3R0U1RST0owTFdpN1VNaGtUdWk3TnFyYXZ1T2t2WE4xNGJ5UV9HdGl4d1VYcDZ0UmZla0hXZ1d3eDJQVlFGUWpqX2NyTGw0UDJ2cGw5R3BKTGxjaVI1UUZaano3UFRVc2VsQU1WUVBGV195ZmpKVDFoTHo3UlhpbWJ2S3hTT01XYXFJU2tjeGRBSkk?oc=5
 
 5. **A renovação do EAD deixou de ser presumida: O novo pacote do USCIS**
    - Fonte: Migalhas
@@ -78,9 +78,9 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 - **Visto americano: espera por entrevista chega a cinco meses em São Paulo; veja prazos e como tentar antecipar**
   - Fonte: O GLOBO
   - Link: https://news.google.com/rss/articles/CBMi9gFBVV95cUxNbUcxTkVTeVQwcTJ3Yk1DUkg4alBybkE4NXg5VlNWNC1TOVlPRjRuSmh2YWJvLVZHc2RyWVdSRVVnbTlTX2tsRm96RzBCUmY3Z1QxcHIwc0E1Q0VDUHgzRm9EVmdDR1JobFFzZDlxeUduVnBiUnBMLXlFNk9YaVpUa0pUS2ZhZnRVc1I3ODc4dGpEemhjaUNFM2ZXcjdJWjAzemw4cGdYVmljUmdodC1HZ1E5WUtfb2hnNTZpU0tjUDUyMkpTSDBCQ0x6N0dlMHVqMEFpaGY3UUdiNlU1OEdjSE1LZW1QeVFkQzM2MkNaTmpxbHRhemfSAYQCQVVfeXFMT2NBbDZxWmNZZEpXOEVCV2ZJUlhOREoySW1oLWZob3lOZkE4OWd4TVlLcDNBaGh5TDF5RGZEekFTNnpvd3ZNVkY5QnRUdzE2dkFIeHg4VFh5RUJ1WVhwLVluOGw5N3VLYUh4LXZxSEFMX3VSOVNhTzR6bXVNMzd1RE14R0dqTjJ4QS1WQkFteFQ4UFBSUkRxTlYxaTVHZXVPMU4tUDJ0WUZMekRJZjZqYl9tQ0Y2eXVJUER4dEhiY2M5SHVUcDk4RTNITlRoaF9KdDZaU1RGRzNBbWZXVC0wT0ZMSzV3NkxiUW9yWnZfaUdOeFZwNW44bVV2a1ZxN2V3RTEyRkw?oc=5
-- **Visto americano: nova regra limita a três as alterações na entrevista**
-  - Fonte: Viagem e Turismo
-  - Link: https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMTQtS3laX0diMXV0RTdzX0xkblJmNjBBZFZhbHNMbFpMQmt2S0ozSlpPZkx6VGh3YUFrTUYyLW1HYXRRc1pnQ0J5WTVZS29sdHQtbWFVem9HbmtZTEdJN3p4Z255RDZwdDBzajE4cHEtOFd4R1pLRjUxU0xEa0loRVlfcXM5djBvd3liS0tUMWRQT2lMQWpfUVE1N1E0aXVfYUpGaU1ydVBUQXp0VGlHdjJPMXhXS0Q3YjZVakNXRWFXZw?oc=5
+- **Brasil condiciona agrément a visto de embaixadora dos EUA**
+  - Fonte: CNN Brasil
+  - Link: https://news.google.com/rss/articles/CBMiowFBVV95cUxPMC1id0FuaWhQc2E3d19IWHJBUkpFV3F2X0c5Q2wwRHFscmdZM2JmcXNlekVRdzRFTnREQXVBT3NtTnBzSVRSc282RHRUa1M2cjFnRFZiMUN0MTl2TWlEZFVZdUdLdzRwZjk1SGsxc09sbUVMWi1zZHhtZC1mQ3Y3QV9nMm9aUGxyVFJ5NFNXS1NMRVRRM3pRQ3BVWFFLWDE2N3hR?oc=5
 
 ### brasileiros nos Estados Unidos
 
@@ -105,9 +105,9 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 - **Investigação revela que ao menos 19 agentes do ICE tinham histórico de má conduta antes da contratação**
   - Fonte: Gazeta Brazilian News
   - Link: https://news.google.com/rss/articles/CBMi8AFBVV95cUxPN1dBdDFPRjA4Nl83U2VQWTJqSS1sSUJ0WUp2eVNLQWJmUUxjZE40ZEQydTJaRUJER1N4X1Z1eUEtM29fMkdwWkxhdUJOa2NmMUZ5bUNpMzFTLWMzR0MwRHdPQ3RsN1pXdlRfa040bmdCMlFLVDlTb0hSdzBQc0ZOVHlQU0dVVlN0WFlROUF3VU1pTDlkTDdiNUh2cS0wY0w3V1ByVzZBeGEzWHhaU2ZFeVR0bzV4anJubGFPcE5SWDVYZWtFNThueUJIMllWa3VJTHFXUWpDbHYtOUhrZGFWUEhCS0ktbFlXNk1vVE9ncXc?oc=5
-- **Polícia Civil de Santa Catarina, em cooperação com o ICE, prende foragido da Justiça brasileira em Orlando, nos EUA**
-  - Fonte: Polícia Civil de Santa Catarina (PCSC)
-  - Link: https://news.google.com/rss/articles/CBMiQ0FVX3lxTE93VDJmeTk1LUFsYTJqOEZTM1FZcmJmSXB5UEdnNzB3SklGcUtzMGFXYjRmZzVCZjhLS3k1Z1NMZXktVjg?oc=5
+- **Homem é baleado em Nova York dentro de carro por agentes do ICE**
+  - Fonte: Agência Brasil
+  - Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxOcmtmc3VDU1poSF9CajNHYm9fbnFSSlNCZHNOZlhZV2VVc2NFVFZJYjZZajNDd3ZSRlZXNjJkTWZ3cy1HVFdibV9ZUnM3OUk5MjlJUDM1QVVxNWlGVDhjQlpRa0NzbV9fRDR6QTFMVGUzRWlsSDNUSjhHTWtjTUdabjVOV2pUaVZPTmVLTjFJZl8yZk9JNkhhYVhqQ1Rld2tzR2hobTJOcmNETVJjREFuYXNzSU9FU3JPYW5XZzcxUDZ1RUp3?oc=5
 
 
 ## Termos monitorados
