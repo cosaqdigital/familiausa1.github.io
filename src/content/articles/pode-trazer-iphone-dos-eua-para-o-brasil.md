@@ -1,9 +1,9 @@
 ---
 draft: false
 slug: "pode-trazer-iphone-dos-eua-para-o-brasil"
-title: "Pode trazer iPhone dos EUA para o Brasil? Regras da Receita"
+title: "Pode trazer iPhone dos EUA para o Brasil? Cota, imposto e uso pessoal"
 h1: "Posso trazer iPhone dos EUA para o Brasil? Uso pessoal, cota e imposto"
-description: "Sim, é possível trazer iPhone dos EUA para o Brasil. Entenda quando é uso pessoal, o que entra na cota, quando declarar e como funciona o imposto."
+description: "Pode trazer iPhone dos EUA para o Brasil? Veja quando é uso pessoal, quando entra na cota, se paga imposto e quando declarar à Receita Federal."
 category: "Compras nos EUA"
 tags:
   - "trazer iPhone dos EUA"
@@ -11,7 +11,7 @@ tags:
   - "cota de compras dos EUA"
   - "imposto iPhone Brasil"
 datePublished: "2026-07-16"
-dateModified: "2026-08-25"
+dateModified: "2026-11-11"
 readingTime: "15 min de leitura"
 image: "https://familiausa1.com/assets/images/familiausa1-share.svg"
 excerpt: "Veja quando um iPhone pode ser de uso pessoal, quando entra na cota e como declarar a compra na volta ao Brasil."
