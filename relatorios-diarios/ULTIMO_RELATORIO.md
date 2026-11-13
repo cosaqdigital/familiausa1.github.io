@@ -1,8 +1,8 @@
 # Relatório diário — Imigração e brasileiros nos EUA
 
-Gerado em: 2026-11-13 01:40 EST
+Gerado em: 2026-11-13 14:40 EST
 
-Arquivo original: `2026-11-13-01-40-tendencias-imigracao.md`
+Arquivo original: `2026-11-13-14-40-tendencias-imigracao.md`
 
 ## Objetivo
 
@@ -10,25 +10,25 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ## Principais assuntos do dia
 
-1. **Governo dos EUA anuncia recorde de deportações e detenções de imigrantes ilegais**
-   - Fonte: G1
-   - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMi2gFBVV95cUxQOTB0MDZGR2Jod05PdDZ0SFJHUDFROHdYYW9oazA1U3RUb1hyLThuZ0hsbXRTZ3FNWTZ6Sm9Hb1VtdmtBcWdLd0pNb3JCT2lrRFQwc3k4cGFMU1U2dmRxVWh3TFJwOE9CTi10U2UzRVlIMkRyRkJ0Y1IzRHVlZEN4clhhckprLVEzOE14SU5yZ1hKS0dwSU5OSGRGaGJFUzlwR2JJcWRHVV83N3RqM3gxRHFSejJ1N1RhaTdjMVJMRmdULTVya3BFamJsamlGYTZfdS11c1dsUXNkQdIB6AFBVV95cUxPTF93US1IUXc0cW5ldmw4Q2drMndlTTBreGptU0UtQWl4cDNqdUdISDZReHh1TzFqcTdaLWY1M19ETVh0MzhfNXB6b3pPQkt5cTJfSkJ3UU05cml5VjRwcElwZ21RY0ZTM2NkQmkxdTdwSjUxempEQTBjREh6cXFzaFdvUzByUWdIeHg4TWhBZlVmQ1lTekozWXlrd2FBNGpKNG9EcHZONmN3YU15eXd5ZDBJX19FcDROakNkTzhiUE5ReXNvNTM2SW5BS2hjcWszNmpLWFBQcFdnLXQzYVphcUFxTnJic0JY?oc=5
-
-2. **O governo de Donald Trump anunciou nesta quinta-feira (12) que atingiu recorde de detenções e deportações de imigrantes na história dos Estados Unidos no último ano fiscal (que são os 12 meses consecutivos contados de outubro de um ano a setembro**
+1. **O governo de Donald Trump anunciou nesta quinta-feira (12) que atingiu recorde de detenções e deportações de imigrantes na história dos Estados Unidos no último ano fiscal (que são os 12 meses consecutivos contados de outubro de um ano a setembro**
    - Fonte: Instagram
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMiUkFVX3lxTE5aVDd5eDBUMWJjYmtEX2dLZmxaMVNuT2NwVzNPRHBSV002eDhwRVZoNjE2UlVoYVcxQk5qdVZ4VU9NZ2ZXQktSSUlsRTM0UTF4cHc?oc=5
 
-3. **Com mais de 483 mil expulsões, EUA atingem recorde de deportações pelo ICE em 2026**
-   - Fonte: Opera Mundi
+2. **Prisões de imigrantes continuam nos EUA após derrota republicana nas midterms, apesar de críticas de Trump**
+   - Fonte: G1
    - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMixgFBVV95cUxNM19nMFQ0dDlRZ28ySU5IZ1hxUHR4VjNUZHk0dzdreFl0UENtOHZfc3FxdjBKbEJyc2ktM2xMNmxQZ0RXV0UwOU5YT0Q0T2VSczhsSWVOWDNGMC1scEwxSnAyeDAxZTM4blZKeDhEbGVxZjE5eDRnUnpfa0luUGt3T25LU2Z4T2U0SEpvRkhObldQTHZMYkc4RGM2dGRxUVdfZkVjMTcyMEVEeW9CQ3dZOU1CTnFYakg2ZTdMakpNSFNQZzdRMFE?oc=5
+   - Link: https://news.google.com/rss/articles/CBMi7gFBVV95cUxNMzktU3ZsbnNsUDdxaldobHR1eHUtM3dHRHYwWFdMbENXam1FVl8zOFAyeVZ4eTE4bWoteEZtc2dFZXIxd09Ka2ZHWlJjb2JvX0JqaFRoYzF6Szl6SGs0a1c3LUJDRFNQNFBLMEt0UUtsd1RnWVgxQS15QzR1eXpyS181Zmk2cjRFRUMtY0lJOGFVcHpucEZNdEpGbk91QUthRGJXVnlMdVdkRnNPYjZUckpkSV95M1FmNGR2YXNvM2dUd1ZGNXpqUW9TRU95QVk1WEI3QWpEZkN3Q01ibTBJZDEzQ0hjb0pfeGVWNW1B0gH8AUFVX3lxTE5HWEZWeVk1cWRBbFFjaEgteVg4QUVRaURxMHA4Z2paQmpJejJmRXJkT3JnN0V4aUlfQmcyeDJ1UVhtZUFNZUI3YzN2Q3RjUkx5eWRjTjVNVmJ0aGtIcE0tLXlBZy1QYlJ2OFFIbk9UQ09YLURGMnd3VUtLU2RtVkZHVFJxQnZWRG9EUFdGZlEtdGVEMmdhVWwxMWZpaEZZNDQ5dlgyU0FFMG5aYWNXX01YTkx6T1UtRmtYRVRvYm9aQm5EQkRjX29qUkNrOU1sU1phUlRkaXdwX3drdkRfWkFhRjdsQXdPOVI2YVdFZWtKX2kxVFM1d0ZvbktnUg?oc=5
 
-4. **ICE deporta 483 mil pessoas dos EUA em um ano e bate recorde, diz relatório**
-   - Fonte: CNN Brasil
+3. **Vai ficar mais fácil morar nos EUA? Advogada explica o que a vitória democrata muda para brasileiros**
+   - Fonte: al1.com.br
    - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxPT0FldEtFQ0lPeFlrYVVoSWMzaGYwLVBPT19pbEkwNnoyWFdVeGZCRm9wWk9pUFN4TDBNM0didHNfQ25PQXVlUFNtdTZHMkZ0ZkQzelo5RnVCZHJMUTdjZlNQSGZIcS1TNzd3MzdpRE1vd3NKbFhrSmlMYmlzQkVFd05nOGk5bWtTTkh3TDlyc0ItR3J6UE9TWlVfbHJQVGN5cU1nV3J2MWQ0dnY4TDNQMlh2eks4Z0dWdWc?oc=5
+   - Link: https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUmpWbVR0NlJWRzRHS196RUFHUzhDU2VJbk1IdHlPMWpxY0VvV3ozMmt4SG56YTYzRmZIbmVDRFVQc2xrQzhseG54Si1EcjZOaWo5U2VmWTFZVGxBdmtiLTN1X2M4QklfbUZPcjFKTjk3UzhwVjJROHA3bzVkZDhGQnR6bk5CNWg2aS04bzlWNWlzTTR6ekxlblc2b3VKOVFNbHlVMHUyMjctNkM2SzZkeGJjTU9xNkZkdFdzSnBFelFqdkNCYzdqTmpiWTZXbjZRc1hIR1VmblZiQzA?oc=5
+
+4. **Após Trump ameaçar com tarifas, Sheinbaum afirma que não há 'nenhuma caravana de migrantes' a caminho dos EUA**
+   - Fonte: O GLOBO
+   - Termo monitorado: imigração EUA
+   - Link: https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZi1tSVFhRVlwZ3dlSVd4QmtPMVo0TUxEaWxFM2RvX1FlYUdFQlVlcUI3SVlUeUFMYmdWX0toOUREdjctclNUaE5yNW1CUUZhWjBDejhadFhCZTBlaF9xc016bXRaVERZX2tpYUI0QUg2UEZ3SVpvY2VQQlZWNnBoUkhVOVRfTzFVV3FReFpVYldNWnNCalBWaVkwb3JjUUR5TE9OT25oSWJiaUo5dFhlWEFZRkNIQUZ1cUl4ZjVoeVNyWkhOYzNJdDI1RGN1aFJURHRmRGx3ajEyeHZHOFRLNWRaNXpRSTZRX1UxVGxGRENMTm5W0gGDAkFVX3lxTE4tTG9oSS1USlZObl9pWHBHcEhsWjM3WDN6aGZoQjZRY3NhVVo0OVBEaEdCeXplWHlsVkFReUt6UDhyX3BzSHBueUNkRVZZZzkycWtMQ1J3aFROR0ZRQW5kMWJrSEpwWmc1YjR0NExsWURmYjlHZk5TcUN3WjdET2JEb2dVTlhSWDZVTHlBS1VLelk0dkNaRGJwU2dZWFg4cVhmS2poQ3dqS2RkU1hJcVY5RTVHcXNOWFNwNFltNFd4SndzNDdGTzNXNGthWjNGcmFtZVNRUmlMSkstVUNXRE1ERFRfOWxEaVNhYU54ZG12Umt4d3Z2NW1saURZcGRrRU04cXM?oc=5
 
 5. **A renovação do EAD deixou de ser presumida: O novo pacote do USCIS**
    - Fonte: Migalhas
@@ -48,12 +48,12 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### imigração EUA
 
-- **Governo dos EUA anuncia recorde de deportações e detenções de imigrantes ilegais**
-  - Fonte: G1
-  - Link: https://news.google.com/rss/articles/CBMi2gFBVV95cUxQOTB0MDZGR2Jod05PdDZ0SFJHUDFROHdYYW9oazA1U3RUb1hyLThuZ0hsbXRTZ3FNWTZ6Sm9Hb1VtdmtBcWdLd0pNb3JCT2lrRFQwc3k4cGFMU1U2dmRxVWh3TFJwOE9CTi10U2UzRVlIMkRyRkJ0Y1IzRHVlZEN4clhhckprLVEzOE14SU5yZ1hKS0dwSU5OSGRGaGJFUzlwR2JJcWRHVV83N3RqM3gxRHFSejJ1N1RhaTdjMVJMRmdULTVya3BFamJsamlGYTZfdS11c1dsUXNkQdIB6AFBVV95cUxPTF93US1IUXc0cW5ldmw4Q2drMndlTTBreGptU0UtQWl4cDNqdUdISDZReHh1TzFqcTdaLWY1M19ETVh0MzhfNXB6b3pPQkt5cTJfSkJ3UU05cml5VjRwcElwZ21RY0ZTM2NkQmkxdTdwSjUxempEQTBjREh6cXFzaFdvUzByUWdIeHg4TWhBZlVmQ1lTekozWXlrd2FBNGpKNG9EcHZONmN3YU15eXd5ZDBJX19FcDROakNkTzhiUE5ReXNvNTM2SW5BS2hjcWszNmpLWFBQcFdnLXQzYVphcUFxTnJic0JY?oc=5
 - **O governo de Donald Trump anunciou nesta quinta-feira (12) que atingiu recorde de detenções e deportações de imigrantes na história dos Estados Unidos no último ano fiscal (que são os 12 meses consecutivos contados de outubro de um ano a setembro**
   - Fonte: Instagram
   - Link: https://news.google.com/rss/articles/CBMiUkFVX3lxTE5aVDd5eDBUMWJjYmtEX2dLZmxaMVNuT2NwVzNPRHBSV002eDhwRVZoNjE2UlVoYVcxQk5qdVZ4VU9NZ2ZXQktSSUlsRTM0UTF4cHc?oc=5
+- **Prisões de imigrantes continuam nos EUA após derrota republicana nas midterms, apesar de críticas de Trump**
+  - Fonte: G1
+  - Link: https://news.google.com/rss/articles/CBMi7gFBVV95cUxNMzktU3ZsbnNsUDdxaldobHR1eHUtM3dHRHYwWFdMbENXam1FVl8zOFAyeVZ4eTE4bWoteEZtc2dFZXIxd09Ka2ZHWlJjb2JvX0JqaFRoYzF6Szl6SGs0a1c3LUJDRFNQNFBLMEt0UUtsd1RnWVgxQS15QzR1eXpyS181Zmk2cjRFRUMtY0lJOGFVcHpucEZNdEpGbk91QUthRGJXVnlMdVdkRnNPYjZUckpkSV95M1FmNGR2YXNvM2dUd1ZGNXpqUW9TRU95QVk1WEI3QWpEZkN3Q01ibTBJZDEzQ0hjb0pfeGVWNW1B0gH8AUFVX3lxTE5HWEZWeVk1cWRBbFFjaEgteVg4QUVRaURxMHA4Z2paQmpJejJmRXJkT3JnN0V4aUlfQmcyeDJ1UVhtZUFNZUI3YzN2Q3RjUkx5eWRjTjVNVmJ0aGtIcE0tLXlBZy1QYlJ2OFFIbk9UQ09YLURGMnd3VUtLU2RtVkZHVFJxQnZWRG9EUFdGZlEtdGVEMmdhVWwxMWZpaEZZNDQ5dlgyU0FFMG5aYWNXX01YTkx6T1UtRmtYRVRvYm9aQm5EQkRjX29qUkNrOU1sU1phUlRkaXdwX3drdkRfWkFhRjdsQXdPOVI2YVdFZWtKX2kxVFM1d0ZvbktnUg?oc=5
 
 ### USCIS
 
@@ -66,18 +66,18 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### green card
 
+- **Fila do green card EB-2 avança três meses nos EUA**
+  - Fonte: Mercado e Eventos
+  - Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxNdEhqeTZiaDE1Rk5hNkhmWFl0OF95YjB5WEQyYzZ4ckp3M095NjhERlgxdms0R0o2TTVaTG9EMjdWZS1nb3Q3QlNuTkI2YkR5cnJwdVJHQ0hnQ2dmYWIydWxKLWIwemRnTjRGaC1GdTFvelVUa2ZxdzZ0TkFZV2ZkZlJocUdFdWdFTmRqWDh0RGdxVEVsa3gzd3NieTBfNEJISkRhcFJZSEFwRXd3YmtTZGJn?oc=5
 - **Brasileiros desbaratam rede de fraudes de casamentos por green card nos EUA**
   - Fonte: Folha de S.Paulo
   - Link: https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTnBnQktWVjVwaXJ6VVRvMWRjaWpRYXN6WF9mTGYxUURxWWxyWmZ0QXlxR0doSGo1MGlLazRaWjJ2SXdWNnROZVFOZUFJYm5CX3RRVnZ3dktkRjh6TEtBWnpVdlhlMzBDSGpfSmlYQ1lCS0xsbWZHejhaTEJZeWlpSWZYR1RKcDRHcGh3RkZsUHQ4ejFZdjQtdXV6QWJOSzl3Y0l6ay1TcGdKU0ZqcXF0Ykh2QzRqdmpBbHRBVlFwb0ZEckE?oc=5
-- **Justiça dos EUA obriga reabertura da loteria do green card DV-2027**
-  - Fonte: Migalhas
-  - Link: https://news.google.com/rss/articles/CBMirAFBVV95cUxNd3NPYlZlcHVFUVlURXd3UHEtZVl3OWZkNVpxWlVoS1J4TGo4N3RqTENNOEc0aHdmY3U1Rlp1RGNKSElkaVZPVWk4S0diNFJ3R2psd3R6c1B3YkNZYkg1bUtTX1R4MTVwYi05eHNqMXJicDZ2YWNxU2Q1ZmM0TXNFQllZRE5ZQndHQk9Dd0pJLTRiTzBCV000SVl6aFNnX1N1WGZoUmhpN3hUOWlN?oc=5
 
 ### visto americano
 
-- **Visto americano: espera por entrevista chega a cinco meses em São Paulo; veja prazos e como tentar antecipar**
-  - Fonte: O GLOBO
-  - Link: https://news.google.com/rss/articles/CBMi9gFBVV95cUxNbUcxTkVTeVQwcTJ3Yk1DUkg4alBybkE4NXg5VlNWNC1TOVlPRjRuSmh2YWJvLVZHc2RyWVdSRVVnbTlTX2tsRm96RzBCUmY3Z1QxcHIwc0E1Q0VDUHgzRm9EVmdDR1JobFFzZDlxeUduVnBiUnBMLXlFNk9YaVpUa0pUS2ZhZnRVc1I3ODc4dGpEemhjaUNFM2ZXcjdJWjAzemw4cGdYVmljUmdodC1HZ1E5WUtfb2hnNTZpU0tjUDUyMkpTSDBCQ0x6N0dlMHVqMEFpaGY3UUdiNlU1OEdjSE1LZW1QeVFkQzM2MkNaTmpxbHRhemfSAYQCQVVfeXFMT2NBbDZxWmNZZEpXOEVCV2ZJUlhOREoySW1oLWZob3lOZkE4OWd4TVlLcDNBaGh5TDF5RGZEekFTNnpvd3ZNVkY5QnRUdzE2dkFIeHg4VFh5RUJ1WVhwLVluOGw5N3VLYUh4LXZxSEFMX3VSOVNhTzR6bXVNMzd1RE14R0dqTjJ4QS1WQkFteFQ4UFBSUkRxTlYxaTVHZXVPMU4tUDJ0WUZMekRJZjZqYl9tQ0Y2eXVJUER4dEhiY2M5SHVUcDk4RTNITlRoaF9KdDZaU1RGRzNBbWZXVC0wT0ZMSzV3NkxiUW9yWnZfaUdOeFZwNW44bVV2a1ZxN2V3RTEyRkw?oc=5
+- **Candidatas africanas ao Miss Universo enfrentam dificuldades para obter visto americano e podem ficar fora da competição**
+  - Fonte: G1
+  - Link: https://news.google.com/rss/articles/CBMihgJBVV95cUxNTm95NGhfV0M5ZmVSRlg2SGVCQ19Bellfc1BkbTdacmNMaXFSOS1GdnlSRnZ0emRtYWxmM0RhTzFlU0xublFocHJadDRkNXdRcGNFcVk4b1dmNVFCZTBONTAySXpWMERmTWloRmhyV3haZXY1Ykw5Vlp4NDNzQWR6TndrdDRKLV9DekxwOE9aR2hOOEhlVk9haUFOVFlBTGZVUHUwNUd4WkZDTmFEczJMQmxXbDlCS1VCaWJnOEo5LVdrWFBMVTVjQTJHcTNUNjdlSDJzeEVodjVBX01oa2U2V0dTM2F2d2lMLVFoVWpZV0MyUjdhZkFiU0EydzZGM1h3UEtmUGJ30gGUAkFVX3lxTE9RQ2tSc2QydmpyRzZfZFpSUlFuYmljbXRqdjhwVURPcVRUSUg5UDRmZUdSLXlXOXFqOUMtY0FUODQ1bEpvTmRXQXFBWk1YTE0zR1ZkT09GcUpQMkx6dEdQQk9YVGcxRUlMaTVhRjNFUThZY01CU0NQQTVILXViQzBFWUNOQ2gxTXFGMVNFODgtTlo3Ukp0WWR1RGlDc1Y1ZzdYTlVhY3A4YWhsTTZrRDR0akY1ZFRqeXgtS3RIME5kUE9naFVSakxFMklSekJkZ0pvMWQxQkpkTWl1bXRRVDNiaFZ1ZGhYcjRxZGo2WDJGXzFrMWFvR0RKV0Y0ZUluN1FyR3pETUhIN2lnUjZyX1E0X2lWag?oc=5
 - **Visto americano: nova regra limita a três as alterações na entrevista**
   - Fonte: Viagem e Turismo
   - Link: https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMTQtS3laX0diMXV0RTdzX0xkblJmNjBBZFZhbHNMbFpMQmt2S0ozSlpPZkx6VGh3YUFrTUYyLW1HYXRRc1pnQ0J5WTVZS29sdHQtbWFVem9HbmtZTEdJN3p4Z255RDZwdDBzajE4cHEtOFd4R1pLRjUxU0xEa0loRVlfcXM5djBvd3liS0tUMWRQT2lMQWpfUVE1N1E0aXVfYUpGaU1ydVBUQXp0VGlHdjJPMXhXS0Q3YjZVakNXRWFXZw?oc=5
@@ -87,9 +87,9 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 - **Sete brasileiros são eleitos para assembleias estaduais nos EUA**
   - Fonte: Agência Brasil
   - Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxNSzNFOHlUd0UwSzRuUmhpd09hRE1iY21rVENMbjR1bXh5Qm02S092YnNQUUVSdDFsYjREQzRRRlFIenZzMi1vZlhySDlXcUZUeWJWR2I1R2RCc2p4NlhNb0xuNXJsYmdPMjBGNFNKb19SalUtcy1JYWxULTg2N1V3MUFPUmRlMWc0NG5kMi00VjFRQ0dFNHh3SHBEckxPOFRaZkNBNnpSeGhoSk9wSE50UFRNV2M5M0dTMUdMUWhRaWRBVlRU?oc=5
-- **Após vitória de Lula, Rubio diz que EUA vão manter diálogo com o Brasil e cobra aprovação de indicado a embaixador**
-  - Fonte: G1
-  - Link: https://news.google.com/rss/articles/CBMi6gFBVV95cUxNN1NTb09QdHlzcTU3NW1aaEFKX0lPd1NwMkZpZE13LTNuaE5YMThacko2VVlINlUxSVlPM0t0eklvMHlyOG1CTm1rLTQ5SjIxUDNxdHZZeGhFLUVFR1JUdDlvMWtvWE1naUg4ak50M1p0TFZpMTFhOVNmMmtuQVFCYm1vb3l2ZjFmNkJmUFBXRXUtOTVtQnllQTFWdkZZZjRVU1l1MHVxNktKc2JIMDczSlFUc2FQQlBraTdkQUJYVkJXYmxqZ29iUERKSFJqRVo2MXlLN1A5aGRyLTJ5OTdkRG5sOTRMWXJFZlHSAfgBQVVfeXFMUGxRTVpBVnBsbmVfRURuak5ZYjhuYWRmOXUyT2RXLU9KNDd0XzI1UHkxSm9lYk9QamZKRlZIZ1lscnRuQk9PY2k4UlVuckdEbXBUenRoRi1ENXhzVld1Z0V2aW5nUkNoSEl1VTZLZ2pkYWhvaU1jZk5lNU1ubjRLZHhFY290RDFIaXlVNURfWkwyOU13ZnJaSlhmWXJTSkhwRUo0bnBjWEpjVTd5R1ZjUGFmckZwdW1jd0dRNUlQc0NmVGR1MFh5TnI5dnNYUWYyM21RV3MwUGRaa0FhQzFrT0ZXSlA5anpRR2RMQm5LQ1ZSdllRclRZaU8?oc=5
+- **Orlando concentra mais de US$ 280 milhões em gastos de brasileiros em um ano**
+  - Fonte: Mercado e Eventos
+  - Link: https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZl9La0k1R01ZMFBSQVNTWEpLR1AzRTJHUGZvZWp3ck1OakdrZTVRRDVCX1NUejNoYm8zR2JlWU40NzNUMFV3aVRGaVBjdVVnZUxJNWZjb1d3ODg2Ynd2M3hMQ0F6UjViNnB3WVctNVZiWXlEbzRHZUxHYjZFX3l1ajloLU0yd0pmUlgxV2NVbDVCRjh6WGhlYUpFc2tFVFplV0JsOTVBNER4MXRGZnVlNmlObm0wWU9HekNMX3JuUTJyNGZtMXREWjVnSmxQdmdzVHZZ?oc=5
 
 ### asilo nos EUA
 
@@ -102,12 +102,12 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### ICE immigration
 
+- **EUA registram recorde de prisões e deportações pelo ICE sob Trump**
+  - Fonte: Jovem Pan
+  - Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxNZktGX0FyNTJJWlMtUHpsQnYxWHlfZi12RUNCU1pfNlJsM2lNWkYxeW5YRDFuemRodVc2ZGNXTGpHT2NqWEotZEtyZmxpSkNtZkNPVFk5QkZVZTZ1MkZFaVJxZjZlcldKaURycUNiNmJKUWhRSkRydHVubDQya0FiQkY4M2FfMUlzUEc1QWZPOENxeTRXSVF2YjBrQXBPT21PbzhVWVAxUTM0ODhVckxaYkgxQVpJZzg?oc=5
 - **Homem é baleado em Nova York dentro de carro por agentes do ICE**
   - Fonte: Agência Brasil
   - Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxOcmtmc3VDU1poSF9CajNHYm9fbnFSSlNCZHNOZlhZV2VVc2NFVFZJYjZZajNDd3ZSRlZXNjJkTWZ3cy1HVFdibV9ZUnM3OUk5MjlJUDM1QVVxNWlGVDhjQlpRa0NzbV9fRDR6QTFMVGUzRWlsSDNUSjhHTWtjTUdabjVOV2pUaVZPTmVLTjFJZl8yZk9JNkhhYVhqQ1Rld2tzR2hobTJOcmNETVJjREFuYXNzSU9FU3JPYW5XZzcxUDZ1RUp3?oc=5
-- **Trump não deve reduzir operações do ICE após eleições, dizem autoridades**
-  - Fonte: Gazeta Brazilian News
-  - Link: https://news.google.com/rss/articles/CBMixwFBVV95cUxPNnVTNGVlTHIyVmdBakMybnI1MURpcGh1clJXck9hdE5vd0pmbWFyMEFKb1Q3ZUNDbDdVcnEwTjVXQWt6MXd4Y2lCNnh4eXdvaWtuZmtoaTFqSWxncWdpRndwX3BGNTJ5bDQtQTQyRjloTGdISFdDVjFKUm9jUFA2RWhSMkFCZ1RhRmN3LThNMnVPcnZjRWluOWNNX1NLUFRwNjZ6OVh1QlRPM0hXRWhvVHpaWEtOTkt4cU5mRzZZT2ItYVB6TmE0?oc=5
 
 
 ## Termos monitorados
