@@ -169,6 +169,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://familiausa1.com/articles/como-escolher-plano-saude-eua-bronze-silver-gold-hmo-ppo.html</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://familiausa1.com/articles/como-escolher-uma-cidade-para-morar-nos-eua.html</loc>
     <lastmod>2026-05-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -525,6 +531,12 @@
   <url>
     <loc>https://familiausa1.com/articles/maior-dificuldade-imigrante-eua.html</loc>
     <lastmod>2026-05-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://familiausa1.com/articles/marketplace-obamacare-eua-como-se-inscrever-2027.html</loc>
+    <lastmod>2026-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -962,19 +974,19 @@
   </url>
   <url>
     <loc>https://familiausa1.com/articles/seguro-saude-familias-brasileiras-eua.html</loc>
-    <lastmod>2026-07-11</lastmod>
+    <lastmod>2026-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://familiausa1.com/articles/seguro-saude-nos-eua-como-funciona-2026.html</loc>
-    <lastmod>2026-05-22</lastmod>
+    <lastmod>2026-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://familiausa1.com/articles/seguro-saude-nos-eua-para-brasileiros.html</loc>
-    <lastmod>2026-05-22</lastmod>
+    <lastmod>2026-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1331,17 +1343,5 @@
     <lastmod>2026-06-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://familiausa1.com/articles/marketplace-obamacare-eua-como-se-inscrever-2027.html</loc>
-    <lastmod>2026-11-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://familiausa1.com/articles/como-escolher-plano-saude-eua-bronze-silver-gold-hmo-ppo.html</loc>
-    <lastmod>2026-11-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
   </url>
 </urlset>
