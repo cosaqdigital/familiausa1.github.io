@@ -1,8 +1,8 @@
 # Relatório diário — Imigração e brasileiros nos EUA
 
-Gerado em: 2026-11-15 01:24 EST
+Gerado em: 2026-11-15 13:50 EST
 
-Arquivo original: `2026-11-15-01-24-tendencias-imigracao.md`
+Arquivo original: `2026-11-15-13-50-tendencias-imigracao.md`
 
 ## Objetivo
 
@@ -20,15 +20,15 @@ Este relatório serve como base para criação de artigos atualizados para o blo
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMiY0FVX3lxTE90N0E2cm9Va0c5cE9YeWJ3T2RsNkVlMDRXM2dXRkcxSGtNV09MZVhuRlNXMjhiSHRaS2Z4cDFZb1ZYR2xrdWxHbnlRTUVvcVBWdV9BLUlHdXVCY1NLeDBiWWhwSdIBaEFVX3lxTE5xbmEtT3RBOTNCS1o1VnJWYVBSVzVXUjJteTZEeTEwd3dsRTFSZkNuQjNMdExjZjRKa2pfUkt5eTVtQmFTU21aa21HNmllcUhkRzVHUk1rb3d2TDdrN1p0UUZnUklqYTBm?oc=5
 
-3. **Política de detenção de imigrantes de Trump sobrecarrega tribunais dos EUA**
-   - Fonte: CNN Brasil
-   - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxNOEFJLUdRc1FjZE1yTzlEWDhHbHJfNVZBRFo5MHczWFljaWNuOEJ6VWtUMW5kWERVUGphUkttLWdPZG5QZTl0Wl9nM3huMXlpelZIbTdUNFBmdF9ZQ2RtSHgwRk1MVHFBQ1FIbEoxQ1o4OW5iMXdlWlBmb3hpd1R3MWRXSy1nM1U5cFlzSFg2ZFA2TzdMWEJ1cU1JVV8zQ3lTdURrbFBWUXNvQldhVXhSQnd3?oc=5
-
-4. **O governo de Donald Trump anunciou nesta quinta-feira (12) que atingiu recorde de detenções e deportações de imigrantes na história dos Estados Unidos no último ano fiscal (que são os 12 meses consecutivos contados de outubro de um ano a setembro**
+3. **O governo de Donald Trump anunciou nesta quinta-feira (12) que atingiu recorde de detenções e deportações de imigrantes na história dos Estados Unidos no último ano fiscal (que são os 12 meses consecutivos contados de outubro de um ano a setembro**
    - Fonte: Instagram
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMiUkFVX3lxTE5aVDd5eDBUMWJjYmtEX2dLZmxaMVNuT2NwVzNPRHBSV002eDhwRVZoNjE2UlVoYVcxQk5qdVZ4VU9NZ2ZXQktSSUlsRTM0UTF4cHc?oc=5
+
+4. **Política de detenção de imigrantes de Trump sobrecarrega tribunais dos EUA**
+   - Fonte: CNN Brasil
+   - Termo monitorado: imigração EUA
+   - Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxNOEFJLUdRc1FjZE1yTzlEWDhHbHJfNVZBRFo5MHczWFljaWNuOEJ6VWtUMW5kWERVUGphUkttLWdPZG5QZTl0Wl9nM3huMXlpelZIbTdUNFBmdF9ZQ2RtSHgwRk1MVHFBQ1FIbEoxQ1o4OW5iMXdlWlBmb3hpd1R3MWRXSy1nM1U5cFlzSFg2ZFA2TzdMWEJ1cU1JVV8zQ3lTdURrbFBWUXNvQldhVXhSQnd3?oc=5
 
 5. **A renovação do EAD deixou de ser presumida: O novo pacote do USCIS**
    - Fonte: Migalhas
@@ -84,12 +84,12 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### brasileiros nos Estados Unidos
 
-- **Após caos aéreo nos EUA, engenheiros brasileiros de IA retidos em Ohio conseguem voo e voltarão ao Brasil na segunda**
-  - Fonte: G1
-  - Link: https://news.google.com/rss/articles/CBMihAJBVV95cUxOQS1paWVLRjVRd3FwaHJQX2U5Unk2VzlZYjRJaTBnNlN5UUgtY0NRYVNhcTdPNmNEVEhuYmtxcmVSNHpIaG0tR1JGVlMwbk4yTmVVb1FxZ243aVBHR3JiLV9VR0Nqd1FCSm5zdW4xN2pBSDRIU3BfczJVejRzeTZ1TDlZdTQwWHFVUnNWcmJFSmZOWGFOcWVYaWJXRlZVSkxmNmxCZ3BMRlB6MTUzX1J5dk1DQmoyeEViQnlBTUJNbHY4S2h6UVdhNXY3MmNpdW1uaWVnQllremNRejdEMVIyaHBnNldjaGdaNEQtMmZnbVZ0azhFeUFxQWctRDV0SnlkbmxqR9IBkwJBVV95cUxOQzlsZmZYWjNzemo0S3FDcnN3WVJwb1Q3QUNaZDhGSHlFTW9YYjlmcFJwLVhuc0J5WE0yVWlsVWNQalIwVzBjMmJ4RC1JWGlQZGlLazQ2bXJKUk0yend2RjJoLUtka1pOSjZ1VGtxNnZDOWNQVXowcS1rS0o2dm1xd2FpM0xnOUZqQzRZN19fcThsNzdCYi1SZW5uY0VvQ2o2VERSQkZVZGl5X05oZFI5aVM0NEg0RF9xNE40dzZBZnhSYXhLdnRhZXc4TDNobWZWcjg3RVd5MlplRi1NaUNtQWItbWFydlhZOWpuM3hyT0lDWEp1eE9kVk1yc0RQX2Fya3RZLTdYeGxxUzg4dUJVNDFpQQ?oc=5
 - **Sete brasileiros são eleitos para assembleias estaduais nos EUA**
   - Fonte: Agência Brasil
   - Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxNSzNFOHlUd0UwSzRuUmhpd09hRE1iY21rVENMbjR1bXh5Qm02S092YnNQUUVSdDFsYjREQzRRRlFIenZzMi1vZlhySDlXcUZUeWJWR2I1R2RCc2p4NlhNb0xuNXJsYmdPMjBGNFNKb19SalUtcy1JYWxULTg2N1V3MUFPUmRlMWc0NG5kMi00VjFRQ0dFNHh3SHBEckxPOFRaZkNBNnpSeGhoSk9wSE50UFRNV2M5M0dTMUdMUWhRaWRBVlRU?oc=5
+- **Nas Filipinas, Lula alfineta Trump e defende parcerias com Canadá e Ásia: 'Em vez de ficar chorando e implorando para os Estados Unidos terem dó do Brasil'**
+  - Fonte: O GLOBO
+  - Link: https://news.google.com/rss/articles/CBMitAJBVV95cUxOREotOGpldzFCX0lVSUhRM2lDNW9jaUVPMURQbjNzQmtCWjEyTGZBU01FaUxRRGVmRENfTW1vN2RSN2dpb3JkQXphdER2SmhGRXBVTllhNXdIdUUtWjc2ci03QWsxSnZycDhTb1A2UnYzMnNtR043UE1iUFpxcm1xdkE2N3dRRm41MUlXQkdmTDdycVVaT2FWSTFRUWRtbGljLWRiNnFLeWloaFR0RXdXUTJ1eXp0OFc2WU9ER2IzSE1aR2dvM1lMM2NtOFRFZ1ZkUEJmQk80NVVPYVRVdlNaS250ZmY1ZEh5dnJPUElQUXdPZXYwSUstdDdkOGxpeHp1TUVvWWg1Smt6RDJ6TjJ6aDIxQW5kUEtsYXJQZ2JKWU9GZkZhYUItLW1LUThtOGhXQ2xxUNIBwwJBVV95cUxNQ29yQzV5ZTk4Q1lNemlFb2ZCTmw5NkNuamVZUS1TNFFmTThzb3N5N0w5SkJ5Nkxvb1hfME1CUTlEMzctdVpkcGpyZ3pidGhacm9ZZHJqc09mQTZTT0JnMTlJWWpCdWF3cXFYYkFxNE53OWJwYWZqZ2tBWW82cjJOaGJ2YUt3ZEl6OHVsTGJUQ0x0dERLaXNhMnBSNWdsMGN6VGM3NXJQUmRGNG1GSFRkajJWRXktY3VPR2dROGlPeS10U3B4WW9tTjlLNG1uOW1nQWdvNHdrY1ZRM3QyTG1NaVV6RHVoMmFBa0ZrM0FJYW5YNmYwN3p3Q3BwMU0zTExJMGVwaTZRZGdxakY0RmFZSGt3bzU4bFFuVjRHNkFVYnFyS1Q5dnNtWVlsSTcyVnllRHFmTEI1TnZuUjlOYlJSRi1uSQ?oc=5
 
 ### asilo nos EUA
 
@@ -102,12 +102,12 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### ICE immigration
 
-- **EUA registram recorde de prisões e deportações pelo ICE sob Trump**
-  - Fonte: Jovem Pan
-  - Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxNZktGX0FyNTJJWlMtUHpsQnYxWHlfZi12RUNCU1pfNlJsM2lNWkYxeW5YRDFuemRodVc2ZGNXTGpHT2NqWEotZEtyZmxpSkNtZkNPVFk5QkZVZTZ1MkZFaVJxZjZlcldKaURycUNiNmJKUWhRSkRydHVubDQya0FiQkY4M2FfMUlzUEc1QWZPOENxeTRXSVF2YjBrQXBPT21PbzhVWVAxUTM0ODhVckxaYkgxQVpJZzg?oc=5
-- **ICE registra recorde de prisões e deportações de migrantes sob gestão Trump**
-  - Fonte: UOL Notícias
-  - Link: https://news.google.com/rss/articles/CBMizAFBVV95cUxNQmpRS0dreDd1Q3pzcTJPZGZFOERFaU8yd0hIa3lEVVoxcjdaNldFcXVxOEJYUmtiYldVZ2xZQ21GWGJhRlB4bTgxUXdKdXhPMnRncmRNN3BWdS0zUWtuOGtQZU50d2JBanREbS1DOHROd2NhaTVMMVFDT1VMM2JIT0tlSkdaZlI0RjFKcl9fS1ZtMmlKLTNHSm5jNjlkek5Cd1FhckJycmJpQWhkcU16MFpaQ2hyaV9OczRPbUNiaUJHU0ItbGt6SjQtN0c?oc=5
+- **Homem é baleado em Nova York dentro de carro por agentes do ICE**
+  - Fonte: Agência Brasil
+  - Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxOcmtmc3VDU1poSF9CajNHYm9fbnFSSlNCZHNOZlhZV2VVc2NFVFZJYjZZajNDd3ZSRlZXNjJkTWZ3cy1HVFdibV9ZUnM3OUk5MjlJUDM1QVVxNWlGVDhjQlpRa0NzbV9fRDR6QTFMVGUzRWlsSDNUSjhHTWtjTUdabjVOV2pUaVZPTmVLTjFJZl8yZk9JNkhhYVhqQ1Rld2tzR2hobTJOcmNETVJjREFuYXNzSU9FU3JPYW5XZzcxUDZ1RUp3?oc=5
+- **Polícia Civil de Santa Catarina, em cooperação com o ICE, prende foragido da Justiça brasileira em Orlando, nos EUA**
+  - Fonte: Polícia Civil de Santa Catarina (PCSC)
+  - Link: https://news.google.com/rss/articles/CBMiQ0FVX3lxTE93VDJmeTk1LUFsYTJqOEZTM1FZcmJmSXB5UEdnNzB3SklGcUtzMGFXYjRmZzVCZjhLS3k1Z1NMZXktVjg?oc=5
 
 
 ## Termos monitorados
