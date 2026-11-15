@@ -12,11 +12,13 @@ tags:
   - "família brasileira nos EUA"
   - "deductible copay premium"
 datePublished: "2026-07-11"
-dateModified: "2026-07-11"
+dateModified: "2026-11-14"
 readingTime: "15 min de leitura"
 image: "https://familiausa1.com/assets/images/familiausa1-share.svg"
 excerpt: "Seguro saúde nos EUA precisa ser entendido antes da emergência: premium, deductible, rede, Marketplace e cobertura da família."
 relatedSlugs:
+  - "marketplace-obamacare-eua-como-se-inscrever-2027"
+  - "como-escolher-plano-saude-eua-bronze-silver-gold-hmo-ppo"
   - "seguro-saude-nos-eua-como-funciona-2026"
   - "seguro-saude-nos-eua-para-brasileiros"
   - "emergencia-medica-nos-eua-er-urgent-care"
@@ -45,7 +47,9 @@ No Brasil, muita gente está acostumada a pensar em SUS, plano de saúde privado
 
 Para uma família brasileira, não entender esses termos pode virar medo, dívida ou decisão ruim no pior momento: quando alguém fica doente.
 
-Este guia explica o básico de seguro saúde nos EUA com foco em família. Para uma visão geral do sistema, leia também [seguro saúde nos EUA: como funciona](/articles/seguro-saude-nos-eua-como-funciona-2026.html).
+Este guia tem foco **específico na decisão da família**: dependentes, pediatra, cobertura por empregador, Medicaid/CHIP, rede e custos familiares. Para entender conceitos gerais como premium e deductible, leia [seguro saúde nos EUA: como funciona](/articles/seguro-saude-nos-eua-como-funciona-2026.html).
+
+**Se você está escolhendo cobertura para 2027:** o [guia de inscrição no Marketplace/Obamacare 2027](/articles/marketplace-obamacare-eua-como-se-inscrever-2027.html) explica calendário, documentos e mudanças de elegibilidade a descontos federais. Para comparar custos e redes, veja [Bronze, Silver, Gold, HMO e PPO](/articles/como-escolher-plano-saude-eua-bronze-silver-gold-hmo-ppo.html).
 
 ## Resumo rápido
 
@@ -86,7 +90,7 @@ Cada caminho tem limite. Seguro viagem não substitui plano de morador. Marketpl
 
 HealthCare.gov informa que, para usar o Marketplace, a pessoa precisa morar nos Estados Unidos, ser cidadã, nacional ou imigrante lawfully present, e atender outros critérios.
 
-Famílias com membros em situações diferentes precisam ter cuidado. O próprio HealthCare.gov explica que agências do Marketplace, Medicaid e CHIP não podem exigir informação de cidadania ou status de familiares que não estão aplicando para cobertura.
+**Atenção em 2027:** o HealthCare.gov informa mudanças nas regras de subsídios federais a partir de 1º de janeiro de 2027, limitando a ajuda financeira a determinados grupos migratórios. **Poder contratar pelo Marketplace não significa necessariamente ter direito ao desconto.** Confirme na [página oficial sobre status migratório e elegibilidade](https://www.healthcare.gov/immigrants/immigration-status/). Famílias com membros em situações diferentes precisam ter cuidado. O próprio HealthCare.gov explica que agências do Marketplace, Medicaid e CHIP não podem exigir informação de cidadania ou status de familiares que não estão aplicando para cobertura.
 
 Isso é importante para famílias mistas, onde alguns membros podem ser elegíveis e outros não.
 
