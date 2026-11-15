@@ -1,8 +1,8 @@
 # Relatório diário — Imigração e brasileiros nos EUA
 
-Gerado em: 2026-11-15 13:50 EST
+Gerado em: 2026-11-15 17:47 EST
 
-Arquivo original: `2026-11-15-13-50-tendencias-imigracao.md`
+Arquivo original: `2026-11-15-17-47-tendencias-imigracao.md`
 
 ## Objetivo
 
@@ -20,20 +20,20 @@ Este relatório serve como base para criação de artigos atualizados para o blo
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMiY0FVX3lxTE90N0E2cm9Va0c5cE9YeWJ3T2RsNkVlMDRXM2dXRkcxSGtNV09MZVhuRlNXMjhiSHRaS2Z4cDFZb1ZYR2xrdWxHbnlRTUVvcVBWdV9BLUlHdXVCY1NLeDBiWWhwSdIBaEFVX3lxTE5xbmEtT3RBOTNCS1o1VnJWYVBSVzVXUjJteTZEeTEwd3dsRTFSZkNuQjNMdExjZjRKa2pfUkt5eTVtQmFTU21aa21HNmllcUhkRzVHUk1rb3d2TDdrN1p0UUZnUklqYTBm?oc=5
 
-3. **O governo de Donald Trump anunciou nesta quinta-feira (12) que atingiu recorde de detenções e deportações de imigrantes na história dos Estados Unidos no último ano fiscal (que são os 12 meses consecutivos contados de outubro de um ano a setembro**
-   - Fonte: Instagram
-   - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMiUkFVX3lxTE5aVDd5eDBUMWJjYmtEX2dLZmxaMVNuT2NwVzNPRHBSV002eDhwRVZoNjE2UlVoYVcxQk5qdVZ4VU9NZ2ZXQktSSUlsRTM0UTF4cHc?oc=5
-
-4. **Política de detenção de imigrantes de Trump sobrecarrega tribunais dos EUA**
+3. **Política de detenção de imigrantes de Trump sobrecarrega tribunais dos EUA**
    - Fonte: CNN Brasil
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxNOEFJLUdRc1FjZE1yTzlEWDhHbHJfNVZBRFo5MHczWFljaWNuOEJ6VWtUMW5kWERVUGphUkttLWdPZG5QZTl0Wl9nM3huMXlpelZIbTdUNFBmdF9ZQ2RtSHgwRk1MVHFBQ1FIbEoxQ1o4OW5iMXdlWlBmb3hpd1R3MWRXSy1nM1U5cFlzSFg2ZFA2TzdMWEJ1cU1JVV8zQ3lTdURrbFBWUXNvQldhVXhSQnd3?oc=5
 
-5. **A renovação do EAD deixou de ser presumida: O novo pacote do USCIS**
-   - Fonte: Migalhas
+4. **EUA pedem saída de “funcionário brasileiro” por manipular imigração**
+   - Fonte: Agência Brasil
+   - Termo monitorado: imigração EUA
+   - Link: https://news.google.com/rss/articles/CBMixwFBVV95cUxQSUtLZjZ2VlYzcUZzSjdibENMVVRoOV9kWWRPYkVMV0t5MGM2UDU2TDZydU84bnoyU2VfYVNNSkVOLXlzU3RkRm5XdHJ4SXVFSFNnRGtxWHFJcXhjZ0FzcWhsUURrNERWampOYnQ5dFJYNDhTajVlVFRKNkVhT1dyLWdIY05qRS13T2RBc3lIT01Ubzc4QjNNU29UODFzalJWLU5xQV9GMHdURVEyaFpBWVo0RDlLREpGVjdSczRNTGhnZnpaUGd3?oc=5
+
+5. **Cidadania americana: benefícios e pensão na análise**
+   - Fonte: www.nossagente.net
    - Termo monitorado: USCIS
-   - Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVTVXdXdmbEFIZlhJYzBpWlZLTHdJNk15WU9iSG9vdWlhQXZtUmZNRU9QVTJ4OXNpX05lSVRmMDV5ZXJ1Uzhmc09uZ3ZOM2xaSWZha1IzTzFCSDBZWnpuVzVTeWhkbXB6SjdpSG5ab0VtTXhWTmdkT0lVd2Y0OTNjTXRUMWNkRVlkeXNLNjdrRW43V1JfRG1TaFZiMEd2V1pXbWxMVzNVWUJMTWM?oc=5
+   - Link: https://news.google.com/rss/articles/CBMihwFBVV95cUxQODJUbnNqalBYcm1fTTNUQ1Z1Z3g3TkJUUHN3cUxJTkxsLTlZdEFNMzlBVHlEdUMyQ2hVeE9pSjc1RFd2X01ESFpWQlBITkQ5dDBadVJxSUw3eC1SaWkyNnV4LThYT1VLU1BHM0Y3QzZNcDdwdVJEUENtR2JUOXYySnJyeXJOVU0?oc=5
 
 
 ## Sugestões de artigos para publicar
@@ -57,12 +57,12 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### USCIS
 
+- **Cidadania americana: benefícios e pensão na análise**
+  - Fonte: www.nossagente.net
+  - Link: https://news.google.com/rss/articles/CBMihwFBVV95cUxQODJUbnNqalBYcm1fTTNUQ1Z1Z3g3TkJUUHN3cUxJTkxsLTlZdEFNMzlBVHlEdUMyQ2hVeE9pSjc1RFd2X01ESFpWQlBITkQ5dDBadVJxSUw3eC1SaWkyNnV4LThYT1VLU1BHM0Y3QzZNcDdwdVJEUENtR2JUOXYySnJyeXJOVU0?oc=5
 - **A renovação do EAD deixou de ser presumida: O novo pacote do USCIS**
   - Fonte: Migalhas
   - Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVTVXdXdmbEFIZlhJYzBpWlZLTHdJNk15WU9iSG9vdWlhQXZtUmZNRU9QVTJ4OXNpX05lSVRmMDV5ZXJ1Uzhmc09uZ3ZOM2xaSWZha1IzTzFCSDBZWnpuVzVTeWhkbXB6SjdpSG5ab0VtTXhWTmdkT0lVd2Y0OTNjTXRUMWNkRVlkeXNLNjdrRW43V1JfRG1TaFZiMEd2V1pXbWxMVzNVWUJMTWM?oc=5
-- **Do papel ao digital: USCIS exige e-filing obrigatório**
-  - Fonte: Migalhas
-  - Link: https://news.google.com/rss/articles/CBMimgFBVV95cUxPU3lXOWsxRDdlbEh4anpHUmp2amh5SHpCaUlWVmtIa3VqWFpYTWZ0Ujh1NlV0d1N4TUw1cmN6cG5UdWZ1c0ZZdG1hMGV6eWY3STQ5SldkTmpudHhCcHlaZXZoTFRIdkdXRm5Za1NPRkd3LWs5dl93N1poWmZ3cm1fTFA1NHN4SllBWGlRRk12WTNtM2djNGw3VWtB?oc=5
 
 ### green card
 
