@@ -1,8 +1,8 @@
 # Relatório diário — Imigração e brasileiros nos EUA
 
-Gerado em: 2026-11-15 17:47 EST
+Gerado em: 2026-11-16 01:23 EST
 
-Arquivo original: `2026-11-15-17-47-tendencias-imigracao.md`
+Arquivo original: `2026-11-16-01-23-tendencias-imigracao.md`
 
 ## Objetivo
 
@@ -30,8 +30,8 @@ Este relatório serve como base para criação de artigos atualizados para o blo
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMixwFBVV95cUxQSUtLZjZ2VlYzcUZzSjdibENMVVRoOV9kWWRPYkVMV0t5MGM2UDU2TDZydU84bnoyU2VfYVNNSkVOLXlzU3RkRm5XdHJ4SXVFSFNnRGtxWHFJcXhjZ0FzcWhsUURrNERWampOYnQ5dFJYNDhTajVlVFRKNkVhT1dyLWdIY05qRS13T2RBc3lIT01Ubzc4QjNNU29UODFzalJWLU5xQV9GMHdURVEyaFpBWVo0RDlLREpGVjdSczRNTGhnZnpaUGd3?oc=5
 
-5. **Cidadania americana: benefícios e pensão na análise**
-   - Fonte: www.nossagente.net
+5. **Cidadania americana: entenda as orientações sobre benefícios e pensão**
+   - Fonte: Jornal Nossa Gente
    - Termo monitorado: USCIS
    - Link: https://news.google.com/rss/articles/CBMihwFBVV95cUxQODJUbnNqalBYcm1fTTNUQ1Z1Z3g3TkJUUHN3cUxJTkxsLTlZdEFNMzlBVHlEdUMyQ2hVeE9pSjc1RFd2X01ESFpWQlBITkQ5dDBadVJxSUw3eC1SaWkyNnV4LThYT1VLU1BHM0Y3QzZNcDdwdVJEUENtR2JUOXYySnJyeXJOVU0?oc=5
 
@@ -57,8 +57,8 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### USCIS
 
-- **Cidadania americana: benefícios e pensão na análise**
-  - Fonte: www.nossagente.net
+- **Cidadania americana: entenda as orientações sobre benefícios e pensão**
+  - Fonte: Jornal Nossa Gente
   - Link: https://news.google.com/rss/articles/CBMihwFBVV95cUxQODJUbnNqalBYcm1fTTNUQ1Z1Z3g3TkJUUHN3cUxJTkxsLTlZdEFNMzlBVHlEdUMyQ2hVeE9pSjc1RFd2X01ESFpWQlBITkQ5dDBadVJxSUw3eC1SaWkyNnV4LThYT1VLU1BHM0Y3QzZNcDdwdVJEUENtR2JUOXYySnJyeXJOVU0?oc=5
 - **A renovação do EAD deixou de ser presumida: O novo pacote do USCIS**
   - Fonte: Migalhas
@@ -87,9 +87,9 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 - **Sete brasileiros são eleitos para assembleias estaduais nos EUA**
   - Fonte: Agência Brasil
   - Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxNSzNFOHlUd0UwSzRuUmhpd09hRE1iY21rVENMbjR1bXh5Qm02S092YnNQUUVSdDFsYjREQzRRRlFIenZzMi1vZlhySDlXcUZUeWJWR2I1R2RCc2p4NlhNb0xuNXJsYmdPMjBGNFNKb19SalUtcy1JYWxULTg2N1V3MUFPUmRlMWc0NG5kMi00VjFRQ0dFNHh3SHBEckxPOFRaZkNBNnpSeGhoSk9wSE50UFRNV2M5M0dTMUdMUWhRaWRBVlRU?oc=5
-- **Nas Filipinas, Lula alfineta Trump e defende parcerias com Canadá e Ásia: 'Em vez de ficar chorando e implorando para os Estados Unidos terem dó do Brasil'**
-  - Fonte: O GLOBO
-  - Link: https://news.google.com/rss/articles/CBMitAJBVV95cUxOREotOGpldzFCX0lVSUhRM2lDNW9jaUVPMURQbjNzQmtCWjEyTGZBU01FaUxRRGVmRENfTW1vN2RSN2dpb3JkQXphdER2SmhGRXBVTllhNXdIdUUtWjc2ci03QWsxSnZycDhTb1A2UnYzMnNtR043UE1iUFpxcm1xdkE2N3dRRm41MUlXQkdmTDdycVVaT2FWSTFRUWRtbGljLWRiNnFLeWloaFR0RXdXUTJ1eXp0OFc2WU9ER2IzSE1aR2dvM1lMM2NtOFRFZ1ZkUEJmQk80NVVPYVRVdlNaS250ZmY1ZEh5dnJPUElQUXdPZXYwSUstdDdkOGxpeHp1TUVvWWg1Smt6RDJ6TjJ6aDIxQW5kUEtsYXJQZ2JKWU9GZkZhYUItLW1LUThtOGhXQ2xxUNIBwwJBVV95cUxNQ29yQzV5ZTk4Q1lNemlFb2ZCTmw5NkNuamVZUS1TNFFmTThzb3N5N0w5SkJ5Nkxvb1hfME1CUTlEMzctdVpkcGpyZ3pidGhacm9ZZHJqc09mQTZTT0JnMTlJWWpCdWF3cXFYYkFxNE53OWJwYWZqZ2tBWW82cjJOaGJ2YUt3ZEl6OHVsTGJUQ0x0dERLaXNhMnBSNWdsMGN6VGM3NXJQUmRGNG1GSFRkajJWRXktY3VPR2dROGlPeS10U3B4WW9tTjlLNG1uOW1nQWdvNHdrY1ZRM3QyTG1NaVV6RHVoMmFBa0ZrM0FJYW5YNmYwN3p3Q3BwMU0zTExJMGVwaTZRZGdxakY0RmFZSGt3bzU4bFFuVjRHNkFVYnFyS1Q5dnNtWVlsSTcyVnllRHFmTEI1TnZuUjlOYlJSRi1uSQ?oc=5
+- **Após caos aéreo nos EUA, engenheiros brasileiros de IA retidos em Ohio conseguem voo e voltarão ao Brasil na segunda**
+  - Fonte: G1
+  - Link: https://news.google.com/rss/articles/CBMihAJBVV95cUxOQS1paWVLRjVRd3FwaHJQX2U5Unk2VzlZYjRJaTBnNlN5UUgtY0NRYVNhcTdPNmNEVEhuYmtxcmVSNHpIaG0tR1JGVlMwbk4yTmVVb1FxZ243aVBHR3JiLV9VR0Nqd1FCSm5zdW4xN2pBSDRIU3BfczJVejRzeTZ1TDlZdTQwWHFVUnNWcmJFSmZOWGFOcWVYaWJXRlZVSkxmNmxCZ3BMRlB6MTUzX1J5dk1DQmoyeEViQnlBTUJNbHY4S2h6UVdhNXY3MmNpdW1uaWVnQllremNRejdEMVIyaHBnNldjaGdaNEQtMmZnbVZ0azhFeUFxQWctRDV0SnlkbmxqR9IBkwJBVV95cUxOQzlsZmZYWjNzemo0S3FDcnN3WVJwb1Q3QUNaZDhGSHlFTW9YYjlmcFJwLVhuc0J5WE0yVWlsVWNQalIwVzBjMmJ4RC1JWGlQZGlLazQ2bXJKUk0yend2RjJoLUtka1pOSjZ1VGtxNnZDOWNQVXowcS1rS0o2dm1xd2FpM0xnOUZqQzRZN19fcThsNzdCYi1SZW5uY0VvQ2o2VERSQkZVZGl5X05oZFI5aVM0NEg0RF9xNE40dzZBZnhSYXhLdnRhZXc4TDNobWZWcjg3RVd5MlplRi1NaUNtQWItbWFydlhZOWpuM3hyT0lDWEp1eE9kVk1yc0RQX2Fya3RZLTdYeGxxUzg4dUJVNDFpQQ?oc=5
 
 ### asilo nos EUA
 
