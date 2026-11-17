@@ -1,8 +1,8 @@
 # Relatório diário — Imigração e brasileiros nos EUA
 
-Gerado em: 2026-11-16 20:51 EST
+Gerado em: 2026-11-17 02:51 EST
 
-Arquivo original: `2026-11-16-20-51-tendencias-imigracao.md`
+Arquivo original: `2026-11-17-02-51-tendencias-imigracao.md`
 
 ## Objetivo
 
@@ -10,29 +10,30 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ## Principais assuntos do dia
 
-1. **Erro ao buscar notícias para: imigração EUA**
-   - Fonte: Sistema
+1. **Governo Trump defende mais restrições para trabalhadores estrangeiros permanentes nos EUA; medida impacta brasileiros**
+   - Fonte: G1
    - Termo monitorado: imigração EUA
+   - Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ0Z2RVFTOEp5MGUyYnFSRmhaS3ZyZXRSamRieFJYd0w5T1REYkFNOWFlbkJoendCcjhRNy0xV2xDcm9GcHNwaXRxbjR1ZFZiQktBcndYeHVFMUtwNGVZcEMxazZyOWJ1cmNWblFZaGh5SjFQZVowS1ZoclhmT0JYS181OEt1UGJaZjB3UzVraHc0MXV1UjItLV9qcEVSLVd2VmF6WlpacUZldjTSAboBQVVfeXFMT3lDUk9PUThiNFVTRWhWU0piRExqYkU1WnR3Q2huQTh2OWVjbXRERmcwb0l1X2FBM3VXTUxESTE3YjZGM0ZEMlVqbElhbUdfa2JoZnUyNjBCdUI3S2tBTUZDQWdDaENKZm5SMEVHZEU5SXBmQ2tOaFVFcEFxNmYyLUQ2TGJsblBiOWJzT3RpUXAycHl1NDlNb1pqV2thbkVPSmI4bjZRa0xPSXpvMlY1ckpmWVhNUEl5LXpB?oc=5
 
-2. **A renovação do EAD deixou de ser presumida: O novo pacote do USCIS**
+2. **O número de matrículas de novos estudantes internacionais em universidades dos Estados Unidos caiu mais uma vez neste outono, impulsionado por uma profunda incerteza em relação a vistos e perspectivas de trabalho.⁣ ⁣ Uma pesquisa divulgada nesta**
+   - Fonte: Instagram
+   - Termo monitorado: imigração EUA
+   - Link: https://news.google.com/rss/articles/CBMiUkFVX3lxTE5nN0l2WE5Ya2owbWw1YWwwOVAyS0JBLThZOFZtcnllRS1QNmhRU2xicVg2VHVPdUh5Z2hHdWFwTzBxLXVLejhlRUQxM1lPSE9ySUE?oc=5
+
+3. **EUA buscam impor mais restrições a trabalhadores estrangeiros qualificados**
+   - Fonte: CNN Brasil
+   - Termo monitorado: imigração EUA
+   - Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxPN1FJWUpjelkyRjBuWlh2a0d3RTMwdWxyaWFJdU1pV1Z5cWJoSFo0Vzd2WS1SNUtqNUwzWFo1alJFQzU3S3JTZ25RbWRQX3Nwb1VZMlJQWU9VMnlxV2ZkSl9lYlFHVHdJMnBkSEktVFg5YWlpMXRWcHZaTmoxSG9ndzZMTWc1ZVFJS2Zmd3g5T243bnZJZnpqSll6SmlrdjJPZ0pacGRhaHJvX2JyWlpMQ055Q2lLSG9iNWc?oc=5
+
+4. **Imigração nos EUA: os gráficos que mostram impacto do 2º mandato de Trump**
+   - Fonte: BBC
+   - Termo monitorado: imigração EUA
+   - Link: https://news.google.com/rss/articles/CBMiY0FVX3lxTE90N0E2cm9Va0c5cE9YeWJ3T2RsNkVlMDRXM2dXRkcxSGtNV09MZVhuRlNXMjhiSHRaS2Z4cDFZb1ZYR2xrdWxHbnlRTUVvcVBWdV9BLUlHdXVCY1NLeDBiWWhwSdIBaEFVX3lxTE5xbmEtT3RBOTNCS1o1VnJWYVBSVzVXUjJteTZEeTEwd3dsRTFSZkNuQjNMdExjZjRKa2pfUkt5eTVtQmFTU21aa21HNmllcUhkRzVHUk1rb3d2TDdrN1p0UUZnUklqYTBm?oc=5
+
+5. **A renovação do EAD deixou de ser presumida: O novo pacote do USCIS**
    - Fonte: Migalhas
    - Termo monitorado: USCIS
    - Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVTVXdXdmbEFIZlhJYzBpWlZLTHdJNk15WU9iSG9vdWlhQXZtUmZNRU9QVTJ4OXNpX05lSVRmMDV5ZXJ1Uzhmc09uZ3ZOM2xaSWZha1IzTzFCSDBZWnpuVzVTeWhkbXB6SjdpSG5ab0VtTXhWTmdkT0lVd2Y0OTNjTXRUMWNkRVlkeXNLNjdrRW43V1JfRG1TaFZiMEd2V1pXbWxMVzNVWUJMTWM?oc=5
-
-3. **Cidadania americana: entenda as orientações sobre benefícios e pensão**
-   - Fonte: Jornal Nossa Gente
-   - Termo monitorado: USCIS
-   - Link: https://news.google.com/rss/articles/CBMihwFBVV95cUxQODJUbnNqalBYcm1fTTNUQ1Z1Z3g3TkJUUHN3cUxJTkxsLTlZdEFNMzlBVHlEdUMyQ2hVeE9pSjc1RFd2X01ESFpWQlBITkQ5dDBadVJxSUw3eC1SaWkyNnV4LThYT1VLU1BHM0Y3QzZNcDdwdVJEUENtR2JUOXYySnJyeXJOVU0?oc=5
-
-4. **Do papel ao digital: USCIS exige e-filing obrigatório**
-   - Fonte: Migalhas
-   - Termo monitorado: USCIS
-   - Link: https://news.google.com/rss/articles/CBMimgFBVV95cUxPU3lXOWsxRDdlbEh4anpHUmp2amh5SHpCaUlWVmtIa3VqWFpYTWZ0Ujh1NlV0d1N4TUw1cmN6cG5UdWZ1c0ZZdG1hMGV6eWY3STQ5SldkTmpudHhCcHlaZXZoTFRIdkdXRm5Za1NPRkd3LWs5dl93N1poWmZ3cm1fTFA1NHN4SllBWGlRRk12WTNtM2djNGw3VWtB?oc=5
-
-5. **EUA podem negar pedidos de imigração sem dar chance para o envio de novos documentos | SEGS Portal...**
-   - Fonte: SEGS Portal Nacional
-   - Termo monitorado: USCIS
-   - Link: https://news.google.com/rss/articles/CBMivwFBVV95cUxNTEd3WDBXamNBN0FoU3RoOWNjaW1HWVNOVVowWnVEWGpDNDJlZWR0bFd6X0VxT3NuQ2hEYWpyVnF6aTRPVWxwQVlmRkl6WDR6bDM0dElZb3FKaWFMQk03SnE5NzUxODQzVVV4aVJJTzE4YVdDdWJaOFVldW1STTFFQ0htQmt3Y0lUYXRCcUNtRkVHMjVUYjNsY2U0bDFxeXFDei1QMWJhbXp6c3ZjWUFCMHBtTzBLbldZNS1TSmc5NNIBxAFBVV95cUxPUjNtc2FHSU5OVHUtNnpPREQ2anpYa0hwaHBNWS1Bbm1aNFpjSlRpNlFfZVJ1SC1oaXNULV9CQnA2ZU5oa29uQ3YwbnlHNU9fUHhuSTVSeXIxcEFkdXVTWlNVcUU4SGFIdUxwckZ5SnlZOGJmVFlESUJEZDRES3Q5MjJFYl85QlNtTjFFUnhUYzdGQzY3a1NTZzhrc1NpX2JYbXE3MF9LVHA5ZGFTOGxOTlVCRndWaG92YjUyVHNyd2VYUUJa?oc=5
 
 
 ## Sugestões de artigos para publicar
@@ -47,17 +48,21 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### imigração EUA
 
-- **Erro ao buscar notícias para: imigração EUA**
-  - Fonte: Sistema
+- **Governo Trump defende mais restrições para trabalhadores estrangeiros permanentes nos EUA; medida impacta brasileiros**
+  - Fonte: G1
+  - Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ0Z2RVFTOEp5MGUyYnFSRmhaS3ZyZXRSamRieFJYd0w5T1REYkFNOWFlbkJoendCcjhRNy0xV2xDcm9GcHNwaXRxbjR1ZFZiQktBcndYeHVFMUtwNGVZcEMxazZyOWJ1cmNWblFZaGh5SjFQZVowS1ZoclhmT0JYS181OEt1UGJaZjB3UzVraHc0MXV1UjItLV9qcEVSLVd2VmF6WlpacUZldjTSAboBQVVfeXFMT3lDUk9PUThiNFVTRWhWU0piRExqYkU1WnR3Q2huQTh2OWVjbXRERmcwb0l1X2FBM3VXTUxESTE3YjZGM0ZEMlVqbElhbUdfa2JoZnUyNjBCdUI3S2tBTUZDQWdDaENKZm5SMEVHZEU5SXBmQ2tOaFVFcEFxNmYyLUQ2TGJsblBiOWJzT3RpUXAycHl1NDlNb1pqV2thbkVPSmI4bjZRa0xPSXpvMlY1ckpmWVhNUEl5LXpB?oc=5
+- **O número de matrículas de novos estudantes internacionais em universidades dos Estados Unidos caiu mais uma vez neste outono, impulsionado por uma profunda incerteza em relação a vistos e perspectivas de trabalho.⁣ ⁣ Uma pesquisa divulgada nesta**
+  - Fonte: Instagram
+  - Link: https://news.google.com/rss/articles/CBMiUkFVX3lxTE5nN0l2WE5Ya2owbWw1YWwwOVAyS0JBLThZOFZtcnllRS1QNmhRU2xicVg2VHVPdUh5Z2hHdWFwTzBxLXVLejhlRUQxM1lPSE9ySUE?oc=5
 
 ### USCIS
 
 - **A renovação do EAD deixou de ser presumida: O novo pacote do USCIS**
   - Fonte: Migalhas
   - Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVTVXdXdmbEFIZlhJYzBpWlZLTHdJNk15WU9iSG9vdWlhQXZtUmZNRU9QVTJ4OXNpX05lSVRmMDV5ZXJ1Uzhmc09uZ3ZOM2xaSWZha1IzTzFCSDBZWnpuVzVTeWhkbXB6SjdpSG5ab0VtTXhWTmdkT0lVd2Y0OTNjTXRUMWNkRVlkeXNLNjdrRW43V1JfRG1TaFZiMEd2V1pXbWxMVzNVWUJMTWM?oc=5
-- **Cidadania americana: entenda as orientações sobre benefícios e pensão**
-  - Fonte: Jornal Nossa Gente
-  - Link: https://news.google.com/rss/articles/CBMihwFBVV95cUxQODJUbnNqalBYcm1fTTNUQ1Z1Z3g3TkJUUHN3cUxJTkxsLTlZdEFNMzlBVHlEdUMyQ2hVeE9pSjc1RFd2X01ESFpWQlBITkQ5dDBadVJxSUw3eC1SaWkyNnV4LThYT1VLU1BHM0Y3QzZNcDdwdVJEUENtR2JUOXYySnJyeXJOVU0?oc=5
+- **Do papel ao digital: USCIS exige e-filing obrigatório**
+  - Fonte: Migalhas
+  - Link: https://news.google.com/rss/articles/CBMimgFBVV95cUxPU3lXOWsxRDdlbEh4anpHUmp2amh5SHpCaUlWVmtIa3VqWFpYTWZ0Ujh1NlV0d1N4TUw1cmN6cG5UdWZ1c0ZZdG1hMGV6eWY3STQ5SldkTmpudHhCcHlaZXZoTFRIdkdXRm5Za1NPRkd3LWs5dl93N1poWmZ3cm1fTFA1NHN4SllBWGlRRk12WTNtM2djNGw3VWtB?oc=5
 
 ### green card
 
@@ -73,18 +78,18 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 - **Em derrota para Trump, juiz dos EUA rejeita novas regras de visto para estudantes estrangeiros e jornalistas**
   - Fonte: O GLOBO
   - Link: https://news.google.com/rss/articles/CBMi9gFBVV95cUxOaHBfS3pzX0lTaHdLeDBYeEtnZmhhLTdzbnh5MFJGM1hkdGxDdUI0SVptSVhEQkJ3c28wYjdnOGN0NkJPX3loajJua0xBSTRrOFJ3cUVENTBqQzBaS3c3ZWM5N1EzcGEybzNFYlBQNVp5VzFYd09MSEFoWTZMR3JEUjV3TGszMGppQ0xnM1FHM3dWdk05MklSRlNHMHZUaXAydkV4ZUlNbWhqRmIybEVpWl9iNUhadkgzYUxXMjRFckVab3k2TDZwaDZEbG1VRmtwMGxLYUtXU1dVWDZnZ0VCQVBGWml3bzg3dTlYMG5KcFBsejJEUWfSAYQCQVVfeXFMTTFzaERXZDlFbHBBR29YeUxmMHhSckt4amh4eGhRNWNEX0NHallmYlZfUVVoNEpBTDlUSll5R0cwUjJRa1pQaGV4QTh3RFVTWWJpNVpYVnZNVFlRN0E2ZXlxNU42VTVPcGhmRFN6c0RiaWZyYm16NGZINU94QUI4Q21uT1pwenRoYXM2OFliMThTUnNZVnBsSkJtZGFQZHRWUkQ0VnRmTnRUR3Rycjc4VEk4elVyb09WakFBR0ZlR1cxYW9hY2F6Q3F6bk1iN01JblZybTVNUWlLdHVTczBOX0JlTmE5NkIxTGNpOWxXS0l3Y1R6TjczcDlKQlVRd0cxQWh2N2w?oc=5
-- **Juiz anula limites de visto impostos por Trump a estudantes e jornalistas**
-  - Fonte: CartaCapital
-  - Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxNclRfVVctaklzVWN5LXFJaU90M0RIaC1GWWxCN2NmajJIVDlGTjNKOE9GTVNuMWttdGxHTHFkUVk0bHAyZUVDX0lscTBGM3RKendkbkxnYUt2YXl1dVp0dFBIZFJXSjgzT2hvZGNnS2FTT0RydEdoZkRtSHdHeXJoZngzazlTWmVtYzYyUnRMaDV0bi1rQ3E4UkhNMXpEdGdhM21YZ1BRNEU5NXBaR0dMa2NR?oc=5
+- **Visto americano: nova regra limita a três as alterações na entrevista**
+  - Fonte: Viagem e Turismo
+  - Link: https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMTQtS3laX0diMXV0RTdzX0xkblJmNjBBZFZhbHNMbFpMQmt2S0ozSlpPZkx6VGh3YUFrTUYyLW1HYXRRc1pnQ0J5WTVZS29sdHQtbWFVem9HbmtZTEdJN3p4Z255RDZwdDBzajE4cHEtOFd4R1pLRjUxU0xEa0loRVlfcXM5djBvd3liS0tUMWRQT2lMQWpfUVE1N1E0aXVfYUpGaU1ydVBUQXp0VGlHdjJPMXhXS0Q3YjZVakNXRWFXZw?oc=5
 
 ### brasileiros nos Estados Unidos
 
-- **EUA vão limitar uso de chips americanos em data centers do Brasil e de outros quatro países**
-  - Fonte: O GLOBO
-  - Link: https://news.google.com/rss/articles/CBMi6wFBVV95cUxOYXZUS2lTRXo2elRYRHd0RGtmM3Vnc255TnhsT0JfamtLWmg5RnBCXzFKVWIzT3gxbUZ6eXJKNE1XcVhoc2owZ3dmZ1hwSk1IenlzMC1NWXd0YjgyQzBNeXhLLURnNUFxYU1aTDRpZG82RUY5YlVyemJwWmRJMlJIZnE3UG1NVE52THlTZFFVNnc3aVA1SWtKWHU4cDhQMnhUWnNaamlCYVJya0k0a0JGZUVaaU9qRU5GTTR2d3g1SVNrVTFyX1NINVNJbnN5VmJhNkF4R2ZPd3E4WTl4NnpZR0RFUnlwVGhpNkFN0gH6AUFVX3lxTE44Nlo3ekR0NlFscmp5WjgxN0VFSW5EZTk4bDR3dkY0S1JqSHhrR0RmdE5XZXdJeklrQUNUa1J6d2h5MEE0V29DUEJGNE5mbXFVbTNpNmdBU2lOZGJWMFNsRUg0emhERHdvLVBETEItUHpUMXI5VXk5OXNhM3AxUHkzei05ZGpVVExrQWtvLUdxMjRCTFJFZTBOUEVJUGtmOERoQnFjUHplcnVWQmtpXy14bW1KcThJUGVTdFdQcnliUVBkcGlnUlBvc0Ewc0xhcnhJVUhtVWdpUGlOX3YybVZQX0hMSHRNeFVPVkFkYmZhang2UHdxbXdzREE?oc=5
-- **EUA impõem restrição ao Brasil em compras de chips para data centers**
-  - Fonte: Jovem Pan
-  - Link: https://news.google.com/rss/articles/CBMioAFBVV95cUxOSXNZOVJ1NWM0WWdMYW1tajF6a3A1aUYyOUQzSkp1bkE1Z25XYWdKci1JenpLV0VLTFZCbWZsVzZKRUgxNFJqSU9FNUg2cHBsZkxtNzktdDViaDdQLVoydUJ5ZnlEcktGcWFBSnpmdjg5S09lMjJHQm03LWt5eFdLQ0FiVDRUS1JpNmR5UzRUTVRHdmZwcWFXeVFvbHF5dVFU?oc=5
+- **Sob a alegação de risco de a tecnologia ser desviada para a China, EUA restringem acesso do Brasil a chips avançados de IA**
+  - Fonte: G1
+  - Link: https://news.google.com/rss/articles/CBMikAJBVV95cUxOTGJqV3pnbUgtcV9aVXhFWjBxZDBrc1FxQ21PbGliX2pQZ2NQTGpvcEsya2FpaWIwcnRyNVZ4U21mSU9oRVY2NU13Qml6NV9HWFNCQzNQVWthSnFNWkJ5NERuYmxGazBNSGp5QVIzR2VqbHVlMjdENnhPSmxmcXZPQ1VPS3JpdkxYS3h2LWpPcmxFVEZXZjFZNDM2bnlzY2hsOTlDUGdGUDlYaXk0OG1nMUR4SjNJY1lzTlJtVW1uX08wYmF0THpLd2haQ3VTang4QjlxZGY5OWNGQVkxaUs2cVRNdjB2Q1hUUkRNWkJBS3VnUEp5OFpicGFDbXlRNXUzeDhMYlV1R1ZKLWRCNk5ocNIBnwJBVV95cUxPdWRkXzZmZUtiSlJNN2lSakQzLVlxRmhJbF9GckxCNkpoWU9WZmpBekJDVWlWZVd0b0VpQThGVzJVQWxZNC1acG02eFlnNXFPOW90Y01iZVIzTENhSmZ3Nzh4QzUzMzdWclJjNHNXSUxVNXA5UVVIcXExamtwOVF5SHlCQzNvTmFVUmlKZU01cjBnZWY2THZnY2VIU0N0YTRBQ2x6R3NwaUlvWEZ3R3pWWTZ5QVZvTk53TE9WaWVEYjVoMFNvZkZzQ1plNVRnaGVjUnJWZ2xfUlNRVDctNTlubnpZSEQzUEc4eXdSUGlYN04yV1lpSjF5anNBRmY5RFhWTVpzaDVJblJmel9zTUg4NGNQR0JkVXN4bmpDMWVoZw?oc=5
+- **Mariana Sanches: Restrição a chips dos EUA gera custo político e risco de sanções ao Brasil**
+  - Fonte: UOL Notícias
+  - Link: https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUWZ1clZDTkZTbmU4bzAwRzVjZEVqVVlTbk92Z1VkZUR2blV2SUZWaHRkRGRKZk0xVGFxNzV3ajA4cmUzMExkYjc4OV9hQUNPQmRsZ21jMkQyNVZlRmdxRGZzUFcyNUd4TWdmcWlramY1WnpSS09KZUN3ZUZhMFdtTlVEWC1lSjk4akhHXzlZWnoyY3dLY3g5WmI2Y3ZjMndGcmd2Q3Y4VGMwOU1zTl84ajZReGNmRlpZbElqSTdQblg3dTRLNXo4YVdhbXZISTF2YTZ6cnFHTWQ?oc=5
 
 ### asilo nos EUA
 
