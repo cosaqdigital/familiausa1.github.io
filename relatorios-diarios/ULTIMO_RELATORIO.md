@@ -1,8 +1,8 @@
 # Relatório diário — Imigração e brasileiros nos EUA
 
-Gerado em: 2026-11-18 02:23 EST
+Gerado em: 2026-11-18 15:29 EST
 
-Arquivo original: `2026-11-18-02-23-tendencias-imigracao.md`
+Arquivo original: `2026-11-18-15-29-tendencias-imigracao.md`
 
 ## Objetivo
 
@@ -10,25 +10,25 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ## Principais assuntos do dia
 
-1. **Governo Trump defende mais restrições para trabalhadores estrangeiros permanentes nos EUA; medida impacta brasileiros**
-   - Fonte: G1
+1. **Ex-campeão mundial de boxe é detido por agentes de imigração nos EUA**
+   - Fonte: UOL
    - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ0Z2RVFTOEp5MGUyYnFSRmhaS3ZyZXRSamRieFJYd0w5T1REYkFNOWFlbkJoendCcjhRNy0xV2xDcm9GcHNwaXRxbjR1ZFZiQktBcndYeHVFMUtwNGVZcEMxazZyOWJ1cmNWblFZaGh5SjFQZVowS1ZoclhmT0JYS181OEt1UGJaZjB3UzVraHc0MXV1UjItLV9qcEVSLVd2VmF6WlpacUZldjTSAboBQVVfeXFMT3lDUk9PUThiNFVTRWhWU0piRExqYkU1WnR3Q2huQTh2OWVjbXRERmcwb0l1X2FBM3VXTUxESTE3YjZGM0ZEMlVqbElhbUdfa2JoZnUyNjBCdUI3S2tBTUZDQWdDaENKZm5SMEVHZEU5SXBmQ2tOaFVFcEFxNmYyLUQ2TGJsblBiOWJzT3RpUXAycHl1NDlNb1pqV2thbkVPSmI4bjZRa0xPSXpvMlY1ckpmWVhNUEl5LXpB?oc=5
+   - Link: https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQncwSzJuU25idXF5X1ZNUFFOd2x2andUV2FHSEpQd1lDRHg5TjVKRjNxeWxjQ0YxWFNlNF9xbG5sUDR3UFJYS1phR0RQSHZob0J2dUF6SnpkcEF6TlRmdG1KUW5tT0xZenUtRktVS29QcXZldVdjREZwNXJua0REZzMtTkVoVmNyakRqVEtRM1dLUE9RUnQyWklCMDJORElibkw0ZlgyWnhvQjdkT0tOZjM3LXNjZG9pRDIzejZlN2drOVROY3FfY2E0SVpIT3hUTEY4cHBR?oc=5
 
-2. **A estratégia do ICE para deter imigrantes com green card nos EUA**
-   - Fonte: VEJA
+2. **EUA reduzem de 30 para 10 dias prazo para recorrer de decisões de imigração**
+   - Fonte: AcheiUSA
    - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMingFBVV95cUxPR2hkVWpKX25nZVNKcFBJcV9tWXVuYURJRVhJVVVySTNuVHRoWjdEWTgzSlRaVl9PVVBrQXRCNWRuS25BaHFBYmZSbVFlbWNTVTZTRTU4NXZYQXlEcXQ2bFlLZlVwMk8yVFA5bmdVcGVCNHhtSHNCcFdndzVkT2diYm5xZ2J6aGN5UHpMVXZmWi1nN3VWdjVtdnZwQ1Yxdw?oc=5
+   - Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxQV2FuX1VPMUw3djRKdHlYOVNhaXY2X1NCb3gzZW14enh5Y0RPVHlwelpFS1BPaGtzYXM4eE9WOHp4eERPMjN3S2dLeGpJVk4yNWtXUnhOdnhfRTVjX29WTi0yRUt3SExXaENCOVJvdmN6NU5HTzJjQnN6bEVkd2ZLZ2lmem9rU1B3MkszWWEtNXUyZkk4ZUYzMEhhZ0N2MkpVZjhnLWM4cXZNYWFqUVpuUWNKbzRJOTg?oc=5
 
-3. **EUA propõem novas restrições para green cards de trabalhadores estrangeiros; entenda**
-   - Fonte: Panrotas
+3. **Trump propõe regras mais rígidas para contratar estrangeiros nos EUA**
+   - Fonte: Poder360
    - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMi4gFBVV95cUxOcHpoN0FPeGVxMnIxN3g4eXZLdVZBaFppUGZFQl90VndiWXRxQVpYSFFBU0p5MXJya0FWNFV0M3NFUE5RbUhyazI4WExkQ0g2WG5mdk5ickNNVkFpZ0d2eU5TbEtBdnBXRmlPNmk0U2huNjBOSkUzNFVDY3VRZHFqTzNOUHNTQUJDbkEyOXhkV1d1Wkc4V1JDWHpwYkpUZG91Snp3TUJ4MTZBWEwwTnZ4Q29ZdXlEcnNRdlphQ3lYa292eHRoeWVBVFNGZ1RlV2hyamVFXzJ3bi1udkpxVW53Y3dB?oc=5
+   - Link: https://news.google.com/rss/articles/CBMiuAFBVV95cUxONFlQR2g2QzF4ajRjLTE3N3FTRmZzMzM5anpJSTVXTE1sUUlVQWJUMGl5NWxkZm16X0JqX2UtaU5rUFo3QThOOHlkTnUtcUNhR2FfMU5RaFJ6Sm0weWJNWTM5bm4wUEowRkVkbmUwVzlzOWJ3aTNCODNydC01WXJOWXVRZ3dXOTN6N3VEOTA4VFFjTlB3VlZla0xiX0lKWWRkZHJxQXZQQWhfWDZsWXdWYS1lT1dzYW92?oc=5
 
-4. **Imigração nos EUA: os gráficos que mostram impacto do 2º mandato de Trump**
-   - Fonte: BBC
+4. **EUA buscam impor mais restrições a trabalhadores estrangeiros qualificados**
+   - Fonte: CNN Brasil
    - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMiY0FVX3lxTE90N0E2cm9Va0c5cE9YeWJ3T2RsNkVlMDRXM2dXRkcxSGtNV09MZVhuRlNXMjhiSHRaS2Z4cDFZb1ZYR2xrdWxHbnlRTUVvcVBWdV9BLUlHdXVCY1NLeDBiWWhwSdIBaEFVX3lxTE5xbmEtT3RBOTNCS1o1VnJWYVBSVzVXUjJteTZEeTEwd3dsRTFSZkNuQjNMdExjZjRKa2pfUkt5eTVtQmFTU21aa21HNmllcUhkRzVHUk1rb3d2TDdrN1p0UUZnUklqYTBm?oc=5
+   - Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxPN1FJWUpjelkyRjBuWlh2a0d3RTMwdWxyaWFJdU1pV1Z5cWJoSFo0Vzd2WS1SNUtqNUwzWFo1alJFQzU3S3JTZ25RbWRQX3Nwb1VZMlJQWU9VMnlxV2ZkSl9lYlFHVHdJMnBkSEktVFg5YWlpMXRWcHZaTmoxSG9ndzZMTWc1ZVFJS2Zmd3g5T243bnZJZnpqSll6SmlrdjJPZ0pacGRhaHJvX2JyWlpMQ055Q2lLSG9iNWc?oc=5
 
 5. **A renovação do EAD deixou de ser presumida: O novo pacote do USCIS**
    - Fonte: Migalhas
@@ -48,12 +48,12 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### imigração EUA
 
-- **Governo Trump defende mais restrições para trabalhadores estrangeiros permanentes nos EUA; medida impacta brasileiros**
-  - Fonte: G1
-  - Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ0Z2RVFTOEp5MGUyYnFSRmhaS3ZyZXRSamRieFJYd0w5T1REYkFNOWFlbkJoendCcjhRNy0xV2xDcm9GcHNwaXRxbjR1ZFZiQktBcndYeHVFMUtwNGVZcEMxazZyOWJ1cmNWblFZaGh5SjFQZVowS1ZoclhmT0JYS181OEt1UGJaZjB3UzVraHc0MXV1UjItLV9qcEVSLVd2VmF6WlpacUZldjTSAboBQVVfeXFMT3lDUk9PUThiNFVTRWhWU0piRExqYkU1WnR3Q2huQTh2OWVjbXRERmcwb0l1X2FBM3VXTUxESTE3YjZGM0ZEMlVqbElhbUdfa2JoZnUyNjBCdUI3S2tBTUZDQWdDaENKZm5SMEVHZEU5SXBmQ2tOaFVFcEFxNmYyLUQ2TGJsblBiOWJzT3RpUXAycHl1NDlNb1pqV2thbkVPSmI4bjZRa0xPSXpvMlY1ckpmWVhNUEl5LXpB?oc=5
-- **A estratégia do ICE para deter imigrantes com green card nos EUA**
-  - Fonte: VEJA
-  - Link: https://news.google.com/rss/articles/CBMingFBVV95cUxPR2hkVWpKX25nZVNKcFBJcV9tWXVuYURJRVhJVVVySTNuVHRoWjdEWTgzSlRaVl9PVVBrQXRCNWRuS25BaHFBYmZSbVFlbWNTVTZTRTU4NXZYQXlEcXQ2bFlLZlVwMk8yVFA5bmdVcGVCNHhtSHNCcFdndzVkT2diYm5xZ2J6aGN5UHpMVXZmWi1nN3VWdjVtdnZwQ1Yxdw?oc=5
+- **Ex-campeão mundial de boxe é detido por agentes de imigração nos EUA**
+  - Fonte: UOL
+  - Link: https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQncwSzJuU25idXF5X1ZNUFFOd2x2andUV2FHSEpQd1lDRHg5TjVKRjNxeWxjQ0YxWFNlNF9xbG5sUDR3UFJYS1phR0RQSHZob0J2dUF6SnpkcEF6TlRmdG1KUW5tT0xZenUtRktVS29QcXZldVdjREZwNXJua0REZzMtTkVoVmNyakRqVEtRM1dLUE9RUnQyWklCMDJORElibkw0ZlgyWnhvQjdkT0tOZjM3LXNjZG9pRDIzejZlN2drOVROY3FfY2E0SVpIT3hUTEY4cHBR?oc=5
+- **EUA reduzem de 30 para 10 dias prazo para recorrer de decisões de imigração**
+  - Fonte: AcheiUSA
+  - Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxQV2FuX1VPMUw3djRKdHlYOVNhaXY2X1NCb3gzZW14enh5Y0RPVHlwelpFS1BPaGtzYXM4eE9WOHp4eERPMjN3S2dLeGpJVk4yNWtXUnhOdnhfRTVjX29WTi0yRUt3SExXaENCOVJvdmN6NU5HTzJjQnN6bEVkd2ZLZ2lmem9rU1B3MkszWWEtNXUyZkk4ZUYzMEhhZ0N2MkpVZjhnLWM4cXZNYWFqUVpuUWNKbzRJOTg?oc=5
 
 ### USCIS
 
@@ -66,12 +66,12 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### green card
 
+- **Trump quer dificultar green card para trabalhadores brasileiros; entenda as mudanças**
+  - Fonte: InfoMoney
+  - Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbUpJQ0Z0Zk1pWXNaT2M5NUU4dEpKUlY5ODdvbUhwZm92OVlIbk45YkZ3MHRpcUpOZVlQbEpZQ2FYRjhfeXR5d0ZpemtRZEx3S1NHUVlfR2ZoRXRKYWtWbnFJbmlLc0xfbmlWbUJHd0w2ZlUtc1BDZXlKSHBsTklOS3N5Szh4ZnoxY0djZ3ZJQlh0M3pHbWE1TG4zc2RZWlNuY0FsQVRkdlVJSmdmLTJmMDkwZG1hMzAyVGpR0gHAAUFVX3lxTE94SzhSLUFoZUtzTk1IZk9YMzJfMklfRFRseUVPaExSTmdfWUxEaHFpcTZSdGM5aVJZRE9fMDZrZldVdWVZUlgxSV9WYm43eVZ0a0Q2OFEzUE9KOE5tbXJrejc0M3MyV2VESVRGRTNvR290ZUpVOWNESDBXcnFWLXQwWkNBNF9xN2RIS2w5Mkh1WVpuQkRiNmNESWlOb1huM1NQTWJGRWJlX2ZpMEdSTWI1WDh5Y1FNajVFM3d4cC1WWA?oc=5
 - **EUA defendem mais restrições para trabalhadores estrangeiros qualificados**
   - Fonte: UOL Notícias
   - Link: https://news.google.com/rss/articles/CBMi4wFBVV95cUxQX3ltYXZDNkFpUXBZQWpkV0hpLVoxc2VsQ0syamstaGlESEh3WnZrLXBLQjBvM2xjWUNGdHJpcjVWd1BaNUNfZllSeXVwUmhwajE5a0FQRDh4VXJTdlktc3U3VWJocUw2MlVRNTlOUl92dG5lS2VwMmJPeWJuVnlia3p4YkExd0ZyaFV4Y19iSEp1dWluaFRZZXczQ2xrZURnOWVIZ0NUWmF0cG1sQngtQVp2amlxYnB5UjkydDIyOWlHNG92N3hMcUtKNnM2bzhObVJPREdOb2w2S3AxX2lhNUJURQ?oc=5
-- **ICE detém imigrantes com Green Card nos aeroportos dos EUA por registros de décadas atrás**
-  - Fonte: Mercado e Eventos
-  - Link: https://news.google.com/rss/articles/CBMi5wFBVV95cUxOb3B2MWNEcGY2VWNHeEg1R2lsVXBQMTFoSk1zbTJoT3lKSU9MYmd4bm5mR2JFQ1lTdFBILVFlc215cVlzQjI3dWdQYnNaWW5iQTVTejBKS2duSkhyclJyVDloM0NCZlA5OU1KLUNqSzdLem9EOVF0WTVCZGtMMWIwRGpGWHhvTlRMeklrcHZFYlJKUXpKRmNadmU1N1JVclBlM2V1Rm9fN2NWZWdyZU1xbktLZElxeU94TnZiakVtUnhlVzdNMkV4NnhfU1k5X0IyYWN0blF1RzBqN002dTJkY3FJRDlIazg?oc=5
 
 ### visto americano
 
@@ -84,12 +84,12 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### brasileiros nos Estados Unidos
 
+- **Bancos brasileiros avançam no mercado financeiro dos EUA, o mais concorrido do mundo**
+  - Fonte: DComercio
+  - Link: https://news.google.com/rss/articles/CBMivgFBVV95cUxQcDdvMGh4VGtEWWxkcUt2X2p6S2EyU01PbXhGTS03RHJXZkJRZko0SGNVc3dVaE1xRFdsQUhYUjVDSDA5OWFicElfSnhmdHRhZFh2dmRLYUN5RExINS1RcmhyVEV3bVRXdEp3MzhUamlBLWdYcGh1cjkybWtFaERUeTlsdF9kemtfRFVqMHAtWkdXSWRQRTd0NXVuc05EV05tVTUyYXEya0hCbEJvc3hWSjdtaXpIQmRVSjFscXpn?oc=5
 - **Sete brasileiros são eleitos para assembleias estaduais nos EUA**
   - Fonte: Agência Brasil
   - Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxNSzNFOHlUd0UwSzRuUmhpd09hRE1iY21rVENMbjR1bXh5Qm02S092YnNQUUVSdDFsYjREQzRRRlFIenZzMi1vZlhySDlXcUZUeWJWR2I1R2RCc2p4NlhNb0xuNXJsYmdPMjBGNFNKb19SalUtcy1JYWxULTg2N1V3MUFPUmRlMWc0NG5kMi00VjFRQ0dFNHh3SHBEckxPOFRaZkNBNnpSeGhoSk9wSE50UFRNV2M5M0dTMUdMUWhRaWRBVlRU?oc=5
-- **EUA vão limitar uso de chips americanos em data centers do Brasil e de outros quatro países**
-  - Fonte: O GLOBO
-  - Link: https://news.google.com/rss/articles/CBMi6wFBVV95cUxOYXZUS2lTRXo2elRYRHd0RGtmM3Vnc255TnhsT0JfamtLWmg5RnBCXzFKVWIzT3gxbUZ6eXJKNE1XcVhoc2owZ3dmZ1hwSk1IenlzMC1NWXd0YjgyQzBNeXhLLURnNUFxYU1aTDRpZG82RUY5YlVyemJwWmRJMlJIZnE3UG1NVE52THlTZFFVNnc3aVA1SWtKWHU4cDhQMnhUWnNaamlCYVJya0k0a0JGZUVaaU9qRU5GTTR2d3g1SVNrVTFyX1NINVNJbnN5VmJhNkF4R2ZPd3E4WTl4NnpZR0RFUnlwVGhpNkFN0gH6AUFVX3lxTE44Nlo3ekR0NlFscmp5WjgxN0VFSW5EZTk4bDR3dkY0S1JqSHhrR0RmdE5XZXdJeklrQUNUa1J6d2h5MEE0V29DUEJGNE5mbXFVbTNpNmdBU2lOZGJWMFNsRUg0emhERHdvLVBETEItUHpUMXI5VXk5OXNhM3AxUHkzei05ZGpVVExrQWtvLUdxMjRCTFJFZTBOUEVJUGtmOERoQnFjUHplcnVWQmtpXy14bW1KcThJUGVTdFdQcnliUVBkcGlnUlBvc0Ewc0xhcnhJVUhtVWdpUGlOX3YybVZQX0hMSHRNeFVPVkFkYmZhang2UHdxbXdzREE?oc=5
 
 ### asilo nos EUA
 
@@ -105,9 +105,9 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 - **Sustentam mãe com câncer: trigêmeos colombianos com permissão de trabalho são detidos pelo ICE nos EUA**
   - Fonte: O GLOBO
   - Link: https://news.google.com/rss/articles/CBMi9gFBVV95cUxOUVctR2I2ZnFya0c5MHhDOVhDcHg4RHJpb092T3JwUEw2UTA1YmEyZnE4UWtZaW5fZnpULS1LN2tQUDVqTWZvWHNONFRCa2lFc2J6blZmT1pzOVdQdUtKdTFXLUtleWF4THpKOFBDZTEwMWJzaFkxWDI4bzYxUGZzdGJsU2JiV1RWZFZMQ3pmSG1WbDUtS2Z4UVhJOUt6YWZncWFJOG5GZkRjUEVZRnZ2bHI5VUhSTDlUenlTM3VxS2R0THhXQVlPbF8xOVF3Q0JESUViMFF6WDlSM2ZjU1NaV1NkQUpjUWdldVNqeTRtbHBobU5XVXfSAYQCQVVfeXFMTmJ4S2xMNWNMZUpOUXlnR2dMeklQVmR6Q1NCWnhURFVXMHFPUGdzV2FBbUNBTFRHVnRKTHJlbXRGRmZXSEVabXJKR2NwNGZWRV80bUhFZUYtNnpmNXN2bk9ORXdrOW1ZN1czcVJZMTlQR3hNZ2hGU09jc1Jqem9WRU8tN0loNmluY0lDcnVNTWFSMW5MOE1hZ3JYWHYwM1VvVDliUUo5akdnWEwtOHhyeXpBX3pKRlhMaGUxb2pHRUF1ZUFjelVKYTAxd1M3V2w5aXB0bWRIekF3YXl1U0M1eWNuZUplTUZUVk9ZQlU4NjNNNnQ0Sm5ocVp3S0Y5RUNsbzNCZms?oc=5
-- **Artistas do Epic Universe são presos pelo ICE durante viagem ao Arizona**
-  - Fonte: AcheiUSA
-  - Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxOaGZfSXAzeUlaWmhqRmx2VVFLLTdXVU5zbHduVldDRGlCQVllR3dzSDZfR0ZwZjJxN0RFOHhiTEE3cjZqekhHWDFWSmh4WmMtejdLWU0xaDRjbldkeEM3VmRSbGNYRUZUQTBFLW5HNjFjRDRxLVliYk8yd2stTnFUZUhCVThiSjZNTF9kck1tWXJrN1JJaGlkUWxQLUlSd2ZmR3Z2eXE0M3NnRmxDOWNjUTdn?oc=5
+- **Governadora de Nova York cobra explicações sobre novo centro de detenção do ICE para mulheres**
+  - Fonte: Gazeta Brazilian News
+  - Link: https://news.google.com/rss/articles/CBMi5AFBVV95cUxOc0JMeExuV2VxbUlMcUJKUE9yTUN0TUhzXzNBMTYxZGE0RFZXU3lYNlVMbDNQNGdPdkhpUXVHSkxGcC1nUDFlOTZ2LWlxRUd5SFZUb1VFSHhHM2tDVFNzeldyRkRUNjlXa0dSX3ZSYlMyblpuVzRVM0g3VHRLOE93REFBajVsdm9na3hwT0tHLXhmNXNIWnlsSjliUkNNdG5DSElKVXhlbGRHZGhwUGxGLUE0aUJRcmZzODZQVl9VQzdSVXBzakk5T3EzWkJEY2JHZFBjbmxCbUsxRFNrNTRudzZ6ZjU?oc=5
 
 
 ## Termos monitorados
