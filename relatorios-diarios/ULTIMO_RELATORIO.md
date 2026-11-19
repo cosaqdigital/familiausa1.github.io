@@ -1,8 +1,8 @@
 # Relatório diário — Imigração e brasileiros nos EUA
 
-Gerado em: 2026-11-18 19:20 EST
+Gerado em: 2026-11-19 02:20 EST
 
-Arquivo original: `2026-11-18-19-20-tendencias-imigracao.md`
+Arquivo original: `2026-11-19-02-20-tendencias-imigracao.md`
 
 ## Objetivo
 
@@ -69,9 +69,9 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 - **Trump quer dificultar green card para trabalhadores brasileiros; entenda as mudanças**
   - Fonte: InfoMoney
   - Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbUpJQ0Z0Zk1pWXNaT2M5NUU4dEpKUlY5ODdvbUhwZm92OVlIbk45YkZ3MHRpcUpOZVlQbEpZQ2FYRjhfeXR5d0ZpemtRZEx3S1NHUVlfR2ZoRXRKYWtWbnFJbmlLc0xfbmlWbUJHd0w2ZlUtc1BDZXlKSHBsTklOS3N5Szh4ZnoxY0djZ3ZJQlh0M3pHbWE1TG4zc2RZWlNuY0FsQVRkdlVJSmdmLTJmMDkwZG1hMzAyVGpR0gHAAUFVX3lxTE94SzhSLUFoZUtzTk1IZk9YMzJfMklfRFRseUVPaExSTmdfWUxEaHFpcTZSdGM5aVJZRE9fMDZrZldVdWVZUlgxSV9WYm43eVZ0a0Q2OFEzUE9KOE5tbXJrejc0M3MyV2VESVRGRTNvR290ZUpVOWNESDBXcnFWLXQwWkNBNF9xN2RIS2w5Mkh1WVpuQkRiNmNESWlOb1huM1NQTWJGRWJlX2ZpMEdSTWI1WDh5Y1FNajVFM3d4cC1WWA?oc=5
-- **Brasileiros desbaratam rede de fraudes de casamentos por green card nos EUA**
-  - Fonte: Folha de S.Paulo
-  - Link: https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTnBnQktWVjVwaXJ6VVRvMWRjaWpRYXN6WF9mTGYxUURxWWxyWmZ0QXlxR0doSGo1MGlLazRaWjJ2SXdWNnROZVFOZUFJYm5CX3RRVnZ3dktkRjh6TEtBWnpVdlhlMzBDSGpfSmlYQ1lCS0xsbWZHejhaTEJZeWlpSWZYR1RKcDRHcGh3RkZsUHQ4ejFZdjQtdXV6QWJOSzl3Y0l6ay1TcGdKU0ZqcXF0Ykh2QzRqdmpBbHRBVlFwb0ZEckE?oc=5
+- **EUA propõem novas restrições para green cards de trabalhadores estrangeiros; entenda**
+  - Fonte: Panrotas
+  - Link: https://news.google.com/rss/articles/CBMi4gFBVV95cUxOcHpoN0FPeGVxMnIxN3g4eXZLdVZBaFppUGZFQl90VndiWXRxQVpYSFFBU0p5MXJya0FWNFV0M3NFUE5RbUhyazI4WExkQ0g2WG5mdk5ickNNVkFpZ0d2eU5TbEtBdnBXRmlPNmk0U2huNjBOSkUzNFVDY3VRZHFqTzNOUHNTQUJDbkEyOXhkV1d1Wkc4V1JDWHpwYkpUZG91Snp3TUJ4MTZBWEwwTnZ4Q29ZdXlEcnNRdlphQ3lYa292eHRoeWVBVFNGZ1RlV2hyamVFXzJ3bi1udkpxVW53Y3dB?oc=5
 
 ### visto americano
 
@@ -84,12 +84,12 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### brasileiros nos Estados Unidos
 
+- **Sem avanço nas negociações, Brasil pede à OMC para julgar tarifaço imposto pelos EUA**
+  - Fonte: G1
+  - Link: https://news.google.com/rss/articles/CBMizAFBVV95cUxQMlhNN1NDYlJ0NE1MWEU5dHo5OEV1Q0ltUExjeHNER3NhSG9xNHlhQkNMWkg4ZWtHNUVjOTVVcWV0T19sd3lNUVlaSDQ4SGV2MU1VTjQ2Q3FzN1pZdFB0VFk1VnJwMHYtQ2p2a256eFZvZUZCOWJmQ2tLWklIeDgyNmpnMjBhemY2V0R1bU5EaVQ2RWFLZ2FqcjV4UFRNSDZYVWliUzVLQWdNazgwNENQblJFZ0JadzN5cF8zMVVpdHVQQmNLV3FhN2JGamLSAdsBQVVfeXFMTjIzSW5aWkRseDJ4WU1LdFZReEdpeTVtMlFfdU14dXRBYmsyV0FiOHN0cGcxdm1Qd05wLTVScjAxUXVScFZoNDBKbk9mczV6bW1sVXdUdjNjN0Rid05XSHNIa21nUzdLTXBsMFZIV0ZpSktEbTFKRDdISlY0RlQxd0VpMzE4TVVQQ0hOcFhtX3o0dWpva0tJY2pQTER0Mk1Kc2sxQ3BEenYtZXFQRjA0bFFvNDE1QmZZR1pDM2Qwb0R5WDdrajJ2UzlMYUZpUzZVTWhxUkRjeWVORkhr?oc=5
 - **Sete brasileiros são eleitos para assembleias estaduais nos EUA**
   - Fonte: Agência Brasil
   - Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxNSzNFOHlUd0UwSzRuUmhpd09hRE1iY21rVENMbjR1bXh5Qm02S092YnNQUUVSdDFsYjREQzRRRlFIenZzMi1vZlhySDlXcUZUeWJWR2I1R2RCc2p4NlhNb0xuNXJsYmdPMjBGNFNKb19SalUtcy1JYWxULTg2N1V3MUFPUmRlMWc0NG5kMi00VjFRQ0dFNHh3SHBEckxPOFRaZkNBNnpSeGhoSk9wSE50UFRNV2M5M0dTMUdMUWhRaWRBVlRU?oc=5
-- **Bancos brasileiros avançam no mercado financeiro dos EUA, o mais concorrido do mundo**
-  - Fonte: DComercio
-  - Link: https://news.google.com/rss/articles/CBMivgFBVV95cUxQcDdvMGh4VGtEWWxkcUt2X2p6S2EyU01PbXhGTS03RHJXZkJRZko0SGNVc3dVaE1xRFdsQUhYUjVDSDA5OWFicElfSnhmdHRhZFh2dmRLYUN5RExINS1RcmhyVEV3bVRXdEp3MzhUamlBLWdYcGh1cjkybWtFaERUeTlsdF9kemtfRFVqMHAtWkdXSWRQRTd0NXVuc05EV05tVTUyYXEya0hCbEJvc3hWSjdtaXpIQmRVSjFscXpn?oc=5
 
 ### asilo nos EUA
 
