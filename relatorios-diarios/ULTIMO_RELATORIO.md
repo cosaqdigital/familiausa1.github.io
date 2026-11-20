@@ -1,8 +1,8 @@
 # Relatório diário — Imigração e brasileiros nos EUA
 
-Gerado em: 2026-11-20 15:16 EST
+Gerado em: 2026-11-20 18:58 EST
 
-Arquivo original: `2026-11-20-15-16-tendencias-imigracao.md`
+Arquivo original: `2026-11-20-18-58-tendencias-imigracao.md`
 
 ## Objetivo
 
@@ -15,10 +15,10 @@ Este relatório serve como base para criação de artigos atualizados para o blo
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR05uSGRiY1lzYU9xaXhmbzFnRk9uR0haUjVUMng0QTFMTm94VHJ6QV9iRUpzdTBGNHlubGIzRlY5SE9jbTRVdnVFM1c1bXRTbnNjbmlSZ0dtRERBWDZQNmxXYmRQc2NaMUNrMTB1YmN6a3dsaUVWOGZzUDVqZkRoMEtRZ3NqU0hxdUo1RXFKSjdMbkV0TWhhWDBoV0Rtc3ZQcW9ncUhYWmt1dw?oc=5
 
-2. **Amaury Jr - A nova fase da imigração nos EUA: uma análise prática da gestão Trump**
-   - Fonte: UOL
+2. **Justiça dos EUA derruba leis da Califórnia que restringiam atuação do ICE**
+   - Fonte: Gazeta do Povo
    - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMiywFBVV95cUxPR3liUzhmQ3dOWjFDcW52d1NPUnZfQXBSWGhIQUZWVGhVYmU3Y3ppY3NHX3c4bFFnb0U2Q2wtWlZiUzA4N2Y2SFlQdmZsQ2pjN01SaVpsbnh4MWx3ekUxYVo4TkhPYkxhZzR6MFJGOTRDM04yNmVJaFhfMFNlOU13cUg0SVZpemMyYUlJM3FVTFJ2TmIyelVKTWxpZWFOSGMweU1QYVVDWll3ZTMtTXJ6bm9lY3RZTDE3VG84SGZKUWF1cEhncWtjN3ktSQ?oc=5
+   - Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxNYzBkM1FxeEJVMzdBcV9lWjg5TC1Td25PQnFyalQ2aUZYaTdzVTllbXplajc1SGloQU5DMUpaVlJiQWFxcGhEc0NYVDdEZUJEbnVBOVJxU1ZLZGlUc1hjSEw0c1ppUlF6MFBiWlh4WFF6ejNiOWtrbUVNVlgzTmxEYnFQek5nQTl2ZzRaa2RLa3pnZmp6cTF0d3ZRa3dwUDYyT0RDS1pMbnV2d2F5YkF4Ykd2MmhNQQ?oc=5
 
 3. **Governo Trump defende mais restrições para trabalhadores estrangeiros permanentes nos EUA; medida impacta brasileiros**
    - Fonte: G1
@@ -51,9 +51,9 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 - **Bispos EUA: preocupaão com migrantes e famílias separadas**
   - Fonte: Vatican News
   - Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR05uSGRiY1lzYU9xaXhmbzFnRk9uR0haUjVUMng0QTFMTm94VHJ6QV9iRUpzdTBGNHlubGIzRlY5SE9jbTRVdnVFM1c1bXRTbnNjbmlSZ0dtRERBWDZQNmxXYmRQc2NaMUNrMTB1YmN6a3dsaUVWOGZzUDVqZkRoMEtRZ3NqU0hxdUo1RXFKSjdMbkV0TWhhWDBoV0Rtc3ZQcW9ncUhYWmt1dw?oc=5
-- **Amaury Jr - A nova fase da imigração nos EUA: uma análise prática da gestão Trump**
-  - Fonte: UOL
-  - Link: https://news.google.com/rss/articles/CBMiywFBVV95cUxPR3liUzhmQ3dOWjFDcW52d1NPUnZfQXBSWGhIQUZWVGhVYmU3Y3ppY3NHX3c4bFFnb0U2Q2wtWlZiUzA4N2Y2SFlQdmZsQ2pjN01SaVpsbnh4MWx3ekUxYVo4TkhPYkxhZzR6MFJGOTRDM04yNmVJaFhfMFNlOU13cUg0SVZpemMyYUlJM3FVTFJ2TmIyelVKTWxpZWFOSGMweU1QYVVDWll3ZTMtTXJ6bm9lY3RZTDE3VG84SGZKUWF1cEhncWtjN3ktSQ?oc=5
+- **Justiça dos EUA derruba leis da Califórnia que restringiam atuação do ICE**
+  - Fonte: Gazeta do Povo
+  - Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxNYzBkM1FxeEJVMzdBcV9lWjg5TC1Td25PQnFyalQ2aUZYaTdzVTllbXplajc1SGloQU5DMUpaVlJiQWFxcGhEc0NYVDdEZUJEbnVBOVJxU1ZLZGlUc1hjSEw0c1ppUlF6MFBiWlh4WFF6ejNiOWtrbUVNVlgzTmxEYnFQek5nQTl2ZzRaa2RLa3pnZmp6cTF0d3ZRa3dwUDYyT0RDS1pMbnV2d2F5YkF4Ykd2MmhNQQ?oc=5
 
 ### USCIS
 
@@ -69,27 +69,27 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 - **Trump quer dificultar green card para trabalhadores brasileiros; entenda as mudanças**
   - Fonte: InfoMoney
   - Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbUpJQ0Z0Zk1pWXNaT2M5NUU4dEpKUlY5ODdvbUhwZm92OVlIbk45YkZ3MHRpcUpOZVlQbEpZQ2FYRjhfeXR5d0ZpemtRZEx3S1NHUVlfR2ZoRXRKYWtWbnFJbmlLc0xfbmlWbUJHd0w2ZlUtc1BDZXlKSHBsTklOS3N5Szh4ZnoxY0djZ3ZJQlh0M3pHbWE1TG4zc2RZWlNuY0FsQVRkdlVJSmdmLTJmMDkwZG1hMzAyVGpR0gHAAUFVX3lxTE94SzhSLUFoZUtzTk1IZk9YMzJfMklfRFRseUVPaExSTmdfWUxEaHFpcTZSdGM5aVJZRE9fMDZrZldVdWVZUlgxSV9WYm43eVZ0a0Q2OFEzUE9KOE5tbXJrejc0M3MyV2VESVRGRTNvR290ZUpVOWNESDBXcnFWLXQwWkNBNF9xN2RIS2w5Mkh1WVpuQkRiNmNESWlOb1huM1NQTWJGRWJlX2ZpMEdSTWI1WDh5Y1FNajVFM3d4cC1WWA?oc=5
-- **ICE prende imigrantes com green card por infrações de até 30 anos atrás**
-  - Fonte: AcheiUSA
-  - Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxOSDhWODJRNldNT21lTVN1aGNJbHF6UHp6VnFjRDk0N29EdkFvUTBHcklxMHEwalNEWURCVENzQWx6VFo5T2w5ZlI4OVotVHRfdTc1VDBfcTJQRXRma2hLckNzbm13NlMwTk15Zl9RV3FHVDFPR0dESlpDYlVXZ2RnSUFYbjlaNW8yN29vVm10OGtHV1NScDEzc0NZZlA2RHlNdE1mWUs1UUktS2Flb1BaZWFR?oc=5
+- **EUA propõem novas restrições para green cards de trabalhadores estrangeiros; entenda**
+  - Fonte: Panrotas
+  - Link: https://news.google.com/rss/articles/CBMi4gFBVV95cUxOcHpoN0FPeGVxMnIxN3g4eXZLdVZBaFppUGZFQl90VndiWXRxQVpYSFFBU0p5MXJya0FWNFV0M3NFUE5RbUhyazI4WExkQ0g2WG5mdk5ickNNVkFpZ0d2eU5TbEtBdnBXRmlPNmk0U2huNjBOSkUzNFVDY3VRZHFqTzNOUHNTQUJDbkEyOXhkV1d1Wkc4V1JDWHpwYkpUZG91Snp3TUJ4MTZBWEwwTnZ4Q29ZdXlEcnNRdlphQ3lYa292eHRoeWVBVFNGZ1RlV2hyamVFXzJ3bi1udkpxVW53Y3dB?oc=5
 
 ### visto americano
 
 - **Visto americano: espera por entrevista chega a cinco meses em São Paulo; veja prazos e como tentar antecipar**
   - Fonte: O GLOBO
   - Link: https://news.google.com/rss/articles/CBMi9gFBVV95cUxNbUcxTkVTeVQwcTJ3Yk1DUkg4alBybkE4NXg5VlNWNC1TOVlPRjRuSmh2YWJvLVZHc2RyWVdSRVVnbTlTX2tsRm96RzBCUmY3Z1QxcHIwc0E1Q0VDUHgzRm9EVmdDR1JobFFzZDlxeUduVnBiUnBMLXlFNk9YaVpUa0pUS2ZhZnRVc1I3ODc4dGpEemhjaUNFM2ZXcjdJWjAzemw4cGdYVmljUmdodC1HZ1E5WUtfb2hnNTZpU0tjUDUyMkpTSDBCQ0x6N0dlMHVqMEFpaGY3UUdiNlU1OEdjSE1LZW1QeVFkQzM2MkNaTmpxbHRhemfSAYQCQVVfeXFMT2NBbDZxWmNZZEpXOEVCV2ZJUlhOREoySW1oLWZob3lOZkE4OWd4TVlLcDNBaGh5TDF5RGZEekFTNnpvd3ZNVkY5QnRUdzE2dkFIeHg4VFh5RUJ1WVhwLVluOGw5N3VLYUh4LXZxSEFMX3VSOVNhTzR6bXVNMzd1RE14R0dqTjJ4QS1WQkFteFQ4UFBSUkRxTlYxaTVHZXVPMU4tUDJ0WUZMekRJZjZqYl9tQ0Y2eXVJUER4dEhiY2M5SHVUcDk4RTNITlRoaF9KdDZaU1RGRzNBbWZXVC0wT0ZMSzV3NkxiUW9yWnZfaUdOeFZwNW44bVV2a1ZxN2V3RTEyRkw?oc=5
-- **EUA limitam reagendamento de visto americano: brasileiros podem ter entrevistas bloqueadas e pagar nova taxa**
-  - Fonte: R7
-  - Link: https://news.google.com/rss/articles/CBMiiAJBVV95cUxQaVFRMmU3c0RKTXh5SHR1WUctOTBFNjNOeHQ3LUpfQ21GR0pxd0FWQ01DOG5TM0E0M2FseEg4R2FfMVhudDBKWGJjRGs5MDB1UkN1aGtHNVZ4dW81azhXMk84eFliRW1PYVFvaVB5LUtQSDMwbzB4VFRRQnZtelZDYWU5c2t3enNyeENlQ2RRQ0k1dXN4amx6ME1fYkhCRXZwazhaZVZOcDNrSk93WUxwNHYwZUpLb1pqNHBGVVk4WHlyMHFkNF9CSkRXakZQS19YWjRob1lWeWNtcFJKZGY5bjdNdTV5eTNuN3dpTVdNemIycVNjT3Q3UlNFVG5YVng3UUI3NWl2RUk?oc=5
+- **Visto americano: nova regra limita a três as alterações na entrevista**
+  - Fonte: Viagem e Turismo
+  - Link: https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMTQtS3laX0diMXV0RTdzX0xkblJmNjBBZFZhbHNMbFpMQmt2S0ozSlpPZkx6VGh3YUFrTUYyLW1HYXRRc1pnQ0J5WTVZS29sdHQtbWFVem9HbmtZTEdJN3p4Z255RDZwdDBzajE4cHEtOFd4R1pLRjUxU0xEa0loRVlfcXM5djBvd3liS0tUMWRQT2lMQWpfUVE1N1E0aXVfYUpGaU1ydVBUQXp0VGlHdjJPMXhXS0Q3YjZVakNXRWFXZw?oc=5
 
 ### brasileiros nos Estados Unidos
 
-- **Trump diz que Filipinas compravam mais produtos do agro brasileiro e agora comprarão apenas dos EUA**
-  - Fonte: Estadão
-  - Link: https://news.google.com/rss/articles/CBMipAFBVV95cUxQcVVkaFRma2RUOVR1STFUOXQ3M05iSzEyMmxFdVFvdUJsM2pIcGI3ZFp0SzlQNnA5dFFDWGZmRk93elhIZGpBWndobTgtU2FwZDJYZG9PaWFhQzVENGN2eGFWbG9FLUFmTW9yYTNsckZyUUpMNTR6aWpScTlBcDdIN2xoYnhreU1xZzZCSFh1RGFoTWJUbldkMnBNWUlPczBiNEJtSdIBqgFBVV95cUxQTlc3Wk1DbUdlQUEwRnZYUTlJbHowMElWbjlDdnFUSFU0OFk0NnRUQ1JwQXZHWEhxZ3dpVGxfamhqM1ZSSXJUMzlZaURsMjRvSUpSUWdFeEhNdnRZcGRjSjU3Z0M0cXc2QW5JQ1VIWVJiRERoTWVQTHIzS1VJaHFpbVF1MXAwY2FVR3BUZWpsYUdvYW5fSnRaalppLTFuMjhUeFNuQUN6S1c1UQ?oc=5
-- **Sete brasileiros são eleitos para assembleias estaduais nos EUA**
-  - Fonte: Agência Brasil
-  - Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxNSzNFOHlUd0UwSzRuUmhpd09hRE1iY21rVENMbjR1bXh5Qm02S092YnNQUUVSdDFsYjREQzRRRlFIenZzMi1vZlhySDlXcUZUeWJWR2I1R2RCc2p4NlhNb0xuNXJsYmdPMjBGNFNKb19SalUtcy1JYWxULTg2N1V3MUFPUmRlMWc0NG5kMi00VjFRQ0dFNHh3SHBEckxPOFRaZkNBNnpSeGhoSk9wSE50UFRNV2M5M0dTMUdMUWhRaWRBVlRU?oc=5
+- **Trump diz que convenceu Filipinas a substituir produtos agrícolas do Brasil pelos dos EUA**
+  - Fonte: G1
+  - Link: https://news.google.com/rss/articles/CBMif0FVX3lxTE1DRXIyZF9qcXZEMDBtZC1oUGlHODEydVdsc3ZlQUNQVWxrOC16N014S0t5WkdCaFRPdm5wNmlWbTdUSk40VjhfNjhwOUIwaUNaTWkwM3kwOURWVVBFVkdmaE9pN21NaUZtQmZLZFhvQVpqRkstZkxzVXQ0UnYxeTDSAY4BQVVfeXFMTXNEWTExY29iM1NRbmtHeVVpQ3R1TWlCRFZDWEhuV19OQXVtMDI2TVJxYmYxVUZ4cHlPNXBGSWFTZnN0OTBaMUtrWXR6S2JlWmI0NnkwVHdsWEIzQjVnMi1samxncTFnTWFQREtuYWlmZHB2QlpfWEFJU1VmdXdGeGs2NzFBQXVBQWkyLW1rdw?oc=5
+- **Trump diz que Filipinas trocarão produtos agrícolas do Brasil pelos dos EUA**
+  - Fonte: CNN Brasil
+  - Link: https://news.google.com/rss/articles/CBMirwFBVV95cUxORm9RSlJBUkF6NFpTeFlPUXl0bTVWVFhSX3o3elFrQ29mMlNZVU1WQzNWYk9TVmxQTkR2aW5nVFV2c3hNN0EyR3RlR0NEZmh6aEp0dTFwMVJndldiSW9sbGlBQmdjbWZFRk01RkxobXBZQzFhakxfRXNrbUw4UHhPTXU0NUI0MTMwbXN2U3ZDcDlOX1hDOHNFVkF1eWJvNUxDeFNMVHhKdlVDNjBYSFdj?oc=5
 
 ### asilo nos EUA
 
