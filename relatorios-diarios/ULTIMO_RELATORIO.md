@@ -1,8 +1,8 @@
 # Relatório diário — Imigração e brasileiros nos EUA
 
-Gerado em: 2026-11-19 19:35 EST
+Gerado em: 2026-11-20 02:09 EST
 
-Arquivo original: `2026-11-19-19-35-tendencias-imigracao.md`
+Arquivo original: `2026-11-20-02-09-tendencias-imigracao.md`
 
 ## Objetivo
 
@@ -10,20 +10,20 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ## Principais assuntos do dia
 
-1. **Juiz dos EUA mantém decisão de retirar proteção temporária de venezuelanos**
-   - Fonte: CNN Brasil
-   - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxOazItb20welZIaEdNV0pnZ3duRmhJc0tNRS1JS1Vudk1GZzJMMzFLeGhSdERRZmlEMTNOSmxjcXlBWFUxMW9pMjdxWlI4c2xVZ1JxU3BObUs0NHhVMGRkRGFfNjlDSjRIcEROTzd3YmNsSDhvdFJ5NmU5NmNETEFVeWhrUXF1aW8yR1l6bDdzNGNueEdyX0RVbWF3YVlRSHd6dWtOT3duaEpOcmZqeGk3WkxRaXBzUk9uNEE?oc=5
-
-2. **Governo Trump defende mais restrições para trabalhadores estrangeiros permanentes nos EUA; medida impacta brasileiros**
+1. **Governo Trump defende mais restrições para trabalhadores estrangeiros permanentes nos EUA; medida impacta brasileiros**
    - Fonte: G1
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ0Z2RVFTOEp5MGUyYnFSRmhaS3ZyZXRSamRieFJYd0w5T1REYkFNOWFlbkJoendCcjhRNy0xV2xDcm9GcHNwaXRxbjR1ZFZiQktBcndYeHVFMUtwNGVZcEMxazZyOWJ1cmNWblFZaGh5SjFQZVowS1ZoclhmT0JYS181OEt1UGJaZjB3UzVraHc0MXV1UjItLV9qcEVSLVd2VmF6WlpacUZldjTSAboBQVVfeXFMT3lDUk9PUThiNFVTRWhWU0piRExqYkU1WnR3Q2huQTh2OWVjbXRERmcwb0l1X2FBM3VXTUxESTE3YjZGM0ZEMlVqbElhbUdfa2JoZnUyNjBCdUI3S2tBTUZDQWdDaENKZm5SMEVHZEU5SXBmQ2tOaFVFcEFxNmYyLUQ2TGJsblBiOWJzT3RpUXAycHl1NDlNb1pqV2thbkVPSmI4bjZRa0xPSXpvMlY1ckpmWVhNUEl5LXpB?oc=5
 
-3. **Imigração nos EUA: os gráficos que mostram impacto do 2º mandato de Trump**
+2. **Imigração nos EUA: os gráficos que mostram impacto do 2º mandato de Trump**
    - Fonte: BBC
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMiY0FVX3lxTE90N0E2cm9Va0c5cE9YeWJ3T2RsNkVlMDRXM2dXRkcxSGtNV09MZVhuRlNXMjhiSHRaS2Z4cDFZb1ZYR2xrdWxHbnlRTUVvcVBWdV9BLUlHdXVCY1NLeDBiWWhwSdIBaEFVX3lxTE5xbmEtT3RBOTNCS1o1VnJWYVBSVzVXUjJteTZEeTEwd3dsRTFSZkNuQjNMdExjZjRKa2pfUkt5eTVtQmFTU21aa21HNmllcUhkRzVHUk1rb3d2TDdrN1p0UUZnUklqYTBm?oc=5
+
+3. **Juiz dos EUA mantém decisão de retirar proteção temporária de venezuelanos**
+   - Fonte: CNN Brasil
+   - Termo monitorado: imigração EUA
+   - Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxOazItb20welZIaEdNV0pnZ3duRmhJc0tNRS1JS1Vudk1GZzJMMzFLeGhSdERRZmlEMTNOSmxjcXlBWFUxMW9pMjdxWlI4c2xVZ1JxU3BObUs0NHhVMGRkRGFfNjlDSjRIcEROTzd3YmNsSDhvdFJ5NmU5NmNETEFVeWhrUXF1aW8yR1l6bDdzNGNueEdyX0RVbWF3YVlRSHd6dWtOT3duaEpOcmZqeGk3WkxRaXBzUk9uNEE?oc=5
 
 4. **Imigração nos EUA: Trump propõe restrições a trabalhadores e Justiça barra limite para estudantes**
    - Fonte: Revista Soberana
@@ -48,12 +48,12 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### imigração EUA
 
-- **Juiz dos EUA mantém decisão de retirar proteção temporária de venezuelanos**
-  - Fonte: CNN Brasil
-  - Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxOazItb20welZIaEdNV0pnZ3duRmhJc0tNRS1JS1Vudk1GZzJMMzFLeGhSdERRZmlEMTNOSmxjcXlBWFUxMW9pMjdxWlI4c2xVZ1JxU3BObUs0NHhVMGRkRGFfNjlDSjRIcEROTzd3YmNsSDhvdFJ5NmU5NmNETEFVeWhrUXF1aW8yR1l6bDdzNGNueEdyX0RVbWF3YVlRSHd6dWtOT3duaEpOcmZqeGk3WkxRaXBzUk9uNEE?oc=5
 - **Governo Trump defende mais restrições para trabalhadores estrangeiros permanentes nos EUA; medida impacta brasileiros**
   - Fonte: G1
   - Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ0Z2RVFTOEp5MGUyYnFSRmhaS3ZyZXRSamRieFJYd0w5T1REYkFNOWFlbkJoendCcjhRNy0xV2xDcm9GcHNwaXRxbjR1ZFZiQktBcndYeHVFMUtwNGVZcEMxazZyOWJ1cmNWblFZaGh5SjFQZVowS1ZoclhmT0JYS181OEt1UGJaZjB3UzVraHc0MXV1UjItLV9qcEVSLVd2VmF6WlpacUZldjTSAboBQVVfeXFMT3lDUk9PUThiNFVTRWhWU0piRExqYkU1WnR3Q2huQTh2OWVjbXRERmcwb0l1X2FBM3VXTUxESTE3YjZGM0ZEMlVqbElhbUdfa2JoZnUyNjBCdUI3S2tBTUZDQWdDaENKZm5SMEVHZEU5SXBmQ2tOaFVFcEFxNmYyLUQ2TGJsblBiOWJzT3RpUXAycHl1NDlNb1pqV2thbkVPSmI4bjZRa0xPSXpvMlY1ckpmWVhNUEl5LXpB?oc=5
+- **Imigração nos EUA: os gráficos que mostram impacto do 2º mandato de Trump**
+  - Fonte: BBC
+  - Link: https://news.google.com/rss/articles/CBMiY0FVX3lxTE90N0E2cm9Va0c5cE9YeWJ3T2RsNkVlMDRXM2dXRkcxSGtNV09MZVhuRlNXMjhiSHRaS2Z4cDFZb1ZYR2xrdWxHbnlRTUVvcVBWdV9BLUlHdXVCY1NLeDBiWWhwSdIBaEFVX3lxTE5xbmEtT3RBOTNCS1o1VnJWYVBSVzVXUjJteTZEeTEwd3dsRTFSZkNuQjNMdExjZjRKa2pfUkt5eTVtQmFTU21aa21HNmllcUhkRzVHUk1rb3d2TDdrN1p0UUZnUklqYTBm?oc=5
 
 ### USCIS
 
@@ -78,27 +78,27 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 - **Visto americano: espera por entrevista chega a cinco meses em São Paulo; veja prazos e como tentar antecipar**
   - Fonte: O GLOBO
   - Link: https://news.google.com/rss/articles/CBMi9gFBVV95cUxNbUcxTkVTeVQwcTJ3Yk1DUkg4alBybkE4NXg5VlNWNC1TOVlPRjRuSmh2YWJvLVZHc2RyWVdSRVVnbTlTX2tsRm96RzBCUmY3Z1QxcHIwc0E1Q0VDUHgzRm9EVmdDR1JobFFzZDlxeUduVnBiUnBMLXlFNk9YaVpUa0pUS2ZhZnRVc1I3ODc4dGpEemhjaUNFM2ZXcjdJWjAzemw4cGdYVmljUmdodC1HZ1E5WUtfb2hnNTZpU0tjUDUyMkpTSDBCQ0x6N0dlMHVqMEFpaGY3UUdiNlU1OEdjSE1LZW1QeVFkQzM2MkNaTmpxbHRhemfSAYQCQVVfeXFMT2NBbDZxWmNZZEpXOEVCV2ZJUlhOREoySW1oLWZob3lOZkE4OWd4TVlLcDNBaGh5TDF5RGZEekFTNnpvd3ZNVkY5QnRUdzE2dkFIeHg4VFh5RUJ1WVhwLVluOGw5N3VLYUh4LXZxSEFMX3VSOVNhTzR6bXVNMzd1RE14R0dqTjJ4QS1WQkFteFQ4UFBSUkRxTlYxaTVHZXVPMU4tUDJ0WUZMekRJZjZqYl9tQ0Y2eXVJUER4dEhiY2M5SHVUcDk4RTNITlRoaF9KdDZaU1RGRzNBbWZXVC0wT0ZMSzV3NkxiUW9yWnZfaUdOeFZwNW44bVV2a1ZxN2V3RTEyRkw?oc=5
-- **Visto americano: nova regra limita a três as alterações na entrevista**
-  - Fonte: Viagem e Turismo
-  - Link: https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMTQtS3laX0diMXV0RTdzX0xkblJmNjBBZFZhbHNMbFpMQmt2S0ozSlpPZkx6VGh3YUFrTUYyLW1HYXRRc1pnQ0J5WTVZS29sdHQtbWFVem9HbmtZTEdJN3p4Z255RDZwdDBzajE4cHEtOFd4R1pLRjUxU0xEa0loRVlfcXM5djBvd3liS0tUMWRQT2lMQWpfUVE1N1E0aXVfYUpGaU1ydVBUQXp0VGlHdjJPMXhXS0Q3YjZVakNXRWFXZw?oc=5
+- **EUA limitam reagendamento de visto americano: brasileiros podem ter entrevistas bloqueadas e pagar nova taxa**
+  - Fonte: R7 Entretenimento
+  - Link: https://news.google.com/rss/articles/CBMilwJBVV95cUxNcWw1d1Q3NnBac0xVUGxRY251bi1ZcGNrYjVOanBxTHhmVER0ZmN4WUk0bFpzZ1BKalJ0a0Z4bEI0WkFGNjk4VVZoakhaak5SWWcwQmNmSnZ5RE94b2M1akJSM19zeVduSF9qSUxfR1V6TVZUODZHZnBCU3ZEaXBaQUNJVlY0US1FRjJvbHJQQ0hFWTh1V3ZZby01U2ZlelBZSW1lUWdGR1hjY21CWjhpX3pFTE14ZWdnc2dHYXdhMTZEZWRRckJldzBpTW5zUGV2Qy1MdHZXNkpRSzllM3FNZHVMbTAybVlHWUxWT1NaQXNiSlB0NjlVVEVyZXFjS3U3WkJ6bjBLUmoxcnJNQWlCaUpkSnRCVUE?oc=5
 
 ### brasileiros nos Estados Unidos
 
 - **PF investiga esquema de migração irregular para os Estados Unidos — Polícia Federal**
   - Fonte: GOV.BR
   - Link: https://news.google.com/rss/articles/CBMiywFBVV95cUxONnAwbWJodmItaUpaYmRQZDg3eHBkb3BCVTRpWnV3SEMtSkpTUVc1bm9uc2V6REVxRVRBZ05tQTVDaXByRDZhNmdscmxzTWNhdzVhM2pDMnJJQkM2ZEVhQmlSNW91eHpWSElRRFBmWmw4TXBGd0p3SHJsZ3lpWl9qN1RURTdveVNlcGc1UFBFaXR1M3ZhS1h0a1hyUVlLR2NxMVJrMWFmeGFXc1FxMXRTdVhQTzBucWJxVEZJbUtqeThoTWkwQk9ramszTQ?oc=5
-- **Brasil é um dos 3 grandes mercados a aumentar envio de turistas aos EUA; veja dados**
-  - Fonte: Panrotas
-  - Link: https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMmhOTVhIRzVoblFQY2ZlZUtQNmo3bjJIaDNYQ3NfeGY3aldLV0FrYVZZRGNubGRHMzJJZFVtcWlQMDU5ZWVrY2hTdWNGNnl2QVdNcllHUGNpRXBxLVNIRGN4Slhwb3BlMHVUZ04tc2RGZUFpNFpUa2hneGctN0lKRkxPQzI2WmtkOXhmVnVjdUNSSndDemRuTXZsRElJRzhOWGM4RGZBVzlvVTk2MC1xTVFUVFFMRG9RRktVZDhnYWVaZGYydXRIalRXNVVzd2c5SUR3SHY5VVZrdXQ0dnZtZjB3?oc=5
+- **Sete brasileiros são eleitos para assembleias estaduais nos EUA**
+  - Fonte: Agência Brasil
+  - Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxNSzNFOHlUd0UwSzRuUmhpd09hRE1iY21rVENMbjR1bXh5Qm02S092YnNQUUVSdDFsYjREQzRRRlFIenZzMi1vZlhySDlXcUZUeWJWR2I1R2RCc2p4NlhNb0xuNXJsYmdPMjBGNFNKb19SalUtcy1JYWxULTg2N1V3MUFPUmRlMWc0NG5kMi00VjFRQ0dFNHh3SHBEckxPOFRaZkNBNnpSeGhoSk9wSE50UFRNV2M5M0dTMUdMUWhRaWRBVlRU?oc=5
 
 ### asilo nos EUA
 
+- **Flávio reúne argumentos para pedir asilo nos EUA e mostrar que sofre perseguição**
+  - Fonte: Gazeta do Povo
+  - Link: https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSWcwemd5LUZ3TUdJemJjT2pYcXo3QzhHbC1FRUQ4NjNQQzF0WnowSUtaMjF0YTM3cjFOMDZMYmNSV2V5eWNRVEhEM3Bvb3pObUJ2Qnc1NHo1NEtBYUJjVWZPRFlSVTM4VFY4VjhmY05wRzU5TFVMbExNWnl4aVhOTTZTck5jbEpEV1dPVTJSSGNFRmsycFRyNVZKbXJTRzIyOFZ4ZEpvZU1ZdjZIYVZwWi1VMDZhekV5RWk1X0NjRGc?oc=5
 - **Flávio Bolsonaro chega aos EUA após desobedecer Moraes e pedirá asilo a Trump**
   - Fonte: Band
   - Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxORVB5alNjSUpmLVdCbjFqX1JwbjVWSmo4UDJlRGoycEJsdkxJUTh1aWpBa1JTMnRKM0E4U2x1aDNmQm1CSVJFeFNxNkxxZ3BtWV9WLUVFamVtVEc2R2p3eDV6OWN3U2NNZG84SEp6NXdXalZNS0JYTHFTMTFxTUNOZ0FWNXF6X29TQU5rWnZWMUNwNi15S3lqb0xRaVNIaVJncEtlNmlPYnJxNXZMdFViWHZaQkk?oc=5
-- **Democratas dos EUA criticam plano do governo Trump de conceder visto a Flávio Bolsonaro**
-  - Fonte: G1
-  - Link: https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQlp3cWJsVmhpSUdsS0swREFoNHpaYW1PVUNURzJFcnlCMWxpU2VaZnIyX1ZUcl9kRHlET3dKOWh4aVEyVlZVMWJqbUNyNWpoVWpEUzZTUjZybGNrYl8wWWJZcWRlbk5tMjUwVzlhUUQ1SVJ1ckY3Z2RVRGtSbDVKcWR4ejdxNy1zRkFLeVhIQ2FFb01fUFlEcmp0Z194U2JjS25RTjNuVzJiMWR0b3Z6di11QmZBTVlETWVmNVY4WnBEN21FUm84c3lqYlhHT1Bq0gHfAUFVX3lxTE5ZajBHT05LbmIyTkVESnU0RnZRc2VCRDV6OEJVMEk1QnU3UlotZl9ROWNaRUFFRWR3TGFNcHk1cVMzUEVPTDU3UjF1djAwRTR6WW01Vm16a3ZOWnF2R2pLVnluY2NlWlR5YW5QaGtXSmlHeGZFM2ZuWnZFazNKQm9hWjljcEEzM2tfaVVaN0tuQWp2VFk4TWdfNWU3dHZXRVkwSmRoOXlISGRVeWRaTmJ0NFVpX0V6M2dKOUpRXzR0cGU5UHh1T1JQcUEtRVY0bnNrZmliZ25Lcy1HZTNfd28?oc=5
 
 ### ICE immigration
 
