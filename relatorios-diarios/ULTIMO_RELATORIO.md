@@ -1,8 +1,8 @@
 # Relatório diário — Imigração e brasileiros nos EUA
 
-Gerado em: 2026-11-21 14:14 EST
+Gerado em: 2026-11-21 18:13 EST
 
-Arquivo original: `2026-11-21-14-14-tendencias-imigracao.md`
+Arquivo original: `2026-11-21-18-13-tendencias-imigracao.md`
 
 ## Objetivo
 
@@ -15,15 +15,15 @@ Este relatório serve como base para criação de artigos atualizados para o blo
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR05uSGRiY1lzYU9xaXhmbzFnRk9uR0haUjVUMng0QTFMTm94VHJ6QV9iRUpzdTBGNHlubGIzRlY5SE9jbTRVdnVFM1c1bXRTbnNjbmlSZ0dtRERBWDZQNmxXYmRQc2NaMUNrMTB1YmN6a3dsaUVWOGZzUDVqZkRoMEtRZ3NqU0hxdUo1RXFKSjdMbkV0TWhhWDBoV0Rtc3ZQcW9ncUhYWmt1dw?oc=5
 
-2. **Imigração nos EUA: os gráficos que mostram impacto do 2º mandato de Trump**
+2. **Governo Trump acelera deportações antes de liderança democrata no Congresso**
+   - Fonte: CNN Brasil
+   - Termo monitorado: imigração EUA
+   - Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxOajRoaTVtQ09SYWVXWEV6SHlYaXNNQlRKLUlzYllYRTl6OUh5czVycjlsQzMxeXpPVUxyZUFNRXBUa2IzZy1wVnhWSjg2ay1OcTh1dmlYc1RiQmVuMWxuZi1JY0t5S1ctbkNjMjgzMUlDZ25WNTRsVDg2V2pPWXlxOTFRbE15ZV9KMERJcXRBTkMtQldZa1doVGlub1NsdXlHSU9LeVdyR2RIQUZtbURFaXFsRmFEV1o4V2c?oc=5
+
+3. **Imigração nos EUA: os gráficos que mostram impacto do 2º mandato de Trump**
    - Fonte: BBC
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMiY0FVX3lxTE90N0E2cm9Va0c5cE9YeWJ3T2RsNkVlMDRXM2dXRkcxSGtNV09MZVhuRlNXMjhiSHRaS2Z4cDFZb1ZYR2xrdWxHbnlRTUVvcVBWdV9BLUlHdXVCY1NLeDBiWWhwSdIBaEFVX3lxTE5xbmEtT3RBOTNCS1o1VnJWYVBSVzVXUjJteTZEeTEwd3dsRTFSZkNuQjNMdExjZjRKa2pfUkt5eTVtQmFTU21aa21HNmllcUhkRzVHUk1rb3d2TDdrN1p0UUZnUklqYTBm?oc=5
-
-3. **Acrobatas argentinos são detidos pelo ICE em viagem nos EUA para funeral**
-   - Fonte: CNN Brasil
-   - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxPOEhTcmRXQUViSU4zVVJvbk9QSkY0NFY5ajBqQ3gxenZ0Y0RCVmV0bnBaQWJvcTNkdkR1dlZiN3RCdmZWZUpZcmFmQ0I3SC05N2dtaWszcHNfNDRmcjNUZ1dWdFBlMnhTVzMxN3g0bFFBbUJDd2pMR3RUMDhLWEFYbkkwcE84YnAzNzE4YjdTN3RUbXhQUlJtQ2tBa1BvMDNIZ0gzdmlkN19ibUdzWUtpeWNOWUZ6YWM?oc=5
 
 4. **Governo Trump defende mais restrições para trabalhadores estrangeiros permanentes nos EUA; medida impacta brasileiros**
    - Fonte: G1
@@ -51,9 +51,9 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 - **Bispos EUA: preocupaão com migrantes e famílias separadas**
   - Fonte: Vatican News
   - Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR05uSGRiY1lzYU9xaXhmbzFnRk9uR0haUjVUMng0QTFMTm94VHJ6QV9iRUpzdTBGNHlubGIzRlY5SE9jbTRVdnVFM1c1bXRTbnNjbmlSZ0dtRERBWDZQNmxXYmRQc2NaMUNrMTB1YmN6a3dsaUVWOGZzUDVqZkRoMEtRZ3NqU0hxdUo1RXFKSjdMbkV0TWhhWDBoV0Rtc3ZQcW9ncUhYWmt1dw?oc=5
-- **Imigração nos EUA: os gráficos que mostram impacto do 2º mandato de Trump**
-  - Fonte: BBC
-  - Link: https://news.google.com/rss/articles/CBMiY0FVX3lxTE90N0E2cm9Va0c5cE9YeWJ3T2RsNkVlMDRXM2dXRkcxSGtNV09MZVhuRlNXMjhiSHRaS2Z4cDFZb1ZYR2xrdWxHbnlRTUVvcVBWdV9BLUlHdXVCY1NLeDBiWWhwSdIBaEFVX3lxTE5xbmEtT3RBOTNCS1o1VnJWYVBSVzVXUjJteTZEeTEwd3dsRTFSZkNuQjNMdExjZjRKa2pfUkt5eTVtQmFTU21aa21HNmllcUhkRzVHUk1rb3d2TDdrN1p0UUZnUklqYTBm?oc=5
+- **Governo Trump acelera deportações antes de liderança democrata no Congresso**
+  - Fonte: CNN Brasil
+  - Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxOajRoaTVtQ09SYWVXWEV6SHlYaXNNQlRKLUlzYllYRTl6OUh5czVycjlsQzMxeXpPVUxyZUFNRXBUa2IzZy1wVnhWSjg2ay1OcTh1dmlYc1RiQmVuMWxuZi1JY0t5S1ctbkNjMjgzMUlDZ25WNTRsVDg2V2pPWXlxOTFRbE15ZV9KMERJcXRBTkMtQldZa1doVGlub1NsdXlHSU9LeVdyR2RIQUZtbURFaXFsRmFEV1o4V2c?oc=5
 
 ### USCIS
 
@@ -66,9 +66,9 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### green card
 
-- **A estratégia do ICE para deter imigrantes com green card nos EUA**
-  - Fonte: VEJA
-  - Link: https://news.google.com/rss/articles/CBMingFBVV95cUxPR2hkVWpKX25nZVNKcFBJcV9tWXVuYURJRVhJVVVySTNuVHRoWjdEWTgzSlRaVl9PVVBrQXRCNWRuS25BaHFBYmZSbVFlbWNTVTZTRTU4NXZYQXlEcXQ2bFlLZlVwMk8yVFA5bmdVcGVCNHhtSHNCcFdndzVkT2diYm5xZ2J6aGN5UHpMVXZmWi1nN3VWdjVtdnZwQ1Yxdw?oc=5
+- **Trump quer dificultar green card para trabalhadores brasileiros; entenda as mudanças**
+  - Fonte: InfoMoney
+  - Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbUpJQ0Z0Zk1pWXNaT2M5NUU4dEpKUlY5ODdvbUhwZm92OVlIbk45YkZ3MHRpcUpOZVlQbEpZQ2FYRjhfeXR5d0ZpemtRZEx3S1NHUVlfR2ZoRXRKYWtWbnFJbmlLc0xfbmlWbUJHd0w2ZlUtc1BDZXlKSHBsTklOS3N5Szh4ZnoxY0djZ3ZJQlh0M3pHbWE1TG4zc2RZWlNuY0FsQVRkdlVJSmdmLTJmMDkwZG1hMzAyVGpR0gHAAUFVX3lxTE94SzhSLUFoZUtzTk1IZk9YMzJfMklfRFRseUVPaExSTmdfWUxEaHFpcTZSdGM5aVJZRE9fMDZrZldVdWVZUlgxSV9WYm43eVZ0a0Q2OFEzUE9KOE5tbXJrejc0M3MyV2VESVRGRTNvR290ZUpVOWNESDBXcnFWLXQwWkNBNF9xN2RIS2w5Mkh1WVpuQkRiNmNESWlOb1huM1NQTWJGRWJlX2ZpMEdSTWI1WDh5Y1FNajVFM3d4cC1WWA?oc=5
 - **Justiça dos EUA obriga reabertura da loteria do green card DV-2027**
   - Fonte: Migalhas
   - Link: https://news.google.com/rss/articles/CBMirAFBVV95cUxNd3NPYlZlcHVFUVlURXd3UHEtZVl3OWZkNVpxWlVoS1J4TGo4N3RqTENNOEc0aHdmY3U1Rlp1RGNKSElkaVZPVWk4S0diNFJ3R2psd3R6c1B3YkNZYkg1bUtTX1R4MTVwYi05eHNqMXJicDZ2YWNxU2Q1ZmM0TXNFQllZRE5ZQndHQk9Dd0pJLTRiTzBCV000SVl6aFNnX1N1WGZoUmhpN3hUOWlN?oc=5
@@ -84,9 +84,9 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### brasileiros nos Estados Unidos
 
-- **Do Pará aos EUA: como a Amazônia quer alavancar a bioeconomia e conquistar o mercado norte-americano**
+- **Sem avanço nas negociações, Brasil pede à OMC para julgar tarifaço imposto pelos EUA**
   - Fonte: G1
-  - Link: https://news.google.com/rss/articles/CBMi6AFBVV95cUxNV2tsdXVEUVdTVDU3Y0NNSXlPVGpQVmtZOURMdXBRbkltMFZOX2V1bXNZdEFKNlpMbWp1R1VpQXZqa1hwM3hNakNYekZkWDAwNWNFeC01dGd2R2xRRzR1VnpKQmV2XzNfcEFtY3BIakVpYkdHUkczYnhjYUpsQWRfTzkzU29temJSYU9yazVwWGxXV0dDMlpXM1hyZDhEeWItNy1PMWlQODNZT0FrcjVuVzNkS3hYNmpjdzB5UTlnTlFkaDhOUmQ5bnRyaF9zNzJta0JOZk9JdlY4dWlDdUFfLUVIN0lMc2dW0gH3AUFVX3lxTE9PazY5ZWRfcXZ6S0VRVGc4cXlib3F1TnlucDZTM2lqWXI0aF9HdWJ0SEFwb0ZyeUtoaHFubGtRcUJpdzNFQXlYQUxjTk80TS1JdDJKUW9tRzA5TEdGRURPYkpYMWo2bzJCUGxZNldKTzQxbkdOd2p6Sy1hdG9GdEFJckI0eTJqdEVlNXpHbXFXa0o5Q0toTUJCRTdIQkpFN0VqZ0xBbW5aeUFFNEwwa245WUZZSzhIQVB4Q21XQzB0c1dDNkt6X2liRnlWZDdxaVBuYkpaWW1ycl9hanRPallYZFRqM0NZRVBCdUppREE4cXp6U3pjNFE?oc=5
+  - Link: https://news.google.com/rss/articles/CBMizAFBVV95cUxQMlhNN1NDYlJ0NE1MWEU5dHo5OEV1Q0ltUExjeHNER3NhSG9xNHlhQkNMWkg4ZWtHNUVjOTVVcWV0T19sd3lNUVlaSDQ4SGV2MU1VTjQ2Q3FzN1pZdFB0VFk1VnJwMHYtQ2p2a256eFZvZUZCOWJmQ2tLWklIeDgyNmpnMjBhemY2V0R1bU5EaVQ2RWFLZ2FqcjV4UFRNSDZYVWliUzVLQWdNazgwNENQblJFZ0JadzN5cF8zMVVpdHVQQmNLV3FhN2JGamLSAdsBQVVfeXFMTjIzSW5aWkRseDJ4WU1LdFZReEdpeTVtMlFfdU14dXRBYmsyV0FiOHN0cGcxdm1Qd05wLTVScjAxUXVScFZoNDBKbk9mczV6bW1sVXdUdjNjN0Rid05XSHNIa21nUzdLTXBsMFZIV0ZpSktEbTFKRDdISlY0RlQxd0VpMzE4TVVQQ0hOcFhtX3o0dWpva0tJY2pQTER0Mk1Kc2sxQ3BEenYtZXFQRjA0bFFvNDE1QmZZR1pDM2Qwb0R5WDdrajJ2UzlMYUZpUzZVTWhxUkRjeWVORkhr?oc=5
 - **Sete brasileiros são eleitos para assembleias estaduais nos EUA**
   - Fonte: Agência Brasil
   - Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxNSzNFOHlUd0UwSzRuUmhpd09hRE1iY21rVENMbjR1bXh5Qm02S092YnNQUUVSdDFsYjREQzRRRlFIenZzMi1vZlhySDlXcUZUeWJWR2I1R2RCc2p4NlhNb0xuNXJsYmdPMjBGNFNKb19SalUtcy1JYWxULTg2N1V3MUFPUmRlMWc0NG5kMi00VjFRQ0dFNHh3SHBEckxPOFRaZkNBNnpSeGhoSk9wSE50UFRNV2M5M0dTMUdMUWhRaWRBVlRU?oc=5
@@ -102,12 +102,12 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### ICE immigration
 
+- **Sustentam mãe com câncer: trigêmeos colombianos com permissão de trabalho são detidos pelo ICE nos EUA**
+  - Fonte: O GLOBO
+  - Link: https://news.google.com/rss/articles/CBMi9gFBVV95cUxOUVctR2I2ZnFya0c5MHhDOVhDcHg4RHJpb092T3JwUEw2UTA1YmEyZnE4UWtZaW5fZnpULS1LN2tQUDVqTWZvWHNONFRCa2lFc2J6blZmT1pzOVdQdUtKdTFXLUtleWF4THpKOFBDZTEwMWJzaFkxWDI4bzYxUGZzdGJsU2JiV1RWZFZMQ3pmSG1WbDUtS2Z4UVhJOUt6YWZncWFJOG5GZkRjUEVZRnZ2bHI5VUhSTDlUenlTM3VxS2R0THhXQVlPbF8xOVF3Q0JESUViMFF6WDlSM2ZjU1NaV1NkQUpjUWdldVNqeTRtbHBobU5XVXfSAYQCQVVfeXFMTmJ4S2xMNWNMZUpOUXlnR2dMeklQVmR6Q1NCWnhURFVXMHFPUGdzV2FBbUNBTFRHVnRKTHJlbXRGRmZXSEVabXJKR2NwNGZWRV80bUhFZUYtNnpmNXN2bk9ORXdrOW1ZN1czcVJZMTlQR3hNZ2hGU09jc1Jqem9WRU8tN0loNmluY0lDcnVNTWFSMW5MOE1hZ3JYWHYwM1VvVDliUUo5akdnWEwtOHhyeXpBX3pKRlhMaGUxb2pHRUF1ZUFjelVKYTAxd1M3V2w5aXB0bWRIekF3YXl1U0M1eWNuZUplTUZUVk9ZQlU4NjNNNnQ0Sm5ocVp3S0Y5RUNsbzNCZms?oc=5
 - **Homem é baleado em Nova York dentro de carro por agentes do ICE**
   - Fonte: Agência Brasil
   - Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxOcmtmc3VDU1poSF9CajNHYm9fbnFSSlNCZHNOZlhZV2VVc2NFVFZJYjZZajNDd3ZSRlZXNjJkTWZ3cy1HVFdibV9ZUnM3OUk5MjlJUDM1QVVxNWlGVDhjQlpRa0NzbV9fRDR6QTFMVGUzRWlsSDNUSjhHTWtjTUdabjVOV2pUaVZPTmVLTjFJZl8yZk9JNkhhYVhqQ1Rld2tzR2hobTJOcmNETVJjREFuYXNzSU9FU3JPYW5XZzcxUDZ1RUp3?oc=5
-- **Polícia Civil de Santa Catarina, em cooperação com o ICE, prende foragido da Justiça brasileira em Orlando, nos EUA**
-  - Fonte: Polícia Civil de Santa Catarina (PCSC)
-  - Link: https://news.google.com/rss/articles/CBMiQ0FVX3lxTE93VDJmeTk1LUFsYTJqOEZTM1FZcmJmSXB5UEdnNzB3SklGcUtzMGFXYjRmZzVCZjhLS3k1Z1NMZXktVjg?oc=5
 
 
 ## Termos monitorados
