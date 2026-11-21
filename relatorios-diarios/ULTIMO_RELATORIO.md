@@ -1,8 +1,8 @@
 # Relatório diário — Imigração e brasileiros nos EUA
 
-Gerado em: 2026-11-20 18:58 EST
+Gerado em: 2026-11-21 02:01 EST
 
-Arquivo original: `2026-11-20-18-58-tendencias-imigracao.md`
+Arquivo original: `2026-11-21-02-01-tendencias-imigracao.md`
 
 ## Objetivo
 
@@ -10,30 +10,29 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ## Principais assuntos do dia
 
-1. **Bispos EUA: preocupaão com migrantes e famílias separadas**
-   - Fonte: Vatican News
+1. **Erro ao buscar notícias para: imigração EUA**
+   - Fonte: Sistema
    - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR05uSGRiY1lzYU9xaXhmbzFnRk9uR0haUjVUMng0QTFMTm94VHJ6QV9iRUpzdTBGNHlubGIzRlY5SE9jbTRVdnVFM1c1bXRTbnNjbmlSZ0dtRERBWDZQNmxXYmRQc2NaMUNrMTB1YmN6a3dsaUVWOGZzUDVqZkRoMEtRZ3NqU0hxdUo1RXFKSjdMbkV0TWhhWDBoV0Rtc3ZQcW9ncUhYWmt1dw?oc=5
 
-2. **Justiça dos EUA derruba leis da Califórnia que restringiam atuação do ICE**
-   - Fonte: Gazeta do Povo
-   - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxNYzBkM1FxeEJVMzdBcV9lWjg5TC1Td25PQnFyalQ2aUZYaTdzVTllbXplajc1SGloQU5DMUpaVlJiQWFxcGhEc0NYVDdEZUJEbnVBOVJxU1ZLZGlUc1hjSEw0c1ppUlF6MFBiWlh4WFF6ejNiOWtrbUVNVlgzTmxEYnFQek5nQTl2ZzRaa2RLa3pnZmp6cTF0d3ZRa3dwUDYyT0RDS1pMbnV2d2F5YkF4Ykd2MmhNQQ?oc=5
-
-3. **Governo Trump defende mais restrições para trabalhadores estrangeiros permanentes nos EUA; medida impacta brasileiros**
-   - Fonte: G1
-   - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ0Z2RVFTOEp5MGUyYnFSRmhaS3ZyZXRSamRieFJYd0w5T1REYkFNOWFlbkJoendCcjhRNy0xV2xDcm9GcHNwaXRxbjR1ZFZiQktBcndYeHVFMUtwNGVZcEMxazZyOWJ1cmNWblFZaGh5SjFQZVowS1ZoclhmT0JYS181OEt1UGJaZjB3UzVraHc0MXV1UjItLV9qcEVSLVd2VmF6WlpacUZldjTSAboBQVVfeXFMT3lDUk9PUThiNFVTRWhWU0piRExqYkU1WnR3Q2huQTh2OWVjbXRERmcwb0l1X2FBM3VXTUxESTE3YjZGM0ZEMlVqbElhbUdfa2JoZnUyNjBCdUI3S2tBTUZDQWdDaENKZm5SMEVHZEU5SXBmQ2tOaFVFcEFxNmYyLUQ2TGJsblBiOWJzT3RpUXAycHl1NDlNb1pqV2thbkVPSmI4bjZRa0xPSXpvMlY1ckpmWVhNUEl5LXpB?oc=5
-
-4. **Imigração nos EUA: os gráficos que mostram impacto do 2º mandato de Trump**
-   - Fonte: BBC
-   - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMiY0FVX3lxTE90N0E2cm9Va0c5cE9YeWJ3T2RsNkVlMDRXM2dXRkcxSGtNV09MZVhuRlNXMjhiSHRaS2Z4cDFZb1ZYR2xrdWxHbnlRTUVvcVBWdV9BLUlHdXVCY1NLeDBiWWhwSdIBaEFVX3lxTE5xbmEtT3RBOTNCS1o1VnJWYVBSVzVXUjJteTZEeTEwd3dsRTFSZkNuQjNMdExjZjRKa2pfUkt5eTVtQmFTU21aa21HNmllcUhkRzVHUk1rb3d2TDdrN1p0UUZnUklqYTBm?oc=5
-
-5. **A renovação do EAD deixou de ser presumida: O novo pacote do USCIS**
+2. **A renovação do EAD deixou de ser presumida: O novo pacote do USCIS**
    - Fonte: Migalhas
    - Termo monitorado: USCIS
    - Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVTVXdXdmbEFIZlhJYzBpWlZLTHdJNk15WU9iSG9vdWlhQXZtUmZNRU9QVTJ4OXNpX05lSVRmMDV5ZXJ1Uzhmc09uZ3ZOM2xaSWZha1IzTzFCSDBZWnpuVzVTeWhkbXB6SjdpSG5ab0VtTXhWTmdkT0lVd2Y0OTNjTXRUMWNkRVlkeXNLNjdrRW43V1JfRG1TaFZiMEd2V1pXbWxMVzNVWUJMTWM?oc=5
+
+3. **Do papel ao digital: USCIS exige e-filing obrigatório**
+   - Fonte: Migalhas
+   - Termo monitorado: USCIS
+   - Link: https://news.google.com/rss/articles/CBMimgFBVV95cUxPU3lXOWsxRDdlbEh4anpHUmp2amh5SHpCaUlWVmtIa3VqWFpYTWZ0Ujh1NlV0d1N4TUw1cmN6cG5UdWZ1c0ZZdG1hMGV6eWY3STQ5SldkTmpudHhCcHlaZXZoTFRIdkdXRm5Za1NPRkd3LWs5dl93N1poWmZ3cm1fTFA1NHN4SllBWGlRRk12WTNtM2djNGw3VWtB?oc=5
+
+4. **Amaury Jr - Atualização importante: nova regra de assinatura do USCIS entra em vigor**
+   - Fonte: UOL
+   - Termo monitorado: USCIS
+   - Link: https://news.google.com/rss/articles/CBMizwFBVV95cUxQOVBucUJma2pZYXZ4WTVVdEloSVNiSXJ5WjJteHJ5WExfQlpjTXdCN21VZGpubmhtT1NRSHNrUG9OTW5PVmxlamh5NHlwSEczWWtsal9oX3dmR3psRzc1VVJWenlqZ3BYcEppckRSSnNKVEdHWmpZTDNPYTlCR25zb3owZE0yMThFeVA4ZTB2Ry1EVHZfaG1KVDZ6cjlqZF9QR1pHQjY0WmJpNFNEVlVDSnF2N2JpLTZERE1vSS1UQnN0Z05SV1NObWtXcXY2LWM?oc=5
+
+5. **USCIS exigirá novos formulários I-765 e I-539 a partir de 15 de setembro**
+   - Fonte: Gazeta Brazilian News
+   - Termo monitorado: USCIS
+   - Link: https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOEtCN1QxTEpWWjdFdzI4MXpOd3NhX25obndwSDdSQXVmRkZ6MHMyaXVzMHFfQnMxdEVVNjlKdVRtZEs3Zk1zcjBaX3NHV2s2UU5XanRPMjhIN2dNcFBmSWhKdWhGWmJJSDBuRUkyWndNN3FJMThWdVRjY2IwOWdFNldNQjhqczlrLU1oSDd1YXpkeWl2RDZ4eVhJT3RzSHUtYTJ3T2xvNWxMbTBzb003X3NodzVkMlh1TVRuQS1QajFCY1RaSF9nOQ?oc=5
 
 
 ## Sugestões de artigos para publicar
@@ -48,12 +47,8 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### imigração EUA
 
-- **Bispos EUA: preocupaão com migrantes e famílias separadas**
-  - Fonte: Vatican News
-  - Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR05uSGRiY1lzYU9xaXhmbzFnRk9uR0haUjVUMng0QTFMTm94VHJ6QV9iRUpzdTBGNHlubGIzRlY5SE9jbTRVdnVFM1c1bXRTbnNjbmlSZ0dtRERBWDZQNmxXYmRQc2NaMUNrMTB1YmN6a3dsaUVWOGZzUDVqZkRoMEtRZ3NqU0hxdUo1RXFKSjdMbkV0TWhhWDBoV0Rtc3ZQcW9ncUhYWmt1dw?oc=5
-- **Justiça dos EUA derruba leis da Califórnia que restringiam atuação do ICE**
-  - Fonte: Gazeta do Povo
-  - Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxNYzBkM1FxeEJVMzdBcV9lWjg5TC1Td25PQnFyalQ2aUZYaTdzVTllbXplajc1SGloQU5DMUpaVlJiQWFxcGhEc0NYVDdEZUJEbnVBOVJxU1ZLZGlUc1hjSEw0c1ppUlF6MFBiWlh4WFF6ejNiOWtrbUVNVlgzTmxEYnFQek5nQTl2ZzRaa2RLa3pnZmp6cTF0d3ZRa3dwUDYyT0RDS1pMbnV2d2F5YkF4Ykd2MmhNQQ?oc=5
+- **Erro ao buscar notícias para: imigração EUA**
+  - Fonte: Sistema
 
 ### USCIS
 
@@ -66,18 +61,14 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### green card
 
-- **Trump quer dificultar green card para trabalhadores brasileiros; entenda as mudanças**
-  - Fonte: InfoMoney
-  - Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbUpJQ0Z0Zk1pWXNaT2M5NUU4dEpKUlY5ODdvbUhwZm92OVlIbk45YkZ3MHRpcUpOZVlQbEpZQ2FYRjhfeXR5d0ZpemtRZEx3S1NHUVlfR2ZoRXRKYWtWbnFJbmlLc0xfbmlWbUJHd0w2ZlUtc1BDZXlKSHBsTklOS3N5Szh4ZnoxY0djZ3ZJQlh0M3pHbWE1TG4zc2RZWlNuY0FsQVRkdlVJSmdmLTJmMDkwZG1hMzAyVGpR0gHAAUFVX3lxTE94SzhSLUFoZUtzTk1IZk9YMzJfMklfRFRseUVPaExSTmdfWUxEaHFpcTZSdGM5aVJZRE9fMDZrZldVdWVZUlgxSV9WYm43eVZ0a0Q2OFEzUE9KOE5tbXJrejc0M3MyV2VESVRGRTNvR290ZUpVOWNESDBXcnFWLXQwWkNBNF9xN2RIS2w5Mkh1WVpuQkRiNmNESWlOb1huM1NQTWJGRWJlX2ZpMEdSTWI1WDh5Y1FNajVFM3d4cC1WWA?oc=5
-- **EUA propõem novas restrições para green cards de trabalhadores estrangeiros; entenda**
-  - Fonte: Panrotas
-  - Link: https://news.google.com/rss/articles/CBMi4gFBVV95cUxOcHpoN0FPeGVxMnIxN3g4eXZLdVZBaFppUGZFQl90VndiWXRxQVpYSFFBU0p5MXJya0FWNFV0M3NFUE5RbUhyazI4WExkQ0g2WG5mdk5ickNNVkFpZ0d2eU5TbEtBdnBXRmlPNmk0U2huNjBOSkUzNFVDY3VRZHFqTzNOUHNTQUJDbkEyOXhkV1d1Wkc4V1JDWHpwYkpUZG91Snp3TUJ4MTZBWEwwTnZ4Q29ZdXlEcnNRdlphQ3lYa292eHRoeWVBVFNGZ1RlV2hyamVFXzJ3bi1udkpxVW53Y3dB?oc=5
+- **Erro ao buscar notícias para: green card**
+  - Fonte: Sistema
 
 ### visto americano
 
-- **Visto americano: espera por entrevista chega a cinco meses em São Paulo; veja prazos e como tentar antecipar**
+- **Harry e Meghan tiveram que voltar a viver no Reino Unido porque EUA não renovaram visto do príncipe, diz jornal**
   - Fonte: O GLOBO
-  - Link: https://news.google.com/rss/articles/CBMi9gFBVV95cUxNbUcxTkVTeVQwcTJ3Yk1DUkg4alBybkE4NXg5VlNWNC1TOVlPRjRuSmh2YWJvLVZHc2RyWVdSRVVnbTlTX2tsRm96RzBCUmY3Z1QxcHIwc0E1Q0VDUHgzRm9EVmdDR1JobFFzZDlxeUduVnBiUnBMLXlFNk9YaVpUa0pUS2ZhZnRVc1I3ODc4dGpEemhjaUNFM2ZXcjdJWjAzemw4cGdYVmljUmdodC1HZ1E5WUtfb2hnNTZpU0tjUDUyMkpTSDBCQ0x6N0dlMHVqMEFpaGY3UUdiNlU1OEdjSE1LZW1QeVFkQzM2MkNaTmpxbHRhemfSAYQCQVVfeXFMT2NBbDZxWmNZZEpXOEVCV2ZJUlhOREoySW1oLWZob3lOZkE4OWd4TVlLcDNBaGh5TDF5RGZEekFTNnpvd3ZNVkY5QnRUdzE2dkFIeHg4VFh5RUJ1WVhwLVluOGw5N3VLYUh4LXZxSEFMX3VSOVNhTzR6bXVNMzd1RE14R0dqTjJ4QS1WQkFteFQ4UFBSUkRxTlYxaTVHZXVPMU4tUDJ0WUZMekRJZjZqYl9tQ0Y2eXVJUER4dEhiY2M5SHVUcDk4RTNITlRoaF9KdDZaU1RGRzNBbWZXVC0wT0ZMSzV3NkxiUW9yWnZfaUdOeFZwNW44bVV2a1ZxN2V3RTEyRkw?oc=5
+  - Link: https://news.google.com/rss/articles/CBMi-gFBVV95cUxQRUxWeWVaOEZ1VnctUG5ncFJuWDZyVFpLdFd6VGlkWGRzcFZQT0g2WDJ0M3U1VXdDNEl6V0gzdkdDSWNXeTJDSHNUZW1GU1M1Ui1KcFpJMFJFaXl0blVUdDZIWDRDaVF3a094aktfM1pmTDM1RFdGNExPUGVBT25VNjNCdTJXXzRwekRBTGhGSm1GZ2NJOGdRN2F4UDJRVmpGRWF5NHZlckI5WUFfZ3BYRTAwWndfM19sVXA0VUpERl9rektyU2hrSl8yRzBhNFN0QzJ3YU1IRVExOUJyeU1sMm1SMkhhVkJ3SkJrWXNTb1V4cUhlNUJZdFpn0gGIAkFVX3lxTE5SUnhFdzA3M1VKR29vaWJJNTE0Zmc2WlZkdkFJWXlRYTdoNm9XTUE4V2ZMeFdKNElsZXY3N19LWHdrLWFvUmlJQVBiZWdQYmpMVnhaSDd4ZUtnVVFFblMxSXgxWG5CNTdvSmcwcG8xbjd3LURzZ1R3V0JnY1diTmNSVlBwdC1rdGtWRGkzbzZ6UGphMXNKQjJ1aVRGdmJRa3k0U0laeHM1WjNVam5tTWdLb0p0LTJURk9tX3A2aVhmVmUyT0J4enctTEswemFHMDVsRXRJOTJNejk3b1d6a2NTSktwdFJzdVpVTVotR3BzeWxRTkpEVnI2dk5JdG9zRnk3akw3Rkd3Zg?oc=5
 - **Visto americano: nova regra limita a três as alterações na entrevista**
   - Fonte: Viagem e Turismo
   - Link: https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMTQtS3laX0diMXV0RTdzX0xkblJmNjBBZFZhbHNMbFpMQmt2S0ozSlpPZkx6VGh3YUFrTUYyLW1HYXRRc1pnQ0J5WTVZS29sdHQtbWFVem9HbmtZTEdJN3p4Z255RDZwdDBzajE4cHEtOFd4R1pLRjUxU0xEa0loRVlfcXM5djBvd3liS0tUMWRQT2lMQWpfUVE1N1E0aXVfYUpGaU1ydVBUQXp0VGlHdjJPMXhXS0Q3YjZVakNXRWFXZw?oc=5
@@ -93,12 +84,8 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### asilo nos EUA
 
-- **Flávio reúne argumentos para pedir asilo nos EUA e mostrar que sofre perseguição**
-  - Fonte: Gazeta do Povo
-  - Link: https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSWcwemd5LUZ3TUdJemJjT2pYcXo3QzhHbC1FRUQ4NjNQQzF0WnowSUtaMjF0YTM3cjFOMDZMYmNSV2V5eWNRVEhEM3Bvb3pObUJ2Qnc1NHo1NEtBYUJjVWZPRFlSVTM4VFY4VjhmY05wRzU5TFVMbExNWnl4aVhOTTZTck5jbEpEV1dPVTJSSGNFRmsycFRyNVZKbXJTRzIyOFZ4ZEpvZU1ZdjZIYVZwWi1VMDZhekV5RWk1X0NjRGc?oc=5
-- **Flávio Bolsonaro chega aos EUA após desobedecer Moraes e pedirá asilo a Trump**
-  - Fonte: Band
-  - Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxORVB5alNjSUpmLVdCbjFqX1JwbjVWSmo4UDJlRGoycEJsdkxJUTh1aWpBa1JTMnRKM0E4U2x1aDNmQm1CSVJFeFNxNkxxZ3BtWV9WLUVFamVtVEc2R2p3eDV6OWN3U2NNZG84SEp6NXdXalZNS0JYTHFTMTFxTUNOZ0FWNXF6X29TQU5rWnZWMUNwNi15S3lqb0xRaVNIaVJncEtlNmlPYnJxNXZMdFViWHZaQkk?oc=5
+- **Erro ao buscar notícias para: asilo nos EUA**
+  - Fonte: Sistema
 
 ### ICE immigration
 
