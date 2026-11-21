@@ -1,8 +1,8 @@
 # Relatório diário — Imigração e brasileiros nos EUA
 
-Gerado em: 2026-11-21 02:01 EST
+Gerado em: 2026-11-21 14:14 EST
 
-Arquivo original: `2026-11-21-02-01-tendencias-imigracao.md`
+Arquivo original: `2026-11-21-14-14-tendencias-imigracao.md`
 
 ## Objetivo
 
@@ -10,29 +10,30 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ## Principais assuntos do dia
 
-1. **Erro ao buscar notícias para: imigração EUA**
-   - Fonte: Sistema
+1. **Bispos EUA: preocupaão com migrantes e famílias separadas**
+   - Fonte: Vatican News
    - Termo monitorado: imigração EUA
+   - Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR05uSGRiY1lzYU9xaXhmbzFnRk9uR0haUjVUMng0QTFMTm94VHJ6QV9iRUpzdTBGNHlubGIzRlY5SE9jbTRVdnVFM1c1bXRTbnNjbmlSZ0dtRERBWDZQNmxXYmRQc2NaMUNrMTB1YmN6a3dsaUVWOGZzUDVqZkRoMEtRZ3NqU0hxdUo1RXFKSjdMbkV0TWhhWDBoV0Rtc3ZQcW9ncUhYWmt1dw?oc=5
 
-2. **A renovação do EAD deixou de ser presumida: O novo pacote do USCIS**
+2. **Imigração nos EUA: os gráficos que mostram impacto do 2º mandato de Trump**
+   - Fonte: BBC
+   - Termo monitorado: imigração EUA
+   - Link: https://news.google.com/rss/articles/CBMiY0FVX3lxTE90N0E2cm9Va0c5cE9YeWJ3T2RsNkVlMDRXM2dXRkcxSGtNV09MZVhuRlNXMjhiSHRaS2Z4cDFZb1ZYR2xrdWxHbnlRTUVvcVBWdV9BLUlHdXVCY1NLeDBiWWhwSdIBaEFVX3lxTE5xbmEtT3RBOTNCS1o1VnJWYVBSVzVXUjJteTZEeTEwd3dsRTFSZkNuQjNMdExjZjRKa2pfUkt5eTVtQmFTU21aa21HNmllcUhkRzVHUk1rb3d2TDdrN1p0UUZnUklqYTBm?oc=5
+
+3. **Acrobatas argentinos são detidos pelo ICE em viagem nos EUA para funeral**
+   - Fonte: CNN Brasil
+   - Termo monitorado: imigração EUA
+   - Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxPOEhTcmRXQUViSU4zVVJvbk9QSkY0NFY5ajBqQ3gxenZ0Y0RCVmV0bnBaQWJvcTNkdkR1dlZiN3RCdmZWZUpZcmFmQ0I3SC05N2dtaWszcHNfNDRmcjNUZ1dWdFBlMnhTVzMxN3g0bFFBbUJDd2pMR3RUMDhLWEFYbkkwcE84YnAzNzE4YjdTN3RUbXhQUlJtQ2tBa1BvMDNIZ0gzdmlkN19ibUdzWUtpeWNOWUZ6YWM?oc=5
+
+4. **Governo Trump defende mais restrições para trabalhadores estrangeiros permanentes nos EUA; medida impacta brasileiros**
+   - Fonte: G1
+   - Termo monitorado: imigração EUA
+   - Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ0Z2RVFTOEp5MGUyYnFSRmhaS3ZyZXRSamRieFJYd0w5T1REYkFNOWFlbkJoendCcjhRNy0xV2xDcm9GcHNwaXRxbjR1ZFZiQktBcndYeHVFMUtwNGVZcEMxazZyOWJ1cmNWblFZaGh5SjFQZVowS1ZoclhmT0JYS181OEt1UGJaZjB3UzVraHc0MXV1UjItLV9qcEVSLVd2VmF6WlpacUZldjTSAboBQVVfeXFMT3lDUk9PUThiNFVTRWhWU0piRExqYkU1WnR3Q2huQTh2OWVjbXRERmcwb0l1X2FBM3VXTUxESTE3YjZGM0ZEMlVqbElhbUdfa2JoZnUyNjBCdUI3S2tBTUZDQWdDaENKZm5SMEVHZEU5SXBmQ2tOaFVFcEFxNmYyLUQ2TGJsblBiOWJzT3RpUXAycHl1NDlNb1pqV2thbkVPSmI4bjZRa0xPSXpvMlY1ckpmWVhNUEl5LXpB?oc=5
+
+5. **A renovação do EAD deixou de ser presumida: O novo pacote do USCIS**
    - Fonte: Migalhas
    - Termo monitorado: USCIS
    - Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVTVXdXdmbEFIZlhJYzBpWlZLTHdJNk15WU9iSG9vdWlhQXZtUmZNRU9QVTJ4OXNpX05lSVRmMDV5ZXJ1Uzhmc09uZ3ZOM2xaSWZha1IzTzFCSDBZWnpuVzVTeWhkbXB6SjdpSG5ab0VtTXhWTmdkT0lVd2Y0OTNjTXRUMWNkRVlkeXNLNjdrRW43V1JfRG1TaFZiMEd2V1pXbWxMVzNVWUJMTWM?oc=5
-
-3. **Do papel ao digital: USCIS exige e-filing obrigatório**
-   - Fonte: Migalhas
-   - Termo monitorado: USCIS
-   - Link: https://news.google.com/rss/articles/CBMimgFBVV95cUxPU3lXOWsxRDdlbEh4anpHUmp2amh5SHpCaUlWVmtIa3VqWFpYTWZ0Ujh1NlV0d1N4TUw1cmN6cG5UdWZ1c0ZZdG1hMGV6eWY3STQ5SldkTmpudHhCcHlaZXZoTFRIdkdXRm5Za1NPRkd3LWs5dl93N1poWmZ3cm1fTFA1NHN4SllBWGlRRk12WTNtM2djNGw3VWtB?oc=5
-
-4. **Amaury Jr - Atualização importante: nova regra de assinatura do USCIS entra em vigor**
-   - Fonte: UOL
-   - Termo monitorado: USCIS
-   - Link: https://news.google.com/rss/articles/CBMizwFBVV95cUxQOVBucUJma2pZYXZ4WTVVdEloSVNiSXJ5WjJteHJ5WExfQlpjTXdCN21VZGpubmhtT1NRSHNrUG9OTW5PVmxlamh5NHlwSEczWWtsal9oX3dmR3psRzc1VVJWenlqZ3BYcEppckRSSnNKVEdHWmpZTDNPYTlCR25zb3owZE0yMThFeVA4ZTB2Ry1EVHZfaG1KVDZ6cjlqZF9QR1pHQjY0WmJpNFNEVlVDSnF2N2JpLTZERE1vSS1UQnN0Z05SV1NObWtXcXY2LWM?oc=5
-
-5. **USCIS exigirá novos formulários I-765 e I-539 a partir de 15 de setembro**
-   - Fonte: Gazeta Brazilian News
-   - Termo monitorado: USCIS
-   - Link: https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOEtCN1QxTEpWWjdFdzI4MXpOd3NhX25obndwSDdSQXVmRkZ6MHMyaXVzMHFfQnMxdEVVNjlKdVRtZEs3Zk1zcjBaX3NHV2s2UU5XanRPMjhIN2dNcFBmSWhKdWhGWmJJSDBuRUkyWndNN3FJMThWdVRjY2IwOWdFNldNQjhqczlrLU1oSDd1YXpkeWl2RDZ4eVhJT3RzSHUtYTJ3T2xvNWxMbTBzb003X3NodzVkMlh1TVRuQS1QajFCY1RaSF9nOQ?oc=5
 
 
 ## Sugestões de artigos para publicar
@@ -47,8 +48,12 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### imigração EUA
 
-- **Erro ao buscar notícias para: imigração EUA**
-  - Fonte: Sistema
+- **Bispos EUA: preocupaão com migrantes e famílias separadas**
+  - Fonte: Vatican News
+  - Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR05uSGRiY1lzYU9xaXhmbzFnRk9uR0haUjVUMng0QTFMTm94VHJ6QV9iRUpzdTBGNHlubGIzRlY5SE9jbTRVdnVFM1c1bXRTbnNjbmlSZ0dtRERBWDZQNmxXYmRQc2NaMUNrMTB1YmN6a3dsaUVWOGZzUDVqZkRoMEtRZ3NqU0hxdUo1RXFKSjdMbkV0TWhhWDBoV0Rtc3ZQcW9ncUhYWmt1dw?oc=5
+- **Imigração nos EUA: os gráficos que mostram impacto do 2º mandato de Trump**
+  - Fonte: BBC
+  - Link: https://news.google.com/rss/articles/CBMiY0FVX3lxTE90N0E2cm9Va0c5cE9YeWJ3T2RsNkVlMDRXM2dXRkcxSGtNV09MZVhuRlNXMjhiSHRaS2Z4cDFZb1ZYR2xrdWxHbnlRTUVvcVBWdV9BLUlHdXVCY1NLeDBiWWhwSdIBaEFVX3lxTE5xbmEtT3RBOTNCS1o1VnJWYVBSVzVXUjJteTZEeTEwd3dsRTFSZkNuQjNMdExjZjRKa2pfUkt5eTVtQmFTU21aa21HNmllcUhkRzVHUk1rb3d2TDdrN1p0UUZnUklqYTBm?oc=5
 
 ### USCIS
 
@@ -61,40 +66,48 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### green card
 
-- **Erro ao buscar notícias para: green card**
-  - Fonte: Sistema
+- **A estratégia do ICE para deter imigrantes com green card nos EUA**
+  - Fonte: VEJA
+  - Link: https://news.google.com/rss/articles/CBMingFBVV95cUxPR2hkVWpKX25nZVNKcFBJcV9tWXVuYURJRVhJVVVySTNuVHRoWjdEWTgzSlRaVl9PVVBrQXRCNWRuS25BaHFBYmZSbVFlbWNTVTZTRTU4NXZYQXlEcXQ2bFlLZlVwMk8yVFA5bmdVcGVCNHhtSHNCcFdndzVkT2diYm5xZ2J6aGN5UHpMVXZmWi1nN3VWdjVtdnZwQ1Yxdw?oc=5
+- **Justiça dos EUA obriga reabertura da loteria do green card DV-2027**
+  - Fonte: Migalhas
+  - Link: https://news.google.com/rss/articles/CBMirAFBVV95cUxNd3NPYlZlcHVFUVlURXd3UHEtZVl3OWZkNVpxWlVoS1J4TGo4N3RqTENNOEc0aHdmY3U1Rlp1RGNKSElkaVZPVWk4S0diNFJ3R2psd3R6c1B3YkNZYkg1bUtTX1R4MTVwYi05eHNqMXJicDZ2YWNxU2Q1ZmM0TXNFQllZRE5ZQndHQk9Dd0pJLTRiTzBCV000SVl6aFNnX1N1WGZoUmhpN3hUOWlN?oc=5
 
 ### visto americano
 
-- **Harry e Meghan tiveram que voltar a viver no Reino Unido porque EUA não renovaram visto do príncipe, diz jornal**
+- **Como governos Lula e Trump pretendem acabar com a 'guerra fria dos vistos diplomáticos'**
+  - Fonte: BBC
+  - Link: https://news.google.com/rss/articles/CBMiY0FVX3lxTE1uaVNNdnEwa25QTjdrYnpyT3pYd1ZGSEZJdS03OHo3QlQxdjF1RFYxa0xWNnZtSi1nTlREZy1jbHM3TW02b0RfM3VIVTNmeWlDaXNzaVoyZHNqa3lIUzVaWXh2b9IBaEFVX3lxTE1pRWRuMEhpTUdHOFRXV2ZvRjZLOHlfbUlHRnFSX24td05KTi00RmdtQ0FkU3B5czR1aGF5VXdhcGk4MEZ2Z0VPbG5yV0JWUmJBU3VYMTJxcTUxaUZ5RXR0ZUFEdHRDbDVn?oc=5
+- **Visto americano: espera por entrevista chega a cinco meses em São Paulo; veja prazos e como tentar antecipar**
   - Fonte: O GLOBO
-  - Link: https://news.google.com/rss/articles/CBMi-gFBVV95cUxQRUxWeWVaOEZ1VnctUG5ncFJuWDZyVFpLdFd6VGlkWGRzcFZQT0g2WDJ0M3U1VXdDNEl6V0gzdkdDSWNXeTJDSHNUZW1GU1M1Ui1KcFpJMFJFaXl0blVUdDZIWDRDaVF3a094aktfM1pmTDM1RFdGNExPUGVBT25VNjNCdTJXXzRwekRBTGhGSm1GZ2NJOGdRN2F4UDJRVmpGRWF5NHZlckI5WUFfZ3BYRTAwWndfM19sVXA0VUpERl9rektyU2hrSl8yRzBhNFN0QzJ3YU1IRVExOUJyeU1sMm1SMkhhVkJ3SkJrWXNTb1V4cUhlNUJZdFpn0gGIAkFVX3lxTE5SUnhFdzA3M1VKR29vaWJJNTE0Zmc2WlZkdkFJWXlRYTdoNm9XTUE4V2ZMeFdKNElsZXY3N19LWHdrLWFvUmlJQVBiZWdQYmpMVnhaSDd4ZUtnVVFFblMxSXgxWG5CNTdvSmcwcG8xbjd3LURzZ1R3V0JnY1diTmNSVlBwdC1rdGtWRGkzbzZ6UGphMXNKQjJ1aVRGdmJRa3k0U0laeHM1WjNVam5tTWdLb0p0LTJURk9tX3A2aVhmVmUyT0J4enctTEswemFHMDVsRXRJOTJNejk3b1d6a2NTSktwdFJzdVpVTVotR3BzeWxRTkpEVnI2dk5JdG9zRnk3akw3Rkd3Zg?oc=5
-- **Visto americano: nova regra limita a três as alterações na entrevista**
-  - Fonte: Viagem e Turismo
-  - Link: https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMTQtS3laX0diMXV0RTdzX0xkblJmNjBBZFZhbHNMbFpMQmt2S0ozSlpPZkx6VGh3YUFrTUYyLW1HYXRRc1pnQ0J5WTVZS29sdHQtbWFVem9HbmtZTEdJN3p4Z255RDZwdDBzajE4cHEtOFd4R1pLRjUxU0xEa0loRVlfcXM5djBvd3liS0tUMWRQT2lMQWpfUVE1N1E0aXVfYUpGaU1ydVBUQXp0VGlHdjJPMXhXS0Q3YjZVakNXRWFXZw?oc=5
+  - Link: https://news.google.com/rss/articles/CBMi9gFBVV95cUxNbUcxTkVTeVQwcTJ3Yk1DUkg4alBybkE4NXg5VlNWNC1TOVlPRjRuSmh2YWJvLVZHc2RyWVdSRVVnbTlTX2tsRm96RzBCUmY3Z1QxcHIwc0E1Q0VDUHgzRm9EVmdDR1JobFFzZDlxeUduVnBiUnBMLXlFNk9YaVpUa0pUS2ZhZnRVc1I3ODc4dGpEemhjaUNFM2ZXcjdJWjAzemw4cGdYVmljUmdodC1HZ1E5WUtfb2hnNTZpU0tjUDUyMkpTSDBCQ0x6N0dlMHVqMEFpaGY3UUdiNlU1OEdjSE1LZW1QeVFkQzM2MkNaTmpxbHRhemfSAYQCQVVfeXFMT2NBbDZxWmNZZEpXOEVCV2ZJUlhOREoySW1oLWZob3lOZkE4OWd4TVlLcDNBaGh5TDF5RGZEekFTNnpvd3ZNVkY5QnRUdzE2dkFIeHg4VFh5RUJ1WVhwLVluOGw5N3VLYUh4LXZxSEFMX3VSOVNhTzR6bXVNMzd1RE14R0dqTjJ4QS1WQkFteFQ4UFBSUkRxTlYxaTVHZXVPMU4tUDJ0WUZMekRJZjZqYl9tQ0Y2eXVJUER4dEhiY2M5SHVUcDk4RTNITlRoaF9KdDZaU1RGRzNBbWZXVC0wT0ZMSzV3NkxiUW9yWnZfaUdOeFZwNW44bVV2a1ZxN2V3RTEyRkw?oc=5
 
 ### brasileiros nos Estados Unidos
 
-- **Trump diz que convenceu Filipinas a substituir produtos agrícolas do Brasil pelos dos EUA**
+- **Do Pará aos EUA: como a Amazônia quer alavancar a bioeconomia e conquistar o mercado norte-americano**
   - Fonte: G1
-  - Link: https://news.google.com/rss/articles/CBMif0FVX3lxTE1DRXIyZF9qcXZEMDBtZC1oUGlHODEydVdsc3ZlQUNQVWxrOC16N014S0t5WkdCaFRPdm5wNmlWbTdUSk40VjhfNjhwOUIwaUNaTWkwM3kwOURWVVBFVkdmaE9pN21NaUZtQmZLZFhvQVpqRkstZkxzVXQ0UnYxeTDSAY4BQVVfeXFMTXNEWTExY29iM1NRbmtHeVVpQ3R1TWlCRFZDWEhuV19OQXVtMDI2TVJxYmYxVUZ4cHlPNXBGSWFTZnN0OTBaMUtrWXR6S2JlWmI0NnkwVHdsWEIzQjVnMi1samxncTFnTWFQREtuYWlmZHB2QlpfWEFJU1VmdXdGeGs2NzFBQXVBQWkyLW1rdw?oc=5
-- **Trump diz que Filipinas trocarão produtos agrícolas do Brasil pelos dos EUA**
-  - Fonte: CNN Brasil
-  - Link: https://news.google.com/rss/articles/CBMirwFBVV95cUxORm9RSlJBUkF6NFpTeFlPUXl0bTVWVFhSX3o3elFrQ29mMlNZVU1WQzNWYk9TVmxQTkR2aW5nVFV2c3hNN0EyR3RlR0NEZmh6aEp0dTFwMVJndldiSW9sbGlBQmdjbWZFRk01RkxobXBZQzFhakxfRXNrbUw4UHhPTXU0NUI0MTMwbXN2U3ZDcDlOX1hDOHNFVkF1eWJvNUxDeFNMVHhKdlVDNjBYSFdj?oc=5
+  - Link: https://news.google.com/rss/articles/CBMi6AFBVV95cUxNV2tsdXVEUVdTVDU3Y0NNSXlPVGpQVmtZOURMdXBRbkltMFZOX2V1bXNZdEFKNlpMbWp1R1VpQXZqa1hwM3hNakNYekZkWDAwNWNFeC01dGd2R2xRRzR1VnpKQmV2XzNfcEFtY3BIakVpYkdHUkczYnhjYUpsQWRfTzkzU29temJSYU9yazVwWGxXV0dDMlpXM1hyZDhEeWItNy1PMWlQODNZT0FrcjVuVzNkS3hYNmpjdzB5UTlnTlFkaDhOUmQ5bnRyaF9zNzJta0JOZk9JdlY4dWlDdUFfLUVIN0lMc2dW0gH3AUFVX3lxTE9PazY5ZWRfcXZ6S0VRVGc4cXlib3F1TnlucDZTM2lqWXI0aF9HdWJ0SEFwb0ZyeUtoaHFubGtRcUJpdzNFQXlYQUxjTk80TS1JdDJKUW9tRzA5TEdGRURPYkpYMWo2bzJCUGxZNldKTzQxbkdOd2p6Sy1hdG9GdEFJckI0eTJqdEVlNXpHbXFXa0o5Q0toTUJCRTdIQkpFN0VqZ0xBbW5aeUFFNEwwa245WUZZSzhIQVB4Q21XQzB0c1dDNkt6X2liRnlWZDdxaVBuYkpaWW1ycl9hanRPallYZFRqM0NZRVBCdUppREE4cXp6U3pjNFE?oc=5
+- **Sete brasileiros são eleitos para assembleias estaduais nos EUA**
+  - Fonte: Agência Brasil
+  - Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxNSzNFOHlUd0UwSzRuUmhpd09hRE1iY21rVENMbjR1bXh5Qm02S092YnNQUUVSdDFsYjREQzRRRlFIenZzMi1vZlhySDlXcUZUeWJWR2I1R2RCc2p4NlhNb0xuNXJsYmdPMjBGNFNKb19SalUtcy1JYWxULTg2N1V3MUFPUmRlMWc0NG5kMi00VjFRQ0dFNHh3SHBEckxPOFRaZkNBNnpSeGhoSk9wSE50UFRNV2M5M0dTMUdMUWhRaWRBVlRU?oc=5
 
 ### asilo nos EUA
 
-- **Erro ao buscar notícias para: asilo nos EUA**
-  - Fonte: Sistema
+- **Flávio reúne argumentos para pedir asilo nos EUA e mostrar que sofre perseguição**
+  - Fonte: Gazeta do Povo
+  - Link: https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSWcwemd5LUZ3TUdJemJjT2pYcXo3QzhHbC1FRUQ4NjNQQzF0WnowSUtaMjF0YTM3cjFOMDZMYmNSV2V5eWNRVEhEM3Bvb3pObUJ2Qnc1NHo1NEtBYUJjVWZPRFlSVTM4VFY4VjhmY05wRzU5TFVMbExNWnl4aVhOTTZTck5jbEpEV1dPVTJSSGNFRmsycFRyNVZKbXJTRzIyOFZ4ZEpvZU1ZdjZIYVZwWi1VMDZhekV5RWk1X0NjRGc?oc=5
+- **Possível asilo a Flávio vai na contramão de decisões anteriores dos EUA**
+  - Fonte: UOL Notícias
+  - Link: https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWWtoWmlpV0p4ckRKbEJQcVMyS3p3UzZuWkVBcG1EeFZQMGY5cWp2ZTFRQy0tOVBnTEM5NVBnc3NOLV9FdWlLcEY1WDQxR3NsZzRrWFNMM0Q0YkNQOUw1ZU5TbC1iYVBJSHd2SVVoMGtTdHhxcEVkOXg5dWlld1ZUc2M3WktMenA2OG9Ka1NRcXU3dGxCdkpkaFFSQXFHeF9uMWl3NDhKVDY0RkZ6NWNUdWUxeHRDTmdDMEExd2ZlSTJBVnhTWXM1eW5jeTBoNHVUYW91eXRtWQ?oc=5
 
 ### ICE immigration
 
-- **Sustentam mãe com câncer: trigêmeos colombianos com permissão de trabalho são detidos pelo ICE nos EUA**
-  - Fonte: O GLOBO
-  - Link: https://news.google.com/rss/articles/CBMi9gFBVV95cUxOUVctR2I2ZnFya0c5MHhDOVhDcHg4RHJpb092T3JwUEw2UTA1YmEyZnE4UWtZaW5fZnpULS1LN2tQUDVqTWZvWHNONFRCa2lFc2J6blZmT1pzOVdQdUtKdTFXLUtleWF4THpKOFBDZTEwMWJzaFkxWDI4bzYxUGZzdGJsU2JiV1RWZFZMQ3pmSG1WbDUtS2Z4UVhJOUt6YWZncWFJOG5GZkRjUEVZRnZ2bHI5VUhSTDlUenlTM3VxS2R0THhXQVlPbF8xOVF3Q0JESUViMFF6WDlSM2ZjU1NaV1NkQUpjUWdldVNqeTRtbHBobU5XVXfSAYQCQVVfeXFMTmJ4S2xMNWNMZUpOUXlnR2dMeklQVmR6Q1NCWnhURFVXMHFPUGdzV2FBbUNBTFRHVnRKTHJlbXRGRmZXSEVabXJKR2NwNGZWRV80bUhFZUYtNnpmNXN2bk9ORXdrOW1ZN1czcVJZMTlQR3hNZ2hGU09jc1Jqem9WRU8tN0loNmluY0lDcnVNTWFSMW5MOE1hZ3JYWHYwM1VvVDliUUo5akdnWEwtOHhyeXpBX3pKRlhMaGUxb2pHRUF1ZUFjelVKYTAxd1M3V2w5aXB0bWRIekF3YXl1U0M1eWNuZUplTUZUVk9ZQlU4NjNNNnQ0Sm5ocVp3S0Y5RUNsbzNCZms?oc=5
-- **Massachusetts: nova lei que protege imigrantes em tribunais enfrenta denúncias de descumprimento pelo ICE**
-  - Fonte: Gazeta Brazilian News
-  - Link: https://news.google.com/rss/articles/CBMi8wFBVV95cUxNRjN3dW94MlN6MXVwVTIyZVVweTRrWXprcFRzdEVwam5IQ1J3OTZmYnB4Z0xENE9rbDJuVVFqekE2QjBDcl81Zm00akhqWXF3NFFMeF9qSlp1SVFDUU9KdDBwNUw4SXpmeXFmblRvck1IeXZzWFVQNWp0MjVsZVpRRkJtdlJtUE45V05DUjBmZmYwRHpjZ3dKdVBVVjlCRmdBTV9kWkJUNmd1UzFXWXNBNjdxTjJXMk1JTHd4SVhOVy1TbWdnQ3ZuUDZ1RXZDZy1DRGd4NXFtYzUtampMNVdQYWlDam90MjctcUdFUlhZNUpabk0?oc=5
+- **Homem é baleado em Nova York dentro de carro por agentes do ICE**
+  - Fonte: Agência Brasil
+  - Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxOcmtmc3VDU1poSF9CajNHYm9fbnFSSlNCZHNOZlhZV2VVc2NFVFZJYjZZajNDd3ZSRlZXNjJkTWZ3cy1HVFdibV9ZUnM3OUk5MjlJUDM1QVVxNWlGVDhjQlpRa0NzbV9fRDR6QTFMVGUzRWlsSDNUSjhHTWtjTUdabjVOV2pUaVZPTmVLTjFJZl8yZk9JNkhhYVhqQ1Rld2tzR2hobTJOcmNETVJjREFuYXNzSU9FU3JPYW5XZzcxUDZ1RUp3?oc=5
+- **Polícia Civil de Santa Catarina, em cooperação com o ICE, prende foragido da Justiça brasileira em Orlando, nos EUA**
+  - Fonte: Polícia Civil de Santa Catarina (PCSC)
+  - Link: https://news.google.com/rss/articles/CBMiQ0FVX3lxTE93VDJmeTk1LUFsYTJqOEZTM1FZcmJmSXB5UEdnNzB3SklGcUtzMGFXYjRmZzVCZjhLS3k1Z1NMZXktVjg?oc=5
 
 
 ## Termos monitorados
