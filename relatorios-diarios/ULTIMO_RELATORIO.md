@@ -1,8 +1,8 @@
 # Relatório diário — Imigração e brasileiros nos EUA
 
-Gerado em: 2026-11-22 14:38 EST
+Gerado em: 2026-11-22 18:35 EST
 
-Arquivo original: `2026-11-22-14-38-tendencias-imigracao.md`
+Arquivo original: `2026-11-22-18-35-tendencias-imigracao.md`
 
 ## Objetivo
 
@@ -15,15 +15,15 @@ Este relatório serve como base para criação de artigos atualizados para o blo
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMi2wFBVV95cUxPb2I1QkgxcDB3UU1uWlQ2aGJRV3M0S2tEZDlycU9CLUx1UDgwR1g3dVZrakFpbm5DQ29hUU5NVVktUklRc2JWNFZFUXVqc3ZudTZnTGFPdlY1V2ZmXy10SGhnWEt1UzVKM3VjNm1Yc0NkNmlKUWJlMEtRRWFUVlMxeGVKRWd1cnp1OHJfeG82dnd0MGRBUEdjSjdpbEpsSEIwNWEtaG5Pd2J0ZlFBQ2FNMXlsRzRkeEVDYmdON095c3h0TS1aVk82TG9pWXUwc0dIUE4xUVZ5TFZsMlnSAeoBQVVfeXFMTTlpT21veWY3YmJ2Q1FRSnh5M08wRTZUVTRnazhhdGZIbjA2cVg0bUlzUVJGRG1YNmM5SlBJVGJ3ZHhXMk5Cc2QxdWp6SGdGbS01TXgwQ3NGaGtoOGRROHRoMkJDQ3BkOUY4WnZyQy1Mck5GNUN5THNVbEk1eTlwaV96YlJhd1Ywc2RUaDRZSGFpVmpqRDVoS1FuZ1hHMmNFWjRJY3JrTE56V1Vua3B0cDBBVk1pMmlaSEhqdHZXd2dyWVg4QkhxU2tiWUlxQlMyMXQyWkJtZjFhakdMOGdnRk9JMGd6VEpaMWxB?oc=5
 
-2. **Trabalhadores com visto H-1B abandonam empregos nos EUA diante de cerco à imigração**
-   - Fonte: Bloomberg Línea Brasil
-   - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMizAFBVV95cUxQUHFNdDEwa3lxOGxCUUExekRPUGp0U3pGelpUQWtETEg4cWtqd1E4LVdCdG1Ld1FFRWIyV0hvaFFtbWowbHhQbTZmdWNtMlN2Wi1DQXRUVVZFTEJOSUNLSDBNV0x5OUUtbW85NkJlWEhoTHlReE43bHZpbXhZb1hYTUxVTldmVEJGYW8zNnZoNlJ2SjJieG5oMXBvazZtOVphNWJFZjBPNXB0TVlTdTItdkV3N1RHSjZjdXdsUmNmTHYwOHFpNmNzUm4tN3HSAeABQVVfeXFMTjFod1FBaTRVaElvaWh0OTJ5Yy1RY0lraHhrb1h6OHhWNE9HZ2tvMExzbWl6NFZWX3hkU3F2dnVGSVV0OUNzcmhWempfRVdLOVN5WFZ6b3dEcENtRmUzMk9lRUFVdnBSUGh5X2NOcXJOUW1qQVM3aHR2SHZ5VWs5OTNmaHZQMnoybUY0enFtVU9uc3YwVG5MNEd4YzVsRkV2Y0hpY290OFY1R3UzWTE2TTB2bDM3VnZzTUhPMDFLaVFKTS1QWHAyYkdKb3NqTlV5WlhZaXlLbzIwLXVJU1Jqb3A?oc=5
-
-3. **Polícia de imigração dos EUA prende pesquisadora chinesa de Princeton em aeroporto**
+2. **Polícia de imigração dos EUA prende pesquisadora chinesa de Princeton em aeroporto**
    - Fonte: Exame
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVmJTcmRTTlU3VmJBMFVRMWwzX0h1SElkZElOTnE5T0x4Y2xFekwzT2lFSDdaZm9xYmNYazN5SUg5dnJfU3ktN3dFQ2NndGpPZ1VoSVJLSW4ybllNdDZPd3E3d0pRYllCX1Q5M0Y4TTFRLUtWbVJ6Ykt4dktud2JwYzFHanExN19lUUFrLTRVUGxHNXVJeXlKY0tucGJBWmg5azNIYS1ZWFFLZTg?oc=5
+
+3. **ICE prende 2 imigrantes em aeroporto dos EUA e recebe críticas**
+   - Fonte: Poder360
+   - Termo monitorado: imigração EUA
+   - Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxPdnNiZV8tV2E0dlNYLWVFd3pwU3hhV08xX0ltTlpQRHRodmRGSlhIWGNuUmMzdW50NUMwS0dwQlZTTmVrNWJOMGlMRUU3SHQzLU16emNtdDgtaTZTeFF5NmRVclhKdHY0cDkyTm9DSi1ybjdBckZOZTBXYjl2Xy1RNTFGYWtnWXJhYzN6c2c2LWlCMndiWWtMc3I1Q1BIdVdfVUFtbHVoQm1wZ1czOXNfWg?oc=5
 
 4. **Imigração nos EUA: os gráficos que mostram impacto do 2º mandato de Trump**
    - Fonte: BBC
@@ -51,18 +51,18 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 - **Mexicanos são violentamente detidos por agentes de imigração em aeroporto nos EUA; vídeo**
   - Fonte: O GLOBO
   - Link: https://news.google.com/rss/articles/CBMi2wFBVV95cUxPb2I1QkgxcDB3UU1uWlQ2aGJRV3M0S2tEZDlycU9CLUx1UDgwR1g3dVZrakFpbm5DQ29hUU5NVVktUklRc2JWNFZFUXVqc3ZudTZnTGFPdlY1V2ZmXy10SGhnWEt1UzVKM3VjNm1Yc0NkNmlKUWJlMEtRRWFUVlMxeGVKRWd1cnp1OHJfeG82dnd0MGRBUEdjSjdpbEpsSEIwNWEtaG5Pd2J0ZlFBQ2FNMXlsRzRkeEVDYmdON095c3h0TS1aVk82TG9pWXUwc0dIUE4xUVZ5TFZsMlnSAeoBQVVfeXFMTTlpT21veWY3YmJ2Q1FRSnh5M08wRTZUVTRnazhhdGZIbjA2cVg0bUlzUVJGRG1YNmM5SlBJVGJ3ZHhXMk5Cc2QxdWp6SGdGbS01TXgwQ3NGaGtoOGRROHRoMkJDQ3BkOUY4WnZyQy1Mck5GNUN5THNVbEk1eTlwaV96YlJhd1Ywc2RUaDRZSGFpVmpqRDVoS1FuZ1hHMmNFWjRJY3JrTE56V1Vua3B0cDBBVk1pMmlaSEhqdHZXd2dyWVg4QkhxU2tiWUlxQlMyMXQyWkJtZjFhakdMOGdnRk9JMGd6VEpaMWxB?oc=5
-- **Trabalhadores com visto H-1B abandonam empregos nos EUA diante de cerco à imigração**
-  - Fonte: Bloomberg Línea Brasil
-  - Link: https://news.google.com/rss/articles/CBMizAFBVV95cUxQUHFNdDEwa3lxOGxCUUExekRPUGp0U3pGelpUQWtETEg4cWtqd1E4LVdCdG1Ld1FFRWIyV0hvaFFtbWowbHhQbTZmdWNtMlN2Wi1DQXRUVVZFTEJOSUNLSDBNV0x5OUUtbW85NkJlWEhoTHlReE43bHZpbXhZb1hYTUxVTldmVEJGYW8zNnZoNlJ2SjJieG5oMXBvazZtOVphNWJFZjBPNXB0TVlTdTItdkV3N1RHSjZjdXdsUmNmTHYwOHFpNmNzUm4tN3HSAeABQVVfeXFMTjFod1FBaTRVaElvaWh0OTJ5Yy1RY0lraHhrb1h6OHhWNE9HZ2tvMExzbWl6NFZWX3hkU3F2dnVGSVV0OUNzcmhWempfRVdLOVN5WFZ6b3dEcENtRmUzMk9lRUFVdnBSUGh5X2NOcXJOUW1qQVM3aHR2SHZ5VWs5OTNmaHZQMnoybUY0enFtVU9uc3YwVG5MNEd4YzVsRkV2Y0hpY290OFY1R3UzWTE2TTB2bDM3VnZzTUhPMDFLaVFKTS1QWHAyYkdKb3NqTlV5WlhZaXlLbzIwLXVJU1Jqb3A?oc=5
+- **Polícia de imigração dos EUA prende pesquisadora chinesa de Princeton em aeroporto**
+  - Fonte: Exame
+  - Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVmJTcmRTTlU3VmJBMFVRMWwzX0h1SElkZElOTnE5T0x4Y2xFekwzT2lFSDdaZm9xYmNYazN5SUg5dnJfU3ktN3dFQ2NndGpPZ1VoSVJLSW4ybllNdDZPd3E3d0pRYllCX1Q5M0Y4TTFRLUtWbVJ6Ykt4dktud2JwYzFHanExN19lUUFrLTRVUGxHNXVJeXlKY0tucGJBWmg5azNIYS1ZWFFLZTg?oc=5
 
 ### USCIS
 
 - **A renovação do EAD deixou de ser presumida: O novo pacote do USCIS**
   - Fonte: Migalhas
   - Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVTVXdXdmbEFIZlhJYzBpWlZLTHdJNk15WU9iSG9vdWlhQXZtUmZNRU9QVTJ4OXNpX05lSVRmMDV5ZXJ1Uzhmc09uZ3ZOM2xaSWZha1IzTzFCSDBZWnpuVzVTeWhkbXB6SjdpSG5ab0VtTXhWTmdkT0lVd2Y0OTNjTXRUMWNkRVlkeXNLNjdrRW43V1JfRG1TaFZiMEd2V1pXbWxMVzNVWUJMTWM?oc=5
-- **Cidadania americana: entenda as orientações sobre benefícios e pensão**
-  - Fonte: Jornal Nossa Gente
-  - Link: https://news.google.com/rss/articles/CBMihwFBVV95cUxQODJUbnNqalBYcm1fTTNUQ1Z1Z3g3TkJUUHN3cUxJTkxsLTlZdEFNMzlBVHlEdUMyQ2hVeE9pSjc1RFd2X01ESFpWQlBITkQ5dDBadVJxSUw3eC1SaWkyNnV4LThYT1VLU1BHM0Y3QzZNcDdwdVJEUENtR2JUOXYySnJyeXJOVU0?oc=5
+- **Do papel ao digital: USCIS exige e-filing obrigatório**
+  - Fonte: Migalhas
+  - Link: https://news.google.com/rss/articles/CBMimgFBVV95cUxPU3lXOWsxRDdlbEh4anpHUmp2amh5SHpCaUlWVmtIa3VqWFpYTWZ0Ujh1NlV0d1N4TUw1cmN6cG5UdWZ1c0ZZdG1hMGV6eWY3STQ5SldkTmpudHhCcHlaZXZoTFRIdkdXRm5Za1NPRkd3LWs5dl93N1poWmZ3cm1fTFA1NHN4SllBWGlRRk12WTNtM2djNGw3VWtB?oc=5
 
 ### green card
 
@@ -102,12 +102,12 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### ICE immigration
 
+- **Governador denuncia prisões de passageiros pelo ICE em aeroporto dos EUA**
+  - Fonte: CNN Brasil
+  - Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxQRmJ5cmoxcEpaSnNLODhqZFBsbjJIWlY5eGVZU3QzSldtYjdQQmNjU1JqY3NpZEp2bTBFdk9lcTM5MkhUdjZ3M3Y0WGZwZUpvdDFHWkNiQUNrbzY2eGVkSXRyTFUxOUpmaGpTRmFCRG40ZjdybHVET2t3Mm5oUkNfRDRmZm9Qc0RhYW5tTlk3Nm44eVhhd0k4cFVxa09UbDBvQ2xFVFpFc1hDRkFlMUVGWkJGcjFmeUU?oc=5
 - **Sustentam mãe com câncer: trigêmeos colombianos com permissão de trabalho são detidos pelo ICE nos EUA**
   - Fonte: O GLOBO
   - Link: https://news.google.com/rss/articles/CBMi9gFBVV95cUxOUVctR2I2ZnFya0c5MHhDOVhDcHg4RHJpb092T3JwUEw2UTA1YmEyZnE4UWtZaW5fZnpULS1LN2tQUDVqTWZvWHNONFRCa2lFc2J6blZmT1pzOVdQdUtKdTFXLUtleWF4THpKOFBDZTEwMWJzaFkxWDI4bzYxUGZzdGJsU2JiV1RWZFZMQ3pmSG1WbDUtS2Z4UVhJOUt6YWZncWFJOG5GZkRjUEVZRnZ2bHI5VUhSTDlUenlTM3VxS2R0THhXQVlPbF8xOVF3Q0JESUViMFF6WDlSM2ZjU1NaV1NkQUpjUWdldVNqeTRtbHBobU5XVXfSAYQCQVVfeXFMTmJ4S2xMNWNMZUpOUXlnR2dMeklQVmR6Q1NCWnhURFVXMHFPUGdzV2FBbUNBTFRHVnRKTHJlbXRGRmZXSEVabXJKR2NwNGZWRV80bUhFZUYtNnpmNXN2bk9ORXdrOW1ZN1czcVJZMTlQR3hNZ2hGU09jc1Jqem9WRU8tN0loNmluY0lDcnVNTWFSMW5MOE1hZ3JYWHYwM1VvVDliUUo5akdnWEwtOHhyeXpBX3pKRlhMaGUxb2pHRUF1ZUFjelVKYTAxd1M3V2w5aXB0bWRIekF3YXl1U0M1eWNuZUplTUZUVk9ZQlU4NjNNNnQ0Sm5ocVp3S0Y5RUNsbzNCZms?oc=5
-- **Homem é baleado em Nova York dentro de carro por agentes do ICE**
-  - Fonte: Agência Brasil
-  - Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxOcmtmc3VDU1poSF9CajNHYm9fbnFSSlNCZHNOZlhZV2VVc2NFVFZJYjZZajNDd3ZSRlZXNjJkTWZ3cy1HVFdibV9ZUnM3OUk5MjlJUDM1QVVxNWlGVDhjQlpRa0NzbV9fRDR6QTFMVGUzRWlsSDNUSjhHTWtjTUdabjVOV2pUaVZPTmVLTjFJZl8yZk9JNkhhYVhqQ1Rld2tzR2hobTJOcmNETVJjREFuYXNzSU9FU3JPYW5XZzcxUDZ1RUp3?oc=5
 
 
 ## Termos monitorados
