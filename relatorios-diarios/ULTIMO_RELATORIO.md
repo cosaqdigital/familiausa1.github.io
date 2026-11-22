@@ -1,8 +1,8 @@
 # Relatório diário — Imigração e brasileiros nos EUA
 
-Gerado em: 2026-11-22 01:42 EST
+Gerado em: 2026-11-22 14:38 EST
 
-Arquivo original: `2026-11-22-01-42-tendencias-imigracao.md`
+Arquivo original: `2026-11-22-14-38-tendencias-imigracao.md`
 
 ## Objetivo
 
@@ -10,25 +10,25 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ## Principais assuntos do dia
 
-1. **Polícia de imigração dos EUA prende neurocientista de Princeton e bloqueia decolagem em operações em aeroportos**
+1. **Mexicanos são violentamente detidos por agentes de imigração em aeroporto nos EUA; vídeo**
    - Fonte: O GLOBO
    - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMi-wFBVV95cUxQYTAyMkNPTkpEVzB1c1ZOM3ZEOGV0YXppWFhxNG1rZ2Z0LTZYbFdKREZ6Ri00bHBNZDZKNTV4VzB2elBUVzF0b2UyenYyX2R0QmJjMkpmZVRwaVllcS1iajZwQ19LYlNEYWVFa25WMElyNms0YkFUTHFiVGZqQzctdVc4QnJRTEJMcTBNbE5td2lrMmhNRkZiRHFtNVliSzlkMmdTT2p2RWRnSElCa3g5WGM5bDVIOWhYa21ldV84cUVzZmdocjYzSTFyNjAyRUx4SWtlV0pCc05aclRsZ0JFNGk5ZlJKQXdoaHRDNlZ1c00tSlg3OHYtM2h6b9IBigJBVV95cUxQQnVybnFYcDZBcjlNUDU3VzYxUlFYMFIxLThzTGdjSmMzU3Rqc3ctYTFENUFuRTdLaEY0cEpMYXNncWNZblVSTEpxUzdpYmVBb254TUlKN3U3TkRtMGctOWs5RGJvd2NhRTFiRmhMWkpLZlEwanhsa0M3UzhYSW5KTHFhT3RRa1hielR1bHhyZ3RoS3dPeEh1ZVlKOERaRzlXbEVJTWMtLTVvclF6WlItM3l3UloyQWs1aDhNVGVidHNpb3FzNklodXNRVXE1T29pU0dFUXQ2bmtpUjJsRUlxa0ZmRGl3UU40M3hlRDMybG5mQ2FwSFBTQlVkMmlNQzlQZ09DcUcwbFYwdw?oc=5
+   - Link: https://news.google.com/rss/articles/CBMi2wFBVV95cUxPb2I1QkgxcDB3UU1uWlQ2aGJRV3M0S2tEZDlycU9CLUx1UDgwR1g3dVZrakFpbm5DQ29hUU5NVVktUklRc2JWNFZFUXVqc3ZudTZnTGFPdlY1V2ZmXy10SGhnWEt1UzVKM3VjNm1Yc0NkNmlKUWJlMEtRRWFUVlMxeGVKRWd1cnp1OHJfeG82dnd0MGRBUEdjSjdpbEpsSEIwNWEtaG5Pd2J0ZlFBQ2FNMXlsRzRkeEVDYmdON095c3h0TS1aVk82TG9pWXUwc0dIUE4xUVZ5TFZsMlnSAeoBQVVfeXFMTTlpT21veWY3YmJ2Q1FRSnh5M08wRTZUVTRnazhhdGZIbjA2cVg0bUlzUVJGRG1YNmM5SlBJVGJ3ZHhXMk5Cc2QxdWp6SGdGbS01TXgwQ3NGaGtoOGRROHRoMkJDQ3BkOUY4WnZyQy1Mck5GNUN5THNVbEk1eTlwaV96YlJhd1Ywc2RUaDRZSGFpVmpqRDVoS1FuZ1hHMmNFWjRJY3JrTE56V1Vua3B0cDBBVk1pMmlaSEhqdHZXd2dyWVg4QkhxU2tiWUlxQlMyMXQyWkJtZjFhakdMOGdnRk9JMGd6VEpaMWxB?oc=5
 
-2. **Bispos EUA: preocupaão com migrantes e famílias separadas**
-   - Fonte: Vatican News
+2. **Trabalhadores com visto H-1B abandonam empregos nos EUA diante de cerco à imigração**
+   - Fonte: Bloomberg Línea Brasil
    - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR05uSGRiY1lzYU9xaXhmbzFnRk9uR0haUjVUMng0QTFMTm94VHJ6QV9iRUpzdTBGNHlubGIzRlY5SE9jbTRVdnVFM1c1bXRTbnNjbmlSZ0dtRERBWDZQNmxXYmRQc2NaMUNrMTB1YmN6a3dsaUVWOGZzUDVqZkRoMEtRZ3NqU0hxdUo1RXFKSjdMbkV0TWhhWDBoV0Rtc3ZQcW9ncUhYWmt1dw?oc=5
+   - Link: https://news.google.com/rss/articles/CBMizAFBVV95cUxQUHFNdDEwa3lxOGxCUUExekRPUGp0U3pGelpUQWtETEg4cWtqd1E4LVdCdG1Ld1FFRWIyV0hvaFFtbWowbHhQbTZmdWNtMlN2Wi1DQXRUVVZFTEJOSUNLSDBNV0x5OUUtbW85NkJlWEhoTHlReE43bHZpbXhZb1hYTUxVTldmVEJGYW8zNnZoNlJ2SjJieG5oMXBvazZtOVphNWJFZjBPNXB0TVlTdTItdkV3N1RHSjZjdXdsUmNmTHYwOHFpNmNzUm4tN3HSAeABQVVfeXFMTjFod1FBaTRVaElvaWh0OTJ5Yy1RY0lraHhrb1h6OHhWNE9HZ2tvMExzbWl6NFZWX3hkU3F2dnVGSVV0OUNzcmhWempfRVdLOVN5WFZ6b3dEcENtRmUzMk9lRUFVdnBSUGh5X2NOcXJOUW1qQVM3aHR2SHZ5VWs5OTNmaHZQMnoybUY0enFtVU9uc3YwVG5MNEd4YzVsRkV2Y0hpY290OFY1R3UzWTE2TTB2bDM3VnZzTUhPMDFLaVFKTS1QWHAyYkdKb3NqTlV5WlhZaXlLbzIwLXVJU1Jqb3A?oc=5
 
-3. **Imigração nos EUA: os gráficos que mostram impacto do 2º mandato de Trump**
+3. **Polícia de imigração dos EUA prende pesquisadora chinesa de Princeton em aeroporto**
+   - Fonte: Exame
+   - Termo monitorado: imigração EUA
+   - Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVmJTcmRTTlU3VmJBMFVRMWwzX0h1SElkZElOTnE5T0x4Y2xFekwzT2lFSDdaZm9xYmNYazN5SUg5dnJfU3ktN3dFQ2NndGpPZ1VoSVJLSW4ybllNdDZPd3E3d0pRYllCX1Q5M0Y4TTFRLUtWbVJ6Ykt4dktud2JwYzFHanExN19lUUFrLTRVUGxHNXVJeXlKY0tucGJBWmg5azNIYS1ZWFFLZTg?oc=5
+
+4. **Imigração nos EUA: os gráficos que mostram impacto do 2º mandato de Trump**
    - Fonte: BBC
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMiY0FVX3lxTE90N0E2cm9Va0c5cE9YeWJ3T2RsNkVlMDRXM2dXRkcxSGtNV09MZVhuRlNXMjhiSHRaS2Z4cDFZb1ZYR2xrdWxHbnlRTUVvcVBWdV9BLUlHdXVCY1NLeDBiWWhwSdIBaEFVX3lxTE5xbmEtT3RBOTNCS1o1VnJWYVBSVzVXUjJteTZEeTEwd3dsRTFSZkNuQjNMdExjZjRKa2pfUkt5eTVtQmFTU21aa21HNmllcUhkRzVHUk1rb3d2TDdrN1p0UUZnUklqYTBm?oc=5
-
-4. **Governo Trump acelera deportações antes de liderança democrata no Congresso**
-   - Fonte: CNN Brasil
-   - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxOajRoaTVtQ09SYWVXWEV6SHlYaXNNQlRKLUlzYllYRTl6OUh5czVycjlsQzMxeXpPVUxyZUFNRXBUa2IzZy1wVnhWSjg2ay1OcTh1dmlYc1RiQmVuMWxuZi1JY0t5S1ctbkNjMjgzMUlDZ25WNTRsVDg2V2pPWXlxOTFRbE15ZV9KMERJcXRBTkMtQldZa1doVGlub1NsdXlHSU9LeVdyR2RIQUZtbURFaXFsRmFEV1o4V2c?oc=5
 
 5. **A renovação do EAD deixou de ser presumida: O novo pacote do USCIS**
    - Fonte: Migalhas
@@ -48,12 +48,12 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### imigração EUA
 
-- **Polícia de imigração dos EUA prende neurocientista de Princeton e bloqueia decolagem em operações em aeroportos**
+- **Mexicanos são violentamente detidos por agentes de imigração em aeroporto nos EUA; vídeo**
   - Fonte: O GLOBO
-  - Link: https://news.google.com/rss/articles/CBMi-wFBVV95cUxQYTAyMkNPTkpEVzB1c1ZOM3ZEOGV0YXppWFhxNG1rZ2Z0LTZYbFdKREZ6Ri00bHBNZDZKNTV4VzB2elBUVzF0b2UyenYyX2R0QmJjMkpmZVRwaVllcS1iajZwQ19LYlNEYWVFa25WMElyNms0YkFUTHFiVGZqQzctdVc4QnJRTEJMcTBNbE5td2lrMmhNRkZiRHFtNVliSzlkMmdTT2p2RWRnSElCa3g5WGM5bDVIOWhYa21ldV84cUVzZmdocjYzSTFyNjAyRUx4SWtlV0pCc05aclRsZ0JFNGk5ZlJKQXdoaHRDNlZ1c00tSlg3OHYtM2h6b9IBigJBVV95cUxQQnVybnFYcDZBcjlNUDU3VzYxUlFYMFIxLThzTGdjSmMzU3Rqc3ctYTFENUFuRTdLaEY0cEpMYXNncWNZblVSTEpxUzdpYmVBb254TUlKN3U3TkRtMGctOWs5RGJvd2NhRTFiRmhMWkpLZlEwanhsa0M3UzhYSW5KTHFhT3RRa1hielR1bHhyZ3RoS3dPeEh1ZVlKOERaRzlXbEVJTWMtLTVvclF6WlItM3l3UloyQWs1aDhNVGVidHNpb3FzNklodXNRVXE1T29pU0dFUXQ2bmtpUjJsRUlxa0ZmRGl3UU40M3hlRDMybG5mQ2FwSFBTQlVkMmlNQzlQZ09DcUcwbFYwdw?oc=5
-- **Bispos EUA: preocupaão com migrantes e famílias separadas**
-  - Fonte: Vatican News
-  - Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR05uSGRiY1lzYU9xaXhmbzFnRk9uR0haUjVUMng0QTFMTm94VHJ6QV9iRUpzdTBGNHlubGIzRlY5SE9jbTRVdnVFM1c1bXRTbnNjbmlSZ0dtRERBWDZQNmxXYmRQc2NaMUNrMTB1YmN6a3dsaUVWOGZzUDVqZkRoMEtRZ3NqU0hxdUo1RXFKSjdMbkV0TWhhWDBoV0Rtc3ZQcW9ncUhYWmt1dw?oc=5
+  - Link: https://news.google.com/rss/articles/CBMi2wFBVV95cUxPb2I1QkgxcDB3UU1uWlQ2aGJRV3M0S2tEZDlycU9CLUx1UDgwR1g3dVZrakFpbm5DQ29hUU5NVVktUklRc2JWNFZFUXVqc3ZudTZnTGFPdlY1V2ZmXy10SGhnWEt1UzVKM3VjNm1Yc0NkNmlKUWJlMEtRRWFUVlMxeGVKRWd1cnp1OHJfeG82dnd0MGRBUEdjSjdpbEpsSEIwNWEtaG5Pd2J0ZlFBQ2FNMXlsRzRkeEVDYmdON095c3h0TS1aVk82TG9pWXUwc0dIUE4xUVZ5TFZsMlnSAeoBQVVfeXFMTTlpT21veWY3YmJ2Q1FRSnh5M08wRTZUVTRnazhhdGZIbjA2cVg0bUlzUVJGRG1YNmM5SlBJVGJ3ZHhXMk5Cc2QxdWp6SGdGbS01TXgwQ3NGaGtoOGRROHRoMkJDQ3BkOUY4WnZyQy1Mck5GNUN5THNVbEk1eTlwaV96YlJhd1Ywc2RUaDRZSGFpVmpqRDVoS1FuZ1hHMmNFWjRJY3JrTE56V1Vua3B0cDBBVk1pMmlaSEhqdHZXd2dyWVg4QkhxU2tiWUlxQlMyMXQyWkJtZjFhakdMOGdnRk9JMGd6VEpaMWxB?oc=5
+- **Trabalhadores com visto H-1B abandonam empregos nos EUA diante de cerco à imigração**
+  - Fonte: Bloomberg Línea Brasil
+  - Link: https://news.google.com/rss/articles/CBMizAFBVV95cUxQUHFNdDEwa3lxOGxCUUExekRPUGp0U3pGelpUQWtETEg4cWtqd1E4LVdCdG1Ld1FFRWIyV0hvaFFtbWowbHhQbTZmdWNtMlN2Wi1DQXRUVVZFTEJOSUNLSDBNV0x5OUUtbW85NkJlWEhoTHlReE43bHZpbXhZb1hYTUxVTldmVEJGYW8zNnZoNlJ2SjJieG5oMXBvazZtOVphNWJFZjBPNXB0TVlTdTItdkV3N1RHSjZjdXdsUmNmTHYwOHFpNmNzUm4tN3HSAeABQVVfeXFMTjFod1FBaTRVaElvaWh0OTJ5Yy1RY0lraHhrb1h6OHhWNE9HZ2tvMExzbWl6NFZWX3hkU3F2dnVGSVV0OUNzcmhWempfRVdLOVN5WFZ6b3dEcENtRmUzMk9lRUFVdnBSUGh5X2NOcXJOUW1qQVM3aHR2SHZ5VWs5OTNmaHZQMnoybUY0enFtVU9uc3YwVG5MNEd4YzVsRkV2Y0hpY290OFY1R3UzWTE2TTB2bDM3VnZzTUhPMDFLaVFKTS1QWHAyYkdKb3NqTlV5WlhZaXlLbzIwLXVJU1Jqb3A?oc=5
 
 ### USCIS
 
@@ -69,27 +69,27 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 - **Trump quer dificultar green card para trabalhadores brasileiros; entenda as mudanças**
   - Fonte: InfoMoney
   - Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbUpJQ0Z0Zk1pWXNaT2M5NUU4dEpKUlY5ODdvbUhwZm92OVlIbk45YkZ3MHRpcUpOZVlQbEpZQ2FYRjhfeXR5d0ZpemtRZEx3S1NHUVlfR2ZoRXRKYWtWbnFJbmlLc0xfbmlWbUJHd0w2ZlUtc1BDZXlKSHBsTklOS3N5Szh4ZnoxY0djZ3ZJQlh0M3pHbWE1TG4zc2RZWlNuY0FsQVRkdlVJSmdmLTJmMDkwZG1hMzAyVGpR0gHAAUFVX3lxTE94SzhSLUFoZUtzTk1IZk9YMzJfMklfRFRseUVPaExSTmdfWUxEaHFpcTZSdGM5aVJZRE9fMDZrZldVdWVZUlgxSV9WYm43eVZ0a0Q2OFEzUE9KOE5tbXJrejc0M3MyV2VESVRGRTNvR290ZUpVOWNESDBXcnFWLXQwWkNBNF9xN2RIS2w5Mkh1WVpuQkRiNmNESWlOb1huM1NQTWJGRWJlX2ZpMEdSTWI1WDh5Y1FNajVFM3d4cC1WWA?oc=5
-- **A estratégia do ICE para deter imigrantes com green card nos EUA**
-  - Fonte: VEJA
-  - Link: https://news.google.com/rss/articles/CBMingFBVV95cUxPR2hkVWpKX25nZVNKcFBJcV9tWXVuYURJRVhJVVVySTNuVHRoWjdEWTgzSlRaVl9PVVBrQXRCNWRuS25BaHFBYmZSbVFlbWNTVTZTRTU4NXZYQXlEcXQ2bFlLZlVwMk8yVFA5bmdVcGVCNHhtSHNCcFdndzVkT2diYm5xZ2J6aGN5UHpMVXZmWi1nN3VWdjVtdnZwQ1Yxdw?oc=5
+- **EUA propõem novas restrições para green cards de trabalhadores estrangeiros; entenda**
+  - Fonte: Panrotas
+  - Link: https://news.google.com/rss/articles/CBMi4gFBVV95cUxOcHpoN0FPeGVxMnIxN3g4eXZLdVZBaFppUGZFQl90VndiWXRxQVpYSFFBU0p5MXJya0FWNFV0M3NFUE5RbUhyazI4WExkQ0g2WG5mdk5ickNNVkFpZ0d2eU5TbEtBdnBXRmlPNmk0U2huNjBOSkUzNFVDY3VRZHFqTzNOUHNTQUJDbkEyOXhkV1d1Wkc4V1JDWHpwYkpUZG91Snp3TUJ4MTZBWEwwTnZ4Q29ZdXlEcnNRdlphQ3lYa292eHRoeWVBVFNGZ1RlV2hyamVFXzJ3bi1udkpxVW53Y3dB?oc=5
 
 ### visto americano
 
 - **Visto americano: espera por entrevista chega a cinco meses em São Paulo; veja prazos e como tentar antecipar**
   - Fonte: O GLOBO
   - Link: https://news.google.com/rss/articles/CBMi9gFBVV95cUxNbUcxTkVTeVQwcTJ3Yk1DUkg4alBybkE4NXg5VlNWNC1TOVlPRjRuSmh2YWJvLVZHc2RyWVdSRVVnbTlTX2tsRm96RzBCUmY3Z1QxcHIwc0E1Q0VDUHgzRm9EVmdDR1JobFFzZDlxeUduVnBiUnBMLXlFNk9YaVpUa0pUS2ZhZnRVc1I3ODc4dGpEemhjaUNFM2ZXcjdJWjAzemw4cGdYVmljUmdodC1HZ1E5WUtfb2hnNTZpU0tjUDUyMkpTSDBCQ0x6N0dlMHVqMEFpaGY3UUdiNlU1OEdjSE1LZW1QeVFkQzM2MkNaTmpxbHRhemfSAYQCQVVfeXFMT2NBbDZxWmNZZEpXOEVCV2ZJUlhOREoySW1oLWZob3lOZkE4OWd4TVlLcDNBaGh5TDF5RGZEekFTNnpvd3ZNVkY5QnRUdzE2dkFIeHg4VFh5RUJ1WVhwLVluOGw5N3VLYUh4LXZxSEFMX3VSOVNhTzR6bXVNMzd1RE14R0dqTjJ4QS1WQkFteFQ4UFBSUkRxTlYxaTVHZXVPMU4tUDJ0WUZMekRJZjZqYl9tQ0Y2eXVJUER4dEhiY2M5SHVUcDk4RTNITlRoaF9KdDZaU1RGRzNBbWZXVC0wT0ZMSzV3NkxiUW9yWnZfaUdOeFZwNW44bVV2a1ZxN2V3RTEyRkw?oc=5
-- **Visto de Harry teria motivado mudança do príncipe e de Meghan Markle ao Reino Unido**
-  - Fonte: UOL
-  - Link: https://news.google.com/rss/articles/CBMi1AFBVV95cUxONjd1djg0RXY4azJtNFZQTTlvQXRVNGJGcTZRX1E2QU1RZGJmcWlIR2J1WC0tc2wxcEVmeFhzbVBpbV9wZzhNQ240bS0xejdjZ01pcXY1WkpldnZNazJCeEpGT3Y4a19qNTB1SGlpTTFPM0NOMHZIVk9XQ0NrOXhwaGNSY3otNDVGVWRIaHktd0FIak1Zc0pIcG9KMTg4V1F0bnB5ZjdMc0VNUU1TUEduaGFPeWhjU0N3NExEbjVyQjlnWFdrWW5ZTWtOQV8ycGx2VnBnOA?oc=5
+- **Como governos Lula e Trump pretendem acabar com a 'guerra fria dos vistos diplomáticos'**
+  - Fonte: BBC
+  - Link: https://news.google.com/rss/articles/CBMiY0FVX3lxTE1uaVNNdnEwa25QTjdrYnpyT3pYd1ZGSEZJdS03OHo3QlQxdjF1RFYxa0xWNnZtSi1nTlREZy1jbHM3TW02b0RfM3VIVTNmeWlDaXNzaVoyZHNqa3lIUzVaWXh2b9IBaEFVX3lxTE1pRWRuMEhpTUdHOFRXV2ZvRjZLOHlfbUlHRnFSX24td05KTi00RmdtQ0FkU3B5czR1aGF5VXdhcGk4MEZ2Z0VPbG5yV0JWUmJBU3VYMTJxcTUxaUZ5RXR0ZUFEdHRDbDVn?oc=5
 
 ### brasileiros nos Estados Unidos
 
-- **128 brasileiros repatriados são recepcionados em Confins (MG)**
-  - Fonte: Agência Gov
-  - Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSUIzQnRvaUJCenJUUVVyYXZ1UUdKNC15Z3ktTU1aTkxjbzY2WThTOVlRZkVpSjM0YU5kUFRIcGM5aUhtMzk4YkFFaUFRdmxBenBPMElzaHl2QWtFaW9ReFQ0WnBfX29yUGsxT1p3djVEQTdRYmJuVExVZjFoMnZ3dVZvX0pkdC10dkRTd2ZQUEx5TEswZXlvM3BpaUZfNnJFNnZ5SUhiZkVOQU53YzRSTV84LWpqTDBNZlVF?oc=5
-- **Sem avanço nas negociações, Brasil pede à OMC para julgar tarifaço imposto pelos EUA**
-  - Fonte: G1
-  - Link: https://news.google.com/rss/articles/CBMizAFBVV95cUxQMlhNN1NDYlJ0NE1MWEU5dHo5OEV1Q0ltUExjeHNER3NhSG9xNHlhQkNMWkg4ZWtHNUVjOTVVcWV0T19sd3lNUVlaSDQ4SGV2MU1VTjQ2Q3FzN1pZdFB0VFk1VnJwMHYtQ2p2a256eFZvZUZCOWJmQ2tLWklIeDgyNmpnMjBhemY2V0R1bU5EaVQ2RWFLZ2FqcjV4UFRNSDZYVWliUzVLQWdNazgwNENQblJFZ0JadzN5cF8zMVVpdHVQQmNLV3FhN2JGamLSAdsBQVVfeXFMTjIzSW5aWkRseDJ4WU1LdFZReEdpeTVtMlFfdU14dXRBYmsyV0FiOHN0cGcxdm1Qd05wLTVScjAxUXVScFZoNDBKbk9mczV6bW1sVXdUdjNjN0Rid05XSHNIa21nUzdLTXBsMFZIV0ZpSktEbTFKRDdISlY0RlQxd0VpMzE4TVVQQ0hOcFhtX3o0dWpva0tJY2pQTER0Mk1Kc2sxQ3BEenYtZXFQRjA0bFFvNDE1QmZZR1pDM2Qwb0R5WDdrajJ2UzlMYUZpUzZVTWhxUkRjeWVORkhr?oc=5
+- **Sete brasileiros são eleitos para assembleias estaduais nos EUA**
+  - Fonte: Agência Brasil
+  - Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxNSzNFOHlUd0UwSzRuUmhpd09hRE1iY21rVENMbjR1bXh5Qm02S092YnNQUUVSdDFsYjREQzRRRlFIenZzMi1vZlhySDlXcUZUeWJWR2I1R2RCc2p4NlhNb0xuNXJsYmdPMjBGNFNKb19SalUtcy1JYWxULTg2N1V3MUFPUmRlMWc0NG5kMi00VjFRQ0dFNHh3SHBEckxPOFRaZkNBNnpSeGhoSk9wSE50UFRNV2M5M0dTMUdMUWhRaWRBVlRU?oc=5
+- **Voo com 128 brasileiros repatriados dos EUA chega a MG**
+  - Fonte: SBT News
+  - Link: https://news.google.com/rss/articles/CBMinAFBVV95cUxQRHpkSzRVcTctLXhmNTlrZUtvM3dtU0F1aDdjMTdnWWNJWmtWMHVCYWhVbVJXNkdGZ0dWYnh6YzR2VWREMG5LdTkyVjJndnlSQ3M1THh0OXQ5c1hwSXlMTVQ1MllDT25Wb01TcXJWQjdJcVJQb0k4NjMzWWVWRVJvWmlUdE10ZE5reFFlTnJBa3Vkd25EN1o3bmxhaHY?oc=5
 
 ### asilo nos EUA
 
