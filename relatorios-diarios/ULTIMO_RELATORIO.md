@@ -1,8 +1,8 @@
 # Relatório diário — Imigração e brasileiros nos EUA
 
-Gerado em: 2026-11-22 18:35 EST
+Gerado em: 2026-11-23 02:31 EST
 
-Arquivo original: `2026-11-22-18-35-tendencias-imigracao.md`
+Arquivo original: `2026-11-23-02-31-tendencias-imigracao.md`
 
 ## Objetivo
 
@@ -15,20 +15,20 @@ Este relatório serve como base para criação de artigos atualizados para o blo
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMi2wFBVV95cUxPb2I1QkgxcDB3UU1uWlQ2aGJRV3M0S2tEZDlycU9CLUx1UDgwR1g3dVZrakFpbm5DQ29hUU5NVVktUklRc2JWNFZFUXVqc3ZudTZnTGFPdlY1V2ZmXy10SGhnWEt1UzVKM3VjNm1Yc0NkNmlKUWJlMEtRRWFUVlMxeGVKRWd1cnp1OHJfeG82dnd0MGRBUEdjSjdpbEpsSEIwNWEtaG5Pd2J0ZlFBQ2FNMXlsRzRkeEVDYmdON095c3h0TS1aVk82TG9pWXUwc0dIUE4xUVZ5TFZsMlnSAeoBQVVfeXFMTTlpT21veWY3YmJ2Q1FRSnh5M08wRTZUVTRnazhhdGZIbjA2cVg0bUlzUVJGRG1YNmM5SlBJVGJ3ZHhXMk5Cc2QxdWp6SGdGbS01TXgwQ3NGaGtoOGRROHRoMkJDQ3BkOUY4WnZyQy1Mck5GNUN5THNVbEk1eTlwaV96YlJhd1Ywc2RUaDRZSGFpVmpqRDVoS1FuZ1hHMmNFWjRJY3JrTE56V1Vua3B0cDBBVk1pMmlaSEhqdHZXd2dyWVg4QkhxU2tiWUlxQlMyMXQyWkJtZjFhakdMOGdnRk9JMGd6VEpaMWxB?oc=5
 
-2. **Polícia de imigração dos EUA prende pesquisadora chinesa de Princeton em aeroporto**
+2. **Imigração nos EUA: os gráficos que mostram impacto do 2º mandato de Trump**
+   - Fonte: BBC
+   - Termo monitorado: imigração EUA
+   - Link: https://news.google.com/rss/articles/CBMiY0FVX3lxTE90N0E2cm9Va0c5cE9YeWJ3T2RsNkVlMDRXM2dXRkcxSGtNV09MZVhuRlNXMjhiSHRaS2Z4cDFZb1ZYR2xrdWxHbnlRTUVvcVBWdV9BLUlHdXVCY1NLeDBiWWhwSdIBaEFVX3lxTE5xbmEtT3RBOTNCS1o1VnJWYVBSVzVXUjJteTZEeTEwd3dsRTFSZkNuQjNMdExjZjRKa2pfUkt5eTVtQmFTU21aa21HNmllcUhkRzVHUk1rb3d2TDdrN1p0UUZnUklqYTBm?oc=5
+
+3. **Polícia de imigração dos EUA prende pesquisadora chinesa de Princeton em aeroporto**
    - Fonte: Exame
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVmJTcmRTTlU3VmJBMFVRMWwzX0h1SElkZElOTnE5T0x4Y2xFekwzT2lFSDdaZm9xYmNYazN5SUg5dnJfU3ktN3dFQ2NndGpPZ1VoSVJLSW4ybllNdDZPd3E3d0pRYllCX1Q5M0Y4TTFRLUtWbVJ6Ykt4dktud2JwYzFHanExN19lUUFrLTRVUGxHNXVJeXlKY0tucGJBWmg5azNIYS1ZWFFLZTg?oc=5
 
-3. **ICE prende 2 imigrantes em aeroporto dos EUA e recebe críticas**
-   - Fonte: Poder360
+4. **Imigração: Mexicanos são detidos de forma violenta em aeroporto dos EUA**
+   - Fonte: Estadão
    - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxPdnNiZV8tV2E0dlNYLWVFd3pwU3hhV08xX0ltTlpQRHRodmRGSlhIWGNuUmMzdW50NUMwS0dwQlZTTmVrNWJOMGlMRUU3SHQzLU16emNtdDgtaTZTeFF5NmRVclhKdHY0cDkyTm9DSi1ybjdBckZOZTBXYjl2Xy1RNTFGYWtnWXJhYzN6c2c2LWlCMndiWWtMc3I1Q1BIdVdfVUFtbHVoQm1wZ1czOXNfWg?oc=5
-
-4. **Imigração nos EUA: os gráficos que mostram impacto do 2º mandato de Trump**
-   - Fonte: BBC
-   - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMiY0FVX3lxTE90N0E2cm9Va0c5cE9YeWJ3T2RsNkVlMDRXM2dXRkcxSGtNV09MZVhuRlNXMjhiSHRaS2Z4cDFZb1ZYR2xrdWxHbnlRTUVvcVBWdV9BLUlHdXVCY1NLeDBiWWhwSdIBaEFVX3lxTE5xbmEtT3RBOTNCS1o1VnJWYVBSVzVXUjJteTZEeTEwd3dsRTFSZkNuQjNMdExjZjRKa2pfUkt5eTVtQmFTU21aa21HNmllcUhkRzVHUk1rb3d2TDdrN1p0UUZnUklqYTBm?oc=5
+   - Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxPa1hhanZmcmxYdG5lWXRrSWJodDdBTndhUy15cWFWRGU0ZlNsNGlRUTlSTm9vWTByZmJGOVhLQWhoejFzRnRva3dOUG5rN1Nja3E5MXJDZjlqbjJ1c3l4Qk1pQjVBNUtTR2hYQmlxZG9VbkhQYllwLTNZaER6cXZoWXQ1OFNfQnZlVm9pamZ6MnJ1NGJUTWk1dldkeXVUWkZvS0JiZHV5TldSdUhIQ2I5S0RLRDRDdw?oc=5
 
 5. **A renovação do EAD deixou de ser presumida: O novo pacote do USCIS**
    - Fonte: Migalhas
@@ -51,18 +51,18 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 - **Mexicanos são violentamente detidos por agentes de imigração em aeroporto nos EUA; vídeo**
   - Fonte: O GLOBO
   - Link: https://news.google.com/rss/articles/CBMi2wFBVV95cUxPb2I1QkgxcDB3UU1uWlQ2aGJRV3M0S2tEZDlycU9CLUx1UDgwR1g3dVZrakFpbm5DQ29hUU5NVVktUklRc2JWNFZFUXVqc3ZudTZnTGFPdlY1V2ZmXy10SGhnWEt1UzVKM3VjNm1Yc0NkNmlKUWJlMEtRRWFUVlMxeGVKRWd1cnp1OHJfeG82dnd0MGRBUEdjSjdpbEpsSEIwNWEtaG5Pd2J0ZlFBQ2FNMXlsRzRkeEVDYmdON095c3h0TS1aVk82TG9pWXUwc0dIUE4xUVZ5TFZsMlnSAeoBQVVfeXFMTTlpT21veWY3YmJ2Q1FRSnh5M08wRTZUVTRnazhhdGZIbjA2cVg0bUlzUVJGRG1YNmM5SlBJVGJ3ZHhXMk5Cc2QxdWp6SGdGbS01TXgwQ3NGaGtoOGRROHRoMkJDQ3BkOUY4WnZyQy1Mck5GNUN5THNVbEk1eTlwaV96YlJhd1Ywc2RUaDRZSGFpVmpqRDVoS1FuZ1hHMmNFWjRJY3JrTE56V1Vua3B0cDBBVk1pMmlaSEhqdHZXd2dyWVg4QkhxU2tiWUlxQlMyMXQyWkJtZjFhakdMOGdnRk9JMGd6VEpaMWxB?oc=5
-- **Polícia de imigração dos EUA prende pesquisadora chinesa de Princeton em aeroporto**
-  - Fonte: Exame
-  - Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVmJTcmRTTlU3VmJBMFVRMWwzX0h1SElkZElOTnE5T0x4Y2xFekwzT2lFSDdaZm9xYmNYazN5SUg5dnJfU3ktN3dFQ2NndGpPZ1VoSVJLSW4ybllNdDZPd3E3d0pRYllCX1Q5M0Y4TTFRLUtWbVJ6Ykt4dktud2JwYzFHanExN19lUUFrLTRVUGxHNXVJeXlKY0tucGJBWmg5azNIYS1ZWFFLZTg?oc=5
+- **Imigração nos EUA: os gráficos que mostram impacto do 2º mandato de Trump**
+  - Fonte: BBC
+  - Link: https://news.google.com/rss/articles/CBMiY0FVX3lxTE90N0E2cm9Va0c5cE9YeWJ3T2RsNkVlMDRXM2dXRkcxSGtNV09MZVhuRlNXMjhiSHRaS2Z4cDFZb1ZYR2xrdWxHbnlRTUVvcVBWdV9BLUlHdXVCY1NLeDBiWWhwSdIBaEFVX3lxTE5xbmEtT3RBOTNCS1o1VnJWYVBSVzVXUjJteTZEeTEwd3dsRTFSZkNuQjNMdExjZjRKa2pfUkt5eTVtQmFTU21aa21HNmllcUhkRzVHUk1rb3d2TDdrN1p0UUZnUklqYTBm?oc=5
 
 ### USCIS
 
 - **A renovação do EAD deixou de ser presumida: O novo pacote do USCIS**
   - Fonte: Migalhas
   - Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVTVXdXdmbEFIZlhJYzBpWlZLTHdJNk15WU9iSG9vdWlhQXZtUmZNRU9QVTJ4OXNpX05lSVRmMDV5ZXJ1Uzhmc09uZ3ZOM2xaSWZha1IzTzFCSDBZWnpuVzVTeWhkbXB6SjdpSG5ab0VtTXhWTmdkT0lVd2Y0OTNjTXRUMWNkRVlkeXNLNjdrRW43V1JfRG1TaFZiMEd2V1pXbWxMVzNVWUJMTWM?oc=5
-- **Do papel ao digital: USCIS exige e-filing obrigatório**
-  - Fonte: Migalhas
-  - Link: https://news.google.com/rss/articles/CBMimgFBVV95cUxPU3lXOWsxRDdlbEh4anpHUmp2amh5SHpCaUlWVmtIa3VqWFpYTWZ0Ujh1NlV0d1N4TUw1cmN6cG5UdWZ1c0ZZdG1hMGV6eWY3STQ5SldkTmpudHhCcHlaZXZoTFRIdkdXRm5Za1NPRkd3LWs5dl93N1poWmZ3cm1fTFA1NHN4SllBWGlRRk12WTNtM2djNGw3VWtB?oc=5
+- **Cidadania americana: entenda as orientações sobre benefícios e pensão**
+  - Fonte: Jornal Nossa Gente
+  - Link: https://news.google.com/rss/articles/CBMihwFBVV95cUxQODJUbnNqalBYcm1fTTNUQ1Z1Z3g3TkJUUHN3cUxJTkxsLTlZdEFNMzlBVHlEdUMyQ2hVeE9pSjc1RFd2X01ESFpWQlBITkQ5dDBadVJxSUw3eC1SaWkyNnV4LThYT1VLU1BHM0Y3QzZNcDdwdVJEUENtR2JUOXYySnJyeXJOVU0?oc=5
 
 ### green card
 
@@ -87,9 +87,9 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 - **Sete brasileiros são eleitos para assembleias estaduais nos EUA**
   - Fonte: Agência Brasil
   - Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxNSzNFOHlUd0UwSzRuUmhpd09hRE1iY21rVENMbjR1bXh5Qm02S092YnNQUUVSdDFsYjREQzRRRlFIenZzMi1vZlhySDlXcUZUeWJWR2I1R2RCc2p4NlhNb0xuNXJsYmdPMjBGNFNKb19SalUtcy1JYWxULTg2N1V3MUFPUmRlMWc0NG5kMi00VjFRQ0dFNHh3SHBEckxPOFRaZkNBNnpSeGhoSk9wSE50UFRNV2M5M0dTMUdMUWhRaWRBVlRU?oc=5
-- **Voo com 128 brasileiros repatriados dos EUA chega a MG**
-  - Fonte: SBT News
-  - Link: https://news.google.com/rss/articles/CBMinAFBVV95cUxQRHpkSzRVcTctLXhmNTlrZUtvM3dtU0F1aDdjMTdnWWNJWmtWMHVCYWhVbVJXNkdGZ0dWYnh6YzR2VWREMG5LdTkyVjJndnlSQ3M1THh0OXQ5c1hwSXlMTVQ1MllDT25Wb01TcXJWQjdJcVJQb0k4NjMzWWVWRVJvWmlUdE10ZE5reFFlTnJBa3Vkd25EN1o3bmxhaHY?oc=5
+- **Dados de inflação no Brasil e nos EUA são destaque da semana**
+  - Fonte: Valor Investe
+  - Link: https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbUlYS2V4eWF3RFFOZVNhOW1BMFRJMC1TcEJBQ2ZLQkc5bWVleEotS1Q3eW0zLVJXRmVWRTRFVmR6eWppVHNlUkE5eUREM3NiUC1xSWpQSGVWdE1YQllJcl9lNnRuLWVHX3Rrdk16dlh2elpvcGt0ZjBVckc2ZkYwckljRnctdnExZUlROGROS3ktNzJ0U3VxTXZrYnlheFkxdXpSZ05CejFXQ3JQX09RRXA4NWVfbEV2Y2RQdFBIVUN5cFNFSFBjSlp6Z09ScUFQeXpoUno4RVFWOXPSAeoBQVVfeXFMTW9ZQVBIOGtGTnZTS2ZfLVdzYlVVRHd2a1Z5R2lsdk5xS1FGTG05QjREZWpTTWxJY3ZObnE1NG5kMGdxZ0drMUxJVWFtdkNSYkVINVdXZ3B0a1FNMHRDLThEZTJsSUhrYTdqZVpERDJneHd1ZXp5SXlzRFpfQUZNVWktTDRnbmhqTnpXeHdjWWF3R1ctcW80QmY4STJPTzd3cE9rX0g0V1dCOEZwbVVGN1ZoTlk4b0ZiYUVDZDA4YnQtRW02TDlDc2Jxbjd0ZXlwMVhTRk9xeElvaVNhb2U4V193NEFlOTBKV05R?oc=5
 
 ### asilo nos EUA
 
