@@ -1,8 +1,8 @@
 # Relatório diário — Imigração e brasileiros nos EUA
 
-Gerado em: 2026-11-23 22:57 EST
+Gerado em: 2026-11-24 04:50 EST
 
-Arquivo original: `2026-11-23-22-57-tendencias-imigracao.md`
+Arquivo original: `2026-11-24-04-50-tendencias-imigracao.md`
 
 ## Objetivo
 
@@ -20,15 +20,15 @@ Este relatório serve como base para criação de artigos atualizados para o blo
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMi-wFBVV95cUxQYTAyMkNPTkpEVzB1c1ZOM3ZEOGV0YXppWFhxNG1rZ2Z0LTZYbFdKREZ6Ri00bHBNZDZKNTV4VzB2elBUVzF0b2UyenYyX2R0QmJjMkpmZVRwaVllcS1iajZwQ19LYlNEYWVFa25WMElyNms0YkFUTHFiVGZqQzctdVc4QnJRTEJMcTBNbE5td2lrMmhNRkZiRHFtNVliSzlkMmdTT2p2RWRnSElCa3g5WGM5bDVIOWhYa21ldV84cUVzZmdocjYzSTFyNjAyRUx4SWtlV0pCc05aclRsZ0JFNGk5ZlJKQXdoaHRDNlZ1c00tSlg3OHYtM2h6b9IBigJBVV95cUxQQnVybnFYcDZBcjlNUDU3VzYxUlFYMFIxLThzTGdjSmMzU3Rqc3ctYTFENUFuRTdLaEY0cEpMYXNncWNZblVSTEpxUzdpYmVBb254TUlKN3U3TkRtMGctOWs5RGJvd2NhRTFiRmhMWkpLZlEwanhsa0M3UzhYSW5KTHFhT3RRa1hielR1bHhyZ3RoS3dPeEh1ZVlKOERaRzlXbEVJTWMtLTVvclF6WlItM3l3UloyQWs1aDhNVGVidHNpb3FzNklodXNRVXE1T29pU0dFUXQ2bmtpUjJsRUlxa0ZmRGl3UU40M3hlRDMybG5mQ2FwSFBTQlVkMmlNQzlQZ09DcUcwbFYwdw?oc=5
 
-3. **Imigração nos EUA: os gráficos que mostram impacto do 2º mandato de Trump**
+3. **Trabalhadores com visto H-1B abandonam empregos nos EUA diante de cerco à imigração**
+   - Fonte: Bloomberg Línea Brasil
+   - Termo monitorado: imigração EUA
+   - Link: https://news.google.com/rss/articles/CBMizAFBVV95cUxQUHFNdDEwa3lxOGxCUUExekRPUGp0U3pGelpUQWtETEg4cWtqd1E4LVdCdG1Ld1FFRWIyV0hvaFFtbWowbHhQbTZmdWNtMlN2Wi1DQXRUVVZFTEJOSUNLSDBNV0x5OUUtbW85NkJlWEhoTHlReE43bHZpbXhZb1hYTUxVTldmVEJGYW8zNnZoNlJ2SjJieG5oMXBvazZtOVphNWJFZjBPNXB0TVlTdTItdkV3N1RHSjZjdXdsUmNmTHYwOHFpNmNzUm4tN3HSAeABQVVfeXFMTjFod1FBaTRVaElvaWh0OTJ5Yy1RY0lraHhrb1h6OHhWNE9HZ2tvMExzbWl6NFZWX3hkU3F2dnVGSVV0OUNzcmhWempfRVdLOVN5WFZ6b3dEcENtRmUzMk9lRUFVdnBSUGh5X2NOcXJOUW1qQVM3aHR2SHZ5VWs5OTNmaHZQMnoybUY0enFtVU9uc3YwVG5MNEd4YzVsRkV2Y0hpY290OFY1R3UzWTE2TTB2bDM3VnZzTUhPMDFLaVFKTS1QWHAyYkdKb3NqTlV5WlhZaXlLbzIwLXVJU1Jqb3A?oc=5
+
+4. **Imigração nos EUA: os gráficos que mostram impacto do 2º mandato de Trump**
    - Fonte: BBC
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMiY0FVX3lxTE90N0E2cm9Va0c5cE9YeWJ3T2RsNkVlMDRXM2dXRkcxSGtNV09MZVhuRlNXMjhiSHRaS2Z4cDFZb1ZYR2xrdWxHbnlRTUVvcVBWdV9BLUlHdXVCY1NLeDBiWWhwSdIBaEFVX3lxTE5xbmEtT3RBOTNCS1o1VnJWYVBSVzVXUjJteTZEeTEwd3dsRTFSZkNuQjNMdExjZjRKa2pfUkt5eTVtQmFTU21aa21HNmllcUhkRzVHUk1rb3d2TDdrN1p0UUZnUklqYTBm?oc=5
-
-4. **Novas regras de biometria e checagem de segurança atrasam processos de imigração**
-   - Fonte: AcheiUSA
-   - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMivgFBVV95cUxOUXNvY3h5NC1jRHhIeVl1RUIzYkVzU1NDdF9sOVVrZUNJSHZ6TkdGd1djTzdnemttNE9peExoVUZNbmtPd0xhSWItdWI3QjRaSGpEb0JoYjVGa0pnUmNSaUNabWRqeFBZTkQ4TmJyUG1EREJHbmtZU0RPS2w3R0VJN3VCanhwVXlncVdkZ3d1YS15ek51WGJxUjM4LU9ObVg0emxLLUxJMnJaT2ZITy1yR3U3NzAtOWY2ZXA4Q1JR?oc=5
 
 5. **A renovação do EAD deixou de ser presumida: O novo pacote do USCIS**
    - Fonte: Migalhas
@@ -66,18 +66,18 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### green card
 
-- **Democratas propõem prazo de 10 anos para ordens de deportação e caminho para green card**
-  - Fonte: Jornal Nossa Gente
-  - Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxOd3dzUmMxcm5QaTdoTEZZNzZRaWgtVFl5UW5hbmt1MDJJUTNzZDl0ZHdMdG1lbF9mbUNERU1qeU5feXFmcy12RUV1eTNucHo1MG9ENFFYZi1JUmNTQ0tvVmNlWWthd2IzeHVHTXE2SzR0ZkpEbDRybnkyMy0yUnRza3dQYVY3MU1KcG1ndmxRUUZ1N2FMRDVfcXhRNmVsamFTUllvdGF2dFdSblFzZzVWQkY2TnJoZw?oc=5
-- **A revogação de um visto para os Estados Unidos, mesmo que nunca tenha sido utilizado, pode levantar dúvidas para quem pretende viajar ao Canadá. Mas será que isso significa uma proibição automática de entrada no país? No artigo desta semana da col**
-  - Fonte: Instagram
-  - Link: https://news.google.com/rss/articles/CBMiVkFVX3lxTE5IMFZxa2ZHYXNMem9kT24xd0V6cVVySEQ1aUVHTE8xWGdTc2hfbmcta3dleGpLSUVDVDA1N2E1SmE3eThhUzVlYTMzSnhzWmk4RmFlYWpn?oc=5
+- **Trump quer dificultar green card para trabalhadores brasileiros; entenda as mudanças**
+  - Fonte: InfoMoney
+  - Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbUpJQ0Z0Zk1pWXNaT2M5NUU4dEpKUlY5ODdvbUhwZm92OVlIbk45YkZ3MHRpcUpOZVlQbEpZQ2FYRjhfeXR5d0ZpemtRZEx3S1NHUVlfR2ZoRXRKYWtWbnFJbmlLc0xfbmlWbUJHd0w2ZlUtc1BDZXlKSHBsTklOS3N5Szh4ZnoxY0djZ3ZJQlh0M3pHbWE1TG4zc2RZWlNuY0FsQVRkdlVJSmdmLTJmMDkwZG1hMzAyVGpR0gHAAUFVX3lxTE94SzhSLUFoZUtzTk1IZk9YMzJfMklfRFRseUVPaExSTmdfWUxEaHFpcTZSdGM5aVJZRE9fMDZrZldVdWVZUlgxSV9WYm43eVZ0a0Q2OFEzUE9KOE5tbXJrejc0M3MyV2VESVRGRTNvR290ZUpVOWNESDBXcnFWLXQwWkNBNF9xN2RIS2w5Mkh1WVpuQkRiNmNESWlOb1huM1NQTWJGRWJlX2ZpMEdSTWI1WDh5Y1FNajVFM3d4cC1WWA?oc=5
+- **Novas regras de biometria e checagem de segurança atrasam processos de imigração**
+  - Fonte: AcheiUSA
+  - Link: https://news.google.com/rss/articles/CBMivgFBVV95cUxOUXNvY3h5NC1jRHhIeVl1RUIzYkVzU1NDdF9sOVVrZUNJSHZ6TkdGd1djTzdnemttNE9peExoVUZNbmtPd0xhSWItdWI3QjRaSGpEb0JoYjVGa0pnUmNSaUNabWRqeFBZTkQ4TmJyUG1EREJHbmtZU0RPS2w3R0VJN3VCanhwVXlncVdkZ3d1YS15ek51WGJxUjM4LU9ObVg0emxLLUxJMnJaT2ZITy1yR3U3NzAtOWY2ZXA4Q1JR?oc=5
 
 ### visto americano
 
-- **Harry e Meghan tiveram que voltar a viver no Reino Unido porque EUA não renovaram visto do príncipe, diz jornal**
+- **Visto americano: espera por entrevista chega a cinco meses em São Paulo; veja prazos e como tentar antecipar**
   - Fonte: O GLOBO
-  - Link: https://news.google.com/rss/articles/CBMi-gFBVV95cUxQRUxWeWVaOEZ1VnctUG5ncFJuWDZyVFpLdFd6VGlkWGRzcFZQT0g2WDJ0M3U1VXdDNEl6V0gzdkdDSWNXeTJDSHNUZW1GU1M1Ui1KcFpJMFJFaXl0blVUdDZIWDRDaVF3a094aktfM1pmTDM1RFdGNExPUGVBT25VNjNCdTJXXzRwekRBTGhGSm1GZ2NJOGdRN2F4UDJRVmpGRWF5NHZlckI5WUFfZ3BYRTAwWndfM19sVXA0VUpERl9rektyU2hrSl8yRzBhNFN0QzJ3YU1IRVExOUJyeU1sMm1SMkhhVkJ3SkJrWXNTb1V4cUhlNUJZdFpn0gGIAkFVX3lxTE5SUnhFdzA3M1VKR29vaWJJNTE0Zmc2WlZkdkFJWXlRYTdoNm9XTUE4V2ZMeFdKNElsZXY3N19LWHdrLWFvUmlJQVBiZWdQYmpMVnhaSDd4ZUtnVVFFblMxSXgxWG5CNTdvSmcwcG8xbjd3LURzZ1R3V0JnY1diTmNSVlBwdC1rdGtWRGkzbzZ6UGphMXNKQjJ1aVRGdmJRa3k0U0laeHM1WjNVam5tTWdLb0p0LTJURk9tX3A2aVhmVmUyT0J4enctTEswemFHMDVsRXRJOTJNejk3b1d6a2NTSktwdFJzdVpVTVotR3BzeWxRTkpEVnI2dk5JdG9zRnk3akw3Rkd3Zg?oc=5
+  - Link: https://news.google.com/rss/articles/CBMi9gFBVV95cUxNbUcxTkVTeVQwcTJ3Yk1DUkg4alBybkE4NXg5VlNWNC1TOVlPRjRuSmh2YWJvLVZHc2RyWVdSRVVnbTlTX2tsRm96RzBCUmY3Z1QxcHIwc0E1Q0VDUHgzRm9EVmdDR1JobFFzZDlxeUduVnBiUnBMLXlFNk9YaVpUa0pUS2ZhZnRVc1I3ODc4dGpEemhjaUNFM2ZXcjdJWjAzemw4cGdYVmljUmdodC1HZ1E5WUtfb2hnNTZpU0tjUDUyMkpTSDBCQ0x6N0dlMHVqMEFpaGY3UUdiNlU1OEdjSE1LZW1QeVFkQzM2MkNaTmpxbHRhemfSAYQCQVVfeXFMT2NBbDZxWmNZZEpXOEVCV2ZJUlhOREoySW1oLWZob3lOZkE4OWd4TVlLcDNBaGh5TDF5RGZEekFTNnpvd3ZNVkY5QnRUdzE2dkFIeHg4VFh5RUJ1WVhwLVluOGw5N3VLYUh4LXZxSEFMX3VSOVNhTzR6bXVNMzd1RE14R0dqTjJ4QS1WQkFteFQ4UFBSUkRxTlYxaTVHZXVPMU4tUDJ0WUZMekRJZjZqYl9tQ0Y2eXVJUER4dEhiY2M5SHVUcDk4RTNITlRoaF9KdDZaU1RGRzNBbWZXVC0wT0ZMSzV3NkxiUW9yWnZfaUdOeFZwNW44bVV2a1ZxN2V3RTEyRkw?oc=5
 - **Autor que teve visto negado aos Estados Unidos vence o National Book Award**
   - Fonte: Folha de S.Paulo
   - Link: https://news.google.com/rss/articles/CBMixwFBVV95cUxNeG1mRmFHa2tFV0x4UlRiQlg1LWEzZFBxMnRSNzZmamZuRVpFVU45UmZvS2dLMnVRanVDd3JKbzd5U2NQSnRKS3pEMG5sa3BfeFNtLU1BMGdmVEVaRUQ0TUQ5X0JJUVVwZFJfeVFKd2V4bHI0cDBZeGxPMU5vZVhUaTltVFl5OF9LZHBJSDh6ZWFrZ016d3MyVUpaTVRBT2VIeHI0YjNhajVneDNTQmNHWUtzS3VVcUQ1ZnFsUHg3T0swdG01Q2kw?oc=5
@@ -93,12 +93,12 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### asilo nos EUA
 
+- **Pai e filha presos pelo ICE nos EUA estavam viajando para um batismo; VÍDEO mostra abordagem**
+  - Fonte: G1
+  - Link: https://news.google.com/rss/articles/CBMikAFBVV95cUxQYTgtYy0xTXZ3b1JhMVZQSGpRc3RRQ3p6bVRLNThSY0o5QzVGYmJWeWlrd05MbWl4bkFYSDUyLS04NzZJNEcyMkpEbk1ZLVJyZ1RuVWs0Z1FGQTVNa3NWT3pCZWVzT2x3OHlsQmNvRzFvdmtiV0htQWQ5SE83VXEwTmNsSmJkT1lfVkg1YklQanjSAZ8BQVVfeXFMTmpmclRFcXN6UEE5UnZJMzRBd1NJc1NVbU9mT0NsQkpKSmYtOVlwbkkzeGtRM2xXQmdGeWJHM1Q1U0lVaWJPS290czl4WlJXU3NpUjZZNV80ZHhlWloxZnc5dy1xVk5USEZXZURWTl9WTVNUaS0wNW1FZ2JkZ05RcGs3empnMmloX081Tkt1d0ZDQWhJQzhYS19NTmNSdlNZ?oc=5
 - **Flávio reúne argumentos para pedir asilo nos EUA e mostrar que sofre perseguição**
   - Fonte: Gazeta do Povo
   - Link: https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSWcwemd5LUZ3TUdJemJjT2pYcXo3QzhHbC1FRUQ4NjNQQzF0WnowSUtaMjF0YTM3cjFOMDZMYmNSV2V5eWNRVEhEM3Bvb3pObUJ2Qnc1NHo1NEtBYUJjVWZPRFlSVTM4VFY4VjhmY05wRzU5TFVMbExNWnl4aVhOTTZTck5jbEpEV1dPVTJSSGNFRmsycFRyNVZKbXJTRzIyOFZ4ZEpvZU1ZdjZIYVZwWi1VMDZhekV5RWk1X0NjRGc?oc=5
-- **Possível asilo a Flávio vai na contramão de decisões anteriores dos EUA**
-  - Fonte: UOL Notícias
-  - Link: https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWWtoWmlpV0p4ckRKbEJQcVMyS3p3UzZuWkVBcG1EeFZQMGY5cWp2ZTFRQy0tOVBnTEM5NVBnc3NOLV9FdWlLcEY1WDQxR3NsZzRrWFNMM0Q0YkNQOUw1ZU5TbC1iYVBJSHd2SVVoMGtTdHhxcEVkOXg5dWlld1ZUc2M3WktMenA2OG9Ka1NRcXU3dGxCdkpkaFFSQXFHeF9uMWl3NDhKVDY0RkZ6NWNUdWUxeHRDTmdDMEExd2ZlSTJBVnhTWXM1eW5jeTBoNHVUYW91eXRtWQ?oc=5
 
 ### ICE immigration
 
