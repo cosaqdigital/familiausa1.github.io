@@ -1,8 +1,8 @@
 # Relatório diário — Imigração e brasileiros nos EUA
 
-Gerado em: 2026-11-23 18:52 EST
+Gerado em: 2026-11-23 22:57 EST
 
-Arquivo original: `2026-11-23-18-52-tendencias-imigracao.md`
+Arquivo original: `2026-11-23-22-57-tendencias-imigracao.md`
 
 ## Objetivo
 
@@ -20,15 +20,15 @@ Este relatório serve como base para criação de artigos atualizados para o blo
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMi-wFBVV95cUxQYTAyMkNPTkpEVzB1c1ZOM3ZEOGV0YXppWFhxNG1rZ2Z0LTZYbFdKREZ6Ri00bHBNZDZKNTV4VzB2elBUVzF0b2UyenYyX2R0QmJjMkpmZVRwaVllcS1iajZwQ19LYlNEYWVFa25WMElyNms0YkFUTHFiVGZqQzctdVc4QnJRTEJMcTBNbE5td2lrMmhNRkZiRHFtNVliSzlkMmdTT2p2RWRnSElCa3g5WGM5bDVIOWhYa21ldV84cUVzZmdocjYzSTFyNjAyRUx4SWtlV0pCc05aclRsZ0JFNGk5ZlJKQXdoaHRDNlZ1c00tSlg3OHYtM2h6b9IBigJBVV95cUxQQnVybnFYcDZBcjlNUDU3VzYxUlFYMFIxLThzTGdjSmMzU3Rqc3ctYTFENUFuRTdLaEY0cEpMYXNncWNZblVSTEpxUzdpYmVBb254TUlKN3U3TkRtMGctOWs5RGJvd2NhRTFiRmhMWkpLZlEwanhsa0M3UzhYSW5KTHFhT3RRa1hielR1bHhyZ3RoS3dPeEh1ZVlKOERaRzlXbEVJTWMtLTVvclF6WlItM3l3UloyQWs1aDhNVGVidHNpb3FzNklodXNRVXE1T29pU0dFUXQ2bmtpUjJsRUlxa0ZmRGl3UU40M3hlRDMybG5mQ2FwSFBTQlVkMmlNQzlQZ09DcUcwbFYwdw?oc=5
 
-3. **5 gráficos que mostram impacto do 2º mandato de Trump sobre a imigração nos EUA**
+3. **Imigração nos EUA: os gráficos que mostram impacto do 2º mandato de Trump**
    - Fonte: BBC
    - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMiY0FVX3lxTE90N0E2cm9Va0c5cE9YeWJ3T2RsNkVlMDRXM2dXRkcxSGtNV09MZVhuRlNXMjhiSHRaS2Z4cDFZb1ZYR2xrdWxHbnlRTUVvcVBWdV9BLUlHdXVCY1NLeDBiWWhwSQ?oc=5
+   - Link: https://news.google.com/rss/articles/CBMiY0FVX3lxTE90N0E2cm9Va0c5cE9YeWJ3T2RsNkVlMDRXM2dXRkcxSGtNV09MZVhuRlNXMjhiSHRaS2Z4cDFZb1ZYR2xrdWxHbnlRTUVvcVBWdV9BLUlHdXVCY1NLeDBiWWhwSdIBaEFVX3lxTE5xbmEtT3RBOTNCS1o1VnJWYVBSVzVXUjJteTZEeTEwd3dsRTFSZkNuQjNMdExjZjRKa2pfUkt5eTVtQmFTU21aa21HNmllcUhkRzVHUk1rb3d2TDdrN1p0UUZnUklqYTBm?oc=5
 
-4. **Como leitores de placas ajudam ICE a prender imigrantes nos EUA**
-   - Fonte: UOL Notícias
+4. **Novas regras de biometria e checagem de segurança atrasam processos de imigração**
+   - Fonte: AcheiUSA
    - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMi1AFBVV95cUxPLV9IQjVDTURleEV3X2Q5VEFlODZINzBKVTlOTldSdnRTZVVVTXV5LTVZM0Z3a3AtQlNhblB1MEpoeGpfUnhzVjQxc1BXcHliZl9VQkFCQnlKTktuNnNsd3B0bDNGc0JJR0R1R18yWnVKdDlYSnVwOUNsMW1CUjJqaXYzUkZMWEpZTDZ3R1psdjFvYXNvbmdTeDF1aU1VLXhUVEJLNDlVR1RqQ0NHeVNwSzlpbV96ZmJlR1A2ZnhSWTkzNUlteXdadjV3VVQ2N1Jxb3U5dA?oc=5
+   - Link: https://news.google.com/rss/articles/CBMivgFBVV95cUxOUXNvY3h5NC1jRHhIeVl1RUIzYkVzU1NDdF9sOVVrZUNJSHZ6TkdGd1djTzdnemttNE9peExoVUZNbmtPd0xhSWItdWI3QjRaSGpEb0JoYjVGa0pnUmNSaUNabWRqeFBZTkQ4TmJyUG1EREJHbmtZU0RPS2w3R0VJN3VCanhwVXlncVdkZ3d1YS15ek51WGJxUjM4LU9ObVg0emxLLUxJMnJaT2ZITy1yR3U3NzAtOWY2ZXA4Q1JR?oc=5
 
 5. **A renovação do EAD deixou de ser presumida: O novo pacote do USCIS**
    - Fonte: Migalhas
@@ -66,12 +66,12 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### green card
 
-- **Trump quer dificultar green card para trabalhadores brasileiros; entenda as mudanças**
-  - Fonte: InfoMoney
-  - Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbUpJQ0Z0Zk1pWXNaT2M5NUU4dEpKUlY5ODdvbUhwZm92OVlIbk45YkZ3MHRpcUpOZVlQbEpZQ2FYRjhfeXR5d0ZpemtRZEx3S1NHUVlfR2ZoRXRKYWtWbnFJbmlLc0xfbmlWbUJHd0w2ZlUtc1BDZXlKSHBsTklOS3N5Szh4ZnoxY0djZ3ZJQlh0M3pHbWE1TG4zc2RZWlNuY0FsQVRkdlVJSmdmLTJmMDkwZG1hMzAyVGpR0gHAAUFVX3lxTE94SzhSLUFoZUtzTk1IZk9YMzJfMklfRFRseUVPaExSTmdfWUxEaHFpcTZSdGM5aVJZRE9fMDZrZldVdWVZUlgxSV9WYm43eVZ0a0Q2OFEzUE9KOE5tbXJrejc0M3MyV2VESVRGRTNvR290ZUpVOWNESDBXcnFWLXQwWkNBNF9xN2RIS2w5Mkh1WVpuQkRiNmNESWlOb1huM1NQTWJGRWJlX2ZpMEdSTWI1WDh5Y1FNajVFM3d4cC1WWA?oc=5
-- **Novas regras de biometria e checagem de segurança atrasam processos de imigração**
-  - Fonte: AcheiUSA
-  - Link: https://news.google.com/rss/articles/CBMivgFBVV95cUxOUXNvY3h5NC1jRHhIeVl1RUIzYkVzU1NDdF9sOVVrZUNJSHZ6TkdGd1djTzdnemttNE9peExoVUZNbmtPd0xhSWItdWI3QjRaSGpEb0JoYjVGa0pnUmNSaUNabWRqeFBZTkQ4TmJyUG1EREJHbmtZU0RPS2w3R0VJN3VCanhwVXlncVdkZ3d1YS15ek51WGJxUjM4LU9ObVg0emxLLUxJMnJaT2ZITy1yR3U3NzAtOWY2ZXA4Q1JR?oc=5
+- **Democratas propõem prazo de 10 anos para ordens de deportação e caminho para green card**
+  - Fonte: Jornal Nossa Gente
+  - Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxOd3dzUmMxcm5QaTdoTEZZNzZRaWgtVFl5UW5hbmt1MDJJUTNzZDl0ZHdMdG1lbF9mbUNERU1qeU5feXFmcy12RUV1eTNucHo1MG9ENFFYZi1JUmNTQ0tvVmNlWWthd2IzeHVHTXE2SzR0ZkpEbDRybnkyMy0yUnRza3dQYVY3MU1KcG1ndmxRUUZ1N2FMRDVfcXhRNmVsamFTUllvdGF2dFdSblFzZzVWQkY2TnJoZw?oc=5
+- **A revogação de um visto para os Estados Unidos, mesmo que nunca tenha sido utilizado, pode levantar dúvidas para quem pretende viajar ao Canadá. Mas será que isso significa uma proibição automática de entrada no país? No artigo desta semana da col**
+  - Fonte: Instagram
+  - Link: https://news.google.com/rss/articles/CBMiVkFVX3lxTE5IMFZxa2ZHYXNMem9kT24xd0V6cVVySEQ1aUVHTE8xWGdTc2hfbmcta3dleGpLSUVDVDA1N2E1SmE3eThhUzVlYTMzSnhzWmk4RmFlYWpn?oc=5
 
 ### visto americano
 
@@ -84,12 +84,12 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### brasileiros nos Estados Unidos
 
+- **Por que EUA não querem que empresas construam data centers em outros países**
+  - Fonte: CNN Brasil
+  - Link: https://news.google.com/rss/articles/CBMiywFBVV95cUxNYjhuVFRLN1RTczItdnZVZFhLa2Qwb0oyR0drTHpmVm1KbDVSQnRoMU01clR5NlJYb25wY0xMNWFENGNQd2NmLS1hRWF2NUZoZGdwTkcxcGV2RUNtUkFtVE1nQ2pZekdDQVVFV0gzMG1KMWNQYTgxUkJqa2Ntek85ZnRxMExwdzRRX29kaHU0anVZajhlVjhSdVRFR3RteG1BMjB3OEJ3TV9qbGltRDhFZURXa1dNQUNJOXBWMVEyNVVrNVdQamttNWR4OA?oc=5
 - **Europa e EUA concentram quase 80% dos gastos de brasileiros no Exterior**
   - Fonte: Panrotas
   - Link: https://news.google.com/rss/articles/CBMi5gFBVV95cUxOdXNVOV9jZ3h5V1ZMLUI2VXdpUFpZQVBjS3VPMU5JeUFiRlN0VGthUFAxamRYNGIxeXRHZWhkZ0xocUYtZVNseFhxOUVmcW4xUjlHTUNTV2JNbmc0TldKLTQ1RFp5XzJJR0ZDNzQxUnJOaGpCYjNtM2Q0cUh3X0FXUUpIanJxOU5QbUo1OGlPY2stZ2U1OEd5SnI1NTdnN2RqUmFoV3dfVFc5dno0dWVNTG9nd3dqaHNSTzFuaVF2NlE1MWVSWFJQS2lQQjJaWVJ4MV9tQjhGUHZRa2NvYnR3VjAzNVhNdw?oc=5
-- **Vaivém: Após perder mercado agrícola, Trump busca gerar entraves ao Brasil**
-  - Fonte: Folha de S.Paulo
-  - Link: https://news.google.com/rss/articles/CBMiwgFBVV95cUxOR3EtdTY1N0VnZGNpeDRjWXo1Y2NONWFDRmlSbjN4NTBrU0hCMDg5bTFDTnVyNVF5U3g0THpHdWhHdGhhVXU0aFZfbUpId25aN2FDZjItVmxHejdpZUMzd3FWVFh0dU1mWVp6UGFzRHJEcXQ2eFdCTDZPSDVCYkY3T1RSRWVUX2ZBck1FQnBINDRFaE9kUV9IRHBrMnJaQnE2ZU90NWp4VmdiRG0xQk9pVXFHbzk5WTN4YUlzaXBYNE16dw?oc=5
 
 ### asilo nos EUA
 
