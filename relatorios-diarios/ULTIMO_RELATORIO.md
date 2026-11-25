@@ -1,8 +1,8 @@
 # Relatório diário — Imigração e brasileiros nos EUA
 
-Gerado em: 2026-11-24 17:25 EST
+Gerado em: 2026-11-24 21:25 EST
 
-Arquivo original: `2026-11-24-17-25-tendencias-imigracao.md`
+Arquivo original: `2026-11-24-21-25-tendencias-imigracao.md`
 
 ## Objetivo
 
@@ -20,15 +20,15 @@ Este relatório serve como base para criação de artigos atualizados para o blo
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMi-wFBVV95cUxQYTAyMkNPTkpEVzB1c1ZOM3ZEOGV0YXppWFhxNG1rZ2Z0LTZYbFdKREZ6Ri00bHBNZDZKNTV4VzB2elBUVzF0b2UyenYyX2R0QmJjMkpmZVRwaVllcS1iajZwQ19LYlNEYWVFa25WMElyNms0YkFUTHFiVGZqQzctdVc4QnJRTEJMcTBNbE5td2lrMmhNRkZiRHFtNVliSzlkMmdTT2p2RWRnSElCa3g5WGM5bDVIOWhYa21ldV84cUVzZmdocjYzSTFyNjAyRUx4SWtlV0pCc05aclRsZ0JFNGk5ZlJKQXdoaHRDNlZ1c00tSlg3OHYtM2h6b9IBigJBVV95cUxQQnVybnFYcDZBcjlNUDU3VzYxUlFYMFIxLThzTGdjSmMzU3Rqc3ctYTFENUFuRTdLaEY0cEpMYXNncWNZblVSTEpxUzdpYmVBb254TUlKN3U3TkRtMGctOWs5RGJvd2NhRTFiRmhMWkpLZlEwanhsa0M3UzhYSW5KTHFhT3RRa1hielR1bHhyZ3RoS3dPeEh1ZVlKOERaRzlXbEVJTWMtLTVvclF6WlItM3l3UloyQWs1aDhNVGVidHNpb3FzNklodXNRVXE1T29pU0dFUXQ2bmtpUjJsRUlxa0ZmRGl3UU40M3hlRDMybG5mQ2FwSFBTQlVkMmlNQzlQZ09DcUcwbFYwdw?oc=5
 
-3. **Trabalhadores com visto H-1B abandonam empregos nos EUA diante de cerco à imigração**
-   - Fonte: Bloomberg Línea Brasil
-   - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMizAFBVV95cUxQUHFNdDEwa3lxOGxCUUExekRPUGp0U3pGelpUQWtETEg4cWtqd1E4LVdCdG1Ld1FFRWIyV0hvaFFtbWowbHhQbTZmdWNtMlN2Wi1DQXRUVVZFTEJOSUNLSDBNV0x5OUUtbW85NkJlWEhoTHlReE43bHZpbXhZb1hYTUxVTldmVEJGYW8zNnZoNlJ2SjJieG5oMXBvazZtOVphNWJFZjBPNXB0TVlTdTItdkV3N1RHSjZjdXdsUmNmTHYwOHFpNmNzUm4tN3HSAeABQVVfeXFMTjFod1FBaTRVaElvaWh0OTJ5Yy1RY0lraHhrb1h6OHhWNE9HZ2tvMExzbWl6NFZWX3hkU3F2dnVGSVV0OUNzcmhWempfRVdLOVN5WFZ6b3dEcENtRmUzMk9lRUFVdnBSUGh5X2NOcXJOUW1qQVM3aHR2SHZ5VWs5OTNmaHZQMnoybUY0enFtVU9uc3YwVG5MNEd4YzVsRkV2Y0hpY290OFY1R3UzWTE2TTB2bDM3VnZzTUhPMDFLaVFKTS1QWHAyYkdKb3NqTlV5WlhZaXlLbzIwLXVJU1Jqb3A?oc=5
-
-4. **Se os pais forem detidos nos EUA, quem cuida dos filhos?**
+3. **Se os pais forem detidos nos EUA, quem cuida dos filhos?**
    - Fonte: Boqnews
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMikgFBVV95cUxOOGgtN1ZGRHktVG83THhrdFp6ZW0ySnBFczJtaXdfRXh1Q3VsY3FFZGdQUmxscEtTNHZ5eUJCdTI0WXpkZFlSR19FZUx0OWk1WVJDdFBDM1h4Q0o3VDA0RHQ4bkZqYjZmRVZ1OVRuY1VVSGtHRTVFNjRFWXpMMDZjb0V4LXBsLUlDenFXQVc2blBFZw?oc=5
+
+4. **Imigração nos EUA: os gráficos que mostram impacto do 2º mandato de Trump**
+   - Fonte: BBC
+   - Termo monitorado: imigração EUA
+   - Link: https://news.google.com/rss/articles/CBMiY0FVX3lxTE90N0E2cm9Va0c5cE9YeWJ3T2RsNkVlMDRXM2dXRkcxSGtNV09MZVhuRlNXMjhiSHRaS2Z4cDFZb1ZYR2xrdWxHbnlRTUVvcVBWdV9BLUlHdXVCY1NLeDBiWWhwSdIBaEFVX3lxTE5xbmEtT3RBOTNCS1o1VnJWYVBSVzVXUjJteTZEeTEwd3dsRTFSZkNuQjNMdExjZjRKa2pfUkt5eTVtQmFTU21aa21HNmllcUhkRzVHUk1rb3d2TDdrN1p0UUZnUklqYTBm?oc=5
 
 5. **A renovação do EAD deixou de ser presumida: O novo pacote do USCIS**
    - Fonte: Migalhas
@@ -69,9 +69,9 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 - **Trump quer dificultar green card para trabalhadores brasileiros; entenda as mudanças**
   - Fonte: InfoMoney
   - Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbUpJQ0Z0Zk1pWXNaT2M5NUU4dEpKUlY5ODdvbUhwZm92OVlIbk45YkZ3MHRpcUpOZVlQbEpZQ2FYRjhfeXR5d0ZpemtRZEx3S1NHUVlfR2ZoRXRKYWtWbnFJbmlLc0xfbmlWbUJHd0w2ZlUtc1BDZXlKSHBsTklOS3N5Szh4ZnoxY0djZ3ZJQlh0M3pHbWE1TG4zc2RZWlNuY0FsQVRkdlVJSmdmLTJmMDkwZG1hMzAyVGpR0gHAAUFVX3lxTE94SzhSLUFoZUtzTk1IZk9YMzJfMklfRFRseUVPaExSTmdfWUxEaHFpcTZSdGM5aVJZRE9fMDZrZldVdWVZUlgxSV9WYm43eVZ0a0Q2OFEzUE9KOE5tbXJrejc0M3MyV2VESVRGRTNvR290ZUpVOWNESDBXcnFWLXQwWkNBNF9xN2RIS2w5Mkh1WVpuQkRiNmNESWlOb1huM1NQTWJGRWJlX2ZpMEdSTWI1WDh5Y1FNajVFM3d4cC1WWA?oc=5
-- **Novas regras de biometria e checagem de segurança atrasam processos de imigração**
-  - Fonte: AcheiUSA
-  - Link: https://news.google.com/rss/articles/CBMivgFBVV95cUxOUXNvY3h5NC1jRHhIeVl1RUIzYkVzU1NDdF9sOVVrZUNJSHZ6TkdGd1djTzdnemttNE9peExoVUZNbmtPd0xhSWItdWI3QjRaSGpEb0JoYjVGa0pnUmNSaUNabWRqeFBZTkQ4TmJyUG1EREJHbmtZU0RPS2w3R0VJN3VCanhwVXlncVdkZ3d1YS15ek51WGJxUjM4LU9ObVg0emxLLUxJMnJaT2ZITy1yR3U3NzAtOWY2ZXA4Q1JR?oc=5
+- **EUA propõem novas restrições para green cards de trabalhadores estrangeiros; entenda**
+  - Fonte: Panrotas
+  - Link: https://news.google.com/rss/articles/CBMi4gFBVV95cUxOcHpoN0FPeGVxMnIxN3g4eXZLdVZBaFppUGZFQl90VndiWXRxQVpYSFFBU0p5MXJya0FWNFV0M3NFUE5RbUhyazI4WExkQ0g2WG5mdk5ickNNVkFpZ0d2eU5TbEtBdnBXRmlPNmk0U2huNjBOSkUzNFVDY3VRZHFqTzNOUHNTQUJDbkEyOXhkV1d1Wkc4V1JDWHpwYkpUZG91Snp3TUJ4MTZBWEwwTnZ4Q29ZdXlEcnNRdlphQ3lYa292eHRoeWVBVFNGZ1RlV2hyamVFXzJ3bi1udkpxVW53Y3dB?oc=5
 
 ### visto americano
 
@@ -105,9 +105,9 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 - **Governador denuncia prisões de passageiros pelo ICE em aeroporto dos EUA**
   - Fonte: CNN Brasil
   - Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxQRmJ5cmoxcEpaSnNLODhqZFBsbjJIWlY5eGVZU3QzSldtYjdQQmNjU1JqY3NpZEp2bTBFdk9lcTM5MkhUdjZ3M3Y0WGZwZUpvdDFHWkNiQUNrbzY2eGVkSXRyTFUxOUpmaGpTRmFCRG40ZjdybHVET2t3Mm5oUkNfRDRmZm9Qc0RhYW5tTlk3Nm44eVhhd0k4cFVxa09UbDBvQ2xFVFpFc1hDRkFlMUVGWkJGcjFmeUU?oc=5
-- **Incidente em voo nos EUA: Passageiros mexicanos são violentamente arrastados pelo ICE, gerando críticas e apelo pelo fim da agência**
-  - Fonte: Capital Política
-  - Link: https://news.google.com/rss/articles/CBMi8wFBVV95cUxOQXNseFNnRzk0clAxLXRZM0xHbmlLZXA3cXpvc0hvU0s2UURsZnlCMnBEZVlCaDFVT2dEV3k0a3IySHQtV2dTdW1zNHhQX21COF9GZ3ZMc1YtYTNFaWhXRjQ3NEdPS3FGamNJRnJIc1hhTERzVXlhcWswRDI1WUVzUC1kbHdBaGN3WUpEci1BWFVfXzg4d3FqMDBKRHRQXzlmMV9sTVR3RHN0emYySGdHdVBhaXpZZ0d3SVRkaWpXa240d3VwbjVxR1F3VHRYSlc1aFJ3djB5bGtUam9BcGdKYkNoeGI4SUwzem9PUVJ2cjBua3c?oc=5
+- **Homem é baleado em Nova York dentro de carro por agentes do ICE**
+  - Fonte: Agência Brasil
+  - Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxOcmtmc3VDU1poSF9CajNHYm9fbnFSSlNCZHNOZlhZV2VVc2NFVFZJYjZZajNDd3ZSRlZXNjJkTWZ3cy1HVFdibV9ZUnM3OUk5MjlJUDM1QVVxNWlGVDhjQlpRa0NzbV9fRDR6QTFMVGUzRWlsSDNUSjhHTWtjTUdabjVOV2pUaVZPTmVLTjFJZl8yZk9JNkhhYVhqQ1Rld2tzR2hobTJOcmNETVJjREFuYXNzSU9FU3JPYW5XZzcxUDZ1RUp3?oc=5
 
 
 ## Termos monitorados
