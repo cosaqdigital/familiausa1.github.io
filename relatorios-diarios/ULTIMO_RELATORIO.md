@@ -1,8 +1,8 @@
 # Relatório diário — Imigração e brasileiros nos EUA
 
-Gerado em: 2026-11-25 16:40 EST
+Gerado em: 2026-11-25 20:45 EST
 
-Arquivo original: `2026-11-25-16-40-tendencias-imigracao.md`
+Arquivo original: `2026-11-25-20-45-tendencias-imigracao.md`
 
 ## Objetivo
 
@@ -10,20 +10,20 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ## Principais assuntos do dia
 
-1. **Mexicanos são violentamente detidos por agentes de imigração em aeroporto nos EUA; vídeo**
-   - Fonte: O GLOBO
+1. **Imigrante ganha US$ 1 milhão na loteria e é preso dias depois nos EUA**
+   - Fonte: UOL Notícias
    - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMi2wFBVV95cUxPb2I1QkgxcDB3UU1uWlQ2aGJRV3M0S2tEZDlycU9CLUx1UDgwR1g3dVZrakFpbm5DQ29hUU5NVVktUklRc2JWNFZFUXVqc3ZudTZnTGFPdlY1V2ZmXy10SGhnWEt1UzVKM3VjNm1Yc0NkNmlKUWJlMEtRRWFUVlMxeGVKRWd1cnp1OHJfeG82dnd0MGRBUEdjSjdpbEpsSEIwNWEtaG5Pd2J0ZlFBQ2FNMXlsRzRkeEVDYmdON095c3h0TS1aVk82TG9pWXUwc0dIUE4xUVZ5TFZsMlnSAeoBQVVfeXFMTTlpT21veWY3YmJ2Q1FRSnh5M08wRTZUVTRnazhhdGZIbjA2cVg0bUlzUVJGRG1YNmM5SlBJVGJ3ZHhXMk5Cc2QxdWp6SGdGbS01TXgwQ3NGaGtoOGRROHRoMkJDQ3BkOUY4WnZyQy1Mck5GNUN5THNVbEk1eTlwaV96YlJhd1Ywc2RUaDRZSGFpVmpqRDVoS1FuZ1hHMmNFWjRJY3JrTE56V1Vua3B0cDBBVk1pMmlaSEhqdHZXd2dyWVg4QkhxU2tiWUlxQlMyMXQyWkJtZjFhakdMOGdnRk9JMGd6VEpaMWxB?oc=5
+   - Link: https://news.google.com/rss/articles/CBMi2wFBVV95cUxPb0FUSl9SODZRWTBiMTdlNG9oeEdyZFRoczlBcEVqV01IOVlyM2ktQkxZWTg2eUlXd1pYem1aTDJYb2duMnB0cDd4aTBJMmtXeERPelhOanlXRkJFN2V6WXJnSDNFNGEyQjQzN0tZR1NaeTZWYUhwOFZWTktwLVM1VzV3SnRoVm9DSTQ2RUl2TERCLVp0bm1kREhuX1o3R2d4aGJweUlMQkRERXFkZHdDUEZOclhCVzFObmFpRjFQdXFtWFZUUTV5RjF4V1RHRzJNWlIwWmpqcFFQSmc?oc=5
 
 2. **Nova regra pode cortar auxílio-moradia de famílias de imigrantes nos EUA**
    - Fonte: AcheiUSA
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMiswFBVV95cUxPN3hienp6d1AzVDMxaHd2M20zbEY2LW1aa1FRd3FsZ2JsT05uejlpbVZFWHVhQmlZLXJRYmx0dXBSeUZOYmRURUsycS1mRXBQYUJwSWVyOXplSDh1anJHMGJ4SVVzd0s5d2syOFZjd0ZnYnpKckdMaDVnVnZpWTJ0SzUtVXpIV2FxSXpTdjhhN2NfWV9RUTktbnpTLWNrQVpLbUpaNHAtN09vb0JDWmhzWnN5OA?oc=5
 
-3. **Como leitores de placas ajudam ICE a prender imigrantes nos EUA**
-   - Fonte: UOL Notícias
+3. **Mexicanos são violentamente detidos por agentes de imigração em aeroporto nos EUA; vídeo**
+   - Fonte: O GLOBO
    - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMi1AFBVV95cUxPLV9IQjVDTURleEV3X2Q5VEFlODZINzBKVTlOTldSdnRTZVVVTXV5LTVZM0Z3a3AtQlNhblB1MEpoeGpfUnhzVjQxc1BXcHliZl9VQkFCQnlKTktuNnNsd3B0bDNGc0JJR0R1R18yWnVKdDlYSnVwOUNsMW1CUjJqaXYzUkZMWEpZTDZ3R1psdjFvYXNvbmdTeDF1aU1VLXhUVEJLNDlVR1RqQ0NHeVNwSzlpbV96ZmJlR1A2ZnhSWTkzNUlteXdadjV3VVQ2N1Jxb3U5dA?oc=5
+   - Link: https://news.google.com/rss/articles/CBMi2wFBVV95cUxPb2I1QkgxcDB3UU1uWlQ2aGJRV3M0S2tEZDlycU9CLUx1UDgwR1g3dVZrakFpbm5DQ29hUU5NVVktUklRc2JWNFZFUXVqc3ZudTZnTGFPdlY1V2ZmXy10SGhnWEt1UzVKM3VjNm1Yc0NkNmlKUWJlMEtRRWFUVlMxeGVKRWd1cnp1OHJfeG82dnd0MGRBUEdjSjdpbEpsSEIwNWEtaG5Pd2J0ZlFBQ2FNMXlsRzRkeEVDYmdON095c3h0TS1aVk82TG9pWXUwc0dIUE4xUVZ5TFZsMlnSAeoBQVVfeXFMTTlpT21veWY3YmJ2Q1FRSnh5M08wRTZUVTRnazhhdGZIbjA2cVg0bUlzUVJGRG1YNmM5SlBJVGJ3ZHhXMk5Cc2QxdWp6SGdGbS01TXgwQ3NGaGtoOGRROHRoMkJDQ3BkOUY4WnZyQy1Mck5GNUN5THNVbEk1eTlwaV96YlJhd1Ywc2RUaDRZSGFpVmpqRDVoS1FuZ1hHMmNFWjRJY3JrTE56V1Vua3B0cDBBVk1pMmlaSEhqdHZXd2dyWVg4QkhxU2tiWUlxQlMyMXQyWkJtZjFhakdMOGdnRk9JMGd6VEpaMWxB?oc=5
 
 4. **Pearl Jam denuncia crueldade contra imigrantes nos Estados Unidos: "de partir o coração"**
    - Fonte: Terra
@@ -48,9 +48,9 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### imigração EUA
 
-- **Mexicanos são violentamente detidos por agentes de imigração em aeroporto nos EUA; vídeo**
-  - Fonte: O GLOBO
-  - Link: https://news.google.com/rss/articles/CBMi2wFBVV95cUxPb2I1QkgxcDB3UU1uWlQ2aGJRV3M0S2tEZDlycU9CLUx1UDgwR1g3dVZrakFpbm5DQ29hUU5NVVktUklRc2JWNFZFUXVqc3ZudTZnTGFPdlY1V2ZmXy10SGhnWEt1UzVKM3VjNm1Yc0NkNmlKUWJlMEtRRWFUVlMxeGVKRWd1cnp1OHJfeG82dnd0MGRBUEdjSjdpbEpsSEIwNWEtaG5Pd2J0ZlFBQ2FNMXlsRzRkeEVDYmdON095c3h0TS1aVk82TG9pWXUwc0dIUE4xUVZ5TFZsMlnSAeoBQVVfeXFMTTlpT21veWY3YmJ2Q1FRSnh5M08wRTZUVTRnazhhdGZIbjA2cVg0bUlzUVJGRG1YNmM5SlBJVGJ3ZHhXMk5Cc2QxdWp6SGdGbS01TXgwQ3NGaGtoOGRROHRoMkJDQ3BkOUY4WnZyQy1Mck5GNUN5THNVbEk1eTlwaV96YlJhd1Ywc2RUaDRZSGFpVmpqRDVoS1FuZ1hHMmNFWjRJY3JrTE56V1Vua3B0cDBBVk1pMmlaSEhqdHZXd2dyWVg4QkhxU2tiWUlxQlMyMXQyWkJtZjFhakdMOGdnRk9JMGd6VEpaMWxB?oc=5
+- **Imigrante ganha US$ 1 milhão na loteria e é preso dias depois nos EUA**
+  - Fonte: UOL Notícias
+  - Link: https://news.google.com/rss/articles/CBMi2wFBVV95cUxPb0FUSl9SODZRWTBiMTdlNG9oeEdyZFRoczlBcEVqV01IOVlyM2ktQkxZWTg2eUlXd1pYem1aTDJYb2duMnB0cDd4aTBJMmtXeERPelhOanlXRkJFN2V6WXJnSDNFNGEyQjQzN0tZR1NaeTZWYUhwOFZWTktwLVM1VzV3SnRoVm9DSTQ2RUl2TERCLVp0bm1kREhuX1o3R2d4aGJweUlMQkRERXFkZHdDUEZOclhCVzFObmFpRjFQdXFtWFZUUTV5RjF4V1RHRzJNWlIwWmpqcFFQSmc?oc=5
 - **Nova regra pode cortar auxílio-moradia de famílias de imigrantes nos EUA**
   - Fonte: AcheiUSA
   - Link: https://news.google.com/rss/articles/CBMiswFBVV95cUxPN3hienp6d1AzVDMxaHd2M20zbEY2LW1aa1FRd3FsZ2JsT05uejlpbVZFWHVhQmlZLXJRYmx0dXBSeUZOYmRURUsycS1mRXBQYUJwSWVyOXplSDh1anJHMGJ4SVVzd0s5d2syOFZjd0ZnYnpKckdMaDVnVnZpWTJ0SzUtVXpIV2FxSXpTdjhhN2NfWV9RUTktbnpTLWNrQVpLbUpaNHAtN09vb0JDWmhzWnN5OA?oc=5
@@ -66,27 +66,27 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### green card
 
-- **Novas exigências de biometria e segurança ampliam espera por processos de imigração nos EUA**
-  - Fonte: Jornal Nossa Gente
-  - Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdVA3OXJ2Zk1LbGVCNkFPN0pDRmo5TnhncW9lME1senNraHJub2JfTzcyNmIyZ0tVZ0dWX3lCWHFCUmt4YjhFMm4wTnhpQWFPSzlJTWdZNlA5VHlEdEk2QWhpTHFwdEU5VnBxN1ZDRWs4c3ZQa011RlZUcUhYM1hOUDFQeW16TXhiS3ppQ0ltcGNPWDNiNm9DV3VxV1hpZFJMem1ncm9jMHVCNnMwS0F1VDVIQWRiT29seXVB?oc=5
-- **EUA propõem novas restrições para green cards de trabalhadores estrangeiros; entenda**
-  - Fonte: Panrotas
-  - Link: https://news.google.com/rss/articles/CBMi4gFBVV95cUxOcHpoN0FPeGVxMnIxN3g4eXZLdVZBaFppUGZFQl90VndiWXRxQVpYSFFBU0p5MXJya0FWNFV0M3NFUE5RbUhyazI4WExkQ0g2WG5mdk5ickNNVkFpZ0d2eU5TbEtBdnBXRmlPNmk0U2huNjBOSkUzNFVDY3VRZHFqTzNOUHNTQUJDbkEyOXhkV1d1Wkc4V1JDWHpwYkpUZG91Snp3TUJ4MTZBWEwwTnZ4Q29ZdXlEcnNRdlphQ3lYa292eHRoeWVBVFNGZ1RlV2hyamVFXzJ3bi1udkpxVW53Y3dB?oc=5
+- **Trump quer dificultar green card para trabalhadores brasileiros; entenda as mudanças**
+  - Fonte: InfoMoney
+  - Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbUpJQ0Z0Zk1pWXNaT2M5NUU4dEpKUlY5ODdvbUhwZm92OVlIbk45YkZ3MHRpcUpOZVlQbEpZQ2FYRjhfeXR5d0ZpemtRZEx3S1NHUVlfR2ZoRXRKYWtWbnFJbmlLc0xfbmlWbUJHd0w2ZlUtc1BDZXlKSHBsTklOS3N5Szh4ZnoxY0djZ3ZJQlh0M3pHbWE1TG4zc2RZWlNuY0FsQVRkdlVJSmdmLTJmMDkwZG1hMzAyVGpR0gHAAUFVX3lxTE94SzhSLUFoZUtzTk1IZk9YMzJfMklfRFRseUVPaExSTmdfWUxEaHFpcTZSdGM5aVJZRE9fMDZrZldVdWVZUlgxSV9WYm43eVZ0a0Q2OFEzUE9KOE5tbXJrejc0M3MyV2VESVRGRTNvR290ZUpVOWNESDBXcnFWLXQwWkNBNF9xN2RIS2w5Mkh1WVpuQkRiNmNESWlOb1huM1NQTWJGRWJlX2ZpMEdSTWI1WDh5Y1FNajVFM3d4cC1WWA?oc=5
+- **Justiça dos EUA obriga reabertura da loteria do green card DV-2027**
+  - Fonte: Migalhas
+  - Link: https://news.google.com/rss/articles/CBMirAFBVV95cUxNd3NPYlZlcHVFUVlURXd3UHEtZVl3OWZkNVpxWlVoS1J4TGo4N3RqTENNOEc0aHdmY3U1Rlp1RGNKSElkaVZPVWk4S0diNFJ3R2psd3R6c1B3YkNZYkg1bUtTX1R4MTVwYi05eHNqMXJicDZ2YWNxU2Q1ZmM0TXNFQllZRE5ZQndHQk9Dd0pJLTRiTzBCV000SVl6aFNnX1N1WGZoUmhpN3hUOWlN?oc=5
 
 ### visto americano
 
 - **Visto americano: espera por entrevista chega a cinco meses em São Paulo; veja prazos e como tentar antecipar**
   - Fonte: O GLOBO
   - Link: https://news.google.com/rss/articles/CBMi9gFBVV95cUxNbUcxTkVTeVQwcTJ3Yk1DUkg4alBybkE4NXg5VlNWNC1TOVlPRjRuSmh2YWJvLVZHc2RyWVdSRVVnbTlTX2tsRm96RzBCUmY3Z1QxcHIwc0E1Q0VDUHgzRm9EVmdDR1JobFFzZDlxeUduVnBiUnBMLXlFNk9YaVpUa0pUS2ZhZnRVc1I3ODc4dGpEemhjaUNFM2ZXcjdJWjAzemw4cGdYVmljUmdodC1HZ1E5WUtfb2hnNTZpU0tjUDUyMkpTSDBCQ0x6N0dlMHVqMEFpaGY3UUdiNlU1OEdjSE1LZW1QeVFkQzM2MkNaTmpxbHRhemfSAYQCQVVfeXFMT2NBbDZxWmNZZEpXOEVCV2ZJUlhOREoySW1oLWZob3lOZkE4OWd4TVlLcDNBaGh5TDF5RGZEekFTNnpvd3ZNVkY5QnRUdzE2dkFIeHg4VFh5RUJ1WVhwLVluOGw5N3VLYUh4LXZxSEFMX3VSOVNhTzR6bXVNMzd1RE14R0dqTjJ4QS1WQkFteFQ4UFBSUkRxTlYxaTVHZXVPMU4tUDJ0WUZMekRJZjZqYl9tQ0Y2eXVJUER4dEhiY2M5SHVUcDk4RTNITlRoaF9KdDZaU1RGRzNBbWZXVC0wT0ZMSzV3NkxiUW9yWnZfaUdOeFZwNW44bVV2a1ZxN2V3RTEyRkw?oc=5
-- **Como governos Lula e Trump pretendem acabar com a 'guerra fria dos vistos diplomáticos'**
-  - Fonte: BBC
-  - Link: https://news.google.com/rss/articles/CBMiY0FVX3lxTE1uaVNNdnEwa25QTjdrYnpyT3pYd1ZGSEZJdS03OHo3QlQxdjF1RFYxa0xWNnZtSi1nTlREZy1jbHM3TW02b0RfM3VIVTNmeWlDaXNzaVoyZHNqa3lIUzVaWXh2b9IBaEFVX3lxTE1pRWRuMEhpTUdHOFRXV2ZvRjZLOHlfbUlHRnFSX24td05KTi00RmdtQ0FkU3B5czR1aGF5VXdhcGk4MEZ2Z0VPbG5yV0JWUmJBU3VYMTJxcTUxaUZ5RXR0ZUFEdHRDbDVn?oc=5
+- **A revogação de um visto para os Estados Unidos, mesmo que nunca tenha sido utilizado, pode levantar dúvidas para quem pretende viajar ao Canadá. Mas será que isso significa uma proibição automática de entrada no país? No artigo desta semana da col**
+  - Fonte: Instagram
+  - Link: https://news.google.com/rss/articles/CBMiVkFVX3lxTE5IMFZxa2ZHYXNMem9kT24xd0V6cVVySEQ1aUVHTE8xWGdTc2hfbmcta3dleGpLSUVDVDA1N2E1SmE3eThhUzVlYTMzSnhzWmk4RmFlYWpn?oc=5
 
 ### brasileiros nos Estados Unidos
 
-- **EUA miram açúcar e aeronaves em novas sanções contra o Brasil**
+- **Amcham participará de consulta dos EUA sobre tarifas ao Brasil**
   - Fonte: Agência Brasil
-  - Link: https://news.google.com/rss/articles/CBMi3AFBVV95cUxPTGZ0WC1JRUt2U2sybmFUSVlqWWs4NFYtZ0U0V1ZzTkcxb19hLUVBY1hqZTBtc181bjZmZnc3LVE3aDdlZlJWeFk4MldJUTRaQ2pxZ296eGU1SjAtc2poNjdpTXd2UjJVb1ozUlZjTVhJYlV5UVVCN3ZtbmtoUVdVVGx1S3hTbGc5dENVeDY2cnlBd0tfeTRkWU5ScXJXSXhGS3BsZm1kXzNFLThEX1JFci1VTzR1XzZqNE9jVmpzaEQ5TDRHTjU0cERFUUUtRWw4ekR5OXFvaFBiWm1D?oc=5
+  - Link: https://news.google.com/rss/articles/CBMivAFBVV95cUxOYy1nUmZ5RTRVR1FzeW96NVBmRmM0VEFha09SQXU3MkI1TkNMS09hd2FHRTZNSDJRNWxOUk1LMlg4dTY2ZnJvUUFjM0VTczNFR19lLUNLa0JuZW9JUlBJamptQmNFcGhNbFRXVjJ5QV9INGgxVFdRMlRyV3gzcnhaTUd0Q0pTTUJ3RGhwM1IxVko1TEIwdm0xYm5CLXBQY1g2SDI2ZkNxNmszbHlob3ZST2FSNkprOEJWV05EVg?oc=5
 - **Os Estados Unidos criticaram o governo Lula e propuseram nesta quarta-feira (25) a aplicação de novas tarifas sobre produtos importados do Brasil, incluindo açúcar, e uma alíquota de 10% sobre aeronaves prontas. Segundo Washington, o governo brasilei**
   - Fonte: Instagram
   - Link: https://news.google.com/rss/articles/CBMiUkFVX3lxTFB1NlQ1S04xdDk3MXZmMEw4eUN6dW1iM1dicEpadEJuQmhTYko4eWNVRjk5cUNTTXBiRjlhdDBRNnBGUEJoZlZFdGdoSm1xRm9Eb3c?oc=5
@@ -105,9 +105,9 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 - **Governador denuncia prisões de passageiros pelo ICE em aeroporto dos EUA**
   - Fonte: CNN Brasil
   - Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxQRmJ5cmoxcEpaSnNLODhqZFBsbjJIWlY5eGVZU3QzSldtYjdQQmNjU1JqY3NpZEp2bTBFdk9lcTM5MkhUdjZ3M3Y0WGZwZUpvdDFHWkNiQUNrbzY2eGVkSXRyTFUxOUpmaGpTRmFCRG40ZjdybHVET2t3Mm5oUkNfRDRmZm9Qc0RhYW5tTlk3Nm44eVhhd0k4cFVxa09UbDBvQ2xFVFpFc1hDRkFlMUVGWkJGcjFmeUU?oc=5
-- **Incidente em voo nos EUA: Passageiros mexicanos são violentamente arrastados pelo ICE, gerando críticas e apelo pelo fim da agência**
-  - Fonte: Capital Política
-  - Link: https://news.google.com/rss/articles/CBMi8wFBVV95cUxOQXNseFNnRzk0clAxLXRZM0xHbmlLZXA3cXpvc0hvU0s2UURsZnlCMnBEZVlCaDFVT2dEV3k0a3IySHQtV2dTdW1zNHhQX21COF9GZ3ZMc1YtYTNFaWhXRjQ3NEdPS3FGamNJRnJIc1hhTERzVXlhcWswRDI1WUVzUC1kbHdBaGN3WUpEci1BWFVfXzg4d3FqMDBKRHRQXzlmMV9sTVR3RHN0emYySGdHdVBhaXpZZ0d3SVRkaWpXa240d3VwbjVxR1F3VHRYSlc1aFJ3djB5bGtUam9BcGdKYkNoeGI4SUwzem9PUVJ2cjBua3c?oc=5
+- **Como leitores de placas ajudam ICE a prender imigrantes nos EUA**
+  - Fonte: UOL Notícias
+  - Link: https://news.google.com/rss/articles/CBMi1AFBVV95cUxPLV9IQjVDTURleEV3X2Q5VEFlODZINzBKVTlOTldSdnRTZVVVTXV5LTVZM0Z3a3AtQlNhblB1MEpoeGpfUnhzVjQxc1BXcHliZl9VQkFCQnlKTktuNnNsd3B0bDNGc0JJR0R1R18yWnVKdDlYSnVwOUNsMW1CUjJqaXYzUkZMWEpZTDZ3R1psdjFvYXNvbmdTeDF1aU1VLXhUVEJLNDlVR1RqQ0NHeVNwSzlpbV96ZmJlR1A2ZnhSWTkzNUlteXdadjV3VVQ2N1Jxb3U5dA?oc=5
 
 
 ## Termos monitorados
