@@ -1,8 +1,8 @@
 # Relatório diário — Imigração e brasileiros nos EUA
 
-Gerado em: 2026-11-26 16:29 EST
+Gerado em: 2026-11-26 20:43 EST
 
-Arquivo original: `2026-11-26-16-29-tendencias-imigracao.md`
+Arquivo original: `2026-11-26-20-43-tendencias-imigracao.md`
 
 ## Objetivo
 
@@ -10,15 +10,15 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ## Principais assuntos do dia
 
-1. **Uma semana após ganhar US$ 1 milhão na loteria, imigrante é preso pelo ICE nos EUA**
-   - Fonte: G1
-   - Termo monitorado: imigração EUA
-   - Link: https://news.google.com/rss/articles/CBMizAFBVV95cUxOUFFHOXdJX29lVkxwMTE1MHRhelVBY0FqMzNyQzZ0cGJLaUstUGVwLWc3RU56Z0VXRTBuNkZpQjZRTUstSWI1eTFzd1VDTzIzWjRidVVHOUJvUjZmRThlSGllRE5KOUtMREJXR0VfSzAzQjRibExrZEpDcngtVlV1NzNjVGlVdFd3T2JzUGxQQnp1T0VSQTk0NDF4eng4U0RPdWRmZ2ZDTHlOQ3JfTjF4Y3Z6Snljc1RBX21CQl85TUdrdlNwQjJXbkNIN1HSAdsBQVVfeXFMTWRicGE3MERhZFJ2SjlQZHJ6YVZleVhVLWhDVm1rM0lfdWV5Smt2cVpOckxUMjFjNlRLUFdaQXRLWVZYRWpiQlpMR2laZUJMMXp5d3d0emhDV09GR2RLeUgwaDF6eE41dWZJeHd4R0pqM19jSkpPckthR0gtbXQ1Z084bTdGZGswZ0hCZUpOX2VrU0hrM2VGVnBqekUzRHhsaGpwTElBVU9JSzI1MEw1SkNvejVJV21CVi1BMF9IOUx6NTVKMUxOVDNSWS1tRFN1NkhSODJHbnFiWGkw?oc=5
-
-2. **“Políticas atuais anti-imigração nos EUA são fruto do racismo e da intolerância”, diz responsável pela acusação no caso George Floyd**
+1. **“Políticas atuais anti-imigração nos EUA são fruto do racismo e da intolerância”, diz responsável pela acusação no caso George Floyd**
    - Fonte: Jornal da Unesp
    - Termo monitorado: imigração EUA
    - Link: https://news.google.com/rss/articles/CBMi-AFBVV95cUxOMzAwdzh1Q2pRNFgtazlXUnlpZ1kxM2tDY1NEcFBSLUpkbW05eXE1emhQSXVNdUtwNDhXcC1xcWRwa0pjSnEyXzlmTjEweFFzSGpmZU9TUzZPeDJLMnlWOGJpSEpNSnU0YXRVcmI5VjIzVUlqbXNOWmR5V3NxSDZGU0l6QW9ERmZZdmk5RWhRUml0bmw4YmJjdkNESVktSmRtUUJkeG1NeWdFcmdxODh6NDZjWTQwRzhOWUkzY0lEMEtKdmIzdl9OeXBZUERxNUFXRmpMQmFMVXNubHY5UHM1Z1JFQjl3S0xOVF9Nbkx4Z016TDJPWWF2WQ?oc=5
+
+2. **Uma semana após ganhar US$ 1 milhão na loteria, imigrante é preso pelo ICE nos EUA**
+   - Fonte: G1
+   - Termo monitorado: imigração EUA
+   - Link: https://news.google.com/rss/articles/CBMizAFBVV95cUxOUFFHOXdJX29lVkxwMTE1MHRhelVBY0FqMzNyQzZ0cGJLaUstUGVwLWc3RU56Z0VXRTBuNkZpQjZRTUstSWI1eTFzd1VDTzIzWjRidVVHOUJvUjZmRThlSGllRE5KOUtMREJXR0VfSzAzQjRibExrZEpDcngtVlV1NzNjVGlVdFd3T2JzUGxQQnp1T0VSQTk0NDF4eng4U0RPdWRmZ2ZDTHlOQ3JfTjF4Y3Z6Snljc1RBX21CQl85TUdrdlNwQjJXbkNIN1HSAdsBQVVfeXFMTWRicGE3MERhZFJ2SjlQZHJ6YVZleVhVLWhDVm1rM0lfdWV5Smt2cVpOckxUMjFjNlRLUFdaQXRLWVZYRWpiQlpMR2laZUJMMXp5d3d0emhDV09GR2RLeUgwaDF6eE41dWZJeHd4R0pqM19jSkpPckthR0gtbXQ1Z084bTdGZGswZ0hCZUpOX2VrU0hrM2VGVnBqekUzRHhsaGpwTElBVU9JSzI1MEw1SkNvejVJV21CVi1BMF9IOUx6NTVKMUxOVDNSWS1tRFN1NkhSODJHbnFiWGkw?oc=5
 
 3. **Congresso muda de mãos, mas a imigração nos EUA segue com o Executivo**
    - Fonte: Migalhas
@@ -48,12 +48,12 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### imigração EUA
 
-- **Uma semana após ganhar US$ 1 milhão na loteria, imigrante é preso pelo ICE nos EUA**
-  - Fonte: G1
-  - Link: https://news.google.com/rss/articles/CBMizAFBVV95cUxOUFFHOXdJX29lVkxwMTE1MHRhelVBY0FqMzNyQzZ0cGJLaUstUGVwLWc3RU56Z0VXRTBuNkZpQjZRTUstSWI1eTFzd1VDTzIzWjRidVVHOUJvUjZmRThlSGllRE5KOUtMREJXR0VfSzAzQjRibExrZEpDcngtVlV1NzNjVGlVdFd3T2JzUGxQQnp1T0VSQTk0NDF4eng4U0RPdWRmZ2ZDTHlOQ3JfTjF4Y3Z6Snljc1RBX21CQl85TUdrdlNwQjJXbkNIN1HSAdsBQVVfeXFMTWRicGE3MERhZFJ2SjlQZHJ6YVZleVhVLWhDVm1rM0lfdWV5Smt2cVpOckxUMjFjNlRLUFdaQXRLWVZYRWpiQlpMR2laZUJMMXp5d3d0emhDV09GR2RLeUgwaDF6eE41dWZJeHd4R0pqM19jSkpPckthR0gtbXQ1Z084bTdGZGswZ0hCZUpOX2VrU0hrM2VGVnBqekUzRHhsaGpwTElBVU9JSzI1MEw1SkNvejVJV21CVi1BMF9IOUx6NTVKMUxOVDNSWS1tRFN1NkhSODJHbnFiWGkw?oc=5
 - **“Políticas atuais anti-imigração nos EUA são fruto do racismo e da intolerância”, diz responsável pela acusação no caso George Floyd**
   - Fonte: Jornal da Unesp
   - Link: https://news.google.com/rss/articles/CBMi-AFBVV95cUxOMzAwdzh1Q2pRNFgtazlXUnlpZ1kxM2tDY1NEcFBSLUpkbW05eXE1emhQSXVNdUtwNDhXcC1xcWRwa0pjSnEyXzlmTjEweFFzSGpmZU9TUzZPeDJLMnlWOGJpSEpNSnU0YXRVcmI5VjIzVUlqbXNOWmR5V3NxSDZGU0l6QW9ERmZZdmk5RWhRUml0bmw4YmJjdkNESVktSmRtUUJkeG1NeWdFcmdxODh6NDZjWTQwRzhOWUkzY0lEMEtKdmIzdl9OeXBZUERxNUFXRmpMQmFMVXNubHY5UHM1Z1JFQjl3S0xOVF9Nbkx4Z016TDJPWWF2WQ?oc=5
+- **Uma semana após ganhar US$ 1 milhão na loteria, imigrante é preso pelo ICE nos EUA**
+  - Fonte: G1
+  - Link: https://news.google.com/rss/articles/CBMizAFBVV95cUxOUFFHOXdJX29lVkxwMTE1MHRhelVBY0FqMzNyQzZ0cGJLaUstUGVwLWc3RU56Z0VXRTBuNkZpQjZRTUstSWI1eTFzd1VDTzIzWjRidVVHOUJvUjZmRThlSGllRE5KOUtMREJXR0VfSzAzQjRibExrZEpDcngtVlV1NzNjVGlVdFd3T2JzUGxQQnp1T0VSQTk0NDF4eng4U0RPdWRmZ2ZDTHlOQ3JfTjF4Y3Z6Snljc1RBX21CQl85TUdrdlNwQjJXbkNIN1HSAdsBQVVfeXFMTWRicGE3MERhZFJ2SjlQZHJ6YVZleVhVLWhDVm1rM0lfdWV5Smt2cVpOckxUMjFjNlRLUFdaQXRLWVZYRWpiQlpMR2laZUJMMXp5d3d0emhDV09GR2RLeUgwaDF6eE41dWZJeHd4R0pqM19jSkpPckthR0gtbXQ1Z084bTdGZGswZ0hCZUpOX2VrU0hrM2VGVnBqekUzRHhsaGpwTElBVU9JSzI1MEw1SkNvejVJV21CVi1BMF9IOUx6NTVKMUxOVDNSWS1tRFN1NkhSODJHbnFiWGkw?oc=5
 
 ### USCIS
 
@@ -69,9 +69,9 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 - **Trump quer dificultar green card para trabalhadores brasileiros; entenda as mudanças**
   - Fonte: InfoMoney
   - Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbUpJQ0Z0Zk1pWXNaT2M5NUU4dEpKUlY5ODdvbUhwZm92OVlIbk45YkZ3MHRpcUpOZVlQbEpZQ2FYRjhfeXR5d0ZpemtRZEx3S1NHUVlfR2ZoRXRKYWtWbnFJbmlLc0xfbmlWbUJHd0w2ZlUtc1BDZXlKSHBsTklOS3N5Szh4ZnoxY0djZ3ZJQlh0M3pHbWE1TG4zc2RZWlNuY0FsQVRkdlVJSmdmLTJmMDkwZG1hMzAyVGpR0gHAAUFVX3lxTE94SzhSLUFoZUtzTk1IZk9YMzJfMklfRFRseUVPaExSTmdfWUxEaHFpcTZSdGM5aVJZRE9fMDZrZldVdWVZUlgxSV9WYm43eVZ0a0Q2OFEzUE9KOE5tbXJrejc0M3MyV2VESVRGRTNvR290ZUpVOWNESDBXcnFWLXQwWkNBNF9xN2RIS2w5Mkh1WVpuQkRiNmNESWlOb1huM1NQTWJGRWJlX2ZpMEdSTWI1WDh5Y1FNajVFM3d4cC1WWA?oc=5
-- **Governo Trump propõe dificultar contratação de trabalhadores estrangeiros**
-  - Fonte: Metrópoles
-  - Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYkpHSnNtcDdhWDV1NmtoQWxHS09fa0swaUEtdUFnNFZwU0lMQkt5dUMzT01EaGFZVlNaOTRmSW40cUI1bDc1bTROTDhBSEdvUl9iZ1BNaFhmSjdRME5lVUtZd2FFMUdkZW44MDRtMHJPT00xQUVZTDZDQ3JyU1hzLV9vLUJsUTk2VTZnSDI4a2JETmVIODZqVEQtNVBjSGpHbEJBRndCOGFidw?oc=5
+- **Justiça dos EUA obriga reabertura da loteria do green card DV-2027**
+  - Fonte: Migalhas
+  - Link: https://news.google.com/rss/articles/CBMirAFBVV95cUxNd3NPYlZlcHVFUVlURXd3UHEtZVl3OWZkNVpxWlVoS1J4TGo4N3RqTENNOEc0aHdmY3U1Rlp1RGNKSElkaVZPVWk4S0diNFJ3R2psd3R6c1B3YkNZYkg1bUtTX1R4MTVwYi05eHNqMXJicDZ2YWNxU2Q1ZmM0TXNFQllZRE5ZQndHQk9Dd0pJLTRiTzBCV000SVl6aFNnX1N1WGZoUmhpN3hUOWlN?oc=5
 
 ### visto americano
 
@@ -87,15 +87,15 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 - **Brasil critica possível novo tarifaço dos EUA e diz que não cederá**
   - Fonte: Agência Brasil
   - Link: https://news.google.com/rss/articles/CBMiwgFBVV95cUxNV1NkSTNWVDVFY0s2Z1RDRnhrZUVmdzlOMjhkVXdNWWtCRXU0MWZuM3BSRmRDTjFldWk3Q2QwcnpoQ1BOOExJYTZQbWp5S0t4UXVud01ha0NZSHRBbzVjTUZPbW5BR25NZXpONl9TdmF5bHpxakxBS3BBcTVZN2twMDExb1MzdXZXNl85eTBxREVyMEo4eTRDXzdWUWhsSDVldmdBbFNPRHlwLXZUekFxOEpuN3BxSXZ5dkZoQ1VIS1R2dw?oc=5
-- **Alckmin critica tarifa de 10% dos EUA sobre aviões e chama medida de 'completamente descabida'**
-  - Fonte: G1
-  - Link: https://news.google.com/rss/articles/CBMif0FVX3lxTE1sWGdXQmhlUUtzQl81X2p2Z0YzSWZSNlI4UUxJWWdKdEZPb0dNUklLUFcwZThaNlVXU2hkcEM3MFV3Y19hcVpZaDVhUUdaVXJER3FWLTNHUUVjX0I1VEV3TVVwM3JXMUdWaG12Z1JwdEctcWNkcTBaM3NDTGV2YkHSAY4BQVVfeXFMTnhyeUhCendyOU5IcFVSR2FrZnpXeXppR05aTFhnaGZjMURuTE4zc3FlUW93UWQ1QU15ZlZNYjZEM2x0T0tMcFYxQmxGY25KeXF0LUtYdVVCeEU4U2tkUnRIVHBlWVFxVlV3MTVVcndydnBhc3RuZk1ad1JGd1kzdUpjQ05DeDktVjliNFRndw?oc=5
+- **Sindicato dos Metalúrgicos repudia tarifaço de Trump sobre aeronaves**
+  - Fonte: Sindicato dos Metalúrgicos de São José dos Campos
+  - Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxNLWluRHFnTlhUVmhYREN0V2ZVcGRtQzI2T2I4UDdneWtITC1XSGNHb2tMeXByUnRWSVloVjVYbk9Dd0hyOF93WEpsN0hPSkZFNVhLdmprdG9ObUNxQldXZXFVZGVFX1FxdURJT29WV0FwSnFKRWpWVTQ2S0pkd3pPTWJVTTE0a0xXdkV2OUMxeUpNUkR6eU02MjVNUEs1SGYwbFVtZTdhMkNGSy1VY1Y5SndIbmY0TkU?oc=5
 
 ### asilo nos EUA
 
 - **Das mãos do ICE para Irã e Talibã**
   - Fonte: O GLOBO
-  - Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeHZvdHJySkxXUDZsaFZYZEI2SWxyNXRBQjNacm00YlZqaTJjU0F2LVVSR3dMaDNMcnZLb1BYMUR2cVdOd0NpMlc3TVRiRWYwZ3FSSF9XVDBPSDdDclJITWJ5ekZ1MUdZVGdLLXFyU3lUclpfOHdaTTVBOFdWczVSZzlRVGFNeG05eFA0cUxFQWxJbHZLSGhhcWNqWDE2LWs4N3FsTDVzRzdSd9IBqgFBVV95cUxOeHZvdHJySkxXUDZsaFZYZEI2SWxyNXRBQjNacm00YlZqaTJjU0F2LVVSR3dMaDNMcnZLb1BYMUR2cVdOd0NpMlc3TVRiRWYwZ3FSSF9XVDBPSDdDclJITWJ5ekZ1MUdZVGdLLXFyU3lUclpfOHdaTTVBOFdWczVSZzlRVGFNeG05eFA0cUxFQWxJbHZLSGhhcWNqWDE2LWs4N3FsTDVzRzdSdw?oc=5
+  - Link: https://news.google.com/rss/articles/CBMimwFBVV95cUxOT2o0UjJEVkNQdkNOSF9aRG1rcWdsV0NIZEZlRVB4TDJHd25sbGpxbllqRUlnQVZHNDVLenlfSndfLUp2eGFPWXU4dWRiUlVhWXdVOGRFWDVzU2huMl9LYUU3cS1iRVB2bE9PNjZnX2IxTzVoNzFPelVkSFZFZGdpVXpTdWZuQjhNdkNfbXh3dFFKSGFVSGRHT19iTdIBqgFBVV95cUxOeHZvdHJySkxXUDZsaFZYZEI2SWxyNXRBQjNacm00YlZqaTJjU0F2LVVSR3dMaDNMcnZLb1BYMUR2cVdOd0NpMlc3TVRiRWYwZ3FSSF9XVDBPSDdDclJITWJ5ekZ1MUdZVGdLLXFyU3lUclpfOHdaTTVBOFdWczVSZzlRVGFNeG05eFA0cUxFQWxJbHZLSGhhcWNqWDE2LWs4N3FsTDVzRzdSdw?oc=5
 - **EUA alertam turistas sobre violência, mas minimizam risco para asilo**
   - Fonte: UOL Notícias
   - Link: https://news.google.com/rss/articles/CBMi2gFBVV95cUxQd24xMm1venFodmpaZzBRdW9BZHREUnNjbmFfNlNIaFVQSEVZVnA0MlF5UFVfN1h2a3BTVS1ieHpFMEZWR3lWcEotcDFuQ25seVFKSk5mNnNOVjhMTUxmbVREZHFyVjRfQnctUUhlM1ZQS25DYTY1NWdLYXdpMHdfNEV2NVI4QW9MV1RVZUx3alFONVhsZjlvMl94Y2tQdHJVR1p3Vm8yQkdCQkVVLTRoTlJCdXBEQ1MtSGY0XzJ0TDgyM2Fvd2U3Z0lDQi05Nlh4X285Z25rSExZZw?oc=5
