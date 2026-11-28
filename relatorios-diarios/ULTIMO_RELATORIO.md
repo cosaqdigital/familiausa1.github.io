@@ -1,8 +1,8 @@
 # Relatório diário — Imigração e brasileiros nos EUA
 
-Gerado em: 2026-11-27 20:26 EST
+Gerado em: 2026-11-28 02:43 EST
 
-Arquivo original: `2026-11-27-20-26-tendencias-imigracao.md`
+Arquivo original: `2026-11-28-02-43-tendencias-imigracao.md`
 
 ## Objetivo
 
@@ -84,12 +84,12 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 
 ### brasileiros nos Estados Unidos
 
+- **Brasil x Estados Unidos no basquete masculino: confira retrospecto no século 21**
+  - Fonte: Olympics
+  - Link: https://news.google.com/rss/articles/CBMioAFBVV95cUxNWXAxOGdkeWhaOFlLOFRSOFplS3ROUUR4cVU1UnJRX0taN3pWbzdtUHA1MVFtYXpFY29yUzNWakRUdW1DX05EMEp5OS1kYy1zdko1ZGJ3TWZQYzg1eGpLYmxOMXI1WEtxNHlBUy1aUlhjSVdDVnVSWEJwQnhCeXpqbEJyRFJNWVhESEhKNEJ0ZUhfMHVFYlZrc29CVkJVME5x?oc=5
 - **Governo avalia que novo tarifaço dos EUA busca proteger big techs**
   - Fonte: Agência Brasil
   - Link: https://news.google.com/rss/articles/CBMixwFBVV95cUxNclIwQy1wT0NubXpzZmo2TlVmcjdMRURWUjQ1RVAxcTRidHR3RTF0OEtsLTEyaUE0Nk1RNzdhdkd1RXVTRUVEWkpnLW5YZUtsYkh4aGduMU5UME0weTg4ei1YQnRQWEl4Ty1yOTVCb0FUWXhBbXVzcUFGbUlKaXZPaHBJZTJCbzlxdVJqeUhKOGZtVS04UHlNZEdpeUFMdFhQRTlNYW5EUkRtLVViQVJBUjdFbjZfd0JQQ2lHVE5XakVzWHdpSk1r?oc=5
-- **Tarifaço de Trump: EUA propõem taxa de 10% sobre aviões brasileiros e aumento de imposto sobre açúcar**
-  - Fonte: G1
-  - Link: https://news.google.com/rss/articles/CBMiswFBVV95cUxNekRyY283NURvT09uU0F6MjVUa0tIMHdpVXBvcEhCc1FFaTZkODZnMl81Z1lCV3l5djRxZHhDVHJMV1Q0NUFaSU1WVFN4eHhLZWlGQkFwQXpQV29kMk0tejV5WFRxaDZUa0tjdnV4TTBMXy1wY05NSFZNU1Y1eFlRcGN1NkhPMW9YNDZ5RmRBSlhzWlVZVFhITnlVVnB2RWtib1JsZ3NxOXdjblBvSnpyNWN4c9IBwgFBVV95cUxNcElmc3U4Nm9wZ0ZYbTBYT1FVVnRRdzFfSVBzSXA2YjRQUGRDUGRhVU5Vd2N4OWNMQ21PRkliRUNLNkdpMzRBY3dmQzFYM2Q3YW16Z2FhN0pnMWdkSmJKbmtzVnZjRnpBMzZTeDRtZlZhX0tMMGJEOEQycElaaU9KejRqbmpKQlZmaERiQVdFY1BBc0pEODlWX3huTlpEX2lZYWpmUjRJTy1jcThIQUhxRDZsY0xLcDQ1QWVmTDM4a2FWQQ?oc=5
 
 ### asilo nos EUA
 
@@ -98,7 +98,7 @@ Este relatório serve como base para criação de artigos atualizados para o blo
   - Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxPM29iRFJyNnRSTlhQTEVmWF9KVVBkenJ1VHBEeEtzWlhDLXpWQlBwU05DeVEybV8xV3NEMDJMS0VwTEk3RDZhYXVldGhDZ0FETDZEcFdSdmFIS2I2Q3U5bjJOTWFlYXZjRTNIX255cWduWV9DdVRBQnlJdFVkS0RGRVV6Um95dXBuX21UOTNTcWc4Yl9sRXBCZ1JCNlRfRWVPMnRCdHZYUEJkalh3eWJsNVlB?oc=5
 - **Das mãos do ICE para Irã e Talibã**
   - Fonte: O GLOBO
-  - Link: https://news.google.com/rss/articles/CBMimwFBVV95cUxOT2o0UjJEVkNQdkNOSF9aRG1rcWdsV0NIZEZlRVB4TDJHd25sbGpxbllqRUlnQVZHNDVLenlfSndfLUp2eGFPWXU4dWRiUlVhWXdVOGRFWDVzU2huMl9LYUU3cS1iRVB2bE9PNjZnX2IxTzVoNzFPelVkSFZFZGdpVXpTdWZuQjhNdkNfbXh3dFFKSGFVSGRHT19iTdIBqgFBVV95cUxOeHZvdHJySkxXUDZsaFZYZEI2SWxyNXRBQjNacm00YlZqaTJjU0F2LVVSR3dMaDNMcnZLb1BYMUR2cVdOd0NpMlc3TVRiRWYwZ3FSSF9XVDBPSDdDclJITWJ5ekZ1MUdZVGdLLXFyU3lUclpfOHdaTTVBOFdWczVSZzlRVGFNeG05eFA0cUxFQWxJbHZLSGhhcWNqWDE2LWs4N3FsTDVzRzdSdw?oc=5
+  - Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeHZvdHJySkxXUDZsaFZYZEI2SWxyNXRBQjNacm00YlZqaTJjU0F2LVVSR3dMaDNMcnZLb1BYMUR2cVdOd0NpMlc3TVRiRWYwZ3FSSF9XVDBPSDdDclJITWJ5ekZ1MUdZVGdLLXFyU3lUclpfOHdaTTVBOFdWczVSZzlRVGFNeG05eFA0cUxFQWxJbHZLSGhhcWNqWDE2LWs4N3FsTDVzRzdSd9IBqgFBVV95cUxOeHZvdHJySkxXUDZsaFZYZEI2SWxyNXRBQjNacm00YlZqaTJjU0F2LVVSR3dMaDNMcnZLb1BYMUR2cVdOd0NpMlc3TVRiRWYwZ3FSSF9XVDBPSDdDclJITWJ5ekZ1MUdZVGdLLXFyU3lUclpfOHdaTTVBOFdWczVSZzlRVGFNeG05eFA0cUxFQWxJbHZLSGhhcWNqWDE2LWs4N3FsTDVzRzdSdw?oc=5
 
 ### ICE immigration
 
