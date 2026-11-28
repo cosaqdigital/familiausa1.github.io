@@ -1,8 +1,8 @@
 # Relatório diário — Imigração e brasileiros nos EUA
 
-Gerado em: 2026-11-27 16:15 EST
+Gerado em: 2026-11-27 20:26 EST
 
-Arquivo original: `2026-11-27-16-15-tendencias-imigracao.md`
+Arquivo original: `2026-11-27-20-26-tendencias-imigracao.md`
 
 ## Objetivo
 
@@ -69,27 +69,27 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 - **Trump quer dificultar green card para trabalhadores brasileiros; entenda as mudanças**
   - Fonte: InfoMoney
   - Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbUpJQ0Z0Zk1pWXNaT2M5NUU4dEpKUlY5ODdvbUhwZm92OVlIbk45YkZ3MHRpcUpOZVlQbEpZQ2FYRjhfeXR5d0ZpemtRZEx3S1NHUVlfR2ZoRXRKYWtWbnFJbmlLc0xfbmlWbUJHd0w2ZlUtc1BDZXlKSHBsTklOS3N5Szh4ZnoxY0djZ3ZJQlh0M3pHbWE1TG4zc2RZWlNuY0FsQVRkdlVJSmdmLTJmMDkwZG1hMzAyVGpR0gHAAUFVX3lxTE94SzhSLUFoZUtzTk1IZk9YMzJfMklfRFRseUVPaExSTmdfWUxEaHFpcTZSdGM5aVJZRE9fMDZrZldVdWVZUlgxSV9WYm43eVZ0a0Q2OFEzUE9KOE5tbXJrejc0M3MyV2VESVRGRTNvR290ZUpVOWNESDBXcnFWLXQwWkNBNF9xN2RIS2w5Mkh1WVpuQkRiNmNESWlOb1huM1NQTWJGRWJlX2ZpMEdSTWI1WDh5Y1FNajVFM3d4cC1WWA?oc=5
-- **Advogados podem ganhar em dólar sem sair do Brasil: formação em imigração abre novas possibilidades de atuação; saiba mais**
-  - Fonte: Direito News
-  - Link: https://news.google.com/rss/articles/CBMiowFBVV95cUxNSllEaUZDYmU3TzUxQmFMZ1k0RWFmcG5KckZ3QUZzZU9YcmNocF84c21temM2YXAwbmE4MXpqcVEtNG5GdUVwdWxTXzBvSkJOb3NNMGl6Q0haNktTbXlFNUpOSGloSUZKbnRrY2c0MGcwNnZPWlJxVjIxUHlRN1BGQXpadUFFeVA0NUFybWtyYlpEc1FITUxXNElDQVRGaTFGRzhj?oc=5
+- **Justiça dos EUA obriga reabertura da loteria do green card DV-2027**
+  - Fonte: Migalhas
+  - Link: https://news.google.com/rss/articles/CBMirAFBVV95cUxNd3NPYlZlcHVFUVlURXd3UHEtZVl3OWZkNVpxWlVoS1J4TGo4N3RqTENNOEc0aHdmY3U1Rlp1RGNKSElkaVZPVWk4S0diNFJ3R2psd3R6c1B3YkNZYkg1bUtTX1R4MTVwYi05eHNqMXJicDZ2YWNxU2Q1ZmM0TXNFQllZRE5ZQndHQk9Dd0pJLTRiTzBCV000SVl6aFNnX1N1WGZoUmhpN3hUOWlN?oc=5
 
 ### visto americano
 
-- **Fila do visto americano chega a dois meses de espera; veja por cidade**
-  - Fonte: Panrotas
-  - Link: https://news.google.com/rss/articles/CBMizgFBVV95cUxQcktUWXRJVWl3d2Z3NzROOHNqaTFVOTlVYS1vWHFTVTFSOHN1dzFsdjRaY1hnRmdzRTAxYVRBdE1VbUZ1MzVKZDBaRVVweHlZZUdoTVIyN2lzaWJURkFMQUdmZ2tnTzgwSEJsaHdOOGJTRFRRTjlDdnVHYzhlWWJ0RmlFYWlsT0xQTWZ2ZDdqbXZERnRndDQzSExHb2NIVUN3WFJMQVB2dlFLWGV5dDN3bFczNmhPR1QzZ0RsalRuTWliVUV3eEFLNUtMdHNKZw?oc=5
 - **Visto americano: espera por entrevista chega a cinco meses em São Paulo; veja prazos e como tentar antecipar**
   - Fonte: O GLOBO
   - Link: https://news.google.com/rss/articles/CBMi9gFBVV95cUxNbUcxTkVTeVQwcTJ3Yk1DUkg4alBybkE4NXg5VlNWNC1TOVlPRjRuSmh2YWJvLVZHc2RyWVdSRVVnbTlTX2tsRm96RzBCUmY3Z1QxcHIwc0E1Q0VDUHgzRm9EVmdDR1JobFFzZDlxeUduVnBiUnBMLXlFNk9YaVpUa0pUS2ZhZnRVc1I3ODc4dGpEemhjaUNFM2ZXcjdJWjAzemw4cGdYVmljUmdodC1HZ1E5WUtfb2hnNTZpU0tjUDUyMkpTSDBCQ0x6N0dlMHVqMEFpaGY3UUdiNlU1OEdjSE1LZW1QeVFkQzM2MkNaTmpxbHRhemfSAYQCQVVfeXFMT2NBbDZxWmNZZEpXOEVCV2ZJUlhOREoySW1oLWZob3lOZkE4OWd4TVlLcDNBaGh5TDF5RGZEekFTNnpvd3ZNVkY5QnRUdzE2dkFIeHg4VFh5RUJ1WVhwLVluOGw5N3VLYUh4LXZxSEFMX3VSOVNhTzR6bXVNMzd1RE14R0dqTjJ4QS1WQkFteFQ4UFBSUkRxTlYxaTVHZXVPMU4tUDJ0WUZMekRJZjZqYl9tQ0Y2eXVJUER4dEhiY2M5SHVUcDk4RTNITlRoaF9KdDZaU1RGRzNBbWZXVC0wT0ZMSzV3NkxiUW9yWnZfaUdOeFZwNW44bVV2a1ZxN2V3RTEyRkw?oc=5
+- **Fila do visto americano chega a dois meses de espera; veja por cidade**
+  - Fonte: Panrotas
+  - Link: https://news.google.com/rss/articles/CBMizgFBVV95cUxQcktUWXRJVWl3d2Z3NzROOHNqaTFVOTlVYS1vWHFTVTFSOHN1dzFsdjRaY1hnRmdzRTAxYVRBdE1VbUZ1MzVKZDBaRVVweHlZZUdoTVIyN2lzaWJURkFMQUdmZ2tnTzgwSEJsaHdOOGJTRFRRTjlDdnVHYzhlWWJ0RmlFYWlsT0xQTWZ2ZDdqbXZERnRndDQzSExHb2NIVUN3WFJMQVB2dlFLWGV5dDN3bFczNmhPR1QzZ0RsalRuTWliVUV3eEFLNUtMdHNKZw?oc=5
 
 ### brasileiros nos Estados Unidos
 
 - **Governo avalia que novo tarifaço dos EUA busca proteger big techs**
   - Fonte: Agência Brasil
   - Link: https://news.google.com/rss/articles/CBMixwFBVV95cUxNclIwQy1wT0NubXpzZmo2TlVmcjdMRURWUjQ1RVAxcTRidHR3RTF0OEtsLTEyaUE0Nk1RNzdhdkd1RXVTRUVEWkpnLW5YZUtsYkh4aGduMU5UME0weTg4ei1YQnRQWEl4Ty1yOTVCb0FUWXhBbXVzcUFGbUlKaXZPaHBJZTJCbzlxdVJqeUhKOGZtVS04UHlNZEdpeUFMdFhQRTlNYW5EUkRtLVViQVJBUjdFbjZfd0JQQ2lHVE5XakVzWHdpSk1r?oc=5
-- **Brasil x Estados Unidos no basquete masculino: confira retrospecto no século 21**
-  - Fonte: Olympics
-  - Link: https://news.google.com/rss/articles/CBMioAFBVV95cUxNWXAxOGdkeWhaOFlLOFRSOFplS3ROUUR4cVU1UnJRX0taN3pWbzdtUHA1MVFtYXpFY29yUzNWakRUdW1DX05EMEp5OS1kYy1zdko1ZGJ3TWZQYzg1eGpLYmxOMXI1WEtxNHlBUy1aUlhjSVdDVnVSWEJwQnhCeXpqbEJyRFJNWVhESEhKNEJ0ZUhfMHVFYlZrc29CVkJVME5x?oc=5
+- **Tarifaço de Trump: EUA propõem taxa de 10% sobre aviões brasileiros e aumento de imposto sobre açúcar**
+  - Fonte: G1
+  - Link: https://news.google.com/rss/articles/CBMiswFBVV95cUxNekRyY283NURvT09uU0F6MjVUa0tIMHdpVXBvcEhCc1FFaTZkODZnMl81Z1lCV3l5djRxZHhDVHJMV1Q0NUFaSU1WVFN4eHhLZWlGQkFwQXpQV29kMk0tejV5WFRxaDZUa0tjdnV4TTBMXy1wY05NSFZNU1Y1eFlRcGN1NkhPMW9YNDZ5RmRBSlhzWlVZVFhITnlVVnB2RWtib1JsZ3NxOXdjblBvSnpyNWN4c9IBwgFBVV95cUxNcElmc3U4Nm9wZ0ZYbTBYT1FVVnRRdzFfSVBzSXA2YjRQUGRDUGRhVU5Vd2N4OWNMQ21PRkliRUNLNkdpMzRBY3dmQzFYM2Q3YW16Z2FhN0pnMWdkSmJKbmtzVnZjRnpBMzZTeDRtZlZhX0tMMGJEOEQycElaaU9KejRqbmpKQlZmaERiQVdFY1BBc0pEODlWX3huTlpEX2lZYWpmUjRJTy1jcThIQUhxRDZsY0xLcDQ1QWVmTDM4a2FWQQ?oc=5
 
 ### asilo nos EUA
 
@@ -105,9 +105,9 @@ Este relatório serve como base para criação de artigos atualizados para o blo
 - **EUA: imigrante é preso pelo ICE uma semana após ganhar US$ 1 milhão na loteria**
   - Fonte: VEJA
   - Link: https://news.google.com/rss/articles/CBMirgFBVV95cUxNS3loZnppVHlLd0stZEprTVNsVUxpaGhWSHJRbTBPbmRJU1V0cEdETDF0OTB3MFBTbUJNY1AwRHFUQUpuTTZXeVhLWXZ6aTdZcGxydWZWbkZleDBPRnNuV05YS3N2Ulp6ZlhrX3RuR1VfVFJxTU5pUWlaeUthWmctZ24taFZhX015VWxuYVAzdWVlZU8yaHJXUmNjUkd2M1FNTGZPZ1k5WTdqamg3QlE?oc=5
-- **Governador denuncia prisões de passageiros pelo ICE em aeroporto dos EUA**
-  - Fonte: CNN Brasil
-  - Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxQRmJ5cmoxcEpaSnNLODhqZFBsbjJIWlY5eGVZU3QzSldtYjdQQmNjU1JqY3NpZEp2bTBFdk9lcTM5MkhUdjZ3M3Y0WGZwZUpvdDFHWkNiQUNrbzY2eGVkSXRyTFUxOUpmaGpTRmFCRG40ZjdybHVET2t3Mm5oUkNfRDRmZm9Qc0RhYW5tTlk3Nm44eVhhd0k4cFVxa09UbDBvQ2xFVFpFc1hDRkFlMUVGWkJGcjFmeUU?oc=5
+- **Imigrante ganha na loteria e é preso pelo ICE nos EUA**
+  - Fonte: Poder360
+  - Link: https://news.google.com/rss/articles/CBMipAFBVV95cUxQT0YyckhHZHNudVRnRGQzTW1zZnB5bERicWZtUGhKOVNxUXBVdzM3a04ydDk3NHVlUlBiTzhCalhvdDBTYWdoY3NQeWlkZFRXTGx4S3FYQnlTNU9lVzIyR3R5U181OHBTN0o5M0laY2s5bnFjd0pVcFQ0RkpnZ1djbnluby1iNUZ6RF9CblV2OV9USERPcktEYU1rMlNTMnFOT2M5Vg?oc=5
 
 
 ## Termos monitorados
